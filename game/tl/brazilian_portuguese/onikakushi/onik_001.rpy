@@ -3437,7 +3437,7 @@ translate brazilian_portuguese onik_001_e496b864:
     # a_satoko "\"My, my. Isn't Sir Keiichi's lunch extravagant today?\""
     nvl clear
     voice "voice/ps3/s19/04/990400018.ogg"
-    a_satoko "\"Vejam só. O obentou do Senhor Keiichi não está extravagante hojeVejam só. O obentou do Senhor Keiichi não está extravagante hoje?\""
+    a_satoko "\"Vejam só. O obentou do Senhor Keiichi não está extravagante hoje?\""
 
 # game/onikakushi/onik_001.rpy:1017
 translate brazilian_portuguese onik_001_343dceae:
@@ -4407,7 +4407,7 @@ translate brazilian_portuguese onik_001_88b0ef43:
     # voice "voice/ps3/s19/01/hr_kei00940.ogg"
     # a_keiichi "\"Kidding. Sorry, it was a joke... That was my fault.\""
     voice "voice/ps3/s19/01/hr_kei00940.ogg"
-    a_keiichi "\"Kidding. Sorry, it was a joke... That was my fault.\""
+    a_keiichi "\"Isso foi só uma piada. Me desculpe... Foi maldade minha.\""
 
 # game/onikakushi/onik_001.rpy:1310
 translate brazilian_portuguese onik_001_a47279ea:
