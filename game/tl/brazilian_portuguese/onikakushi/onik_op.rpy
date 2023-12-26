@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_op.rpy:107
+﻿# game/onikakushi/onik_op.rpy:107
 translate brazilian_portuguese onik_op_cd0bee06:
 
     # n2 "\n\n\n\nIf I was going to be ripped apart anyways...{w=2.0}{nw}"

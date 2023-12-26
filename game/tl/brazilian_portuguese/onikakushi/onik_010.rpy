@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_010.rpy:18
+﻿# game/onikakushi/onik_010.rpy:18
 translate brazilian_portuguese onik_010_b25c0653:
 
     # voice "voice/ps3/s01/03/120300013.ogg"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_014_02.rpy:11
+﻿# game/onikakushi/onik_014_02.rpy:11
 translate brazilian_portuguese onik_014_02_a88f31c2:
 
     # n "Satoshi and I... had what?"

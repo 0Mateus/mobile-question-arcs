@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_015.rpy:18
+﻿# game/onikakushi/onik_015.rpy:18
 translate brazilian_portuguese onik_015_ea058f77:
 
     # n "I guess I'd be lying if I said I didn't get any sleep."

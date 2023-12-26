@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_001.rpy:12
+﻿# game/onikakushi/onik_001.rpy:12
 translate brazilian_portuguese onik_001_ed5b56ec:
 
     # n "Even though we were approaching summer, the morning air still had a frigid bite."

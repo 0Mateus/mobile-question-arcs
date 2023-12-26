@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_013.rpy:27
+﻿# game/onikakushi/onik_013.rpy:27
 translate brazilian_portuguese onik_013_00c26499:
 
     # n "...*Tap*{w=0.5}{nw}"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_015_03.rpy:18
+﻿# game/onikakushi/onik_015_03.rpy:18
 translate brazilian_portuguese onik_015_03_0b00b8d6:
 
     # n "The smoking room was filled with a cloud of cigarette smoke."

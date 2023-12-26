@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-translate brazilian_portuguese strings:
+﻿translate brazilian_portuguese strings:
 
     # game/music_list.rpy:176
     old "Original"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_011.rpy:14
+﻿# game/onikakushi/onik_011.rpy:14
 translate brazilian_portuguese onik_011_1e000c05:
 
     # n "Sleepy."

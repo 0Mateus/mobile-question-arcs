@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_012.rpy:13
+﻿# game/onikakushi/onik_012.rpy:13
 translate brazilian_portuguese onik_012_ed56d1c8:
 
     # n "Weariness and a headache."

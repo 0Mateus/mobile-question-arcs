@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_009.rpy:18
+﻿# game/onikakushi/onik_009.rpy:18
 translate brazilian_portuguese onik_009_494ff0c6:
 
     # n "A few days had passed since the incident."

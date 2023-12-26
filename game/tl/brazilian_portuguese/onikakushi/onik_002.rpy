@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_002.rpy:12
+﻿# game/onikakushi/onik_002.rpy:12
 translate brazilian_portuguese onik_002_bbcaf021:
 
     # n "I took it a little too easy on the morning of my day off. I was totally late."

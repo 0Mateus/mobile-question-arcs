@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_015_02.rpy:11
+﻿# game/onikakushi/onik_015_02.rpy:11
 translate brazilian_portuguese onik_015_02_f5d3a0ed:
 
     # n "A familiar ceiling."

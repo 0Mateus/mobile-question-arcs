@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-translate brazilian_portuguese strings:
+﻿translate brazilian_portuguese strings:
 
     # game/screens.rpy:433
     old "~ Demoned Away Chapter ~\nWelcome to the world of Higurashi: When They {color=#ff0000}C{/color}ry.\nThe Onikakushi arc will be the opening, inviting you into this world.\nSit back, relax and enjoy life in Hinamizawa to the fullest.\n\nThe difficulty is extremely high,\nbut I hope you will enjoy the reward."

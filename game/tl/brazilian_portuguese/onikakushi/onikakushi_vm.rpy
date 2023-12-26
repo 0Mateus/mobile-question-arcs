@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onikakushi_vm.rpy:6
+﻿# game/onikakushi/onikakushi_vm.rpy:6
 translate brazilian_portuguese vm_onik_001_00_n01_dialog000_59489e08:
 
     # n "Mion's gaze started at my chest then dropped straight down...{w=0.4} focusing on the point between my legs."

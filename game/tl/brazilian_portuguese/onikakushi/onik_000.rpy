@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_000.rpy:10
+﻿# game/onikakushi/onik_000.rpy:10
 translate brazilian_portuguese onik_000_4b95dce9:
 
     # n2 "\n\n\n\n\n\n\n\n{space=60}...Somebody has been apologizing for a while now."

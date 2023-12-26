@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-define config.language = 'brazilian_portuguese'
+﻿define config.language = 'brazilian_portuguese'
 
 # game/script.rpy:1021
 translate brazilian_portuguese start_872a8dee:

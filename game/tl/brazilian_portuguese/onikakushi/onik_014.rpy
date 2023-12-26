@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_014.rpy:13
+﻿# game/onikakushi/onik_014.rpy:13
 translate brazilian_portuguese onik_014_8a306776:
 
     # n "This was the first time I'd ever woke with such clarity."

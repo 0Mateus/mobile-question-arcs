@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_004.rpy:12
+﻿# game/onikakushi/onik_004.rpy:12
 translate brazilian_portuguese onik_004_f749eac7:
 
     # n "The function of this school as an educational facility is very questionable."

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-25 00:06
-
-# game/onikakushi/onik_009_02.rpy:8
+﻿# game/onikakushi/onik_009_02.rpy:8
 translate brazilian_portuguese onik_009_02_3a481700:
 
     # n "While staring off into the stream, I somehow got separated from Rena."
