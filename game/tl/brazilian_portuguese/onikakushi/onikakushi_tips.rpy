@@ -1750,7 +1750,7 @@ translate brazilian_portuguese onik_tips_04_2dc4098d:
 translate brazilian_portuguese onik_tips_04_b418e7d8:
 
     # n "The Shishibone city Okinomiya police station, June XXth, late at night."
-    n "A cidade de Shishibone delegacia de polícia de Okinomiya, XX de junho, tarde da noite."
+    n "Delegacia de polícia de Okinomiya da cidade de Shishibone, XX de junho, tarde da noite."
 
 # game/onikakushi/onikakushi_tips.rpy:584
 translate brazilian_portuguese onik_tips_04_2dc4098d_1:
