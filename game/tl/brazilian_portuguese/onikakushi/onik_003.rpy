@@ -12,7 +12,7 @@ translate brazilian_portuguese onik_003_b1b909b0:
     # voice "voice/ps3/s19/03/990300133.ogg"
     # extend " She'll probably just say, 'because it's just so kyute{font=DejaVuSans.ttf}☆{/font}' though.\""
     voice "voice/ps3/s19/03/990300133.ogg"
-    extend " Ela provavelmente vai dizer, \"porque é simplesmente tão mEiGU{font=DejaVuSans.ttf}☆{/font}' de qualquer modo.\""
+    extend " Ela provavelmente vai dizer, 'porque é simplesmente tão mEiGU{font=DejaVuSans.ttf}☆{/font}' de qualquer modo.\""
 
 # game/onikakushi/onik_003.rpy:23
 translate brazilian_portuguese onik_003_d012acbc:
@@ -46,7 +46,7 @@ translate brazilian_portuguese onik_003_0ed53a5a:
     # voice "voice/ps3/s19/05/990500026.ogg"
     # a_rika "\"...If Rena enjoys it, then I think it's fine.\""
     voice "voice/ps3/s19/05/990500026.ogg"
-    a_rika "\"...Se Rena gosta, então eu acho que está tudo be.\""
+    a_rika "\"...Se Rena gosta, então eu acho que está tudo bem.\""
 
 # game/onikakushi/onik_003.rpy:34
 translate brazilian_portuguese onik_003_4194e96e:
@@ -558,7 +558,7 @@ translate brazilian_portuguese onik_003_e43f9790:
 translate brazilian_portuguese onik_003_4d699e0f:
 
     # n "In a game where everybody is aiming for the top, it's rather unsportsmanlike to play just for fun."
-    n "Eu entendi o que elas estavam tentando dizer."
+    n "Num jogo onde todos estão almejando o topo, é falta de esportividade jogar apenas por diversão."
 
 # game/onikakushi/onik_003.rpy:213
 translate brazilian_portuguese onik_003_db2d7151:
@@ -944,7 +944,7 @@ translate brazilian_portuguese onik_003_17d4531f:
     # voice "voice/ps3/s19/04/990400060.ogg"
     # a_satoko "\"Remember the second rule of our society~"
     voice "voice/ps3/s19/04/990400060.ogg"
-    a_satoko "\"Lembre-se da segunda regra de nossa sociedade ~wa~"
+    a_satoko "\"Lembre-se da segunda regra de nossa sociedade ~wa~."
 
 # game/onikakushi/onik_003.rpy:328
 translate brazilian_portuguese onik_003_b1c0b02c:
@@ -1256,7 +1256,7 @@ translate brazilian_portuguese onik_003_34caeda3:
     # voice "voice/ps3/s19/03/990300162.ogg"
     # a_mion "\"It's a lowest point system."
     voice "voice/ps3/s19/03/990300162.ogg"
-    a_mion "\"It's a lowest point system."
+    a_mion "\"É um sistema de menor pontuação."
 
 # game/onikakushi/onik_003.rpy:421
 translate brazilian_portuguese onik_003_365b3d28:
@@ -4256,7 +4256,7 @@ translate brazilian_portuguese onik_003_2a0b7b22:
 translate brazilian_portuguese onik_003_45a46868:
 
     # n "Oh well."
-    n "Oh well."
+    n "Oh, bem."
 
 # game/onikakushi/onik_003.rpy:1415
 translate brazilian_portuguese onik_003_76b2fe88_62:
@@ -4678,7 +4678,7 @@ translate brazilian_portuguese onik_003_12055e6b:
     # nvl clear
     # n "\"A Tragic Nightmare at the Hinamizawa Construction Site! \nLynching and Murder/Dismemberment!\""
     nvl clear
-    n "\"Um Pesadelo Trágico no local de construção da represa de Hinamizawa! Linchamento e Assassinato/Desmembramento!\""
+    n "\"Um Pesadelo Trágico no local de construção da Represa de Hinamizawa! Linchamento e Assassinato/Desmembramento!\""
 
 # game/onikakushi/onik_003.rpy:1548
 translate brazilian_portuguese onik_003_3384f85a:
