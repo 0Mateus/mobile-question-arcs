@@ -1986,7 +1986,7 @@ translate brazilian_portuguese onik_tips_05_76b2fe88_1:
 translate brazilian_portuguese onik_tips_05_7fcb723a:
 
     # n "Forsaking the hundreds of years our ancestors poured their blood and sweat into this fertile, resource-rich land was just too painful to bear."
-    n "Abandonar a terra onde nosso ancestrais derramaram seu sangue e suor, uma terra rica em recursos férteis, é muito doloroso de suportar."
+    n "Abandonar a terra onde nossos ancestrais derramaram seu sangue e suor, uma terra rica em recursos férteis, é muito doloroso de suportar."
 
 # game/onikakushi/onikakushi_tips.rpy:649
 translate brazilian_portuguese onik_tips_05_2dc4098d_3:
@@ -2098,7 +2098,7 @@ translate brazilian_portuguese onik_tips_05_137a58b0:
 translate brazilian_portuguese onik_tips_05_a24ae738:
 
     # extend "\n{space=660}Kiichirou Kimiyoshi"
-    extend "\n{space=555}Kimiyoshi Kiichirou"
+    extend "\n{space=450}Kimiyoshi Kiichirou"
 
 # game/onikakushi/onikakushi_tips.rpy:673
 translate brazilian_portuguese onik_tips_05_76b2fe88_3:
