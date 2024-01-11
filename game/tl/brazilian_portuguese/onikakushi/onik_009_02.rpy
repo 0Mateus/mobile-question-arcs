@@ -314,7 +314,7 @@ translate brazilian_portuguese onik_009_02_b5315147:
 translate brazilian_portuguese onik_009_02_de13dd57:
 
     # n "It was hard to think of what to ask when someone said \"ask me anything,\" though."
-    n "No entanto, era difícil pensar no que perguntar quando alguém dizia \"Pergunte-me qualquer coisa,\"."
+    n "No entanto, era difícil pensar no que perguntar quando alguém dizia \"Pergunte-me qualquer coisa\"."
 
 # game/onikakushi/onik_009_02.rpy:95
 translate brazilian_portuguese onik_009_02_7e75f649:
@@ -2242,7 +2242,7 @@ translate brazilian_portuguese onik_009_02_7fd6d96c:
     # voice "voice/ps3/s01/08/120800092.ogg"
     # extend " ...There was never a curse to begin with."
     voice "voice/ps3/s01/08/120800092.ogg"
-    extend " ...Nunca houve uma maldição para ."
+    extend " ...Nunca houve uma maldição para começar."
 
 # game/onikakushi/onik_009_02.rpy:653
 translate brazilian_portuguese onik_009_02_6f219120:

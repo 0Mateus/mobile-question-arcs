@@ -2052,7 +2052,7 @@ translate brazilian_portuguese onik_005_1d4460ae:
     # voice "voice/ps3/s19/03/990300297.ogg"
     # a_mion "{cps=*0.6}\"......Petted.{w=0.4} ...Is that...{w=0.5} good enough...!?\"{/cps}"
     voice "voice/ps3/s19/03/990300297.ogg"
-    a_mion "{cps=*0.6}\"......Acariciado.{w=0.4} ...isso foi...{w=0.5} bom o suficiente...!?\"{/cps}"
+    a_mion "{cps=*0.6}\"......Acariciado.{w=0.4} ...Isso foi...{w=0.5} bom o suficiente...!?\"{/cps}"
 
 # game/onikakushi/onik_005.rpy:691
 translate brazilian_portuguese onik_005_f1c125bb:
@@ -3254,7 +3254,7 @@ translate brazilian_portuguese onik_005_2dc4098d_16:
 translate brazilian_portuguese onik_005_ff06180c:
 
     # n "That was it."
-    n "ã."
+    n "Então."
 
 # game/onikakushi/onik_005.rpy:1070
 translate brazilian_portuguese onik_005_69f899ce:
@@ -3736,7 +3736,7 @@ translate brazilian_portuguese onik_005_bf582696:
     # voice "voice/ps3/s19/02/990200363.ogg"
     # extend " ...Just... Just for a while.{font=DejaVuSans.ttf}☆{/font} I-I won't do anything strange... nothing strange...{font=DejaVuSans.ttf}☆{/font}\""
     voice "voice/ps3/s19/02/990200363.ogg"
-    extend " ...Então... Só um pouquinho☆ E-Eu não vou fazer nada estranho... nada estranho...{font=DejaVuSans.ttf}☆{/font}\""
+    extend " ...Então... Só um pouquinho.{font=DejaVuSans.ttf}☆{/font} E-Eu não vou fazer nada estranho... nada estranho...{font=DejaVuSans.ttf}☆{/font}\""
 
 # game/onikakushi/onik_005.rpy:1212
 translate brazilian_portuguese onik_005_952cbeec:

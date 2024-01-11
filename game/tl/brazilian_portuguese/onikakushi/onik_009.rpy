@@ -2534,7 +2534,7 @@ translate brazilian_portuguese onik_009_55ffbf82:
 translate brazilian_portuguese onik_009_71e1d5fe:
 
     # n "Rika-chan turned her gaze to me with a daunting smile as she was caressed by Rena, who was in full 'Kyute Mode.'"
-    n "Rika-chan voltou seu olhar intimidador para mim enquanto era cuidada por Rena, que estava em total Modo mEiGU.'"
+    n "Rika-chan voltou seu olhar intimidador para mim enquanto era cuidada por Rena, que estava em total Modo mEiGU."
 
 # game/onikakushi/onik_009.rpy:832
 translate brazilian_portuguese onik_009_76b2fe88_39:
@@ -7420,7 +7420,7 @@ translate brazilian_portuguese onik_009_d8febc54:
 translate brazilian_portuguese onik_009_4dffc4d3:
 
     # n "...I wondered what was up."
-    n "...Para o quê."
+    n "...Para o quê?"
 
 # game/onikakushi/onik_009.rpy:2408
 translate brazilian_portuguese onik_009_719cb466:
@@ -7572,7 +7572,7 @@ translate brazilian_portuguese onik_009_bc0c48e6:
 translate brazilian_portuguese onik_009_20e243c4:
 
     # extend " But, well, when in Rome..."
-    extend "Bem, cada lugar tem suas tradições..."
+    extend " Bem, cada lugar tem suas tradições..."
 
 # game/onikakushi/onik_009.rpy:2448
 translate brazilian_portuguese onik_009_2cc00cf7:
