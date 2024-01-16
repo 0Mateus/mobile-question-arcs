@@ -3264,7 +3264,7 @@ translate brazilian_portuguese onik_010_b7acdefc:
     # voice "voice/ps3/s01/11/120700055.ogg"
     # a_mid_man "\"The presumed time of death was between 9pm and 11pm."
     voice "voice/ps3/s01/11/120700055.ogg"
-    a_mid_man "\"O momento da morte parece ter sido entre as 21 horas e 23 horas."
+    a_mid_man "\"O momento da morte parece ter sido entre as 21 e 23 horas."
 
 # game/onikakushi/onik_010.rpy:1015
 translate brazilian_portuguese onik_010_698ba331:
