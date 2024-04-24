@@ -134,7 +134,7 @@ translate brazilian_portuguese onik_tips_01_2dc4098d:
 translate brazilian_portuguese onik_tips_01_48b2d097:
 
     # n "She's not planning to be all high and mighty if her birthday is a wee bit sooner than mine, is she..."
-    n "Ela não está planejando ser grande e poderosa, se o aniversário dela for um pouquinho mais cedo do que o meu, ela está..."
+    n "Ela não está planejando ser grande e poderosa, se o aniversário dela for um pouquinho mais cedo do que o meu, ela está...?"
 
 # game/onikakushi/onikakushi_tips.rpy:46
 translate brazilian_portuguese onik_tips_01_76b2fe88_2:
@@ -298,7 +298,7 @@ translate brazilian_portuguese onik_tips_01_0e3b3746:
     # a_keiichi "\"...Now that you mention it... You're in a higher grade, right, Mion?\""
     nvl clear
     voice "voice/ps3/s20/01/440100009.ogg"
-    a_keiichi "\"...Agora que você mencionou isso... você está numa série acima, certo Mion?\""
+    a_keiichi "\"...Agora que você mencionou isso... você é nossa sênior, certo Mion?\""
 
 # game/onikakushi/onikakushi_tips.rpy:106
 translate brazilian_portuguese onik_tips_01_2e55574a:
@@ -306,7 +306,7 @@ translate brazilian_portuguese onik_tips_01_2e55574a:
     # voice "voice/ps3/s20/03/440300004.ogg"
     # a_mion "\"If you're into underclassmen, then I can be an underclassman from now on!\""
     voice "voice/ps3/s20/03/440300004.ogg"
-    a_mion "\"Se você está numa classe baixa de homens, então eu posso ser um homem de classe baixa de agora em diante!\""
+    a_mion "\"Se você prefere juniores, então eu posso ser uma de agora em diante!\""
 
 # game/onikakushi/onikakushi_tips.rpy:109
 translate brazilian_portuguese onik_tips_01_8b7187b6:
@@ -330,7 +330,7 @@ translate brazilian_portuguese onik_tips_01_ad08e057:
     # a_keiichi "\"Then Satoko and Rika-chan are underclassmen.{w=2.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100010.ogg"
-    a_keiichi "\"Então Satoko e Rika-chan são homens de classe baixa.{w=2.0}{nw}"
+    a_keiichi "\"Então Satoko e Rika-chan são nossas juniores.{w=2.0}{nw}"
 
 # game/onikakushi/onikakushi_tips.rpy:116
 translate brazilian_portuguese onik_tips_01_a1a95f55:
@@ -1028,7 +1028,7 @@ translate brazilian_portuguese onik_tips_02_523ae1b0:
     # voice "voice/ps3/s20/02/440200024.ogg"
     # a_rena "\"But it would be so much more fun with kyute clothes. ...Hao!\""
     voice "voice/ps3/s20/02/440200024.ogg"
-    a_rena "\"Mas seria mais divertido com roupas fofas. ...Hao!\""
+    a_rena "\"Mas seria mais divertido com roupas fofas. ...Hau!\""
 
 # game/onikakushi/onikakushi_tips.rpy:346
 translate brazilian_portuguese onik_tips_02_c84bba30:
@@ -3116,7 +3116,7 @@ translate brazilian_portuguese onik_tips_07_b1dd14a1:
     # voice "voice/ps3/s20/02/440200037.ogg"
     # extend " a con man!?\""
     voice "voice/ps3/s20/02/440200037.ogg"
-    extend " um trapaceiro!?\""
+    extend " Um trapaceiro!?\""
 
 # game/onikakushi/onikakushi_tips.rpy:979
 translate brazilian_portuguese onik_tips_07_0e8477d7:

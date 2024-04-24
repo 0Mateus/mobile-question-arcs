@@ -250,7 +250,7 @@ translate brazilian_portuguese onik_005_5fc29da4:
     # voice "voice/ps3/s19/02/990200308.ogg"
     # a_rena "\"...Yeah, kyute... hao... I want it...\""
     voice "voice/ps3/s19/02/990200308.ogg"
-    a_rena "\"...Sim, mEiGU... hao... eu também quero...\""
+    a_rena "\"...Sim, mEiGU... hau... eu também quero...\""
 
 # game/onikakushi/onik_005.rpy:94
 translate brazilian_portuguese onik_005_2dc4098d_1:
@@ -2316,7 +2316,7 @@ translate brazilian_portuguese onik_005_1ead9bb7:
     # voice "voice/ps3/s19/02/990200344.ogg"
     # a_rena "\"Ha... hao......"
     voice "voice/ps3/s19/02/990200344.ogg"
-    a_rena "\"Ha... hao......"
+    a_rena "\"Ha... hau......"
 
 # game/onikakushi/onik_005.rpy:778
 translate brazilian_portuguese onik_005_449cf8ca:
@@ -3026,7 +3026,7 @@ translate brazilian_portuguese onik_005_966ff8ab:
     # voice "voice/ps3/s19/02/990200355.ogg"
     # a_rena "\"...Hu{w=0.4} hao...{w=0.3}...{w=0.3} In this outfit... Master...?\""
     voice "voice/ps3/s19/02/990200355.ogg"
-    a_rena "\"...Hu{w=0.4} hao...{w=0.3}...{w=0.3} Nesta roupa... Mestre...?\""
+    a_rena "\"...Hu{w=0.4} hau...{w=0.3}...{w=0.3} Nesta roupa... Mestre...?\""
 
 # game/onikakushi/onik_005.rpy:1006
 translate brazilian_portuguese onik_005_ec384787:
@@ -4184,7 +4184,7 @@ translate brazilian_portuguese onik_005_38a8331f:
     # voice "voice/ps3/s19/01/hr_kei07940.ogg"
     # a_keiichi "\"H-Haouh!?!?"
     voice "voice/ps3/s19/01/hr_kei07940.ogg"
-    a_keiichi "\"H-Haouh!?!?"
+    a_keiichi "\"H-Hauuu!?!?"
 
 # game/onikakushi/onik_005.rpy:1369
 translate brazilian_portuguese onik_005_0f4a3f10:

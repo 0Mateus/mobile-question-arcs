@@ -1966,7 +1966,7 @@ translate brazilian_portuguese onik_004_1a924ec2:
     # voice "voice/ps3/s19/02/990200247.ogg"
     # extend " ...Haoh...!?\""
     voice "voice/ps3/s19/02/990200247.ogg"
-    extend " ...Haoh...!?\""
+    extend " ...Hauu...!?\""
 
 # game/onikakushi/onik_004.rpy:585
 translate brazilian_portuguese onik_004_e3bbdcfd:

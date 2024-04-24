@@ -1914,7 +1914,7 @@ translate brazilian_portuguese onik_010_2469855e:
 translate brazilian_portuguese onik_010_c031dee2:
 
     # n "Waiting there, looking uncomfortably warm, was a middle-aged man, his tie sloppily loosened, and his jacket tucked underneath his arm.."
-    n "Esperando ali, com um olhar desconfortavelmente quente, estava um homem de meia-idade, sua gravata desleixadamente afrouxada, e seu paletó dobrado sob seu braço.."
+    n "Esperando ali, com um olhar desconfortavelmente quente, estava um homem de meia-idade, sua gravata desleixadamente afrouxada, e seu paletó dobrado sob seu braço..."
 
 # game/onikakushi/onik_010.rpy:638
 translate brazilian_portuguese onik_010_8327b2a3:

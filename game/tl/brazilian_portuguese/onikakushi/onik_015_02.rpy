@@ -3958,7 +3958,7 @@ translate brazilian_portuguese onik_015_02_516ab56b:
 translate brazilian_portuguese onik_015_02_ea174f8c:
 
     # n "......The police should have confirmed that death...?"
-    n "......Será que a polícia tinha confirmado sua morte...?"
+    n "......A polícia já deve ter confirmado sua morte..."
 
 # game/onikakushi/onik_015_02.rpy:1134
 translate brazilian_portuguese onik_015_02_c6ccfccb:

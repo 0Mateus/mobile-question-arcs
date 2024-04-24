@@ -1084,7 +1084,7 @@ translate brazilian_portuguese vm_onik_004_00_n01_dialog001_d234304b:
 translate brazilian_portuguese vm_onik_004_00_n01_dialog001_8e3f18e2:
 
     # n "HaouUuh!?"
-    n "HaouUuh!?"
+    n "HaUuUu!?"
 
 # game/onikakushi/onikakushi_vm.rpy:546
 translate brazilian_portuguese vm_onik_004_00_n01_dialog001_dddc5966:
@@ -1658,7 +1658,7 @@ translate brazilian_portuguese vm_onik_004_0x_n01_dialog001_cbcc250e:
 translate brazilian_portuguese vm_onik_004_0x_n01_dialog001_8e3f18e2:
 
     # n "HaouUuh!?"
-    n "HaouUuh!?"
+    n "HaUuUu!?"
 
 # game/onikakushi/onikakushi_vm.rpy:813
 translate brazilian_portuguese vm_onik_004_0x_n01_dialog001_bbb52353:
@@ -2982,7 +2982,7 @@ translate brazilian_portuguese vm_onik_tips_01_00_n01_dialog000_8e6fb9a2:
     # voice "voice/ps3/s20/01/440100005.ogg"
     # extend " It's impossible to challenge me by birthday!!"
     voice "voice/ps3/s20/01/440100005.ogg"
-    extend " É impossível mudar meu aniversário!!"
+    extend " É impossível desafiar meu aniversário!!"
 
 # game/onikakushi/onikakushi_vm.rpy:1566
 translate brazilian_portuguese vm_onik_tips_01_00_n01_dialog000_09cc802d:
@@ -2990,7 +2990,7 @@ translate brazilian_portuguese vm_onik_tips_01_00_n01_dialog000_09cc802d:
     # voice "voice/ps3/s20/01/440100006.ogg"
     # extend " ...I wouldn't even mind you if you bet a dollar per month!\""
     voice "voice/ps3/s20/01/440100006.ogg"
-    extend " ...Eu nem mesmo me importo se você apostar um dólar todo mês!\""
+    extend " ...Eu nem mesmo me importaria se você apostasse cem ienes por mês!\""
 
 # game/onikakushi/onikakushi_vm.rpy:1573
 translate brazilian_portuguese vm_onik_tips_01_00_n01_dialog001_dff9eba4:
@@ -3032,7 +3032,7 @@ translate brazilian_portuguese vm_onik_tips_01_0x_n01_dialog000_8e6fb9a2:
     # voice "voice/ps3/s20/01/440100005.ogg"
     # extend " It's impossible to challenge me by birthday!!"
     voice "voice/ps3/s20/01/440100005.ogg"
-    extend " É impossível mudar meu aniversário!!"
+    extend " É impossível desafiar meu aniversário!!"
 
 # game/onikakushi/onikakushi_vm.rpy:1590
 translate brazilian_portuguese vm_onik_tips_01_0x_n01_dialog000_c92e9336:

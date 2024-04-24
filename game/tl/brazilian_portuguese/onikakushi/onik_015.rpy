@@ -938,7 +938,7 @@ translate brazilian_portuguese onik_015_f3510a5e:
     # voice "voice/ps3/s01/03/120300151.ogg"
     # extend " If you're tired, I can ask again later?\""
     voice "voice/ps3/s01/03/120300151.ogg"
-    extend " Se você está cansado, eu posso pedir novamente mais tarde?\""
+    extend " Se você está cansado, eu posso pedir novamente mais tarde.\""
 
 # game/onikakushi/onik_015.rpy:273
 translate brazilian_portuguese onik_015_8d66d63b:

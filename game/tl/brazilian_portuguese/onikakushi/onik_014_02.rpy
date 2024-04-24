@@ -5626,7 +5626,7 @@ translate brazilian_portuguese onik_014_02_7f9d6c27:
     # a_rena "\"When Keiichi was picking out the noodles, I was watching the entire time."
     nvl clear
     voice "voice/ps3/s01/02/120200317.ogg"
-    a_rena "\"Quando Keiichi estava escolhendo o ramen, eu estava observando ele o tempo inteiro."
+    a_rena "\"Quando Keiichi-kun estava escolhendo o ramen, eu estava observando ele o tempo inteiro."
 
 # game/onikakushi/onik_014_02.rpy:1519
 translate brazilian_portuguese onik_014_02_2154874a:

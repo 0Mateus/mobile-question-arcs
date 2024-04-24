@@ -370,7 +370,7 @@ translate brazilian_portuguese onik_009_a1907b30:
     # voice "voice/ps3/s19/02/500200786.ogg"
     # a_rena "\"Hao!... Yes, Ma'am~~~!"
     voice "voice/ps3/s19/02/500200786.ogg"
-    a_rena "\"Hao!... Sim, Senhora~~~!"
+    a_rena "\"Hau!... Sim, Senhora~~~!"
 
 # game/onikakushi/onik_009.rpy:126
 translate brazilian_portuguese onik_009_fa6e2343:
@@ -1864,7 +1864,7 @@ translate brazilian_portuguese onik_009_d4a9ba8a:
     # voice "voice/ps3/s19/05/500500289.ogg"
     # a_rika "\"...We've already found it. ...Keiichi, too?\""
     voice "voice/ps3/s19/05/500500289.ogg"
-    a_rika "\"...Nós já encontramos. ...Keiichi, também?\""
+    a_rika "\"...Eu já encontrei. ...Keiichi, também?\""
 
 # game/onikakushi/onik_009.rpy:608
 translate brazilian_portuguese onik_009_0db4cb71:
@@ -2798,7 +2798,7 @@ translate brazilian_portuguese onik_009_ed9257ad:
     # voice "voice/ps3/s19/02/500200835.ogg"
     # extend " ...Hao, oh it's Mii-chan... hau...\""
     voice "voice/ps3/s19/02/500200835.ogg"
-    extend " ...Hao, oh é Mii-chan... hau...\""
+    extend " ...Hau, oh é Mii-chan... hau...\""
 
 # game/onikakushi/onik_009.rpy:926
 translate brazilian_portuguese onik_009_30faa468:
@@ -2924,7 +2924,7 @@ translate brazilian_portuguese onik_009_d942a5ba:
     # voice "voice/ps3/s19/02/500200839.ogg"
     # a_rena "\"Huh?{w=0.4} Haoh!?{w=0.2} What?{w=0.2} What!?\""
     voice "voice/ps3/s19/02/500200839.ogg"
-    a_rena "\"Hã?{w=0.4} Haoh!?{w=0.2} O quê?{w=0.2} O quê!?\""
+    a_rena "\"Hã?{w=0.4} Hauu!?{w=0.2} O quê?{w=0.2} O quê!?\""
 
 # game/onikakushi/onik_009.rpy:972
 translate brazilian_portuguese onik_009_9ebf1c7f:
@@ -6960,7 +6960,7 @@ translate brazilian_portuguese onik_009_922c6f11:
     # voice "voice/ps3/s19/03/500300769.ogg"
     # a_mion "\"Between the 'ha' and 'o' of her hau~ I...{w=0.3} think...\""
     voice "voice/ps3/s19/03/500300769.ogg"
-    a_mion "\"Entre o 'ha' e o 'o' do hau~ eu...{w=0.3} acho...\""
+    a_mion "\"Entre o 'ha' e o 'u' do hau~ eu...{w=0.3} acho...\""
 
 # game/onikakushi/onik_009.rpy:2262
 translate brazilian_portuguese onik_009_f02b5fb4:
