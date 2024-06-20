@@ -1,5 +1,24 @@
 ﻿# TODO: Translation updated at 2024-06-20 20:10
 
+translate brazilian_portuguese:
+
+    old "{font=Times.ttf}I really meant to say things differently.{/font}"
+    new "{font=Times.ttf}Eu realmente queria dizer as coisas de maneira diferente.{/font}"
+    old "{font=Times.ttf}I really didn't want to feel this way.{/font}"
+    new "{font=Times.ttf}Eu realmente não queria se sentir assim.{/font}"
+    old "{font=Times.ttf}Miscommunication drove in the wedge,{/font}"
+    new "{font=Times.ttf}A falta de comunicação me levou à cunha,{/font}"
+    old "{font=Times.ttf}those stuck in apprehension driven to fear.{/font}"
+    new "{font=Times.ttf}aqueles presos na apreensão levados ao medo.{/font}"
+    old "{font=Times.ttf}Nobody can stop it now,{/font}"
+    new "{font=Times.ttf}Ninguém pode pará-lo agora,{/font}"
+    old "{font=Times.ttf}as cold hard emotion claws deeply and cruelly at my bared heart.{/font}"
+    new "{font=Times.ttf}enquanto um frio sentimento arranha profunda e cruelmente meu coração nu.{/font}"
+    old "{font=Times.ttf}At that time, why did I...? I whisper in remorse.{/font}"
+    new "{font=Times.ttf}Naquele momento, por que eu...? Eu sussurro com remorso.{/font}"
+    old "{font=Times.ttf}But now, those words simply rang hollow.{/font}"
+    new "{font=Times.ttf}Mas agora, essas palavras simplesmente parecem vazias.{/font}"
+
 # game/watanagashi/wata_001.rpy:86
 translate brazilian_portuguese wata_001_b3d25ae5:
 
