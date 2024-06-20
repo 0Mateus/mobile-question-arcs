@@ -4,6 +4,15 @@
     old "~ Demoned Away Chapter ~\nWelcome to the world of Higurashi: When They {color=#ff0000}C{/color}ry.\nThe Onikakushi arc will be the opening, inviting you into this world.\nSit back, relax and enjoy life in Hinamizawa to the fullest.\n\nThe difficulty is extremely high,\nbut I hope you will enjoy the reward."
     new "~ Capítulo: Arrebatado pelo Demônio ~\nBem vindo ao mundo de Higurashi: When They {color=#ff0000}C{/color}ry.\nO arco onikakushi é o convite de abertura para este mundo.\nSente-se, relaxe e aproveite a vida em Hinamizawa ao máximo.\n\nA dificuldade é extremamente alta,\nmas eu espero que você aprecie a recompensa."
 
+    old "~ Cotton Drifting Chapter ~\nHow was you taste of life in Hinamizawa?\nA curse, or a conspiracy... I believe you have fully enjoyed everything\nand everyone seeming suspicious.\nHere at last. It is no surprise attack, but a real, direct incident.\nPlease enjoy it.\n\nThe difficulty is lower than Onikakushi, but extremely vicious."
+    new "~ Capítulo: Algodão à Deriva ~\nComo foi sua experiência em Hinamizawa?\nUma maldição, ou uma conspiração... Eu acredito que você apreciou tudo\ne todos parecem suspeitos.\nChegamos aqui, então. Não há ataque surpresa, mas um incidente real e direto.\nEspero que você se divirta.\n\nA dificuldade é menor que Onikakushi, mas extremamente cruel."
+
+    old "~ Curse Killing Chapter ~\nMan, curse, or coincidence?\nHow are the conjectures inside you solidifying?\nI look forward to whether those conjectures will waver or become\na cornerstone in this scenario.\n\nThe difficulty is the worst. You will probably not even be able\nto make conjectures."
+    new "~ Curse Killing Chapter ~\nMan, curse, or coincidence?\nHow are the conjectures inside you solidifying?\nI look forward to whether those conjectures will waver or become\na cornerstone in this scenario.\n\nThe difficulty is the worst. You will probably not even be able\nto make conjectures."
+
+    old "~ Time Killing Chapter ~\nI now entrust you with all mysteries hidden within\nHigurashi: When They {color=#ff0000}C{/color}ry.\nHowever comical it may be, if you have reached any conjecture,\nthen you have passed.\nThis final novel is a meager reward for you.\n\nConjecture is impossible. You have the right to reject this story."
+    new "~ Time Killing Chapter ~\nI now entrust you with all mysteries hidden within\nHigurashi: When They {color=#ff0000}C{/color}ry.\nHowever comical it may be, if you have reached any conjecture,\nthen you have passed.\nThis final novel is a meager reward for you.\n\nConjecture is impossible. You have the right to reject this story."
+
     # characters
     old "Keiichi's dad"
     new "Pai de Keiichi"
