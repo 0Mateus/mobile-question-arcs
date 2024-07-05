@@ -6,7 +6,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog001_1e67fb78:
     # voice "voice/ps3/s19/04/990400171.ogg"
     # a_satoko "\"Kei-kei is bullying meeeeeEEeee!!!"
     voice "voice/ps3/s19/04/990400171.ogg"
-    a_satoko "\"Kei-kei is bullying meeeeeEEeee!!!"
+    a_satoko "\"Keiichi-san está me maltratando!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:10
 translate brazilian_portuguese vm_wata_001_00_n01_dialog001_523144d0:
@@ -14,7 +14,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog001_523144d0:
     # voice "voice/ps3/s19/04/990400172.ogg"
     # extend " WaaaaaaAAaaaAAAaaa!!!\""
     voice "voice/ps3/s19/04/990400172.ogg"
-    extend " WaaaaaaAAaaaAAAaaa!!!\""
+    extend " BuaaaaaaAAaaaAAAaaa!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:17
 translate brazilian_portuguese vm_wata_001_00_n01_dialog002_9fc92f15:
@@ -22,7 +22,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog002_9fc92f15:
     # voice "voice/ps3/s19/03/990300411.ogg"
     # a_mion "\"Is everybody ready~?!"
     voice "voice/ps3/s19/03/990300411.ogg"
-    a_mion "\"Is everybody ready~?!"
+    a_mion "\"Todos estão prontos~?!"
 
 # game/watanagashi/watanagashi_vm.rpy:19
 translate brazilian_portuguese vm_wata_001_00_n01_dialog002_8de800b7:
@@ -30,7 +30,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog002_8de800b7:
     # voice "voice/ps3/s19/03/990300412.ogg"
     # extend " Listen close now~!!\""
     voice "voice/ps3/s19/03/990300412.ogg"
-    extend " Listen close now~!!\""
+    extend " Escutem todos, agora~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:26
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_b72bf4c9:
@@ -38,7 +38,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog003_b72bf4c9:
     # voice "voice/ps3/s19/01/hr_kei09900_03.ogg"
     # a_keiichi "Be honest with yourselves!!!{nw}"
     voice "voice/ps3/s19/01/hr_kei09900_03.ogg"
-    a_keiichi "Be honest with yourselves!!!{nw}"
+    a_keiichi "Sejam honestos consigo mesmos!!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:28
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_9211c0a9:
@@ -46,7 +46,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog003_9211c0a9:
     # voice sustain
     # extend " Chase your dreams!!{nw}"
     voice sustain
-    extend " Chase your dreams!!{nw}"
+    extend " Vão atrás de seus sonhos!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:30
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_87d45e21:
@@ -54,7 +54,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog003_87d45e21:
     # voice sustain
     # extend " Fulfill them!!!{nw}"
     voice sustain
-    extend " Fulfill them!!!{nw}"
+    extend " Façam eles virarem realidade!!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:32
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_0cd1d832:
@@ -62,7 +62,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog003_0cd1d832:
     # voice sustain
     # extend " I'll fulfill them for you!!!{nw}"
     voice sustain
-    extend " I'll fulfill them for you!!!{nw}"
+    extend " Eu vou fazer eles virarem realidade para vocês!!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:34
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_1fff1c35:
@@ -70,7 +70,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog003_1fff1c35:
     # voice sustain
     # extend " I wiiiiilllllll!!!!\"{nw}"
     voice sustain
-    extend " I wiiiiilllllll!!!!\"{nw}"
+    extend " Eu vooooouuuu!!!!\"{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:36
 translate brazilian_portuguese vm_wata_001_00_n01_dialog003_6431aa67:
@@ -98,7 +98,7 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog004_cf74e962:
     # voice "voice/ps3/s19/03/990300473.ogg"
     # a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
     voice "voice/ps3/s19/03/990300473.ogg"
-    a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
+    a_mion "\"Se você andar com ela por aí, então você será tratado como um esquisitão a partir de amanhã. Com certeza!\""
 
 # game/watanagashi/watanagashi_vm.rpy:48
 translate brazilian_portuguese vm_wata_001_00_n01_dialog004_76b2fe88:
@@ -110,13 +110,13 @@ translate brazilian_portuguese vm_wata_001_00_n01_dialog004_76b2fe88:
 translate brazilian_portuguese vm_wata_001_00_n01_dialog005_e926c832:
 
     # n "It was a game called \"Billionaire.\""
-    n "It was a game called \"Billionaire.\""
+    n "Era chamado \"Jogo da Vida.\""
 
 # game/watanagashi/watanagashi_vm.rpy:60
 translate brazilian_portuguese vm_wata_001_00_n01_dialog006_295bd398:
 
     # extend " Pretty girls!!{nw}"
-    extend " Pretty girls!!{nw}"
+    extend " Lindas garotas!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:72
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog001_d2b445dc:
@@ -124,7 +124,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog001_d2b445dc:
     # voice "voice/ps3/s19/04/990400171.ogg"
     # a_satoko "\"Keiichi-san hit meeeeeEEeee!!!"
     voice "voice/ps3/s19/04/990400171.ogg"
-    a_satoko "\"Keiichi-san hit meeeeeEEeee!!!"
+    a_satoko "\"Keiichi-san bateu em mim!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:74
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog001_523144d0:
@@ -132,7 +132,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog001_523144d0:
     # voice "voice/ps3/s19/04/990400172.ogg"
     # extend " WaaaaaaAAaaaAAAaaa!!!\""
     voice "voice/ps3/s19/04/990400172.ogg"
-    extend " WaaaaaaAAaaaAAAaaa!!!\""
+    extend " BuaaaaaaAAaaaAAAaaa!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:81
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog002_9fc92f15:
@@ -140,7 +140,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog002_9fc92f15:
     # voice "voice/ps3/s19/03/990300411.ogg"
     # a_mion "\"Is everybody ready~?!"
     voice "voice/ps3/s19/03/990300411.ogg"
-    a_mion "\"Is everybody ready~?!"
+    a_mion "\"Todos estão prontos~?!"
 
 # game/watanagashi/watanagashi_vm.rpy:83
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog002_8de800b7:
@@ -148,7 +148,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog002_8de800b7:
     # voice "voice/ps3/s19/03/990300412.ogg"
     # extend " Listen close now~!!\""
     voice "voice/ps3/s19/03/990300412.ogg"
-    extend " Listen close now~!!\""
+    extend " Escutem todos, agora~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:90
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_b72bf4c9:
@@ -156,7 +156,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_b72bf4c9:
     # voice "voice/ps3/s19/01/hr_kei09900_03.ogg"
     # a_keiichi "Be honest with yourselves!!!{nw}"
     voice "voice/ps3/s19/01/hr_kei09900_03.ogg"
-    a_keiichi "Be honest with yourselves!!!{nw}"
+    a_keiichi "Sejam honestos consigo mesmos!!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:92
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_9211c0a9:
@@ -164,7 +164,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_9211c0a9:
     # voice sustain
     # extend " Chase your dreams!!{nw}"
     voice sustain
-    extend " Chase your dreams!!{nw}"
+    extend " Vão atrás de seus sonhos!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:94
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_87d45e21:
@@ -172,7 +172,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_87d45e21:
     # voice sustain
     # extend " Fulfill them!!!{nw}"
     voice sustain
-    extend " Fulfill them!!!{nw}"
+    extend " Façam eles virarem realidade!!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:96
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_195b0ee6:
@@ -180,7 +180,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_195b0ee6:
     # voice sustain
     # extend " I'll fulfill them for you!!!\"{nw}"
     voice sustain
-    extend " I'll fulfill them for you!!!\"{nw}"
+    extend " Eu vou fazer eles virarem realidade para vocês!!!\"{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:98
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog003_6431aa67:
@@ -208,7 +208,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog004_cf74e962:
     # voice "voice/ps3/s19/03/990300473.ogg"
     # a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
     voice "voice/ps3/s19/03/990300473.ogg"
-    a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
+    a_mion "\"Se você andar com ela por aí, então você será tratado como um esquisitão a partir de amanhã. Com certeza!\""
 
 # game/watanagashi/watanagashi_vm.rpy:110
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog004_76b2fe88:
@@ -220,7 +220,7 @@ translate brazilian_portuguese vm_wata_001_0x_n01_dialog004_76b2fe88:
 translate brazilian_portuguese vm_wata_001_0x_n01_dialog005_e926c832:
 
     # n "It was a game called \"Billionaire.\""
-    n "It was a game called \"Billionaire.\""
+    n "Era chamado \"Jogo da Vida.\""
 
 # game/watanagashi/watanagashi_vm.rpy:130
 translate brazilian_portuguese vm_wata_002_00_n01_dialog001_08c21d45:
@@ -228,7 +228,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog001_08c21d45:
     # voice "voice/ps3/s19/03/990300509.ogg"
     # a_mion "\"Alright! Everybody pay attention~!"
     voice "voice/ps3/s19/03/990300509.ogg"
-    a_mion "\"Alright! Everybody pay attention~!"
+    a_mion "\"Todos estão prontos~!?"
 
 # game/watanagashi/watanagashi_vm.rpy:132
 translate brazilian_portuguese vm_wata_002_00_n01_dialog001_2b90f471:
@@ -236,7 +236,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog001_2b90f471:
     # voice "voice/ps3/s19/03/990300510.ogg"
     # extend " I'm going to explain the rules~!!\""
     voice "voice/ps3/s19/03/990300510.ogg"
-    extend " I'm going to explain the rules~!!\""
+    extend " Escutem todos, agora~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:139
 translate brazilian_portuguese vm_wata_002_00_n01_dialog002_71435a4e:
@@ -594,7 +594,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_08c21d45:
     # voice "voice/ps3/s19/03/990300509.ogg"
     # a_mion "\"Alright! Everybody pay attention~!"
     voice "voice/ps3/s19/03/990300509.ogg"
-    a_mion "\"Alright! Everybody pay attention~!"
+    a_mion "\"Todos estão prontos~!?"
 
 # game/watanagashi/watanagashi_vm.rpy:327
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_2b90f471:
@@ -602,7 +602,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_2b90f471:
     # voice "voice/ps3/s19/03/990300510.ogg"
     # extend " I'm going to explain the rules~!!\""
     voice "voice/ps3/s19/03/990300510.ogg"
-    extend " I'm going to explain the rules~!!\""
+    extend " Escutem todos, agora~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:334
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_71435a4e:
