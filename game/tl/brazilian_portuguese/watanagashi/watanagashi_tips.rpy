@@ -638,13 +638,13 @@ translate brazilian_portuguese wata_tips_01_61cb5d3c:
 translate brazilian_portuguese wata_tips_01_6624de6e:
     #;
     # n "Okay, a couple of weird things came up that time, but still!"
-    n "Certo, várias coisas estranhas surgiram naquela época, mas ainda assim!"
+    n "Ok, algumas coisas estranhas foram ditas no fim, mas ainda assim é incrível!"
 
 # game/watanagashi/watanagashi_tips.rpy:201
 translate brazilian_portuguese wata_tips_01_a79568d7:
 
     # extend " I could tell it was pretty extensive."
-    extend " O que eu quero dizer é que eles fazem muitas coisas diferentes."
+    extend " Parecia uma rede bem extensa."
 
 # game/watanagashi/watanagashi_tips.rpy:202
 translate brazilian_portuguese wata_tips_01_76b2fe88_10:
