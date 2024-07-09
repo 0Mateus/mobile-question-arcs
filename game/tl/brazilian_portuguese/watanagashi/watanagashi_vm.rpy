@@ -228,7 +228,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog001_08c21d45:
     # voice "voice/ps3/s19/03/990300509.ogg"
     # a_mion "\"Alright! Everybody pay attention~!"
     voice "voice/ps3/s19/03/990300509.ogg"
-    a_mion "\"Todos estão prontos~!?"
+    a_mion "\"Ok! Todos prestem atenção~!?"
 
 # game/watanagashi/watanagashi_vm.rpy:132
 translate brazilian_portuguese vm_wata_002_00_n01_dialog001_2b90f471:
@@ -236,7 +236,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog001_2b90f471:
     # voice "voice/ps3/s19/03/990300510.ogg"
     # extend " I'm going to explain the rules~!!\""
     voice "voice/ps3/s19/03/990300510.ogg"
-    extend " Escutem todos, agora~!!\""
+    extend " Eu vou explicar as regras~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:139
 translate brazilian_portuguese vm_wata_002_00_n01_dialog002_71435a4e:
@@ -244,7 +244,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog002_71435a4e:
     # voice "voice/ps3/s19/01/vt0_keiichi0002.ogg"
     # extend " ...When I was in elementary school... there was a penalty game... yeah."
     voice "voice/ps3/s19/01/vt0_keiichi0002.ogg"
-    extend " ...When I was in elementary school... there was a penalty game... yeah."
+    extend " ...Quando eu estava na escola elementar... tinha uma punição num jogo... sim."
 
 # game/watanagashi/watanagashi_vm.rpy:141
 translate brazilian_portuguese vm_wata_002_00_n01_dialog002_0f1a9da2:
@@ -252,7 +252,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog002_0f1a9da2:
     # voice "voice/ps3/s19/01/vt0_keiichi0003.ogg"
     # extend " It can only be 'that.'"
     voice "voice/ps3/s19/01/vt0_keiichi0003.ogg"
-    extend " It can only be 'that.'"
+    extend " Poderia ser 'aquilo.'"
 
 # game/watanagashi/watanagashi_vm.rpy:144
 translate brazilian_portuguese vm_wata_002_00_n01_dialog002_f7581af6:
@@ -260,7 +260,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog002_f7581af6:
     # voice "voice/ps3/s19/01/vt0_keiichi0004.ogg"
     # nvl_extend "Schlepping!\""
     voice "voice/ps3/s19/01/vt0_keiichi0004.ogg"
-    nvl_extend "Schlepping!\""
+    nvl_extend "Carregamento de bolsas!\""
 
 # game/watanagashi/watanagashi_vm.rpy:151
 translate brazilian_portuguese vm_wata_002_00_n01_dialog003_84348993:
@@ -268,7 +268,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog003_84348993:
     # voice "voice/ps3/s19/05/990500121.ogg"
     # a_rika "\"...'Card Master Sakura' is written down here.\""
     voice "voice/ps3/s19/05/990500121.ogg"
-    a_rika "\"...'Card Master Sakura' is written down here.\""
+    a_rika "\"...Está escrito 'Card Master Sakura'.\""
 
 # game/watanagashi/watanagashi_vm.rpy:158
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_c3124586:
@@ -282,31 +282,31 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog004_c3124586:
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_ff997ada:
 
     # extend "Sakura can only mean 'Card Master Sakura,' can't it!?!?"
-    extend "Sakura can only mean 'Card Master Sakura,' can't it!?!?"
+    extend "Sakura só pode significar 'Card Master Sakura,' certo!?!?"
 
 # game/watanagashi/watanagashi_vm.rpy:163
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_544d4afe:
 
     # extend " It's a super-popular anime that's broadcast every week on the government-run networks!!!"
-    extend " It's a super-popular anime that's broadcast every week on the government-run networks!!!"
+    extend " É um anime superpopular que é exibido todas as semanas na TV!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:164
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_b0686b49:
 
     # a_keiichi "It's broken through to every demographic from little girls to grown meeeeeeen!!"
-    a_keiichi "It's broken through to every demographic from little girls to grown meeeeeeen!!"
+    a_keiichi "Ele atingiu todos os grupos, de meninas a até mesmo homens adultos!!"
 
 # game/watanagashi/watanagashi_vm.rpy:165
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_745c0491:
 
     # extend " You've seen it, haven't you!?"
-    extend " You've seen it, haven't you!?"
+    extend " Você já viu, não viu!?"
 
 # game/watanagashi/watanagashi_vm.rpy:166
 translate brazilian_portuguese vm_wata_002_00_n01_dialog004_881a7b3c:
 
     # extend " No, you've definitely seen it, even I've seheheeen iiiiiiiiit!!!!\""
-    extend " No, you've definitely seen it, even I've seheheeen iiiiiiiiit!!!!\""
+    extend " Não, você com certeza já viu, até eu vi issooooo!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:175
 translate brazilian_portuguese vm_wata_002_00_n01_dialog006_42e7c1b6:
@@ -314,13 +314,13 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog006_42e7c1b6:
     # voice "voice/ps3/s19/03/990300596.ogg"
     # a_mion "\"...Um yeah, even without the forced explanation, I know about it."
     voice "voice/ps3/s19/03/990300596.ogg"
-    a_mion "\"...Um yeah, even without the forced explanation, I know about it."
+    a_mion "\"...Hum, sim, mesmo sem essa explicação forçada, eu conheço."
 
 # game/watanagashi/watanagashi_vm.rpy:177
 translate brazilian_portuguese vm_wata_002_00_n01_dialog006_af288bc6:
 
     # extend " It's that thingy where she fights in a different costume every week, right?"
-    extend " It's that thingy where she fights in a different costume every week, right?"
+    extend " É aquele que ela luta com uma roupa diferente toda semana, certo?"
 
 # game/watanagashi/watanagashi_vm.rpy:178
 translate brazilian_portuguese vm_wata_002_00_n01_dialog006_7477925c:
@@ -328,55 +328,55 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog006_7477925c:
     # voice "voice/ps3/s19/03/990300598.ogg"
     # extend " Yeah.{w=0.8} I know, I know.\""
     voice "voice/ps3/s19/03/990300598.ogg"
-    extend " Yeah.{w=0.8} I know, I know.\""
+    extend " Sim.{w=0.8} Eu conheço, eu conheço.\""
 
 # game/watanagashi/watanagashi_vm.rpy:185
 translate brazilian_portuguese vm_wata_002_00_n01_dialog007_e0465498:
 
     # a_rena "\"Yup, yup."
-    a_rena "\"Yup, yup."
+    a_rena "\"Sim, sim."
 
 # game/watanagashi/watanagashi_vm.rpy:186
 translate brazilian_portuguese vm_wata_002_00_n01_dialog007_a73f0ba7:
 
     # extend " It's kyute, isn't it!"
-    extend " It's kyute, isn't it!"
+    extend " É realmente mEiGU, né!"
 
 # game/watanagashi/watanagashi_vm.rpy:187
 translate brazilian_portuguese vm_wata_002_00_n01_dialog007_507a9a3d:
 
     # extend " Rena sometimes browses through it at the magazine stand to keep up with the story{font=DejaVuSans.ttf}☆{/font}.\""
-    extend " Rena sometimes browses through it at the magazine stand to keep up with the story{font=DejaVuSans.ttf}☆{/font}.\""
+    extend " Rena às vezes dá uma olhada na banca de revistas para acompanhar a história{font=DejaVuSans.ttf}☆{/font}.\""
 
 # game/watanagashi/watanagashi_vm.rpy:193
 translate brazilian_portuguese vm_wata_002_00_n01_dialog008_c4265c03:
 
     # a_satoko "\"I saw it for the first time recently."
-    a_satoko "\"I saw it for the first time recently."
+    a_satoko "\"Eu vi pela primeira vez recentemente."
 
 # game/watanagashi/watanagashi_vm.rpy:194
 translate brazilian_portuguese vm_wata_002_00_n01_dialog008_587450a7:
 
     # extend " Sakura is cool and so cheerful all the time!\""
-    extend " Sakura is cool and so cheerful all the time!\""
+    extend " A Sakura é tão legal e está sempre tão alegre!\""
 
 # game/watanagashi/watanagashi_vm.rpy:200
 translate brazilian_portuguese vm_wata_002_00_n01_dialog009_701b467c:
 
     # a_rika "\"......I like that girl who's always filming with the camcorder.\""
-    a_rika "\"......I like that girl who's always filming with the camcorder.\""
+    a_rika "\"......Eu gosto daquela menina que está sempre filmando com a filmadora.\""
 
 # game/watanagashi/watanagashi_vm.rpy:206
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_b08f0d65:
 
     # a_mion "\"It's not just popular with little girls, it's also surprisingly well-received by older boys, isn't it?"
-    a_mion "\"It's not just popular with little girls, it's also surprisingly well-received by older boys, isn't it?"
+    a_mion "\"Não é só popular entre as garotas, também é surpreendentemente bem recebido pelos garotos mais velhos, não é?"
 
 # game/watanagashi/watanagashi_vm.rpy:207
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_1aed2fb8:
 
     # extend " ...To think that Kei-chan was one of those~.\""
-    extend " ...To think that Kei-chan was one of those~.\""
+    extend " ...E pensar que kei-chan era um desses~.\""
 
 # game/watanagashi/watanagashi_vm.rpy:208
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_2dc4098d:
@@ -388,7 +388,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog010_2dc4098d:
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_f19ba453:
 
     # n "I felt like I had inadvertently blurted out something unnecessary and had completely self-destructed but... that wasn't the main problem."
-    n "I felt like I had inadvertently blurted out something unnecessary and had completely self-destructed but... that wasn't the main problem."
+    n "Senti que, inadvertidamente, havia deixado escapar algo desnecessário e me autodestruí completamente, mas... esse não era o principal problema."
 
 # game/watanagashi/watanagashi_vm.rpy:210
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_76b2fe88:
@@ -400,31 +400,31 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog010_76b2fe88:
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_cb85540f:
 
     # a_keiichi "{b}\"S-So you all know it, don't yoooooooou!?!?{/b}"
-    a_keiichi "{b}\"S-So you all know it, don't yoooooooou!?!?{/b}"
+    a_keiichi "{b}\"E-Então todas vocês conhecem, não é meeeesmo!?!?{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:215
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_1ac3f870:
 
     # extend " {b}Then why didn't you write it dooooooooooooown!?!?{/b}"
-    extend " {b}Then why didn't you write it dooooooooooooown!?!?{/b}"
+    extend " {b}Então por que vocês não escreveram!?!?{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:216
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_fd334921:
 
     # a_keiichi "{b}Sakura means Sakura Kinomoto!!{/b}"
-    a_keiichi "{b}Sakura means Sakura Kinomoto!!{/b}"
+    a_keiichi "{b}Sakura significa Sakura Kinomoto!!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:217
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_95aef720:
 
     # extend " {b}Sakura-tan *pant pant*!!{/b}"
-    extend " {b}Sakura-tan *pant pant*!!{/b}"
+    extend " {b}Sakura-tan haha!!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:218
 translate brazilian_portuguese vm_wata_002_00_n01_dialog010_d7c05072:
 
     # extend " {b}Card Master Sakura is the right answeeeeeeeeeeeer!!!\"{/b}{nw}"
-    extend " {b}Card Master Sakura is the right answeeeeeeeeeeeer!!!\"{/b}{nw}"
+    extend " {b}Card Master Sakura é a resposta certaaaaaa!!!\"{/b}{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:226
 translate brazilian_portuguese vm_wata_002_00_n01_dialog011_07af8409:
@@ -432,7 +432,7 @@ translate brazilian_portuguese vm_wata_002_00_n01_dialog011_07af8409:
     # voice "voice/ps3/s19/03/990300641.ogg"
     # a_mion "If o~nly you didn't have this big thing dangling between your legs you'd be a real girl~~!!\""
     voice "voice/ps3/s19/03/990300641.ogg"
-    a_mion "If o~nly you didn't have this big thing dangling between your legs you'd be a real girl~~!!\""
+    a_mion "Se você não tivesse essa c~oisa grande balançando entre suas pernas você seria uma garota de verdade~~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:228
 translate brazilian_portuguese vm_wata_002_00_n01_dialog011_2dc4098d:
@@ -446,7 +446,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog001_7e5c04b7:
     # voice "voice/ps3/s19/03/990300552.ogg"
     # a_mion "From the headband to the garter belt, even the underwear... I've got it aaaaall prepared for you!!\""
     voice "voice/ps3/s19/03/990300552.ogg"
-    a_mion "From the headband to the garter belt, even the underwear... I've got it aaaaall prepared for you!!\""
+    a_mion "Da tiara à cinta-liga, até mesmo a roupa de baixo... Eu tenho tuuuudo preparado para você!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:241
 translate brazilian_portuguese vm_wata_002_00_n02_dialog001_2dc4098d:
@@ -460,7 +460,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog002_b1ae7e13:
     # voice "voice/ps3/s19/05/990500123.ogg"
     # a_rika "\"Dressing up as a maid, complete with hairband and garter belt, while carrying around the winner's stuff.\""
     voice "voice/ps3/s19/05/990500123.ogg"
-    a_rika "\"Dressing up as a maid, complete with hairband and garter belt, while carrying around the winner's stuff.\""
+    a_rika "\"Vestir um uniforme completo de empregada, com tiara e cinta-liga, enquanto carregando as coisas do vencedor.\""
 
 # game/watanagashi/watanagashi_vm.rpy:254
 translate brazilian_portuguese vm_wata_002_00_n02_dialog003_a0aef04f:
@@ -468,7 +468,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog003_a0aef04f:
     # voice "voice/ps3/s19/01/hr_kei11480.ogg"
     # a_keiichi "\"How the bloody hell will a man knowing how to put on a garter belt be usefuuuuuUUul!!!\""
     voice "voice/ps3/s19/01/hr_kei11480.ogg"
-    a_keiichi "\"How the bloody hell will a man knowing how to put on a garter belt be usefuuuuuUUul!!!\""
+    a_keiichi "\"Como infernos um homem saber vestir uma cinta liga pode ser útilllll!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:261
 translate brazilian_portuguese vm_wata_002_00_n02_dialog004_51f8e85c:
@@ -476,7 +476,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog004_51f8e85c:
     # voice "voice/ps3/s19/02/990200506.ogg"
     # a_rena "\"Sh-She's right..."
     voice "voice/ps3/s19/02/990200506.ogg"
-    a_rena "\"Sh-She's right..."
+    a_rena "\"E-Está certo..."
 
 # game/watanagashi/watanagashi_vm.rpy:263
 translate brazilian_portuguese vm_wata_002_00_n02_dialog004_f3f51067:
@@ -484,7 +484,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog004_f3f51067:
     # voice "voice/ps3/s19/02/990200507.ogg"
     # extend " If you cause a scene here...{w=0.8} Th-They'll...{w=1.0} find out that you're wearing women's clothing right down to the unmentionables.\""
     voice "voice/ps3/s19/02/990200507.ogg"
-    extend " If you cause a scene here...{w=0.8} Th-They'll...{w=1.0} find out that you're wearing women's clothing right down to the unmentionables.\""
+    extend " Se você fizer uma cena aqui...{w=0.8} E-Eles...{w=1.0} descobrirão que você está vestindo roupas femininas, até mesmo as não mencionáveis.\""
 
 # game/watanagashi/watanagashi_vm.rpy:270
 translate brazilian_portuguese vm_wata_002_00_n02_dialog005_5fb617dc:
@@ -492,7 +492,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog005_5fb617dc:
     # voice "voice/ps3/s19/03/990300622.ogg"
     # a_mion "\"That's right."
     voice "voice/ps3/s19/03/990300622.ogg"
-    a_mion "\"That's right."
+    a_mion "\"É mesmo."
 
 # game/watanagashi/watanagashi_vm.rpy:272
 translate brazilian_portuguese vm_wata_002_00_n02_dialog005_ab25ed8c:
@@ -500,7 +500,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog005_ab25ed8c:
     # voice "voice/ps3/s19/03/990300623.ogg"
     # extend " Men like things like garter belts, right~?"
     voice "voice/ps3/s19/03/990300623.ogg"
-    extend " Men like things like garter belts, right~?"
+    extend " Homens gostam de coisas como cinta-ligas, certo~?"
 
 # game/watanagashi/watanagashi_vm.rpy:274
 translate brazilian_portuguese vm_wata_002_00_n02_dialog005_a32162b7:
@@ -508,7 +508,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog005_a32162b7:
     # voice "voice/ps3/s19/03/990300624.ogg"
     # extend " So, how does it feel wearing one yourself{font=DejaVuSans.ttf}☆{/font}?\""
     voice "voice/ps3/s19/03/990300624.ogg"
-    extend " So, how does it feel wearing one yourself{font=DejaVuSans.ttf}☆{/font}?\""
+    extend " Então, como você se sente vestindo você mesmo uma{font=DejaVuSans.ttf}☆{/font}?\""
 
 # game/watanagashi/watanagashi_vm.rpy:281
 translate brazilian_portuguese vm_wata_002_00_n02_dialog006_3d240abe:
@@ -516,7 +516,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog006_3d240abe:
     # voice "voice/ps3/s19/03/990300625.ogg"
     # a_mion "\"It's tight, isn't it?"
     voice "voice/ps3/s19/03/990300625.ogg"
-    a_mion "\"It's tight, isn't it?"
+    a_mion "\"É apertado, não é?"
 
 # game/watanagashi/watanagashi_vm.rpy:283
 translate brazilian_portuguese vm_wata_002_00_n02_dialog006_23753a7e:
@@ -524,7 +524,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog006_23753a7e:
     # voice "voice/ps3/s19/03/990300626.ogg"
     # extend " Can you feel it rub against your skin as you walk?\""
     voice "voice/ps3/s19/03/990300626.ogg"
-    extend " Can you feel it rub against your skin as you walk?\""
+    extend " Você pode sentir isso esfregar contra sua pele enquanto você caminha?\""
 
 # game/watanagashi/watanagashi_vm.rpy:285
 translate brazilian_portuguese vm_wata_002_00_n02_dialog006_2dc4098d:
@@ -538,7 +538,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog007_54c87244:
     # voice "voice/ps3/s19/01/hr_kei11550.ogg"
     # a_keiichi "\"You will rue this day, Miooonnn~!!!"
     voice "voice/ps3/s19/01/hr_kei11550.ogg"
-    a_keiichi "\"You will rue this day, Miooonnn~!!!"
+    a_keiichi "\"Você vai pagar por isto, Miooonnn~!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:293
 translate brazilian_portuguese vm_wata_002_00_n02_dialog007_74c2afb3:
@@ -546,7 +546,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog007_74c2afb3:
     # voice "voice/ps3/s19/01/hr_kei11560.ogg"
     # extend " This disgrace shall be returned tenfold!!"
     voice "voice/ps3/s19/01/hr_kei11560.ogg"
-    extend " This disgrace shall be returned tenfold!!"
+    extend " Esta desgraça vai voltar para você 10 vezes maior!!"
 
 # game/watanagashi/watanagashi_vm.rpy:295
 translate brazilian_portuguese vm_wata_002_00_n02_dialog007_779fe8ee:
@@ -554,7 +554,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog007_779fe8ee:
     # voice "voice/ps3/s19/01/hr_kei11570.ogg"
     # extend " I'll achieve an overwhelming victory, then condemn you to a public shaming!\""
     voice "voice/ps3/s19/01/hr_kei11570.ogg"
-    extend " I'll achieve an overwhelming victory, then condemn you to a public shaming!\""
+    extend " Eu vou obter uma vitória indubitável, que vai levá-la à vergonha pública!\""
 
 # game/watanagashi/watanagashi_vm.rpy:302
 translate brazilian_portuguese vm_wata_002_00_n02_dialog008_b39ebcc5:
@@ -562,7 +562,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog008_b39ebcc5:
     # voice "voice/ps3/s19/01/hr_kei11830.ogg"
     # a_keiichi "\"Mion, you have pretty big breasts, it seems like they're ready to spill out even right now..."
     voice "voice/ps3/s19/01/hr_kei11830.ogg"
-    a_keiichi "\"Mion, you have pretty big breasts, it seems like they're ready to spill out even right now..."
+    a_keiichi "\"Mion, você tem seios atraentes e parece que eles estão prontos para saltar para fora..."
 
 # game/watanagashi/watanagashi_vm.rpy:304
 translate brazilian_portuguese vm_wata_002_00_n02_dialog008_dffb8736:
@@ -570,7 +570,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog008_dffb8736:
     # voice "voice/ps3/s19/01/hr_kei11840.ogg"
     # extend " All the customers are definitely looking at you~!\""
     voice "voice/ps3/s19/01/hr_kei11840.ogg"
-    extend " All the customers are definitely looking at you~!\""
+    extend " Todos os clientes estão definitivamente olhando para você~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:311
 translate brazilian_portuguese vm_wata_002_00_n02_dialog009_b8b123b9:
@@ -578,7 +578,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog009_b8b123b9:
     # voice "voice/ps3/s19/01/hr_kei12100.ogg"
     # a_keiichi "\"Shion, is this your first time being a waitress?"
     voice "voice/ps3/s19/01/hr_kei12100.ogg"
-    a_keiichi "\"Shion, is this your first time being a waitress?"
+    a_keiichi "\"Shion, esta é sua primeira vez como garçonete?"
 
 # game/watanagashi/watanagashi_vm.rpy:313
 translate brazilian_portuguese vm_wata_002_00_n02_dialog009_65701381:
@@ -586,7 +586,7 @@ translate brazilian_portuguese vm_wata_002_00_n02_dialog009_65701381:
     # voice "voice/ps3/s19/01/hr_kei12110.ogg"
     # extend " It doesn't seem like you're used to it.\""
     voice "voice/ps3/s19/01/hr_kei12110.ogg"
-    extend " It doesn't seem like you're used to it.\""
+    extend " Parece que você não está acostumada a isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:325
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_08c21d45:
@@ -594,7 +594,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_08c21d45:
     # voice "voice/ps3/s19/03/990300509.ogg"
     # a_mion "\"Alright! Everybody pay attention~!"
     voice "voice/ps3/s19/03/990300509.ogg"
-    a_mion "\"Todos estão prontos~!?"
+    a_mion "\"Ok! Todos prestem atenção~!?"
 
 # game/watanagashi/watanagashi_vm.rpy:327
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_2b90f471:
@@ -602,7 +602,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog001_2b90f471:
     # voice "voice/ps3/s19/03/990300510.ogg"
     # extend " I'm going to explain the rules~!!\""
     voice "voice/ps3/s19/03/990300510.ogg"
-    extend " Escutem todos, agora~!!\""
+    extend " Eu vou explicar as regras~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:334
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_71435a4e:
@@ -610,7 +610,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_71435a4e:
     # voice "voice/ps3/s19/01/vt0_keiichi0002.ogg"
     # extend " ...When I was in elementary school... there was a penalty game... yeah."
     voice "voice/ps3/s19/01/vt0_keiichi0002.ogg"
-    extend " ...When I was in elementary school... there was a penalty game... yeah."
+    extend " ...Quando eu estava na escola elementar... tinha uma punição num jogo... sim."
 
 # game/watanagashi/watanagashi_vm.rpy:336
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_0f1a9da2:
@@ -618,7 +618,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_0f1a9da2:
     # voice "voice/ps3/s19/01/vt0_keiichi0003.ogg"
     # extend " It can only be 'that.'"
     voice "voice/ps3/s19/01/vt0_keiichi0003.ogg"
-    extend " It can only be 'that.'"
+    extend " Poderia ser 'aquilo.'"
 
 # game/watanagashi/watanagashi_vm.rpy:339
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_f7581af6:
@@ -626,7 +626,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog002_f7581af6:
     # voice "voice/ps3/s19/01/vt0_keiichi0004.ogg"
     # nvl_extend "Schlepping!\""
     voice "voice/ps3/s19/01/vt0_keiichi0004.ogg"
-    nvl_extend "Schlepping!\""
+    nvl_extend "Carregamento de bolsas!\""
 
 # game/watanagashi/watanagashi_vm.rpy:346
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog003_3cf00b6f:
@@ -634,7 +634,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog003_3cf00b6f:
     # voice "voice/ps3/s19/05/990500121.ogg"
     # a_rika "\"......It says 'lipstick.'\""
     voice "voice/ps3/s19/05/990500121.ogg"
-    a_rika "\"......It says 'lipstick.'\""
+    a_rika "\"......'Batom' é o que está escrito aqui\""
 
 # game/watanagashi/watanagashi_vm.rpy:352
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog004_c3124586:
@@ -650,7 +650,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog004_8fa6a66b:
     # voice "voice/ps3/s19/01/hr_kei11180.ogg"
     # extend "Sakura can only mean that famous lipstick brand 'Sakura,' right!?!?"
     voice "voice/ps3/s19/01/hr_kei11180.ogg"
-    extend "Sakura can only mean that famous lipstick brand 'Sakura,' right!?!?"
+    extend "Sakura só pode significar aquela famosa marca de batom 'Sakura', certo!?!?"
 
 # game/watanagashi/watanagashi_vm.rpy:358
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog004_5378d880:
@@ -658,7 +658,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog004_5378d880:
     # voice "voice/ps3/s19/01/hr_kei11190.ogg"
     # a_keiichi "You know, the one in a new color they've been talking about on TV, they even did a special on it! Don't you check these things out, as ladies? Even I've seheheeen iiiiiiiiit!!!!\""
     voice "voice/ps3/s19/01/hr_kei11190.ogg"
-    a_keiichi "You know, the one in a new color they've been talking about on TV, they even did a special on it! Don't you check these things out, as ladies? Even I've seheheeen iiiiiiiiit!!!!\""
+    a_keiichi "Vocês sabem, aquele com uma nova cor, do qual estão falando na TV, eles até fizeram um especial! Você garotas não checam essas coisas? Até mesmo eu vi issoooooo!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:368
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_42e7c1b6:
@@ -666,7 +666,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_42e7c1b6:
     # voice "voice/ps3/s19/03/990300596.ogg"
     # a_mion "\"...Um yeah, even without the forced explanation, I know about it."
     voice "voice/ps3/s19/03/990300596.ogg"
-    a_mion "\"...Um yeah, even without the forced explanation, I know about it."
+    a_mion "\"...Hum, sim, mesmo sem essa explicação forçada, eu conheço."
 
 # game/watanagashi/watanagashi_vm.rpy:370
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_e050d69c:
@@ -674,7 +674,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_e050d69c:
     # voice "voice/ps3/s19/03/990300597.ogg"
     # extend " It's the one that doesn't stick to the cup even if you're drinking coffee, right?"
     voice "voice/ps3/s19/03/990300597.ogg"
-    extend " It's the one that doesn't stick to the cup even if you're drinking coffee, right?"
+    extend " É aquele que não deixa marca na xícara, mesmo se você estiver bebendo café, certo?"
 
 # game/watanagashi/watanagashi_vm.rpy:372
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_7477925c:
@@ -682,7 +682,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog006_7477925c:
     # voice "voice/ps3/s19/03/990300598.ogg"
     # extend " Yeah.{w=0.8} I know, I know.\""
     voice "voice/ps3/s19/03/990300598.ogg"
-    extend " Yeah.{w=0.8} I know, I know.\""
+    extend " Sim.{w=0.8} Eu conheço, eu conheço.\""
 
 # game/watanagashi/watanagashi_vm.rpy:379
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_458946df:
@@ -690,7 +690,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_458946df:
     # voice "voice/ps3/s19/02/990200496.ogg"
     # a_rena "\"Yup, yup. It's a really kyute color, isn't it!"
     voice "voice/ps3/s19/02/990200496.ogg"
-    a_rena "\"Yup, yup. It's a really kyute color, isn't it!"
+    a_rena "\"Sim, sim. É realmente uma cor mEiGA, né!"
 
 # game/watanagashi/watanagashi_vm.rpy:381
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_c04e198c:
@@ -698,7 +698,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_c04e198c:
     # voice "voice/ps3/s19/02/990200497.ogg"
     # extend " I saw it in the makeup section at the drug store."
     voice "voice/ps3/s19/02/990200497.ogg"
-    extend " I saw it in the makeup section at the drug store."
+    extend " Rena já viu na seção de cosméticos da farmácia."
 
 # game/watanagashi/watanagashi_vm.rpy:383
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_a0cf834e:
@@ -706,7 +706,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog007_a0cf834e:
     # voice "voice/ps3/s19/02/990200498.ogg"
     # extend " That pink color made me want to take it home~\""
     voice "voice/ps3/s19/02/990200498.ogg"
-    extend " That pink color made me want to take it home~\""
+    extend " Aquela cor de rosa me fez querer levá-lo para casa~\""
 
 # game/watanagashi/watanagashi_vm.rpy:390
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog008_4d18ca75:
@@ -714,7 +714,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog008_4d18ca75:
     # voice "voice/ps3/s19/04/990400252.ogg"
     # a_satoko "\"I-indeed."
     voice "voice/ps3/s19/04/990400252.ogg"
-    a_satoko "\"I-indeed."
+    a_satoko "\"É-É mesmo, né."
 
 # game/watanagashi/watanagashi_vm.rpy:392
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog008_32a95fc1:
@@ -722,7 +722,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog008_32a95fc1:
     # voice "voice/ps3/s19/04/990400253.ogg"
     # extend " It's only common sense for a lady to keep up on these matters!\""
     voice "voice/ps3/s19/04/990400253.ogg"
-    extend " It's only common sense for a lady to keep up on these matters!\""
+    extend " É simplesmente normal uma garota estar inteirada dessas coisas!\""
 
 # game/watanagashi/watanagashi_vm.rpy:399
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog009_e9874436:
@@ -730,7 +730,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog009_e9874436:
     # voice "voice/ps3/s19/05/990500122.ogg"
     # a_rika "\"I thought you were more interested in the bargain-sale tissues, Satoko.\""
     voice "voice/ps3/s19/05/990500122.ogg"
-    a_rika "\"I thought you were more interested in the bargain-sale tissues, Satoko.\""
+    a_rika "\"Satoko, eu pensei que você só se interessasse por lenços em promoção ~nano desu.\""
 
 # game/watanagashi/watanagashi_vm.rpy:401
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog009_7109d54b:
@@ -738,7 +738,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog009_7109d54b:
     # voice "voice/ps3/s19/04/990400254.ogg"
     # a_satoko "\"How rude of you! I make sure to keep an eye on the newest products!\""
     voice "voice/ps3/s19/04/990400254.ogg"
-    a_satoko "\"How rude of you! I make sure to keep an eye on the newest products!\""
+    a_satoko "\"Q-Que rude! Eu sempre procuro manter um olho sobre novos produtos!\""
 
 # game/watanagashi/watanagashi_vm.rpy:408
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_9a0b050d:
@@ -746,7 +746,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_9a0b050d:
     # voice "voice/ps3/s19/03/990300599.ogg"
     # a_mion "\"That aside, it's just a bit surprising that's the first thing you think of when you hear 'Sakura'..."
     voice "voice/ps3/s19/03/990300599.ogg"
-    a_mion "\"That aside, it's just a bit surprising that's the first thing you think of when you hear 'Sakura'..."
+    a_mion "\"Bem, deixando isso de lado, é um pouco surpreendente que essa é a primeira coisa que você pensou ao ouvir a palavra 'Sakura'..."
 
 # game/watanagashi/watanagashi_vm.rpy:410
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_76b2fe88:
@@ -760,7 +760,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_d68b85da:
     # voice "voice/ps3/s19/01/hr_kei11200.ogg"
     # a_keiichi "{b}\"Wh- whaaaat?{/b}"
     voice "voice/ps3/s19/01/hr_kei11200.ogg"
-    a_keiichi "{b}\"Wh- whaaaat?{/b}"
+    a_keiichi "{b}\"O-O quêêê?{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:416
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_2970f7b6:
@@ -768,7 +768,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_2970f7b6:
     # voice "voice/ps3/s19/01/hr_kei11210.ogg"
     # extend " {b}I was just thinking from a ladies perspective!!\"{/b}"
     voice "voice/ps3/s19/01/hr_kei11210.ogg"
-    extend " {b}I was just thinking from a ladies perspective!!\"{/b}"
+    extend " {b}Eu estava pensando da perspectiva das garotas!!\"{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:418
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_1ae5c902:
@@ -776,7 +776,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_1ae5c902:
     # voice "voice/ps3/s19/01/hr_kei11220.ogg"
     # a_keiichi "{b}\"Being born as a lady, obviously it's normal to maintain a beautiful image!{/b}"
     voice "voice/ps3/s19/01/hr_kei11220.ogg"
-    a_keiichi "{b}\"Being born as a lady, obviously it's normal to maintain a beautiful image!{/b}"
+    a_keiichi "{b}\"Para quem nasce como uma garota, obviamente é normal querer se manter bonita!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:420
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_4e0e6ed5:
@@ -784,7 +784,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_4e0e6ed5:
     # voice "voice/ps3/s19/01/hr_kei11230.ogg"
     # extend " {b}It's right to think thaaaaaaat!!{/b}"
     voice "voice/ps3/s19/01/hr_kei11230.ogg"
-    extend " {b}It's right to think thaaaaaaat!!{/b}"
+    extend " {b}É a coisa certa a se pensaaaaaaar!!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:422
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_5b06c74a:
@@ -792,7 +792,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_5b06c74a:
     # voice "voice/ps3/s19/01/hr_kei11240.ogg"
     # extend " {b}That's how it has to beeeeeeeee!!\"{/b}{nw}"
     voice "voice/ps3/s19/01/hr_kei11240.ogg"
-    extend " {b}That's how it has to beeeeeeeee!!\"{/b}{nw}"
+    extend " {b}É assim que tem de seeeeeer!!\"{/b}{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:424
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog010_6431aa67:
@@ -820,7 +820,7 @@ translate brazilian_portuguese vm_wata_002_0x_n01_dialog011_c00ae95d:
     # voice "voice/ps3/s19/03/990300641.ogg"
     # a_mion "If o~nly you didn't have that one body part, you'd be a real girl~~!!\""
     voice "voice/ps3/s19/03/990300641.ogg"
-    a_mion "If o~nly you didn't have that one body part, you'd be a real girl~~!!\""
+    a_mion "Se você não tivesse a~quela parte do corpo, você seria uma garota de verdade~~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:436
 translate brazilian_portuguese vm_wata_002_0x_n01_dialog011_2dc4098d:
@@ -834,7 +834,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog001_728f1bc7:
     # voice "voice/ps3/s19/03/990300552.ogg"
     # a_mion "From the headband to the finer details... I've got it aaaaall prepared for you!!\""
     voice "voice/ps3/s19/03/990300552.ogg"
-    a_mion "From the headband to the finer details... I've got it aaaaall prepared for you!!\""
+    a_mion "Da tiara até os mais mínimos detalhes... Eu tenho tuuuudo preparado para você!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:449
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog001_2dc4098d:
@@ -848,7 +848,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog002_4710b369:
     # voice "voice/ps3/s19/05/990500123.ogg"
     # a_rika "\"Dressing up as a maid, complete with hairband and knee socks, while carrying around the winner's stuff.\""
     voice "voice/ps3/s19/05/990500123.ogg"
-    a_rika "\"Dressing up as a maid, complete with hairband and knee socks, while carrying around the winner's stuff.\""
+    a_rika "\"Vestir um uniforme completo de empregada, com tiara e meias até os joelhos, enquanto carregando as coisas do vencedor.\""
 
 # game/watanagashi/watanagashi_vm.rpy:462
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog003_e7bd9354:
@@ -856,7 +856,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog003_e7bd9354:
     # voice "voice/ps3/s19/01/hr_kei11480.ogg"
     # a_keiichi "\"How the bloody hell will a man knowing how to put on an apron-dress be usefuuuuuUUul!!!\""
     voice "voice/ps3/s19/01/hr_kei11480.ogg"
-    a_keiichi "\"How the bloody hell will a man knowing how to put on an apron-dress be usefuuuuuUUul!!!\""
+    a_keiichi "\"Como infernos um homem saber vestir um avental pode ser útilllll!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:469
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog004_51f8e85c:
@@ -864,7 +864,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog004_51f8e85c:
     # voice "voice/ps3/s19/02/990200506.ogg"
     # a_rena "\"Sh-She's right..."
     voice "voice/ps3/s19/02/990200506.ogg"
-    a_rena "\"Sh-She's right..."
+    a_rena "\"E-Está certo..."
 
 # game/watanagashi/watanagashi_vm.rpy:471
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog004_00591907:
@@ -872,7 +872,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog004_00591907:
     # voice "voice/ps3/s19/02/990200507.ogg"
     # extend " If you cause a scene here...{w=0.8} Th-They'll...{w=1.0} discover you're a person with... 'unique' tastes.\""
     voice "voice/ps3/s19/02/990200507.ogg"
-    extend " If you cause a scene here...{w=0.8} Th-They'll...{w=1.0} discover you're a person with... 'unique' tastes.\""
+    extend " Se você fizer uma cena aqui...{w=0.8} E-Eles...{w=1.0} descobrirão que você é uma pessoa com... gostos 'únicos'.\""
 
 # game/watanagashi/watanagashi_vm.rpy:478
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_5fb617dc:
@@ -880,7 +880,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_5fb617dc:
     # voice "voice/ps3/s19/03/990300622.ogg"
     # a_mion "\"That's right."
     voice "voice/ps3/s19/03/990300622.ogg"
-    a_mion "\"That's right."
+    a_mion "\"É mesmo."
 
 # game/watanagashi/watanagashi_vm.rpy:480
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_ed1b1dd2:
@@ -888,7 +888,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_ed1b1dd2:
     # voice "voice/ps3/s19/03/990300623.ogg"
     # extend " Men enjoy frilly clothing, after all."
     voice "voice/ps3/s19/03/990300623.ogg"
-    extend " Men enjoy frilly clothing, after all."
+    extend " Afinal, homens gostam de roupas com babados."
 
 # game/watanagashi/watanagashi_vm.rpy:482
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_a32162b7:
@@ -896,7 +896,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog005_a32162b7:
     # voice "voice/ps3/s19/03/990300624.ogg"
     # extend " So, how does it feel wearing one yourself{font=DejaVuSans.ttf}☆{/font}?\""
     voice "voice/ps3/s19/03/990300624.ogg"
-    extend " So, how does it feel wearing one yourself{font=DejaVuSans.ttf}☆{/font}?\""
+    extend " Então, como você se sente vestindo você mesmo uma{font=DejaVuSans.ttf}☆{/font}?\""
 
 # game/watanagashi/watanagashi_vm.rpy:489
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog006_3811ee28:
@@ -904,7 +904,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog006_3811ee28:
     # voice "voice/ps3/s19/03/990300625.ogg"
     # a_mion "\"Makes your heart jump, doesn't it?"
     voice "voice/ps3/s19/03/990300625.ogg"
-    a_mion "\"Makes your heart jump, doesn't it?"
+    a_mion "\"Faz seu coração saltar, não é mesmo?"
 
 # game/watanagashi/watanagashi_vm.rpy:491
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog006_12cc3d19:
@@ -912,7 +912,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog006_12cc3d19:
     # voice "voice/ps3/s19/03/990300626.ogg"
     # extend " Can you feel the air on your legs as you walk?\""
     voice "voice/ps3/s19/03/990300626.ogg"
-    extend " Can you feel the air on your legs as you walk?\""
+    extend " Pode sentir o ar nas suas pernas enquanto caminha?\""
 
 # game/watanagashi/watanagashi_vm.rpy:493
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog006_2dc4098d:
@@ -926,7 +926,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog007_54c87244:
     # voice "voice/ps3/s19/01/hr_kei11550.ogg"
     # a_keiichi "\"You will rue this day, Miooonnn~!!!"
     voice "voice/ps3/s19/01/hr_kei11550.ogg"
-    a_keiichi "\"You will rue this day, Miooonnn~!!!"
+    a_keiichi "\"Você vai pagar por isto, Miooonnn~!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:501
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog007_74c2afb3:
@@ -934,7 +934,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog007_74c2afb3:
     # voice "voice/ps3/s19/01/hr_kei11560.ogg"
     # extend " This disgrace shall be returned tenfold!!"
     voice "voice/ps3/s19/01/hr_kei11560.ogg"
-    extend " This disgrace shall be returned tenfold!!"
+    extend " Esta desgraça vai voltar para você 10 vezes maior!!"
 
 # game/watanagashi/watanagashi_vm.rpy:503
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog007_eff507d7:
@@ -942,7 +942,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog007_eff507d7:
     # voice "voice/ps3/s19/01/hr_kei11570.ogg"
     # extend " I'll achieve an overwhelming victory, make you wear something even crazier than this, and take you home!\""
     voice "voice/ps3/s19/01/hr_kei11570.ogg"
-    extend " I'll achieve an overwhelming victory, make you wear something even crazier than this, and take you home!\""
+    extend " Eu vou obter uma vitória indubitável, fazer com que você vista algo ainda mais louco do que isso e levá-la para casa!\""
 
 # game/watanagashi/watanagashi_vm.rpy:510
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog008_0f2eac2c:
@@ -950,7 +950,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog008_0f2eac2c:
     # voice "voice/ps3/s19/01/hr_kei11830.ogg"
     # a_keiichi "\"Mion, you have pretty big breasts, I might catch a glimpse at any moment."
     voice "voice/ps3/s19/01/hr_kei11830.ogg"
-    a_keiichi "\"Mion, you have pretty big breasts, I might catch a glimpse at any moment."
+    a_keiichi "\"Mion, você tem seios atraentes, posso ter um vislumbre a qualquer momento."
 
 # game/watanagashi/watanagashi_vm.rpy:512
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog008_dffb8736:
@@ -958,7 +958,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog008_dffb8736:
     # voice "voice/ps3/s19/01/hr_kei11840.ogg"
     # extend " All the customers are definitely looking at you~!\""
     voice "voice/ps3/s19/01/hr_kei11840.ogg"
-    extend " All the customers are definitely looking at you~!\""
+    extend " Todos os clientes estão definitivamente olhando para você~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:519
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog009_7756e385:
@@ -966,7 +966,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog009_7756e385:
     # voice "voice/ps3/s19/01/hr_kei12100.ogg"
     # a_keiichi "\"Shion, is this your first time in this sort of job?"
     voice "voice/ps3/s19/01/hr_kei12100.ogg"
-    a_keiichi "\"Shion, is this your first time in this sort of job?"
+    a_keiichi "\"Shion, esta é sua primeira vez nesse tipo de trabalho?"
 
 # game/watanagashi/watanagashi_vm.rpy:521
 translate brazilian_portuguese vm_wata_002_0x_n02_dialog009_65701381:
@@ -974,7 +974,7 @@ translate brazilian_portuguese vm_wata_002_0x_n02_dialog009_65701381:
     # voice "voice/ps3/s19/01/hr_kei12110.ogg"
     # extend " It doesn't seem like you're used to it.\""
     voice "voice/ps3/s19/01/hr_kei12110.ogg"
-    extend " It doesn't seem like you're used to it.\""
+    extend " Parece que você não está acostumada a isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:530
 translate brazilian_portuguese vm_wata_003_00_n01_dialog001_4ec32b6e:
