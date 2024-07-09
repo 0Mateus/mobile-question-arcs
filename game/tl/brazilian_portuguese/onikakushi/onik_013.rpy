@@ -4952,7 +4952,7 @@ translate brazilian_portuguese onik_013_2538155d:
 translate brazilian_portuguese onik_013_e940733f:
 
     # n "... I just needed to add more as I learned more about the truth."
-    n "... Eu só precisava acrescentar como eu aprendi mais sobre a verdade."
+    n "...Eu só precisaria acrescentar mais conforme eu descobrisse mais sobre a verdade."
 
 # game/onikakushi/onik_013.rpy:1418
 translate brazilian_portuguese onik_013_dfe1c077:

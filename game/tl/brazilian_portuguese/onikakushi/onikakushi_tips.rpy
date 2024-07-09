@@ -4,7 +4,7 @@ translate brazilian_portuguese onik_tips_01_ad8c3df4:
     # voice "voice/ps3/s20/01/440100001.ogg"
     # a_keiichi "\"... So, Rena, we're the same age?\""
     voice "voice/ps3/s20/01/440100001.ogg"
-    a_keiichi "\"... Então, Rena, nós temos a mesma idade?\""
+    a_keiichi "\"...Então, Rena, nós temos a mesma idade?\""
 
 # game/onikakushi/onikakushi_tips.rpy:13
 translate brazilian_portuguese onik_tips_01_afd6b92e:

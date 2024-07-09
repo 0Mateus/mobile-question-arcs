@@ -2626,7 +2626,7 @@ translate brazilian_portuguese onik_012_453daae6:
 translate brazilian_portuguese onik_012_727eaee5:
 
     # n "... I'd heard that it happens to people who are really methodical or overly sensitive."
-    n "... Eu ouvi falar que isso acontece com pessoas que são realmente metódicas ou excessivamente sensíveis."
+    n "...Eu ouvi falar que isso acontece com pessoas que são realmente metódicas ou excessivamente sensíveis."
 
 # game/onikakushi/onik_012.rpy:756
 translate brazilian_portuguese onik_012_2dc4098d_18:
