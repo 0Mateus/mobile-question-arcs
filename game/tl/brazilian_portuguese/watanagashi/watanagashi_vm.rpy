@@ -5824,7 +5824,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog001_2414b225:
     # voice "voice/ps3/s20/05/440500016.ogg"
     # a_rika "\"......There are others, like a loan shark, a land shark, a strip club, and a brothel.{nw}"
     voice "voice/ps3/s20/05/440500016.ogg"
-    a_rika "\"......There are others, like a loan shark, a land shark, a strip club, and a brothel.{nw}"
+    a_rika "\"......Há outros, como um agiota, um que explora a venda de terrenos, um clube de strippers, e um bordel.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3088
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog001_4ba30b81:
@@ -5832,7 +5832,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog001_4ba30b81:
     # voice sustain
     # extend " What I'm saying is they do lots of things.\""
     voice sustain
-    extend " What I'm saying is they do lots of things.\""
+    extend " O que eu quero dizer é que eles fazem muitas coisas diferentes.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3090
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog001_2dc4098d:
@@ -5846,7 +5846,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog002_fa21b8a6:
     # voice "voice/ps3/s20/01/440100056.ogg"
     # a_keiichi "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?{nw}"
     voice "voice/ps3/s20/01/440100056.ogg"
-    a_keiichi "\"So the reason she's so fussy about returning money she lent you is because the blood of loan sharks runs through her veins, huh?{nw}"
+    a_keiichi "\"Assim, a razão dela ser tão rigorosa em receber de volta as coisas emprestadas é o sangue de agiota que corre em sua veias, hã?{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3098
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog002_7e7e25af:
@@ -5854,7 +5854,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog002_7e7e25af:
     # voice sustain
     # extend " That explains that!\""
     voice sustain
-    extend " That explains that!\""
+    extend " É uma boa explicação!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3105
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_23d8175a:
@@ -5862,7 +5862,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_23d8175a:
     # voice "voice/ps3/s20/05/440500017.ogg"
     # a_rika "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,{nw}"
     voice "voice/ps3/s20/05/440500017.ogg"
-    a_rika "\"......Once, I completely forgot to pay Mii back for money she gave me to go shopping,{nw}"
+    a_rika "\"......Quando, uma vez, eu me esqueci completamente de devolver uma quantia de dinheiro que ela me emprestou para fazer compras,{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3107
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_b37e2d88:
@@ -5870,7 +5870,7 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_b37e2d88:
     # voice sustain
     # extend " and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\""
     voice sustain
-    extend " and she threatened me, saying that if I didn't return it all, she'd throw me into the red-light district and that would be the end of me.\""
+    extend " ela me ameaçou, dizendo que se eu não devolvesse, ela me jogaria no distrito da luz vermelha e eu passaria o resto da minha vida lá.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3109
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_2dc4098d:
@@ -5882,13 +5882,13 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_2dc4098d:
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_b117feb1:
 
     # n ".........Rika-chan being sold into the entertainment industry to pay off her debts..."
-    n ".........Rika-chan being sold into the entertainment industry to pay off her debts..."
+    n ".........Rika-chan sendo vendida para a indústria do entretenimento para pagar suas dívidas..."
 
 # game/watanagashi/watanagashi_vm.rpy:3111
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog003_dea61221:
 
     # n "......Ah, crap... my nosebleed~{font=DejaVuSans.ttf}☆{/font}"
-    n "......Ah, crap... my nosebleed~{font=DejaVuSans.ttf}☆{/font}"
+    n "......Ah, droga... meu nariz está sangrando~{font=DejaVuSans.ttf}☆{/font}"
 
 # game/watanagashi/watanagashi_vm.rpy:3117
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog004_f3d16907:
@@ -5896,25 +5896,25 @@ translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog004_f3d16907:
     # voice "voice/ps3/s20/04/440400025.ogg"
     # a_satoko "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
     voice "voice/ps3/s20/04/440400025.ogg"
-    a_satoko "\"Dying by being thrown on the ground must be the silliest form of death I've ever heard of~!\""
+    a_satoko "\"Morrer por ser jogada no distrito da luz vermelha deve ser uma das mortes mais estúpidas que já ouvi~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3119
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog004_d94dbd73:
 
     # n "......Huh?"
-    n "......Huh?"
+    n "......Hã?"
 
 # game/watanagashi/watanagashi_vm.rpy:3120
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog004_9571e3a9:
 
     # n "...She doesn't really get it, does she...?"
-    n "...She doesn't really get it, does she...?"
+    n "...Ela provavelmente não entendeu nada, não é...?"
 
 # game/watanagashi/watanagashi_vm.rpy:3121
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog004_6572205a:
 
     # n "Recently, she's seemed so... unspoiled."
-    n "Recently, she's seemed so... unspoiled."
+    n "Ela é uma criança pura e inocente."
 
 # game/watanagashi/watanagashi_vm.rpy:3132
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog001_8793a16d:
@@ -5922,7 +5922,7 @@ translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog001_8793a16d:
     # voice "voice/ps3/s20/05/440500016.ogg"
     # a_rika "\"......There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry. I heard they do lots of things.\""
     voice "voice/ps3/s20/05/440500016.ogg"
-    a_rika "\"......There are others, like a financial business, a real estate agent, an apparel business, and in the amusement industry. I heard they do lots of things.\""
+    a_rika "\"......Há outros, como um negócio financeiro, um agente imobiliário, um vestuário, e um na indústria do entretenimento. Ouvi falar que eles fazem muitas coisas diferentes.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3134
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog001_2dc4098d:
@@ -5936,7 +5936,7 @@ translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog002_0db9f862:
     # voice "voice/ps3/s20/01/440100056.ogg"
     # a_keiichi "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh? That explains that!\""
     voice "voice/ps3/s20/01/440100056.ogg"
-    a_keiichi "\"So the reason she's so fussy about the return date of things she lends out is because the blood of a financier runs through her veins, huh? That explains that!\""
+    a_keiichi "\"Assim, a razão dela ser tão rigorosa em receber de volta as coisas emprestadas é o sangue de financista que corre em sua veias, hã? É uma boa explicação!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3147
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_5c41c6b0:
@@ -5944,7 +5944,7 @@ translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_5c41c6b0:
     # voice "voice/ps3/s20/05/440500017.ogg"
     # a_rika "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her, and she threatened to force me to play a real-life Billionaire game.\""
     voice "voice/ps3/s20/05/440500017.ogg"
-    a_rika "\"......Once, I completely forgot to give Mii back the Billionaire game I borrowed from her, and she threatened to force me to play a real-life Billionaire game.\""
+    a_rika "\"......Quando, uma vez, eu me esqueci completamente de devolver o Jogo da Vida que eu tinha pego emprestado dela, ela me ameaçou, dizendo que se eu não devolvesse, ela me faria jogar um Jogo da Vida na vida real.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3149
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_2dc4098d:
@@ -5956,13 +5956,13 @@ translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_2dc4098d:
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_6a92797f:
 
     # n ".........Rika-chan playing a real-life Billionaire game..."
-    n ".........Rika-chan playing a real-life Billionaire game..."
+    n ".........Rika-chan jogando um Jogo da Vida na vida real..."
 
 # game/watanagashi/watanagashi_vm.rpy:3151
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog003_1f671bef:
 
     # n "......I get the feeling she'd claw her way up to a position as an IT billionaire..."
-    n "......I get the feeling she'd claw her way up to a position as an IT billionaire..."
+    n "......Eu tenho a sensação de que ela escalaria seu caminho até uma posição como uma milionária de TI..."
 
 # game/watanagashi/watanagashi_vm.rpy:3157
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog004_c89b9608:
@@ -5970,25 +5970,25 @@ translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog004_c89b9608:
     # voice "voice/ps3/s20/04/440400025.ogg"
     # a_satoko "\"Getting to play Billionaire for real does sound rather thrilling~!\""
     voice "voice/ps3/s20/04/440400025.ogg"
-    a_satoko "\"Getting to play Billionaire for real does sound rather thrilling~!\""
+    a_satoko "\"Ter de jogar Jogo da Vida na vida real parece bastante eletrizante~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3159
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog004_02f14b15:
 
     # n "......Satoko, huh?"
-    n "......Satoko, huh?"
+    n "......Satoko, hã?"
 
 # game/watanagashi/watanagashi_vm.rpy:3160
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog004_c6aa5dc2:
 
     # n "...She'd probably end up amassing grudges and bitterness from people before meeting her demise."
-    n "...She'd probably end up amassing grudges and bitterness from people before meeting her demise."
+    n "...Ela provavelmente iria acabar acumulando os rancores e a amargura das pessoas antes de encontrar seu fim."
 
 # game/watanagashi/watanagashi_vm.rpy:3161
 translate brazilian_portuguese vm_wata_tips_01_0x_n01_dialog004_dee7e732:
 
     # n "Well, that would seem fitting for her."
-    n "Well, that would seem fitting for her."
+    n "Bem, isso parece apropriado para ela."
 
 # game/watanagashi/watanagashi_vm.rpy:3172
 translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_6db6f889:
