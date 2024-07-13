@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2024-06-20 20:10
 
-translate brazilian_portuguese:
+translate brazilian_portuguese strings:
 
     old "{font=Times.ttf}I really meant to say things differently.{/font}"
     new "{font=Times.ttf}Eu realmente queria dizer as coisas de maneira diferente.{/font}"

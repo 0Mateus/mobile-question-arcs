@@ -982,7 +982,7 @@ translate brazilian_portuguese vm_wata_003_00_n01_dialog001_4ec32b6e:
     # voice "voice/ps3/s19/03/500300003.ogg"
     # extend " Unyieldingly so!!\""
     voice "voice/ps3/s19/03/500300003.ogg"
-    extend " Unyieldingly so!!\""
+    extend " Chega a ser paranoica!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:537
 translate brazilian_portuguese vm_wata_003_00_n01_dialog002_dc12b2de:
@@ -990,7 +990,7 @@ translate brazilian_portuguese vm_wata_003_00_n01_dialog002_dc12b2de:
     # voice "voice/ps3/s19/03/500300064.ogg"
     # a_mion "\"There's a story about how when a Michelin 3-star chef from France came to Japan, the people from the hotel he was staying at had a whole bunch of ingredients imported from France."
     voice "voice/ps3/s19/03/500300064.ogg"
-    a_mion "\"There's a story about how when a Michelin 3-star chef from France came to Japan, the people from the hotel he was staying at had a whole bunch of ingredients imported from France."
+    a_mion "\"Há uma história sobre quando um chefe Michelin 3 estrelas veio da França para o Japão, e as pessoas do hotel onde ele estava hospedado tinham um monte de ingredientes importados da França."
 
 # game/watanagashi/watanagashi_vm.rpy:546
 translate brazilian_portuguese vm_wata_003_0x_n01_dialog001_bd75ae25:
@@ -998,7 +998,9 @@ translate brazilian_portuguese vm_wata_003_0x_n01_dialog001_bd75ae25:
     # voice "voice/ps3/s19/03/500300003.ogg"
     # extend " Oh, passionately so!!\""
     voice "voice/ps3/s19/03/500300003.ogg"
-    extend " Oh, passionately so!!\""
+    #;
+    # extend " Oh, passionately so!!\""
+    extend " Chega a ser paranoica!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:553
 translate brazilian_portuguese vm_wata_003_0x_n01_dialog002_3fc5f735:
@@ -1006,7 +1008,7 @@ translate brazilian_portuguese vm_wata_003_0x_n01_dialog002_3fc5f735:
     # voice "voice/ps3/s19/03/500300064.ogg"
     # a_mion "\"There's a story about how when a famous chef from France came to Japan, the people from the hotel he was staying at had a whole bunch of ingredients imported from France."
     voice "voice/ps3/s19/03/500300064.ogg"
-    a_mion "\"There's a story about how when a famous chef from France came to Japan, the people from the hotel he was staying at had a whole bunch of ingredients imported from France."
+    a_mion "\"Há uma história sobre quando um famoso chefe veio da França para o Japão, e as pessoas do hotel onde ele estava hospedado tinham um monte de ingredientes importados da França."
 
 # game/watanagashi/watanagashi_vm.rpy:566
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_7b223c89:
