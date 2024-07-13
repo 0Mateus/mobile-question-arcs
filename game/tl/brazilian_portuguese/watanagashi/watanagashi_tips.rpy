@@ -718,7 +718,7 @@ translate brazilian_portuguese wata_tips_02_c2740470:
     # voice "voice/ps3/s20/04/440400027.ogg"
     # a_satoko "\"Huh?{nw}"
     voice "voice/ps3/s20/04/440400027.ogg"
-    a_satoko "\"Huh?{nw}"
+    a_satoko "\"Hã?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:262
 translate brazilian_portuguese wata_tips_02_3a643f89:
@@ -726,7 +726,7 @@ translate brazilian_portuguese wata_tips_02_3a643f89:
     # voice sustain
     # extend " Mion-san's family?\""
     voice sustain
-    extend " Mion-san's family?\""
+    extend " A família de Mion-san?\""
 
 # game/watanagashi/watanagashi_tips.rpy:264
 translate brazilian_portuguese wata_tips_02_c7f3976f:
@@ -734,7 +734,7 @@ translate brazilian_portuguese wata_tips_02_c7f3976f:
     # voice "voice/ps3/s20/01/440100057.ogg"
     # a_keiichi "\"Yeah.{nw}"
     voice "voice/ps3/s20/01/440100057.ogg"
-    a_keiichi "\"Yeah.{nw}"
+    a_keiichi "\"Sim.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:266
 translate brazilian_portuguese wata_tips_02_33128db9:
@@ -742,7 +742,7 @@ translate brazilian_portuguese wata_tips_02_33128db9:
     # voice sustain
     # extend " More broadly, I was just wondering if she had any brothers or anything.\""
     voice sustain
-    extend " More broadly, I was just wondering if she had any brothers or anything.\""
+    extend " Mais exatamente, eu estava me perguntando se ela teria irmãos.\""
 
 # game/watanagashi/watanagashi_tips.rpy:268
 translate brazilian_portuguese wata_tips_02_2dff26da:
@@ -750,13 +750,13 @@ translate brazilian_portuguese wata_tips_02_2dff26da:
     # nvl clear
     # n "I was actually wondering whether her younger twin sister named Shion really existed,"
     nvl clear
-    n "I was actually wondering whether her younger twin sister named Shion really existed,"
+    n "Na verdade eu estava perguntando se Shion realmente existia,"
 
 # game/watanagashi/watanagashi_tips.rpy:271
 translate brazilian_portuguese wata_tips_02_8e71ff25:
 
     # extend " and my curiosity got the better of me, so I quietly asked Satoko about it."
-    extend " and my curiosity got the better of me, so I quietly asked Satoko about it."
+    extend " e minha curiosidade não tinha fim, então eu falei de modo indireto para Satoko a respeito."
 
 # game/watanagashi/watanagashi_tips.rpy:272
 translate brazilian_portuguese wata_tips_02_76b2fe88:
@@ -778,7 +778,7 @@ translate brazilian_portuguese wata_tips_02_4ee1f842:
     # voice sustain
     # extend " ...I wonder..."
     voice sustain
-    extend " ...I wonder..."
+    extend " ...Eu me pergunto..."
 
 # game/watanagashi/watanagashi_tips.rpy:279
 translate brazilian_portuguese wata_tips_02_118f85e6:
@@ -786,19 +786,19 @@ translate brazilian_portuguese wata_tips_02_118f85e6:
     # voice "voice/ps3/s20/04/440400029.ogg"
     # extend " She might, she might not...\""
     voice "voice/ps3/s20/04/440400029.ogg"
-    extend " She might, she might not...\""
+    extend " Pode ser que sim, pode ser que não...\""
 
 # game/watanagashi/watanagashi_tips.rpy:281
 translate brazilian_portuguese wata_tips_02_af04e04d:
 
     # n "She wasn't being very clear about it."
-    n "She wasn't being very clear about it."
+    n "Ela não estava sendo muito clara."
 
 # game/watanagashi/watanagashi_tips.rpy:282
 translate brazilian_portuguese wata_tips_02_29ccdf69:
 
     # n "...Had Satoko never gone over to Mion's house to play?"
-    n "...Had Satoko never gone over to Mion's house to play?"
+    n "...Será que Satoko nunca tinha ido brincar na casa de Mion?"
 
 # game/watanagashi/watanagashi_tips.rpy:283
 translate brazilian_portuguese wata_tips_02_45cda8ac:
@@ -808,7 +808,7 @@ translate brazilian_portuguese wata_tips_02_45cda8ac:
     # a_keiichi "\"From your reaction... I guess you've never met any.\""
     nvl clear
     voice "voice/ps3/s20/01/440100058.ogg"
-    a_keiichi "\"From your reaction... I guess you've never met any.\""
+    a_keiichi "\"De sua reação... Eu acho que você nunca encontrou ninguém.\""
 
 # game/watanagashi/watanagashi_tips.rpy:288
 translate brazilian_portuguese wata_tips_02_4d6f27c1:
@@ -816,7 +816,7 @@ translate brazilian_portuguese wata_tips_02_4d6f27c1:
     # voice "voice/ps3/s20/04/440400030.ogg"
     # a_satoko "\"Yes.{nw}"
     voice "voice/ps3/s20/04/440400030.ogg"
-    a_satoko "\"Yes.{nw}"
+    a_satoko "\"Isso mesmo.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:290
 translate brazilian_portuguese wata_tips_02_01ee0179:
@@ -824,13 +824,13 @@ translate brazilian_portuguese wata_tips_02_01ee0179:
     # voice sustain
     # extend " I've never seen any of her relatives except for her grandmother.\""
     voice sustain
-    extend " I've never seen any of her relatives except for her grandmother.\""
+    extend " Eu nunca me encontrei com qualquer de seus parentes, exceto a avó dela.\""
 
 # game/watanagashi/watanagashi_tips.rpy:292
 translate brazilian_portuguese wata_tips_02_e43e436e:
 
     # n "As far as I could tell... there were already dark clouds over the \"Shion is real\" theory."
-    n "As far as I could tell... there were already dark clouds over the \"Shion is real\" theory."
+    n "Eu poderia dizer que havia nuvens escuras sobre a teoria de que \"Shion é real\"."
 
 # game/watanagashi/watanagashi_tips.rpy:293
 translate brazilian_portuguese wata_tips_02_b4927c19:
@@ -840,7 +840,7 @@ translate brazilian_portuguese wata_tips_02_b4927c19:
     # a_satoko "\"Rika would know more than I.{nw}"
     nvl clear
     voice "voice/ps3/s20/04/440400031.ogg"
-    a_satoko "\"Rika would know more than I.{nw}"
+    a_satoko "\"Rika deve saber mais do que eu.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:297
 translate brazilian_portuguese wata_tips_02_6190cc15:
@@ -848,7 +848,7 @@ translate brazilian_portuguese wata_tips_02_6190cc15:
     # voice sustain
     # extend " You would do well to ask her.\""
     voice sustain
-    extend " You would do well to ask her.\""
+    extend " Você devia perguntar a ela.\""
 
 # game/watanagashi/watanagashi_tips.rpy:299
 translate brazilian_portuguese wata_tips_02_76b2fe88_1:
@@ -860,7 +860,7 @@ translate brazilian_portuguese wata_tips_02_76b2fe88_1:
 translate brazilian_portuguese wata_tips_02_5c937fd5:
 
     # n "Satoko waved to Rika-chan, who was basking in the sunlight."
-    n "Satoko waved to Rika-chan, who was basking in the sunlight."
+    n "Satoko acenou para Rika-chan, que estava se aquecendo à luz do sol."
 
 # game/watanagashi/watanagashi_tips.rpy:305
 translate brazilian_portuguese wata_tips_02_76b2fe88_2:
@@ -882,13 +882,13 @@ translate brazilian_portuguese wata_tips_02_3be9be96:
     # voice sustain
     # extend " Do you know anything about Mion-san's family?\""
     voice sustain
-    extend " Do you know anything about Mion-san's family?\""
+    extend " Você sabe algo a respeito da família de Mion-san?\""
 
 # game/watanagashi/watanagashi_tips.rpy:312
 translate brazilian_portuguese wata_tips_02_cc85e8c1:
 
     # n "Rika-chan was surprised at the sudden question."
-    n "Rika-chan was surprised at the sudden question."
+    n "Rika-chan ficou surpresa com a questão súbita."
 
 # game/watanagashi/watanagashi_tips.rpy:313
 translate brazilian_portuguese wata_tips_02_76b2fe88_3:
@@ -902,7 +902,7 @@ translate brazilian_portuguese wata_tips_02_ed46ae11:
     # voice "voice/ps3/s20/05/440500019.ogg"
     # a_rika "\"......Mii has a big family, so I don't really know everything about them.\""
     voice "voice/ps3/s20/05/440500019.ogg"
-    a_rika "\"......Mii has a big family, so I don't really know everything about them.\""
+    a_rika "\"......Mii tem uma família grande, então eu realmente não sei tudo sobre eles.\""
 
 # game/watanagashi/watanagashi_tips.rpy:318
 translate brazilian_portuguese wata_tips_02_99f955ce:
@@ -910,7 +910,7 @@ translate brazilian_portuguese wata_tips_02_99f955ce:
     # voice "voice/ps3/s20/01/440100059.ogg"
     # a_keiichi "\"That many, huh...?{nw}"
     voice "voice/ps3/s20/01/440100059.ogg"
-    a_keiichi "\"That many, huh...?{nw}"
+    a_keiichi "\"São muitos, hã...?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:320
 translate brazilian_portuguese wata_tips_02_345b2d2d:
@@ -918,7 +918,7 @@ translate brazilian_portuguese wata_tips_02_345b2d2d:
     # voice sustain
     # extend " For example..."
     voice sustain
-    extend " For example..."
+    extend " Por exemplo..."
 
 # game/watanagashi/watanagashi_tips.rpy:322
 translate brazilian_portuguese wata_tips_02_65eb40fc:
@@ -934,7 +934,7 @@ translate brazilian_portuguese wata_tips_02_b130982c:
     # voice "voice/ps3/s20/01/440100061.ogg"
     # extend " Is there someone named Shion Sonozaki?"
     voice "voice/ps3/s20/01/440100061.ogg"
-    extend " Is there someone named Shion Sonozaki?"
+    extend " Há alguém chamada Sonozaki Shion?"
 
 # game/watanagashi/watanagashi_tips.rpy:326
 translate brazilian_portuguese wata_tips_02_160dc025:
@@ -942,7 +942,7 @@ translate brazilian_portuguese wata_tips_02_160dc025:
     # voice "voice/ps3/s20/01/440100062.ogg"
     # extend " Umm, well... I might have heard wrong, so she might not actually exist, but...\""
     voice "voice/ps3/s20/01/440100062.ogg"
-    extend " Umm, well... I might have heard wrong, so she might not actually exist, but...\""
+    extend " Umm, bem... eu posso ter ouvido errado, pode ser que ela realmente não exista, mas...\""
 
 # game/watanagashi/watanagashi_tips.rpy:328
 translate brazilian_portuguese wata_tips_02_76b2fe88_4:
@@ -956,7 +956,7 @@ translate brazilian_portuguese wata_tips_02_20c56509:
     # voice "voice/ps3/s20/05/440500020.ogg"
     # a_rika "\"......You mean Shii?{nw}"
     voice "voice/ps3/s20/05/440500020.ogg"
-    a_rika "\"......You mean Shii?{nw}"
+    a_rika "\"......Você quer dizer Shii?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:333
 translate brazilian_portuguese wata_tips_02_bc464692:
@@ -964,25 +964,25 @@ translate brazilian_portuguese wata_tips_02_bc464692:
     # voice sustain
     # extend " Shion exists.\""
     voice sustain
-    extend " Shion exists.\""
+    extend " Shion existe.\""
 
 # game/watanagashi/watanagashi_tips.rpy:335
 translate brazilian_portuguese wata_tips_02_33d36d5f:
 
     # n "Huh?"
-    n "Huh?"
+    n "Hã?"
 
 # game/watanagashi/watanagashi_tips.rpy:336
 translate brazilian_portuguese wata_tips_02_78ef1375:
 
     # n "That was unexpected."
-    n "That was unexpected."
+    n "Isso foi inesperado."
 
 # game/watanagashi/watanagashi_tips.rpy:337
 translate brazilian_portuguese wata_tips_02_fabe3aee:
 
     # extend " So she was real...!"
-    extend " So she was real...!"
+    extend " Então ela era real...!"
 
 # game/watanagashi/watanagashi_tips.rpy:338
 translate brazilian_portuguese wata_tips_02_76b2fe88_5:
@@ -1004,7 +1004,7 @@ translate brazilian_portuguese wata_tips_02_9dab5410:
     # voice sustain
     # extend " Their names are quite similar, you know."
     voice sustain
-    extend " Their names are quite similar, you know."
+    extend " Seus nomes são muito similares, sabe."
 
 # game/watanagashi/watanagashi_tips.rpy:345
 translate brazilian_portuguese wata_tips_02_a83f8890:
@@ -1012,7 +1012,7 @@ translate brazilian_portuguese wata_tips_02_a83f8890:
     # voice "voice/ps3/s20/04/440400034.ogg"
     # extend " I could get tongue-tied trying to tell the difference.\""
     voice "voice/ps3/s20/04/440400034.ogg"
-    extend " I could get tongue-tied trying to tell the difference.\""
+    extend " Eu poderia enrolar a língua tentando dizer a diferença.\""
 
 # game/watanagashi/watanagashi_tips.rpy:347
 translate brazilian_portuguese wata_tips_02_8ba03519:
@@ -1020,7 +1020,7 @@ translate brazilian_portuguese wata_tips_02_8ba03519:
     # voice "voice/ps3/s20/05/440500021.ogg"
     # a_rika "\"......I've heard she's Mii's younger twin sister, but I haven't met her too many times.\""
     voice "voice/ps3/s20/05/440500021.ogg"
-    a_rika "\"......I've heard she's Mii's younger twin sister, but I haven't met her too many times.\""
+    a_rika "\"......Eu ouvi que ela é irmã gêmea de Mii, mas eu não me encontrei com ela muitas vezes.\""
 
 # game/watanagashi/watanagashi_tips.rpy:349
 translate brazilian_portuguese wata_tips_02_2dc4098d:
@@ -1032,7 +1032,7 @@ translate brazilian_portuguese wata_tips_02_2dc4098d:
 translate brazilian_portuguese wata_tips_02_26ac8bae:
 
     # n "Rika-chan knew a bit about her as well, but hadn't seen her much."
-    n "Rika-chan knew a bit about her as well, but hadn't seen her much."
+    n "Rika-chan conhecia a respeito dela, mas não parecia ser muita coisa."
 
 # game/watanagashi/watanagashi_tips.rpy:351
 translate brazilian_portuguese wata_tips_02_732384a9:
@@ -1042,7 +1042,7 @@ translate brazilian_portuguese wata_tips_02_732384a9:
     # a_rika "\"......I think I met her once at a funeral a few years ago.\""
     nvl clear
     voice "voice/ps3/s20/05/440500022.ogg"
-    a_rika "\"......I think I met her once at a funeral a few years ago.\""
+    a_rika "\"......Eu acho que eu encontrei ela num funeral há alguns anos.\""
 
 # game/watanagashi/watanagashi_tips.rpy:355
 translate brazilian_portuguese wata_tips_02_473e37b6:
@@ -1050,7 +1050,7 @@ translate brazilian_portuguese wata_tips_02_473e37b6:
     # voice "voice/ps3/s20/01/440100063.ogg"
     # a_keiichi "\"She's not in this class, so maybe she goes to school in Okinomiya.\""
     voice "voice/ps3/s20/01/440100063.ogg"
-    a_keiichi "\"She's not in this class, so maybe she goes to school in Okinomiya.\""
+    a_keiichi "\"Ela não está nesta escola, talvez ela frequente a escola em Okonomiya.\""
 
 # game/watanagashi/watanagashi_tips.rpy:358
 translate brazilian_portuguese wata_tips_02_b29849af:
@@ -1058,7 +1058,7 @@ translate brazilian_portuguese wata_tips_02_b29849af:
     # voice "voice/ps3/s20/04/440400035.ogg"
     # a_satoko "\"She may live there, too.{nw}"
     voice "voice/ps3/s20/04/440400035.ogg"
-    a_satoko "\"She may live there, too.{nw}"
+    a_satoko "\"Talvez ela também more lá.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:360
 translate brazilian_portuguese wata_tips_02_efe23aa4:
@@ -1066,25 +1066,25 @@ translate brazilian_portuguese wata_tips_02_efe23aa4:
     # voice sustain
     # extend " Mion-san herself lives apart from her family with her grandmother, after all.\""
     voice sustain
-    extend " Mion-san herself lives apart from her family with her grandmother, after all.\""
+    extend " Mesmo Mion-san não vive com sua família principal, mas com sua avó, no fim das contas.\""
 
 # game/watanagashi/watanagashi_tips.rpy:362
 translate brazilian_portuguese wata_tips_02_0a67096c:
 
     # n "She didn't live with her parents?"
-    n "She didn't live with her parents?"
+    n "Ela não mora com seus pais?"
 
 # game/watanagashi/watanagashi_tips.rpy:363
 translate brazilian_portuguese wata_tips_02_f1c8ff98:
 
     # extend " That was a bit odd."
-    extend " That was a bit odd."
+    extend " Isso é um pouco estranho."
 
 # game/watanagashi/watanagashi_tips.rpy:364
 translate brazilian_portuguese wata_tips_02_1e7d4dab:
 
     # extend " Was there something between them?"
-    extend " Was there something between them?"
+    extend " Houve alguma coisa entre eles?"
 
 # game/watanagashi/watanagashi_tips.rpy:365
 translate brazilian_portuguese wata_tips_02_76b2fe88_6:
@@ -1098,7 +1098,7 @@ translate brazilian_portuguese wata_tips_02_595769e0:
     # voice "voice/ps3/s20/05/440500023.ogg"
     # a_rika "\"......It's a very complicated family.\""
     voice "voice/ps3/s20/05/440500023.ogg"
-    a_rika "\"......It's a very complicated family.\""
+    a_rika "\"......É uma família muito complicada ~nano desu.\""
 
 # game/watanagashi/watanagashi_tips.rpy:371
 translate brazilian_portuguese wata_tips_02_34e1be0f:
@@ -1106,7 +1106,7 @@ translate brazilian_portuguese wata_tips_02_34e1be0f:
     # voice "voice/ps3/s20/04/440400036.ogg"
     # a_satoko "\"She seems to have many relatives.{nw}"
     voice "voice/ps3/s20/04/440400036.ogg"
-    a_satoko "\"She seems to have many relatives.{nw}"
+    a_satoko "\"Ela parece ter muitos parentes.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:373
 translate brazilian_portuguese wata_tips_02_fa2071f0:
@@ -1114,13 +1114,13 @@ translate brazilian_portuguese wata_tips_02_fa2071f0:
     # voice sustain
     # extend " There are doubtless many different circumstances.\""
     voice sustain
-    extend " There are doubtless many different circumstances.\""
+    extend " Sem dúvida há circunstâncias especiais ~wa.\""
 
 # game/watanagashi/watanagashi_tips.rpy:375
 translate brazilian_portuguese wata_tips_02_4843db7f:
 
     # n "For now, I learned that she had a younger twin sister named Shion, but her family structure, including her own position, still seemed very mysterious..."
-    n "For now, I learned that she had a younger twin sister named Shion, but her family structure, including her own position, still seemed very mysterious..."
+    n "Por enquanto, eu aprendi que ela tinha uma irmã mais nova chamada Shion, mas a estrutura de sua família, incluindo sua própria posição, ainda parecia muito misteriosa..."
 
 # game/watanagashi/watanagashi_tips.rpy:376
 translate brazilian_portuguese wata_tips_02_76b2fe88_7:
@@ -1134,7 +1134,7 @@ translate brazilian_portuguese wata_tips_02_7c9c09dd:
     # voice "voice/ps3/s20/03/440300054.ogg"
     # a_mion "\"Oh, what are the three of you talking about?{nw}"
     voice "voice/ps3/s20/03/440300054.ogg"
-    a_mion "\"Oh, what are the three of you talking about?{nw}"
+    a_mion "\"Oh, sobre o quê vocês três estão falando?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:383
 translate brazilian_portuguese wata_tips_02_fcf131c0:
@@ -1142,7 +1142,7 @@ translate brazilian_portuguese wata_tips_02_fcf131c0:
     # voice sustain
     # extend " Let this old man in on it!\""
     voice sustain
-    extend " Let this old man in on it!\""
+    extend " Deixem Oji-san participar!\""
 
 # game/watanagashi/watanagashi_tips.rpy:387
 translate brazilian_portuguese wata_tips_02_9dddc766:
@@ -1150,7 +1150,7 @@ translate brazilian_portuguese wata_tips_02_9dddc766:
     # voice "voice/ps3/s20/04/440400037.ogg"
     # a_satoko "\"Oh, Mion-san, you've come at a good time~!{nw}"
     voice "voice/ps3/s20/04/440400037.ogg"
-    a_satoko "\"Oh, Mion-san, you've come at a good time~!{nw}"
+    a_satoko "\"Oh, Mion-san, você chegou na hora certa~!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:389
 translate brazilian_portuguese wata_tips_02_59f38df5:
@@ -1158,13 +1158,13 @@ translate brazilian_portuguese wata_tips_02_59f38df5:
     # voice sustain
     # extend " Might it be true that you have a younger twin sister?\""
     voice sustain
-    extend " Might it be true that you have a younger twin sister?\""
+    extend " É verdade que você tem uma irmã gêmea mais nova?\""
 
 # game/watanagashi/watanagashi_tips.rpy:391
 translate brazilian_portuguese wata_tips_02_726e83e1:
 
     # n "Ah... Mion... crap..."
-    n "Ah... Mion... crap..."
+    n "Ah... Mion... droga..."
 
 # game/watanagashi/watanagashi_tips.rpy:392
 translate brazilian_portuguese wata_tips_02_76b2fe88_8:
@@ -1178,7 +1178,7 @@ translate brazilian_portuguese wata_tips_02_30ae8558:
     # voice "voice/ps3/s20/03/440300055.ogg"
     # a_mion "\"...A... a younger sister...!?"
     voice "voice/ps3/s20/03/440300055.ogg"
-    a_mion "\"...A... a younger sister...!?"
+    a_mion "\"...Uma... uma irmã mais nova...!?"
 
 # game/watanagashi/watanagashi_tips.rpy:398
 translate brazilian_portuguese wata_tips_02_d6ca3c3b:
@@ -1186,7 +1186,7 @@ translate brazilian_portuguese wata_tips_02_d6ca3c3b:
     # voice "voice/ps3/s20/03/440300056.ogg"
     # nvl_extend "Um, well......... y-yeah.{w=2.2}{nw}"
     voice "voice/ps3/s20/03/440300056.ogg"
-    nvl_extend "Um, well......... y-yeah.{w=2.2}{nw}"
+    nvl_extend "Hum, bem......... s-sim.{w=2.2}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:400
 translate brazilian_portuguese wata_tips_02_4404b76a:
@@ -1194,19 +1194,19 @@ translate brazilian_portuguese wata_tips_02_4404b76a:
     # voice sustain
     # extend " I do...\""
     voice sustain
-    extend " I do...\""
+    extend " Eu tenho...\""
 
 # game/watanagashi/watanagashi_tips.rpy:402
 translate brazilian_portuguese wata_tips_02_d7425168:
 
     # n "Mion grew uncharacteristically red in the face, at a loss."
-    n "Mion grew uncharacteristically red in the face, at a loss."
+    n "Mion ficou vermelha, meio perdida."
 
 # game/watanagashi/watanagashi_tips.rpy:403
 translate brazilian_portuguese wata_tips_02_4a65cd56:
 
     # n "...I think she's looking at me..."
-    n "...I think she's looking at me..."
+    n "...Eu acho que ela está olhando para mim..."
 
 # game/watanagashi/watanagashi_tips.rpy:404
 translate brazilian_portuguese wata_tips_02_76b2fe88_9:
@@ -1220,7 +1220,7 @@ translate brazilian_portuguese wata_tips_02_e52dbb91:
     # voice "voice/ps3/s20/04/440400038.ogg"
     # a_satoko "\"Oh, my~!{nw}"
     voice "voice/ps3/s20/04/440400038.ogg"
-    a_satoko "\"Oh, my~!{nw}"
+    a_satoko "\"Oh~!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:409
 translate brazilian_portuguese wata_tips_02_b843d616:
@@ -1228,7 +1228,7 @@ translate brazilian_portuguese wata_tips_02_b843d616:
     # voice sustain
     # extend " I had no idea~!"
     voice sustain
-    extend " I had no idea~!"
+    extend " Eu não fazia ideia~!"
 
 # game/watanagashi/watanagashi_tips.rpy:411
 translate brazilian_portuguese wata_tips_02_e77f7dd3:
@@ -1236,7 +1236,7 @@ translate brazilian_portuguese wata_tips_02_e77f7dd3:
     # voice "voice/ps3/s20/04/440400039.ogg"
     # extend " What kind of person might she be?"
     voice "voice/ps3/s20/04/440400039.ogg"
-    extend " What kind of person might she be?"
+    extend " Que tipo de pessoa ela é?"
 
 # game/watanagashi/watanagashi_tips.rpy:413
 translate brazilian_portuguese wata_tips_02_a317931e:
@@ -1244,7 +1244,7 @@ translate brazilian_portuguese wata_tips_02_a317931e:
     # voice "voice/ps3/s20/04/440400040.ogg"
     # extend " I would very much like to meet her sometime!!\""
     voice "voice/ps3/s20/04/440400040.ogg"
-    extend " I would very much like to meet her sometime!!\""
+    extend " Eu gostaria muito de conhecer ela um dia desses!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:416
 translate brazilian_portuguese wata_tips_02_c0e68118:
@@ -1252,7 +1252,7 @@ translate brazilian_portuguese wata_tips_02_c0e68118:
     # voice "voice/ps3/s20/03/440300057.ogg"
     # a_mion "\"You shouldn't bother! Sh-She's not cute at all!"
     voice "voice/ps3/s20/03/440300057.ogg"
-    a_mion "\"You shouldn't bother! Sh-She's not cute at all!"
+    a_mion "\"Você não deveria se importar! E-ela não tem nada de meiga!"
 
 # game/watanagashi/watanagashi_tips.rpy:418
 translate brazilian_portuguese wata_tips_02_ac985a28:
@@ -1260,7 +1260,7 @@ translate brazilian_portuguese wata_tips_02_ac985a28:
     # voice "voice/ps3/s20/03/440300058.ogg"
     # extend " She's really conceited!"
     voice "voice/ps3/s20/03/440300058.ogg"
-    extend " She's really conceited!"
+    extend " Ela na verdade é muito pretensiosa!"
 
 # game/watanagashi/watanagashi_tips.rpy:420
 translate brazilian_portuguese wata_tips_02_da69332d:
@@ -1268,7 +1268,7 @@ translate brazilian_portuguese wata_tips_02_da69332d:
     # voice "voice/ps3/s20/03/440300059.ogg"
     # extend " Besides, other than talking to her on the phone once in a while...{nw}"
     voice "voice/ps3/s20/03/440300059.ogg"
-    extend " Besides, other than talking to her on the phone once in a while...{nw}"
+    extend " E além disso, eu quase só falo com ela no telefone...{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:422
 translate brazilian_portuguese wata_tips_02_210be66a:
@@ -1276,7 +1276,7 @@ translate brazilian_portuguese wata_tips_02_210be66a:
     # voice sustain
     # extend " I haven't seen her for a long time, either...!\""
     voice sustain
-    extend " I haven't seen her for a long time, either...!\""
+    extend " eu não a vejo faz um bom tempo...!\""
 
 # game/watanagashi/watanagashi_tips.rpy:424
 translate brazilian_portuguese wata_tips_02_e655680e:
@@ -1284,13 +1284,13 @@ translate brazilian_portuguese wata_tips_02_e655680e:
     # nvl clear
     # n "......Why did it look like she was in such a panic...?"
     nvl clear
-    n "......Why did it look like she was in such a panic...?"
+    n "......Por que ela está parecendo entrar em pânico...?"
 
 # game/watanagashi/watanagashi_tips.rpy:427
 translate brazilian_portuguese wata_tips_02_f07ead64:
 
     # n "It's like she was declaring that the Shion from yesterday was actually a fake..."
-    n "It's like she was declaring that the Shion from yesterday was actually a fake..."
+    n "É como se ela estivesse confessando que a Shion de ontem era realmente uma farsa..."
 
 # game/watanagashi/watanagashi_tips.rpy:428
 translate brazilian_portuguese wata_tips_02_2dc4098d_1:
@@ -1302,7 +1302,7 @@ translate brazilian_portuguese wata_tips_02_2dc4098d_1:
 translate brazilian_portuguese wata_tips_02_64b7b2d0:
 
     # n "Anyway, this was pretty funny, so I let it go for a little while longer."
-    n "Anyway, this was pretty funny, so I let it go for a little while longer."
+    n "De qualquer jeito, isso era divertido, assim eu deixei a situação prosseguir."
 
 # game/watanagashi/watanagashi_tips.rpy:430
 translate brazilian_portuguese wata_tips_02_39f38b46:
@@ -1310,13 +1310,13 @@ translate brazilian_portuguese wata_tips_02_39f38b46:
     # nvl clear
     # n "...Another Mion, under the name of Shion."
     nvl clear
-    n "...Another Mion, under the name of Shion."
+    n "...Outra Mion, sob o nome de Shion."
 
 # game/watanagashi/watanagashi_tips.rpy:433
 translate brazilian_portuguese wata_tips_02_d3f37892:
 
     # n "...Will I be able to see her if I go to that restaurant again?"
-    n "...Will I be able to see her if I go to that restaurant again?"
+    n "...Eu serei capaz de vê-la se eu for àquele restaurante de novo?"
 
 # game/watanagashi/watanagashi_tips.rpy:434
 translate brazilian_portuguese wata_tips_02_2dc4098d_2:
@@ -1328,7 +1328,7 @@ translate brazilian_portuguese wata_tips_02_2dc4098d_2:
 translate brazilian_portuguese wata_tips_02_219f5295:
 
     # n "I had a mysterious feeling, as if I'd made a new friend, despite knowing that she and Mion were the same person."
-    n "I had a mysterious feeling, as if I'd made a new friend, despite knowing that she and Mion were the same person."
+    n "Eu tinha uma sensação estranha, como se eu tivesse feito uma nova amiga, a despeito de saber que ela e Mion eram a mesma pessoa."
 
 # game/watanagashi/watanagashi_tips.rpy:436
 translate brazilian_portuguese wata_tips_02_76b2fe88_10:
@@ -1340,7 +1340,7 @@ translate brazilian_portuguese wata_tips_02_76b2fe88_10:
 translate brazilian_portuguese wata_tips_03_8e677495:
 
     # n "Reprinted from {i}{b}The Victorious War Photographer's Guide{/b}{/i}, April issue, {b}\"Complete Conquest Analysis (Family Restaurant Chapter).\"{/b}"
-    n "Reprinted from {i}{b}The Victorious War Photographer's Guide{/b}{/i}, April issue, {b}\"Complete Conquest Analysis (Family Restaurant Chapter).\"{/b}"
+    n "Reimpresso de {i}{b}O Guia do Fotógrafo de Guerra Vitorioso{/b}{/i}, edição de abril, {b}\"Análise de Conquista Completa (Capítulo Restaurante Familiar).\"{/b}"
 
 # game/watanagashi/watanagashi_tips.rpy:454
 translate brazilian_portuguese wata_tips_03_76b2fe88:
@@ -1352,7 +1352,7 @@ translate brazilian_portuguese wata_tips_03_76b2fe88:
 translate brazilian_portuguese wata_tips_03_01793db8:
 
     # n "Now, at last, we come to the blazing-hot third day."
-    n "Now, at last, we come to the blazing-hot third day."
+    n "Agora, por fim, chegamos ao terceiro dia de calor intenso."
 
 # game/watanagashi/watanagashi_tips.rpy:459
 translate brazilian_portuguese wata_tips_03_2dc4098d:
@@ -1364,19 +1364,19 @@ translate brazilian_portuguese wata_tips_03_2dc4098d:
 translate brazilian_portuguese wata_tips_03_362a5333:
 
     # n "To Angel Mort, a super-famous restaurant and the envy of all enthusiasts, despite being located in the remote Shishibone City of ×× Prefecture."
-    n "To Angel Mort, a super-famous restaurant and the envy of all enthusiasts, despite being located in the remote Shishibone City of ×× Prefecture."
+    n "Em direção ao Angel Mort, um restaurante super famoso e de dar inveja a todos os entusiastas, a despeito de ser localizado na remota cidade de Shishibone da Prefeitura ××."
 
 # game/watanagashi/watanagashi_tips.rpy:461
 translate brazilian_portuguese wata_tips_03_ccc7cc7f:
 
     # n "Why, exactly, do the most famous stores avoid the centers of human habitation?"
-    n "Why, exactly, do the most famous stores avoid the centers of human habitation?"
+    n "Por que, exatamente, os lugares mais famosos evitam os grandes centros de habitação humana?"
 
 # game/watanagashi/watanagashi_tips.rpy:462
 translate brazilian_portuguese wata_tips_03_b3029de9:
 
     # extend " It can only be because it is a trial given to us by the God of War Photography."
-    extend " It can only be because it is a trial given to us by the God of War Photography."
+    extend " Isso deve ser um desafio imposto por nós pelo Deus da Guerra da Fotografia."
 
 # game/watanagashi/watanagashi_tips.rpy:463
 translate brazilian_portuguese wata_tips_03_76b2fe88_1:
@@ -1388,13 +1388,13 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_1:
 translate brazilian_portuguese wata_tips_03_3953ea93:
 
     # n "It's famous locally for having the best desserts in town, but that matters not to us!"
-    n "It's famous locally for having the best desserts in town, but that matters not to us!"
+    n "Ele é famoso localmente por ter as melhores sobremesas, mas isso não nos interessa!"
 
 # game/watanagashi/watanagashi_tips.rpy:467
 translate brazilian_portuguese wata_tips_03_0eeed9e5:
 
     # n "If you want expensive desserts, then you can just go to a [censored] place or something!"
-    n "If you want expensive desserts, then you can just go to a [censored] place or something!"
+    n "Se você quer sobremesas caras, então simplesmente vá à loja [censurado] ou algo assim!"
 
 # game/watanagashi/watanagashi_tips.rpy:468
 translate brazilian_portuguese wata_tips_03_2dc4098d_1:
@@ -1406,7 +1406,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_1:
 translate brazilian_portuguese wata_tips_03_adc6dc59:
 
     # n "We aim not for sweet treats... but for sweet uniforms!!"
-    n "We aim not for sweet treats... but for sweet uniforms!!"
+    n "Nós não estamos atrás de pratos doces... mas de uniformes doces!!"
 
 # game/watanagashi/watanagashi_tips.rpy:470
 translate brazilian_portuguese wata_tips_03_76b2fe88_2:
@@ -1418,13 +1418,13 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_2:
 translate brazilian_portuguese wata_tips_03_bf725b40:
 
     # n "The fragrant aroma of sweat wafts from these obligatory waitress uniforms, creating no less than a public torture device!"
-    n "The fragrant aroma of sweat wafts from these obligatory waitress uniforms, creating no less than a public torture device!"
+    n "Um aroma perfumado flutua a partir destes uniformes de garçonetes, criando nada menos do que um dispositivo de tortura pública!"
 
 # game/watanagashi/watanagashi_tips.rpy:474
 translate brazilian_portuguese wata_tips_03_85355783:
 
     # n "How can their bashful flirtation be on par with all the other restaurants with cute uniforms all across the country!?"
-    n "How can their bashful flirtation be on par with all the other restaurants with cute uniforms all across the country!?"
+    n "Como ele pode, mesmo com seu porte tímido, estar em pé de igualdade com todos os outros restaurantes com uniformes meigos de todo o país!?"
 
 # game/watanagashi/watanagashi_tips.rpy:475
 translate brazilian_portuguese wata_tips_03_2dc4098d_2:
@@ -1436,13 +1436,13 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_2:
 translate brazilian_portuguese wata_tips_03_7741816a:
 
     # n "War Photography Hunter..."
-    n "War Photography Hunter..."
+    n "O Caçador da Fotografia de Guerra..."
 
 # game/watanagashi/watanagashi_tips.rpy:478
 translate brazilian_portuguese wata_tips_03_7802c568:
 
     # extend " Awaaaay!!"
-    extend " Awaaaay!!"
+    extend " Ao ataqueee!!"
 
 # game/watanagashi/watanagashi_tips.rpy:479
 translate brazilian_portuguese wata_tips_03_76b2fe88_3:
@@ -1454,7 +1454,7 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_3:
 translate brazilian_portuguese wata_tips_03_c4392cc5:
 
     # n "{b}{font=DejaVuSans.ttf}★{/font}The smoking areas are the real super positions? Aim for your chance at them with the tenacity of an octopus!{/b}"
-    n "{b}{font=DejaVuSans.ttf}★{/font}The smoking areas are the real super positions? Aim for your chance at them with the tenacity of an octopus!{/b}"
+    n "{b}{font=DejaVuSans.ttf}★{/font}As áreas para fumantes são as melhores posições? Grude nelas com a tenacidade de um polvo!{/b}"
 
 # game/watanagashi/watanagashi_tips.rpy:486
 translate brazilian_portuguese wata_tips_03_f6cd6e63:
@@ -1462,25 +1462,25 @@ translate brazilian_portuguese wata_tips_03_f6cd6e63:
     # nvl clear
     # n "Ryuu: {i}\"Yesterday, I failed to get seating.{/i}"
     nvl clear
-    n "Ryuu: {i}\"Yesterday, I failed to get seating.{/i}"
+    n "Ryuu: {i}\"Ontem, eu falhei em conseguir uma mesa.{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:489
 translate brazilian_portuguese wata_tips_03_3f614116:
 
     # n "{i}Today, I will aim for the ultimate, golden seat—the corner box in the smoking area!{/i}"
-    n "{i}Today, I will aim for the ultimate, golden seat—the corner box in the smoking area!{/i}"
+    n "{i}Hoje, eu vou almejar a mesa dourada, no canto da área para fumantes!{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:490
 translate brazilian_portuguese wata_tips_03_67d6b144:
 
     # n "{i}Otaku are overwhelmingly non-smokers.{/i}"
-    n "{i}Otaku are overwhelmingly non-smokers.{/i}"
+    n "{i}Os otaku são em sua maioria não-fumantes.{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:491
 translate brazilian_portuguese wata_tips_03_a029f1f3:
 
     # extend " {i}So I'll procure a spot in the smoking area and set up camp there.\"{/i}"
-    extend " {i}So I'll procure a spot in the smoking area and set up camp there.\"{/i}"
+    extend " {i}Então eu vou procurar um lugar na área de fumantes e acamparei ali.\"{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:492
 translate brazilian_portuguese wata_tips_03_2dc4098d_3:
@@ -1492,19 +1492,19 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_3:
 translate brazilian_portuguese wata_tips_03_c2c6d777:
 
     # n "As expected of Ryuu, the Hunter."
-    n "As expected of Ryuu, the Hunter."
+    n "Como esperado de Ryuu, o Hunter."
 
 # game/watanagashi/watanagashi_tips.rpy:494
 translate brazilian_portuguese wata_tips_03_93a7f395:
 
     # n "He's saying his victory was decided the moment he chose his seat."
-    n "He's saying his victory was decided the moment he chose his seat."
+    n "Ele está dizendo que sua vitória foi decidida no momento que ele escolheu seu assento."
 
 # game/watanagashi/watanagashi_tips.rpy:495
 translate brazilian_portuguese wata_tips_03_5a73a0e1:
 
     # n "In actuality, Ryuu used the same tactic during the grand opening of Akihabara's ×××××× and succeeded in getting the best seats in the house."
-    n "In actuality, Ryuu used the same tactic during the grand opening of Akihabara's ×××××× and succeeded in getting the best seats in the house."
+    n "Na verdade, Ryuu usou a mesma tática durante a grande abertura do ×××××× em Akihabara e conseguiu os melhores assentos do lugar."
 
 # game/watanagashi/watanagashi_tips.rpy:496
 translate brazilian_portuguese wata_tips_03_76b2fe88_4:
@@ -1516,7 +1516,7 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_4:
 translate brazilian_portuguese wata_tips_03_03090772:
 
     # n "Back then, he also went early in the afternoon, just after the lunch rush, and not only did he find his target seat empty, he also obtained it with ease."
-    n "Back then, he also went early in the afternoon, just after the lunch rush, and not only did he find his target seat empty, he also obtained it with ease."
+    n "Naquela vez, ele também passou no início da tarde, logo após o movimento do almoço, e ele não apenas encontrou o seu lugar de destino vazio, mas também o obteve com facilidade."
 
 # game/watanagashi/watanagashi_tips.rpy:500
 translate brazilian_portuguese wata_tips_03_2dc4098d_4:
@@ -1528,7 +1528,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_4:
 translate brazilian_portuguese wata_tips_03_344a03a3:
 
     # n "By utilizing tricks such as ordering a little at a time, he effectively increased the number of opportunities for engagement, carefully scoping out his chance for a picture..."
-    n "By utilizing tricks such as ordering a little at a time, he effectively increased the number of opportunities for engagement, carefully scoping out his chance for a picture..."
+    n "Ao utilizar truques como pedir um pouco de cada vez, ele efetivamente aumentou o número de oportunidades de tirar uma foto..."
 
 # game/watanagashi/watanagashi_tips.rpy:502
 translate brazilian_portuguese wata_tips_03_76b2fe88_5:
@@ -1540,7 +1540,7 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_5:
 translate brazilian_portuguese wata_tips_03_78656bd0:
 
     # n "But... as if cursed by that* from the day before, the God of War Photography did not smile upon him!!"
-    n "But... as if cursed by that* from the day before, the God of War Photography did not smile upon him!!"
+    n "Mas... como se amaldiçoado por aquele* dia anterior, o Deus da Fotografia de Guerra não sorriu para ele!!"
 
 # game/watanagashi/watanagashi_tips.rpy:506
 translate brazilian_portuguese wata_tips_03_2dc4098d_5:
@@ -1552,7 +1552,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_5:
 translate brazilian_portuguese wata_tips_03_070bafc2:
 
     # n "After suffering successive, firm defeats until 3 PM, he finds no chances coming his way."
-    n "After suffering successive, firm defeats until 3 PM, he finds no chances coming his way."
+    n "Depois de sofrer derrotas sucessivas, firme até as três da tarde, ele não encontrou qualquer chance vindo em sua direção."
 
 # game/watanagashi/watanagashi_tips.rpy:508
 translate brazilian_portuguese wata_tips_03_2dc4098d_6:
@@ -1564,13 +1564,13 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_6:
 translate brazilian_portuguese wata_tips_03_07bdc42f:
 
     # n "And after 4 PM, a man began to take his orders—it looks as though he has been seen through..."
-    n "And after 4 PM, a man began to take his orders—it looks as though he has been seen through..."
+    n "E depois das quatro da tarde, um homem começou a tomar seus pedidos—parece que ele foi percebido então..."
 
 # game/watanagashi/watanagashi_tips.rpy:510
 translate brazilian_portuguese wata_tips_03_670985df:
 
     # n "It is the rule of a Hunter to withdraw with grace once marked......"
-    n "It is the rule of a Hunter to withdraw with grace once marked......"
+    n "É a regra de um Hunter se retirar com graça uma vez identificado......"
 
 # game/watanagashi/watanagashi_tips.rpy:511
 translate brazilian_portuguese wata_tips_03_76b2fe88_6:
@@ -1582,31 +1582,31 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_6:
 translate brazilian_portuguese wata_tips_03_738dbc91:
 
     # n "Ryuu: {i}\"My aim was perfect... but the fork technique I used at 2:30 seemed to have backfired.{/i}"
-    n "Ryuu: {i}\"My aim was perfect... but the fork technique I used at 2:30 seemed to have backfired.{/i}"
+    n "Ryuu: {i}\"O meu objetivo era perfeito... mas a técnica do garfo que eu usei às 2 e 30 parecia ter saído pela culatra.{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:515
 translate brazilian_portuguese wata_tips_03_18f854a4:
 
     # n "{i}...Maybe they were wary, since I sat in a booth and left my bag on the floor...{/i}"
-    n "{i}...Maybe they were wary, since I sat in a booth and left my bag on the floor...{/i}"
+    n "{i}...Talvez eles estavam apenas sendo cautelosos, desde que me sentei à mesa e deixei minha bolsa no chão...{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:516
 translate brazilian_portuguese wata_tips_03_be810b8b:
 
     # extend " {i}Perhaps the hidden camera in a bag trick is already old hat...{/i}"
-    extend " {i}Perhaps the hidden camera in a bag trick is already old hat...{/i}"
+    extend " {i}Minha câmera estava escondida na minha sacola de viagem, e podia acabar fossilizando lá...{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:517
 translate brazilian_portuguese wata_tips_03_fae6ad89:
 
     # n "{i}If there were 2-digit EGs involved for sticking here half the day, I'd have a high encounter rate.{/i}"
-    n "{i}If there were 2-digit EGs involved for sticking here half the day, I'd have a high encounter rate.{/i}"
+    n "{i}Eu acabei ficando lá metade do dia.{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:518
 translate brazilian_portuguese wata_tips_03_ec8c122e:
 
     # extend " {i}...I am mortified.\"{/i}"
-    extend " {i}...I am mortified.\"{/i}"
+    extend " {i}...Eu estou mortificado.\"{/i}"
 
 # game/watanagashi/watanagashi_tips.rpy:519
 translate brazilian_portuguese wata_tips_03_2dc4098d_7:
@@ -1618,25 +1618,25 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_7:
 translate brazilian_portuguese wata_tips_03_febf6908:
 
     # n "Even so, he still got a few pieces of gold."
-    n "Even so, he still got a few pieces of gold."
+    n "Mesmo assim, ele ainda tinha algumas peças douradas."
 
 # game/watanagashi/watanagashi_tips.rpy:521
 translate brazilian_portuguese wata_tips_03_4c2f7dbb:
 
     # n "...As to be expected from the Hunter."
-    n "...As to be expected from the Hunter."
+    n "...Como esperado do Hunter."
 
 # game/watanagashi/watanagashi_tips.rpy:522
 translate brazilian_portuguese wata_tips_03_09b18600:
 
     # n "He attained this nice angle, despite lamenting his failure."
-    n "He attained this nice angle, despite lamenting his failure."
+    n "Ele conseguiu esse agradável ângulo, apesar de lamentar seu fracasso."
 
 # game/watanagashi/watanagashi_tips.rpy:524
 translate brazilian_portuguese wata_tips_03_ef4934ea:
 
     # extend " {b}He is an artisan{/b}."
-    extend " {b}He is an artisan{/b}."
+    extend " {b}Ele é um artesão{/b}."
 
 # game/watanagashi/watanagashi_tips.rpy:525
 translate brazilian_portuguese wata_tips_03_76e121ad:
@@ -1644,7 +1644,7 @@ translate brazilian_portuguese wata_tips_03_76e121ad:
     # nvl clear
     # n "More surprising, though, is that this Uniform Conquest Across Japan has yielded not a single arrested person!"
     nvl clear
-    n "More surprising, though, is that this Uniform Conquest Across Japan has yielded not a single arrested person!"
+    n "Mais surpreendente, porém, é que esta Busca por Uniformes Através do Japão não teve uma única pessoa detida!"
 
 # game/watanagashi/watanagashi_tips.rpy:528
 translate brazilian_portuguese wata_tips_03_2dc4098d_8:
@@ -1656,7 +1656,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_8:
 translate brazilian_portuguese wata_tips_03_4a3e429a:
 
     # n "What an amazing start for the hunter who brags about having been to approximately half of the total prefectural police stations in the country!"
-    n "What an amazing start for the hunter who brags about having been to approximately half of the total prefectural police stations in the country!"
+    n "Que incrível começo para um caçador que se gaba de ter estado em cerca de metade de todas as delegacias de polícia regionais no país!"
 
 # game/watanagashi/watanagashi_tips.rpy:530
 translate brazilian_portuguese wata_tips_03_76b2fe88_7:
@@ -1668,13 +1668,13 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_7:
 translate brazilian_portuguese wata_tips_03_0a744646:
 
     # n "{b}* 'That' thing the day before.{/b}"
-    n "{b}* 'That' thing the day before.{/b}"
+    n "{b}* 'Aquela' coisa do dia anterior.{/b}"
 
 # game/watanagashi/watanagashi_tips.rpy:534
 translate brazilian_portuguese wata_tips_03_39d0a6ae:
 
     # n "The day before, our Hunter took on the Shrine Maiden Cuisine ×× in Nagoya."
-    n "The day before, our Hunter took on the Shrine Maiden Cuisine ×× in Nagoya."
+    n "No dia anterior, nosso HUNTER foi à cozinha da miko ×× em Nagoya."
 
 # game/watanagashi/watanagashi_tips.rpy:535
 translate brazilian_portuguese wata_tips_03_2dc4098d_9:
@@ -1686,13 +1686,13 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_9:
 translate brazilian_portuguese wata_tips_03_5f4ab57d:
 
     # n "His Hunter spirit showed through too zealously, and as soon as he entered the store, he was seen through, placed in a booth, and waited on by the head priest."
-    n "His Hunter spirit showed through too zealously, and as soon as he entered the store, he was seen through, placed in a booth, and waited on by the head priest."
+    n "Seu espírito de HUNTER mostrou-se demasiado zeloso, e logo que ele entrou na loja, ele foi visto, colocado numa mesa, e esperou pelo sacerdote-chefe."
 
 # game/watanagashi/watanagashi_tips.rpy:537
 translate brazilian_portuguese wata_tips_03_5db134b2:
 
     # n "Despite waiting half a day, the much-anticipated shrine maidens appeared only at the time of his first order...!"
-    n "Despite waiting half a day, the much-anticipated shrine maidens appeared only at the time of his first order...!"
+    n "Apesar de esperar metade de um dia, as miko do santuário, tão aguardadas, apareceram somente quando ele fez seu primeiro pedido...!"
 
 # game/watanagashi/watanagashi_tips.rpy:538
 translate brazilian_portuguese wata_tips_03_2dc4098d_10:
@@ -1704,7 +1704,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_10:
 translate brazilian_portuguese wata_tips_03_6035a6d9:
 
     # n "A seriously huge blunder for a Hunter!!"
-    n "A seriously huge blunder for a Hunter!!"
+    n "Um erro enorme para um HUNTER!!"
 
 # game/watanagashi/watanagashi_tips.rpy:540
 translate brazilian_portuguese wata_tips_03_76b2fe88_8:
@@ -1716,7 +1716,7 @@ translate brazilian_portuguese wata_tips_03_76b2fe88_8:
 translate brazilian_portuguese wata_tips_03_505dbd05:
 
     # n "Now then, here we have the giveaway of the Hunter's original photographs that always receive such high praise!!{nw}"
-    n "Now then, here we have the giveaway of the Hunter's original photographs that always receive such high praise!!{nw}"
+    n "Agora, então, aqui temos a doação das fotografias originais do HUNTER, que sempre merece elogios!!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:547
 translate brazilian_portuguese wata_tips_03_2dc4098d_11:
@@ -1728,7 +1728,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_11:
 translate brazilian_portuguese wata_tips_03_b8221286:
 
     # n "We'll present one passionate reader with three all-you-can-eat low-angle pictures of the Angel Mort uniforms, chosen by the Hunter himself!!"
-    n "We'll present one passionate reader with three all-you-can-eat low-angle pictures of the Angel Mort uniforms, chosen by the Hunter himself!!"
+    n "Nós vamos presentar um leitor apaixonado com três imagens tudo-o-que-você-puder-comer do ângulo de baixo dos uniformes do Angel Mort, escolhidas pelo próprio HUNTER!!"
 
 # game/watanagashi/watanagashi_tips.rpy:549
 translate brazilian_portuguese wata_tips_03_2dc4098d_12:
@@ -1740,7 +1740,7 @@ translate brazilian_portuguese wata_tips_03_2dc4098d_12:
 translate brazilian_portuguese wata_tips_03_3158f293:
 
     # n "With such blazing hot pictures, you, too, can become a war photographer today!!{nw}"
-    n "With such blazing hot pictures, you, too, can become a war photographer today!!{nw}"
+    n "Com essas fotos ardentes, você também pode tornar-se um fotógrafo de guerra, ainda hoje!!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:557
 translate brazilian_portuguese wata_tips_03_76b2fe88_9:
@@ -1754,7 +1754,7 @@ translate brazilian_portuguese wata_tips_04_2d363858:
     # voice "voice/ps3/s20/01/440100064.ogg"
     # a_keiichi "\"Hey, Mion.{w=1.0}{nw}"
     voice "voice/ps3/s20/01/440100064.ogg"
-    a_keiichi "\"Hey, Mion.{w=1.0}{nw}"
+    a_keiichi "\"Ei, Mion.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:578
 translate brazilian_portuguese wata_tips_04_d6304c2e:
@@ -1762,7 +1762,7 @@ translate brazilian_portuguese wata_tips_04_d6304c2e:
     # voice sustain
     # extend " Here.\""
     voice sustain
-    extend " Here.\""
+    extend " Aqui.\""
 
 # game/watanagashi/watanagashi_tips.rpy:581
 translate brazilian_portuguese wata_tips_04_08d3d3b2:
@@ -1770,13 +1770,13 @@ translate brazilian_portuguese wata_tips_04_08d3d3b2:
     # voice "voice/ps3/s20/03/440300060.ogg"
     # a_mion "\"Wha— What is it, Kei-chan...?\""
     voice "voice/ps3/s20/03/440300060.ogg"
-    a_mion "\"Wha— What is it, Kei-chan...?\""
+    a_mion "\"O— O que é, Kei-chan...?\""
 
 # game/watanagashi/watanagashi_tips.rpy:583
 translate brazilian_portuguese wata_tips_04_347aa070:
 
     # n "I thrust the bento box she'd given me yesterday at her face."
-    n "I thrust the bento box she'd given me yesterday at her face."
+    n "Eu empurrei a caixa de obentou que ela me tinha me dado ontem em seu rosto."
 
 # game/watanagashi/watanagashi_tips.rpy:584
 translate brazilian_portuguese wata_tips_04_50321c63:
@@ -1786,7 +1786,7 @@ translate brazilian_portuguese wata_tips_04_50321c63:
     # a_keiichi "\"It's the bento box you gave me yesterday.{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100065.ogg"
-    a_keiichi "\"It's the bento box you gave me yesterday.{w=1.0}{nw}"
+    a_keiichi "\"É a caixa do obentou, a qual eu prometi devolver.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:588
 translate brazilian_portuguese wata_tips_04_bd731bac:
@@ -1794,7 +1794,7 @@ translate brazilian_portuguese wata_tips_04_bd731bac:
     # voice sustain
     # extend " Thank you."
     voice sustain
-    extend " Thank you."
+    extend " Obrigado."
 
 # game/watanagashi/watanagashi_tips.rpy:590
 translate brazilian_portuguese wata_tips_04_7b4097dc:
@@ -1802,7 +1802,7 @@ translate brazilian_portuguese wata_tips_04_7b4097dc:
     # voice "voice/ps3/s20/01/440100066.ogg"
     # extend " It was delicious.\""
     voice "voice/ps3/s20/01/440100066.ogg"
-    extend " It was delicious.\""
+    extend " Estava incrível.\""
 
 # game/watanagashi/watanagashi_tips.rpy:593
 translate brazilian_portuguese wata_tips_04_0e1102ab:
@@ -1816,7 +1816,7 @@ translate brazilian_portuguese wata_tips_04_0e1102ab:
 translate brazilian_portuguese wata_tips_04_a7e6ed99:
 
     # n "...Mion's face quickly flushed bright red."
-    n "...Mion's face quickly flushed bright red."
+    n "...O rosto de Mion rapidamente ficou num vermelho brilhante."
 
 # game/watanagashi/watanagashi_tips.rpy:596
 translate brazilian_portuguese wata_tips_04_2dc4098d:
@@ -1828,13 +1828,13 @@ translate brazilian_portuguese wata_tips_04_2dc4098d:
 translate brazilian_portuguese wata_tips_04_c087cecb:
 
     # n "......Hey, now, you were the one pretending to be Shion when you gave it to me..."
-    n "......Hey, now, you were the one pretending to be Shion when you gave it to me..."
+    n "......Ei, ei, você foi aquela fingindo ser Shion quando deu isso para mim..."
 
 # game/watanagashi/watanagashi_tips.rpy:598
 translate brazilian_portuguese wata_tips_04_566f4072:
 
     # n "You're gonna give it away if you get all red like that when you're being Mion..."
-    n "You're gonna give it away if you get all red like that when you're being Mion..."
+    n "Você vai acabar infartando se ficar assim vermelha quando estiver no papel de Mion..."
 
 # game/watanagashi/watanagashi_tips.rpy:599
 translate brazilian_portuguese wata_tips_04_2dc4098d_1:
@@ -1846,7 +1846,7 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_1:
 translate brazilian_portuguese wata_tips_04_ea432885:
 
     # n "At this rate, she might trip and fall right into her own grave, so I decided to help her out."
-    n "At this rate, she might trip and fall right into her own grave, so I decided to help her out."
+    n "Nesse ritmo, ela podia tropeçar e cair em sua própria sepultura, então eu decidi ajudá-la."
 
 # game/watanagashi/watanagashi_tips.rpy:601
 translate brazilian_portuguese wata_tips_04_a05f32d7:
@@ -1856,7 +1856,7 @@ translate brazilian_portuguese wata_tips_04_a05f32d7:
     # a_keiichi "\"Listen.{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100067.ogg"
-    a_keiichi "\"Listen.{w=1.0}{nw}"
+    a_keiichi "\"Sabe.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:605
 translate brazilian_portuguese wata_tips_04_bae9f4d4:
@@ -1864,7 +1864,7 @@ translate brazilian_portuguese wata_tips_04_bae9f4d4:
     # voice sustain
     # extend " I was pretty hungry yesterday."
     voice sustain
-    extend " I was pretty hungry yesterday."
+    extend " eu estava com muita fome ontem."
 
 # game/watanagashi/watanagashi_tips.rpy:607
 translate brazilian_portuguese wata_tips_04_7295e8db:
@@ -1872,7 +1872,7 @@ translate brazilian_portuguese wata_tips_04_7295e8db:
     # voice "voice/ps3/s20/01/440100068.ogg"
     # extend " Out of the blue, Shion came all the way to my house and gave me some food in a bento box."
     voice "voice/ps3/s20/01/440100068.ogg"
-    extend " Out of the blue, Shion came all the way to my house and gave me some food in a bento box."
+    extend " Inesperadamente, Shion se deu ao trabalho de vir até a minha casa e me deu um pouco de comida numa caixa de obentou."
 
 # game/watanagashi/watanagashi_tips.rpy:609
 translate brazilian_portuguese wata_tips_04_2c3fdd06:
@@ -1880,7 +1880,7 @@ translate brazilian_portuguese wata_tips_04_2c3fdd06:
     # voice "voice/ps3/s20/01/440100069.ogg"
     # extend " This is that box."
     voice "voice/ps3/s20/01/440100069.ogg"
-    extend " This is that box."
+    extend " Esta é a caixa."
 
 # game/watanagashi/watanagashi_tips.rpy:611
 translate brazilian_portuguese wata_tips_04_6777f7b9:
@@ -1888,7 +1888,7 @@ translate brazilian_portuguese wata_tips_04_6777f7b9:
     # voice "voice/ps3/s20/01/440100070.ogg"
     # extend " I made sure to wash it clean!\""
     voice "voice/ps3/s20/01/440100070.ogg"
-    extend " I made sure to wash it clean!\""
+    extend " Fiz questão de deixá-la bem limpa!\""
 
 # game/watanagashi/watanagashi_tips.rpy:614
 translate brazilian_portuguese wata_tips_04_b5a189c9:
@@ -1896,7 +1896,7 @@ translate brazilian_portuguese wata_tips_04_b5a189c9:
     # voice "voice/ps3/s20/03/440300062.ogg"
     # a_mion "\"Ah, ...ahaha, r-right!{w=1.5}{nw}"
     voice "voice/ps3/s20/03/440300062.ogg"
-    a_mion "\"Ah, ...ahaha, r-right!{w=1.5}{nw}"
+    a_mion "\"Ah, ...ahaha, c-certo!{w=1.5}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:616
 translate brazilian_portuguese wata_tips_04_57a54ce7:
@@ -1904,7 +1904,7 @@ translate brazilian_portuguese wata_tips_04_57a54ce7:
     # voice sustain
     # extend " Shion's really considerate, huh~?!\""
     voice sustain
-    extend " Shion's really considerate, huh~?!\""
+    extend " Shion é realmente prestativa, não~?!\""
 
 # game/watanagashi/watanagashi_tips.rpy:618
 translate brazilian_portuguese wata_tips_04_2dc4098d_2:
@@ -1916,19 +1916,19 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_2:
 translate brazilian_portuguese wata_tips_04_e6c33672:
 
     # n "That was so transparent."
-    n "That was so transparent."
+    n "Isso foi tão transparente."
 
 # game/watanagashi/watanagashi_tips.rpy:620
 translate brazilian_portuguese wata_tips_04_5a7d35fd:
 
     # n "...Was Mion always this terrible at lying?"
-    n "...Was Mion always this terrible at lying?"
+    n "...Mion sempre tinha sido tão boa em mentir?"
 
 # game/watanagashi/watanagashi_tips.rpy:621
 translate brazilian_portuguese wata_tips_04_02037daf:
 
     # n "...Her expression was different than usual... but it looked strangely cute."
-    n "...Her expression was different than usual... but it looked strangely cute."
+    n "...Sua expressão era diferente da habitual... mas parecia estranhamente meiga."
 
 # game/watanagashi/watanagashi_tips.rpy:622
 translate brazilian_portuguese wata_tips_04_76b2fe88:
@@ -1942,7 +1942,7 @@ translate brazilian_portuguese wata_tips_04_2a1eb9cf:
     # voice "voice/ps3/s20/03/440300063.ogg"
     # a_mion "\"So, w-what did you think?\""
     voice "voice/ps3/s20/03/440300063.ogg"
-    a_mion "\"So, w-what did you think?\""
+    a_mion "\"Assim, o-o que você acha?\""
 
 # game/watanagashi/watanagashi_tips.rpy:627
 translate brazilian_portuguese wata_tips_04_67741478:
@@ -1950,7 +1950,7 @@ translate brazilian_portuguese wata_tips_04_67741478:
     # voice "voice/ps3/s20/01/440100071.ogg"
     # a_keiichi "\"...You two are like peas in a pod.{w=1.5}{nw}"
     voice "voice/ps3/s20/01/440100071.ogg"
-    a_keiichi "\"...You two are like peas in a pod.{w=1.5}{nw}"
+    a_keiichi "\"...Vocês duas são como ervilhas numa vagem.{w=1.5}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:629
 translate brazilian_portuguese wata_tips_04_8f2c178b:
@@ -1958,7 +1958,7 @@ translate brazilian_portuguese wata_tips_04_8f2c178b:
     # voice sustain
     # extend " You're twins, right?"
     voice sustain
-    extend " You're twins, right?"
+    extend " Vocês são gêmeas, certo?"
 
 # game/watanagashi/watanagashi_tips.rpy:631
 translate brazilian_portuguese wata_tips_04_ae60e19d:
@@ -1966,7 +1966,7 @@ translate brazilian_portuguese wata_tips_04_ae60e19d:
     # voice "voice/ps3/s20/01/440100072.ogg"
     # extend " Obviously you'd look the same.\""
     voice "voice/ps3/s20/01/440100072.ogg"
-    extend " Obviously you'd look the same.\""
+    extend " Obviamente vocês parecem iguais.\""
 
 # game/watanagashi/watanagashi_tips.rpy:634
 translate brazilian_portuguese wata_tips_04_f5e8c38a:
@@ -1974,19 +1974,19 @@ translate brazilian_portuguese wata_tips_04_f5e8c38a:
     # voice "voice/ps3/s20/03/440300064.ogg"
     # a_mion "\"Umm, ......not...... not that... err......\""
     voice "voice/ps3/s20/03/440300064.ogg"
-    a_mion "\"Umm, ......not...... not that... err......\""
+    a_mion "\"Humm, ......não...... não era isso que... err......\""
 
 # game/watanagashi/watanagashi_tips.rpy:636
 translate brazilian_portuguese wata_tips_04_17275f89:
 
     # n "Mion looked kind of bewildered, like she was waiting for a specific answer."
-    n "Mion looked kind of bewildered, like she was waiting for a specific answer."
+    n "Mion parecia meio desnorteada, como se esperasse outro tipo de resposta."
 
 # game/watanagashi/watanagashi_tips.rpy:637
 translate brazilian_portuguese wata_tips_04_47a6ceda:
 
     # n "...When she said \"impression,\" maybe she didn't mean Shion, but the bento...?"
-    n "...When she said \"impression,\" maybe she didn't mean Shion, but the bento...?"
+    n "...Quando ela perguntou \"o que você acha,\" talvez ela não tenha se referido à Shion, mas ao obentou...?"
 
 # game/watanagashi/watanagashi_tips.rpy:638
 translate brazilian_portuguese wata_tips_04_e464e6ef:
@@ -1996,7 +1996,7 @@ translate brazilian_portuguese wata_tips_04_e464e6ef:
     # a_keiichi "\"Oh, of course!{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100073.ogg"
-    a_keiichi "\"Oh, of course!{w=1.0}{nw}"
+    a_keiichi "\"Oh, certamente!{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:642
 translate brazilian_portuguese wata_tips_04_0fba70dd:
@@ -2004,7 +2004,7 @@ translate brazilian_portuguese wata_tips_04_0fba70dd:
     # voice sustain
     # extend " It was delicious.\""
     voice sustain
-    extend " It was delicious.\""
+    extend " Estava delicioso.\""
 
 # game/watanagashi/watanagashi_tips.rpy:644
 translate brazilian_portuguese wata_tips_04_9c80d22b:
@@ -2012,7 +2012,7 @@ translate brazilian_portuguese wata_tips_04_9c80d22b:
     # voice "voice/ps3/s20/03/440300065.ogg"
     # a_mion "\"...Eh, ...ah... really?\""
     voice "voice/ps3/s20/03/440300065.ogg"
-    a_mion "\"...Eh, ...ah... really?\""
+    a_mion "\"...Eh, ...ah... realmente?\""
 
 # game/watanagashi/watanagashi_tips.rpy:646
 translate brazilian_portuguese wata_tips_04_919e93b4:
@@ -2020,7 +2020,7 @@ translate brazilian_portuguese wata_tips_04_919e93b4:
     # voice "voice/ps3/s20/01/440100074.ogg"
     # a_keiichi "\"I never lie about liking food.{w=2.0}{nw}"
     voice "voice/ps3/s20/01/440100074.ogg"
-    a_keiichi "\"I never lie about liking food.{w=2.0}{nw}"
+    a_keiichi "\"Eu nunca minto sobre o gosto da comida.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:648
 translate brazilian_portuguese wata_tips_04_55082ac4:
@@ -2028,7 +2028,7 @@ translate brazilian_portuguese wata_tips_04_55082ac4:
     # voice sustain
     # extend " If I say something's good, then it's objectively good!"
     voice sustain
-    extend " If I say something's good, then it's objectively good!"
+    extend " Se eu disser que alguma coisa é boa, então é isso mesmo!"
 
 # game/watanagashi/watanagashi_tips.rpy:650
 translate brazilian_portuguese wata_tips_04_ede42036:
@@ -2036,7 +2036,7 @@ translate brazilian_portuguese wata_tips_04_ede42036:
     # voice "voice/ps3/s20/01/440100075.ogg"
     # extend " You can feel free to give my recommendations to every single person you meet."
     voice "voice/ps3/s20/01/440100075.ogg"
-    extend " You can feel free to give my recommendations to every single person you meet."
+    extend " Você pode se sentir livre para dar as minhas recomendações para cada pessoa que você encontrar."
 
 # game/watanagashi/watanagashi_tips.rpy:652
 translate brazilian_portuguese wata_tips_04_e4941dd3:
@@ -2044,7 +2044,7 @@ translate brazilian_portuguese wata_tips_04_e4941dd3:
     # voice "voice/ps3/s20/01/440100076.ogg"
     # extend " Tell Shion it was seriously great, all right?\""
     voice "voice/ps3/s20/01/440100076.ogg"
-    extend " Tell Shion it was seriously great, all right?\""
+    extend " Diga a Shion que estava realmente bom, ok?\""
 
 # game/watanagashi/watanagashi_tips.rpy:655
 translate brazilian_portuguese wata_tips_04_ba0df71e:
@@ -2052,7 +2052,7 @@ translate brazilian_portuguese wata_tips_04_ba0df71e:
     # voice "voice/ps3/s20/03/440300066.ogg"
     # a_mion "\"Ah...... o-okay!{w=1.0}{nw}"
     voice "voice/ps3/s20/03/440300066.ogg"
-    a_mion "\"Ah...... o-okay!{w=1.0}{nw}"
+    a_mion "\"Ah...... s-sim!{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:657
 translate brazilian_portuguese wata_tips_04_b076c5d5:
@@ -2060,7 +2060,7 @@ translate brazilian_portuguese wata_tips_04_b076c5d5:
     # voice sustain
     # extend " Tell Shion, right?"
     voice sustain
-    extend " Tell Shion, right?"
+    extend " Dizer à Shion, certo?"
 
 # game/watanagashi/watanagashi_tips.rpy:659
 translate brazilian_portuguese wata_tips_04_97013428:
@@ -2068,7 +2068,7 @@ translate brazilian_portuguese wata_tips_04_97013428:
     # voice "voice/ps3/s20/03/440300067.ogg"
     # extend " I will!"
     voice "voice/ps3/s20/03/440300067.ogg"
-    extend " I will!"
+    extend " Eu vou fazer isso!"
 
 # game/watanagashi/watanagashi_tips.rpy:661
 translate brazilian_portuguese wata_tips_04_84c4c9ad:
@@ -2076,7 +2076,7 @@ translate brazilian_portuguese wata_tips_04_84c4c9ad:
     # voice "voice/ps3/s20/03/440300068.ogg"
     # extend " I think she'll be happy...!"
     voice "voice/ps3/s20/03/440300068.ogg"
-    extend " I think she'll be happy...!"
+    extend " Eu penso que ela vai ficar feliz...!"
 
 # game/watanagashi/watanagashi_tips.rpy:663
 translate brazilian_portuguese wata_tips_04_7f9cbacd:
@@ -2092,13 +2092,13 @@ translate brazilian_portuguese wata_tips_04_8d472514:
     # nvl clear
     # n "We're going along with Shion having given it to me, not Mion, aren't we?"
     nvl clear
-    n "We're going along with Shion having given it to me, not Mion, aren't we?"
+    n "Nós fomos juntos com a história de Shion ter dado a mim, não Mion?"
 
 # game/watanagashi/watanagashi_tips.rpy:668
 translate brazilian_portuguese wata_tips_04_d015acc4:
 
     # extend " Yet, her laugh... it came from deep down, and it sounded really happy."
-    extend " Yet, her laugh... it came from deep down, and it sounded really happy."
+    extend " E seu sorriso... vinha lá do fundo - ela parecia realmente feliz."
 
 # game/watanagashi/watanagashi_tips.rpy:669
 translate brazilian_portuguese wata_tips_04_2dc4098d_3:
@@ -2110,13 +2110,13 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_3:
 translate brazilian_portuguese wata_tips_04_b182f212:
 
     # n "...I guess she really can laugh nicely enough that just looking at her makes me feel better too."
-    n "...I guess she really can laugh nicely enough that just looking at her makes me feel better too."
+    n "...Eu acho que ela realmente riu honestamente, que só de olhar para ela me fazia sentir muito melhor."
 
 # game/watanagashi/watanagashi_tips.rpy:671
 translate brazilian_portuguese wata_tips_04_49f5dfe1:
 
     # extend " A sarcastic remark made its way onto my tongue, but I swallowed it back."
-    extend " A sarcastic remark made its way onto my tongue, but I swallowed it back."
+    extend " Uma observação sarcástica fez o seu caminho até a minha língua, mas eu a engoli de volta."
 
 # game/watanagashi/watanagashi_tips.rpy:672
 translate brazilian_portuguese wata_tips_04_2dc4098d_4:
@@ -2128,7 +2128,7 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_4:
 translate brazilian_portuguese wata_tips_04_21a6ee84:
 
     # n "As Mion went to put the bento box in her bag, she noticed a clattering noise."
-    n "As Mion went to put the bento box in her bag, she noticed a clattering noise."
+    n "Quando Mion estava colocando a caixa de obentou em sua bolsa, ela percebeu um ruído."
 
 # game/watanagashi/watanagashi_tips.rpy:674
 translate brazilian_portuguese wata_tips_04_76b2fe88_1:
@@ -2142,7 +2142,7 @@ translate brazilian_portuguese wata_tips_04_f3c48151:
     # voice "voice/ps3/s20/03/440300070.ogg"
     # a_mion "\"...Kei-chan, there's something inside.{w=1.5}{nw}"
     voice "voice/ps3/s20/03/440300070.ogg"
-    a_mion "\"...Kei-chan, there's something inside.{w=1.5}{nw}"
+    a_mion "\"...Kei-chan, há algo dentro.{w=1.5}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:679
 translate brazilian_portuguese wata_tips_04_c8619254:
@@ -2150,7 +2150,7 @@ translate brazilian_portuguese wata_tips_04_c8619254:
     # voice sustain
     # extend " Huh?"
     voice sustain
-    extend " Huh?"
+    extend " Hã?"
 
 # game/watanagashi/watanagashi_tips.rpy:682
 translate brazilian_portuguese wata_tips_04_f6758bbc:
@@ -2158,25 +2158,25 @@ translate brazilian_portuguese wata_tips_04_f6758bbc:
     # voice "voice/ps3/s20/03/440300071.ogg"
     # nvl_extend "........................Wow......\""
     voice "voice/ps3/s20/03/440300071.ogg"
-    nvl_extend "........................Wow......\""
+    nvl_extend "........................Uau......\""
 
 # game/watanagashi/watanagashi_tips.rpy:684
 translate brazilian_portuguese wata_tips_04_65994401:
 
     # n "Gah... She opened it...?!"
-    n "Gah... She opened it...?!"
+    n "Ugh... Ela abriu...?!"
 
 # game/watanagashi/watanagashi_tips.rpy:685
 translate brazilian_portuguese wata_tips_04_c150ed42:
 
     # n "The thing inside was a little embarrassing, so I wish she hadn't opened it here."
-    n "The thing inside was a little embarrassing, so I wish she hadn't opened it here."
+    n "O conteúdo dentro da caixa me deixava um pouco constrangido, então eu gostaria que ela não tivesse aberto aqui."
 
 # game/watanagashi/watanagashi_tips.rpy:686
 translate brazilian_portuguese wata_tips_04_e75d9e1d:
 
     # n "Panicking, I hid it with my hands!"
-    n "Panicking, I hid it with my hands!"
+    n "Entrando em pânico, eu as escondi com minhas mãos!"
 
 # game/watanagashi/watanagashi_tips.rpy:687
 translate brazilian_portuguese wata_tips_04_7371989c:
@@ -2186,7 +2186,7 @@ translate brazilian_portuguese wata_tips_04_7371989c:
     # a_keiichi "\"Umm... well!{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100077.ogg"
-    a_keiichi "\"Umm... well!{w=1.0}{nw}"
+    a_keiichi "\"Humm... bem!{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:691
 translate brazilian_portuguese wata_tips_04_9680a45c:
@@ -2194,7 +2194,7 @@ translate brazilian_portuguese wata_tips_04_9680a45c:
     # voice sustain
     # extend " This is, well, my mother told me to put them in as thanks!"
     voice sustain
-    extend " This is, well, my mother told me to put them in as thanks!"
+    extend " Isto é, bem, a minha mãe disse-me para colocá-las dentro como agradecimento!"
 
 # game/watanagashi/watanagashi_tips.rpy:693
 translate brazilian_portuguese wata_tips_04_6dbb1928:
@@ -2202,7 +2202,7 @@ translate brazilian_portuguese wata_tips_04_6dbb1928:
     # voice "voice/ps3/s20/01/440100078.ogg"
     # extend " I didn't come up with it or anything!"
     voice "voice/ps3/s20/01/440100078.ogg"
-    extend " I didn't come up with it or anything!"
+    extend " Eu não pensei nisso ou qualquer coisa assim!"
 
 # game/watanagashi/watanagashi_tips.rpy:695
 translate brazilian_portuguese wata_tips_04_32ab8d74:
@@ -2210,7 +2210,7 @@ translate brazilian_portuguese wata_tips_04_32ab8d74:
     # voice "voice/ps3/s20/01/440100079.ogg"
     # extend " Don't get the wrong idea!!\""
     voice "voice/ps3/s20/01/440100079.ogg"
-    extend " Don't get the wrong idea!!\""
+    extend " Não vá ter a ideia errada!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:697
 translate brazilian_portuguese wata_tips_04_cc97ab5e:
@@ -2218,7 +2218,7 @@ translate brazilian_portuguese wata_tips_04_cc97ab5e:
     # voice "voice/ps3/s20/03/440300072.ogg"
     # a_mion "\"......It's so pretty...{w=1.5}{nw}"
     voice "voice/ps3/s20/03/440300072.ogg"
-    a_mion "\"......It's so pretty...{w=1.5}{nw}"
+    a_mion "\"......São tão bonitas...{w=1.5}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:699
 translate brazilian_portuguese wata_tips_04_070ec42d:
@@ -2226,7 +2226,7 @@ translate brazilian_portuguese wata_tips_04_070ec42d:
     # voice sustain
     # extend " Candy...\""
     voice sustain
-    extend " Candy...\""
+    extend " Balas...\""
 
 # game/watanagashi/watanagashi_tips.rpy:701
 translate brazilian_portuguese wata_tips_04_09cb3971:
@@ -2234,7 +2234,7 @@ translate brazilian_portuguese wata_tips_04_09cb3971:
     # nvl clear
     # n "There was a handful of candies, neatly wrapped in paper, inside the sparkly-clean bento box."
     nvl clear
-    n "There was a handful of candies, neatly wrapped in paper, inside the sparkly-clean bento box."
+    n "Havia um punhado de balas, cuidadosamente embrulhadas em papel, dentro da caixa, que brilhava de tão limpa."
 
 # game/watanagashi/watanagashi_tips.rpy:704
 translate brazilian_portuguese wata_tips_04_2dc4098d_5:
@@ -2246,7 +2246,7 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_5:
 translate brazilian_portuguese wata_tips_04_498440c0:
 
     # n "...When I was cleaning the box out yesterday in the sink, Mom came over and interrogated me, and I fessed up as to who had given me the food."
-    n "...When I was cleaning the box out yesterday in the sink, Mom came over and interrogated me, and I fessed up as to who had given me the food."
+    n "...Quando eu estava limpando a caixa, ontem na pia, minha mãe veio e me interrogou, e eu confessei a respeito de quem tinha me dado a comida."
 
 # game/watanagashi/watanagashi_tips.rpy:706
 translate brazilian_portuguese wata_tips_04_2dc4098d_6:
@@ -2258,13 +2258,13 @@ translate brazilian_portuguese wata_tips_04_2dc4098d_6:
 translate brazilian_portuguese wata_tips_04_4b9db0c6:
 
     # n "Then she told me that something like this called for a display of gratitude."
-    n "Then she told me that something like this called for a display of gratitude."
+    n "Então ela me disse que algo assim chamado de mostra de gratidão."
 
 # game/watanagashi/watanagashi_tips.rpy:708
 translate brazilian_portuguese wata_tips_04_9c021358:
 
     # extend " ...I didn't want to, because it was embarrassing, so I argued that it wouldn't be like me to do that..."
-    extend " ...I didn't want to, because it was embarrassing, so I argued that it wouldn't be like me to do that..."
+    extend " ...Eu não queria fazer isso, porque era constrangedor, então eu argumentei que não tinha muito a ver comigo fazer isso..."
 
 # game/watanagashi/watanagashi_tips.rpy:709
 translate brazilian_portuguese wata_tips_04_63d38b3b:
@@ -2274,7 +2274,7 @@ translate brazilian_portuguese wata_tips_04_63d38b3b:
     # a_keiichi "\"...Well... that's what happened.{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100080.ogg"
-    a_keiichi "\"...Well... that's what happened.{w=1.0}{nw}"
+    a_keiichi "\"...Bem... isso é o que aconteceu.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:713
 translate brazilian_portuguese wata_tips_04_f890859d:
@@ -2282,19 +2282,19 @@ translate brazilian_portuguese wata_tips_04_f890859d:
     # voice sustain
     # extend " ...I mean... urgh...\""
     voice sustain
-    extend " ...I mean... urgh...\""
+    extend " ...Eu quero dizer... urgh...\""
 
 # game/watanagashi/watanagashi_tips.rpy:715
 translate brazilian_portuguese wata_tips_04_248dd4f0:
 
     # n "I was so embarrassed it felt like fire might shoot out of my face."
-    n "I was so embarrassed it felt like fire might shoot out of my face."
+    n "Eu estava tão constrangido que parecia que o fogo tomaria conta do meu rosto."
 
 # game/watanagashi/watanagashi_tips.rpy:716
 translate brazilian_portuguese wata_tips_04_9f21312c:
 
     # n "...Mion laughing the whole thing off like she usually did would be fine... but for some reason, she was staring at the candy in the box with fascination."
-    n "...Mion laughing the whole thing off like she usually did would be fine... but for some reason, she was staring at the candy in the box with fascination."
+    n "...Seria melhor se Mion risse da coisa toda, como ela geralmente faria... mas por algum motivo, ela estava olhando para as balas na caixa com fascínio."
 
 # game/watanagashi/watanagashi_tips.rpy:717
 translate brazilian_portuguese wata_tips_04_76b2fe88_2:
@@ -2308,7 +2308,7 @@ translate brazilian_portuguese wata_tips_04_d3eb250d:
     # voice "voice/ps3/s20/03/440300073.ogg"
     # a_mion "\"......Th-Thank you.\""
     voice "voice/ps3/s20/03/440300073.ogg"
-    a_mion "\"......Th-Thank you.\""
+    a_mion "\"......O-Obrigada.\""
 
 # game/watanagashi/watanagashi_tips.rpy:722
 translate brazilian_portuguese wata_tips_04_a9d70121:
@@ -2316,7 +2316,7 @@ translate brazilian_portuguese wata_tips_04_a9d70121:
     # voice "voice/ps3/s20/01/440100081.ogg"
     # a_keiichi "\"D-Don't thank me.{w=1.0}{nw}"
     voice "voice/ps3/s20/01/440100081.ogg"
-    a_keiichi "\"D-Don't thank me.{w=1.0}{nw}"
+    a_keiichi "\"N-Não me agradeça.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:724
 translate brazilian_portuguese wata_tips_04_174d5efe:
@@ -2324,7 +2324,7 @@ translate brazilian_portuguese wata_tips_04_174d5efe:
     # voice sustain
     # extend " Thank my mom—she put them in there!"
     voice sustain
-    extend " Thank my mom—she put them in there!"
+    extend " Agradeça a minha mãe por ter colocado elas aí!"
 
 # game/watanagashi/watanagashi_tips.rpy:726
 translate brazilian_portuguese wata_tips_04_3ec303ee:
@@ -2332,7 +2332,7 @@ translate brazilian_portuguese wata_tips_04_3ec303ee:
     # voice "voice/ps3/s20/01/440100082.ogg"
     # extend " B-B-Besides, you're not the one I need to be thanking, right, Mion!?"
     voice "voice/ps3/s20/01/440100082.ogg"
-    extend " B-B-Besides, you're not the one I need to be thanking, right, Mion!?"
+    extend " A-A-Além do mais, você não tem de me agradecer, não é mesmo, Mion!?"
 
 # game/watanagashi/watanagashi_tips.rpy:728
 translate brazilian_portuguese wata_tips_04_29cb03d6:
@@ -2340,7 +2340,7 @@ translate brazilian_portuguese wata_tips_04_29cb03d6:
     # voice "voice/ps3/s20/01/440100083.ogg"
     # extend " Those are for Shion, okay!?\""
     voice "voice/ps3/s20/01/440100083.ogg"
-    extend " Those are for Shion, okay!?\""
+    extend " Elas são para Shion, ok!?\""
 
 # game/watanagashi/watanagashi_tips.rpy:731
 translate brazilian_portuguese wata_tips_04_c1338c66:
@@ -2348,13 +2348,13 @@ translate brazilian_portuguese wata_tips_04_c1338c66:
     # voice "voice/ps3/s20/03/440300074.ogg"
     # a_mion "\"............Ah... right.{w=1.0}{nw}"
     voice "voice/ps3/s20/03/440300074.ogg"
-    a_mion "\"............Ah... right.{w=1.0}{nw}"
+    a_mion "\"............Ah... sim.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:733
 translate brazilian_portuguese wata_tips_04_f622600c:
 
     # extend " You're right..."
-    extend " You're right..."
+    extend " Você está certo..."
 
 # game/watanagashi/watanagashi_tips.rpy:734
 translate brazilian_portuguese wata_tips_04_94c8dd66:
@@ -2362,7 +2362,7 @@ translate brazilian_portuguese wata_tips_04_94c8dd66:
     # voice "voice/ps3/s20/03/440300075.ogg"
     # extend " ...Okay."
     voice "voice/ps3/s20/03/440300075.ogg"
-    extend " ...Okay."
+    extend " ...Ok."
 
 # game/watanagashi/watanagashi_tips.rpy:736
 translate brazilian_portuguese wata_tips_04_31d4bc61:
@@ -2370,7 +2370,7 @@ translate brazilian_portuguese wata_tips_04_31d4bc61:
     # voice "voice/ps3/s20/03/440300076.ogg"
     # extend " I'll be sure to tell Shion!"
     voice "voice/ps3/s20/03/440300076.ogg"
-    extend " I'll be sure to tell Shion!"
+    extend " Eu vou certamente contar para Shion!"
 
 # game/watanagashi/watanagashi_tips.rpy:738
 translate brazilian_portuguese wata_tips_04_c84a03af:
@@ -2378,19 +2378,19 @@ translate brazilian_portuguese wata_tips_04_c84a03af:
     # voice "voice/ps3/s20/03/440300077.ogg"
     # extend " I just know she'll be happy.\""
     voice "voice/ps3/s20/03/440300077.ogg"
-    extend " I just know she'll be happy.\""
+    extend " Eu sei que ela vai ficar feliz.\""
 
 # game/watanagashi/watanagashi_tips.rpy:740
 translate brazilian_portuguese wata_tips_04_c61391c1:
 
     # n "Mion, looking a little downtrodden, put the lid back on the box."
-    n "Mion, looking a little downtrodden, put the lid back on the box."
+    n "Mion, parecendo se sentir um pouco humilhada, colocou a tampa de volta na caixa."
 
 # game/watanagashi/watanagashi_tips.rpy:741
 translate brazilian_portuguese wata_tips_04_9d27d749:
 
     # extend " ...Seemed like I ended up saying something a little mean at the end."
-    extend " ...Seemed like I ended up saying something a little mean at the end."
+    extend " ...Acho que eu terminei dizendo algo um pouco insensível no fim."
 
 # game/watanagashi/watanagashi_tips.rpy:742
 translate brazilian_portuguese wata_tips_04_76b2fe88_3:
