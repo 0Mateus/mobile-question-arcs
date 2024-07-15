@@ -1016,7 +1016,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog001_7b223c89:
     # voice "voice/ps3/s19/02/500200081.ogg"
     # a_rena "\"Rika-chan is a shrine maiden for the Watanagashi, so she has to perform a ritual dance."
     voice "voice/ps3/s19/02/500200081.ogg"
-    a_rena "\"Rika-chan is a shrine maiden for the Watanagashi, so she has to perform a ritual dance."
+    a_rena "\"Rika-chan é a miko-san do Watanagashi, então ela tem de executar uma dança ritualística."
 
 # game/watanagashi/watanagashi_vm.rpy:568
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_ccbd53d5:
@@ -1024,31 +1024,31 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog001_ccbd53d5:
     # voice "voice/ps3/s19/02/500200082.ogg"
     # extend " It's practice for that.\""
     voice "voice/ps3/s19/02/500200082.ogg"
-    extend " It's practice for that.\""
+    extend " Ela tem de praticar para isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:570
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_edc5eefd:
 
     # a_keiichi "\"...Why don't you explain things in order?"
-    a_keiichi "\"...Why don't you explain things in order?"
+    a_keiichi "\"...Por quê você não explica as coisas em ordem?"
 
 # game/watanagashi/watanagashi_vm.rpy:571
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_e68bb47d:
 
     # extend " First of all, what is this Watanagashi?"
-    extend " First of all, what is this Watanagashi?"
+    extend " Antes de mais nada, o que é esse Watanagashi?"
 
 # game/watanagashi/watanagashi_vm.rpy:572
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_660f0af8:
 
     # extend " Next, what do you mean by shrine maiden?"
-    extend " Next, what do you mean by shrine maiden?"
+    extend " Em seguida, o que você quer dizer com miko-san?"
 
 # game/watanagashi/watanagashi_vm.rpy:573
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_eed3660b:
 
     # extend " Last, what do you mean by ritual dance?\""
-    extend " Last, what do you mean by ritual dance?\""
+    extend " Por último, o que você quer dizer com dança ritualística?\""
 
 # game/watanagashi/watanagashi_vm.rpy:574
 translate brazilian_portuguese vm_wata_004_00_n01_dialog001_76b2fe88:
@@ -1060,7 +1060,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog001_76b2fe88:
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_3cc4a425:
 
     # n "Come to think of it, I have a feeling Mom did say something about it during dinner the other day."
-    n "Come to think of it, I have a feeling Mom did say something about it during dinner the other day."
+    n "Pensando nisso, eu tenho a sensação de que minha mãe me falou algo a respeito outro dia."
 
 # game/watanagashi/watanagashi_vm.rpy:585
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_af03faac:
@@ -1068,49 +1068,49 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog003_af03faac:
     # nvl clear
     # a_rena "\"The Watanagashi is a festival that happens at the shrine on a Sunday every June."
     nvl clear
-    a_rena "\"The Watanagashi is a festival that happens at the shrine on a Sunday every June."
+    a_rena "\"O Watanagashi é um festival que acontece no santuário, em um domingo a cada junho."
 
 # game/watanagashi/watanagashi_vm.rpy:588
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_11eca51a:
 
     # extend " It's very lively!\""
-    extend " It's very lively!\""
+    extend " É muito animado!\""
 
 # game/watanagashi/watanagashi_vm.rpy:589
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_49e2275c:
 
     # a_keiichi "\"I see."
-    a_keiichi "\"I see."
+    a_keiichi "\"Entendo."
 
 # game/watanagashi/watanagashi_vm.rpy:590
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_36267a94:
 
     # extend " But 'Watanagashi' sounds like a pretty strange name for it."
-    extend " But 'Watanagashi' sounds like a pretty strange name for it."
+    extend " Mas 'Watanagashi' parece um nome bem estranho para ele."
 
 # game/watanagashi/watanagashi_vm.rpy:591
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_4d5e3aa1:
 
     # extend " ...Is it something like..."
-    extend " ...Is it something like..."
+    extend " ...Ele é algo como..."
 
 # game/watanagashi/watanagashi_vm.rpy:592
 translate brazilian_portuguese vm_wata_004_00_n01_dialog003_231c6751:
 
     # extend " the lantern festival, where they have a memorial for the dead by floating things down the river?\""
-    extend " the lantern festival, where they have a memorial for the dead by floating things down the river?\""
+    extend " o festival das lanternas, onde eles fazem um memorial para os mortos flutuando coisas pelo rio?\""
 
 # game/watanagashi/watanagashi_vm.rpy:598
 translate brazilian_portuguese vm_wata_004_00_n01_dialog004_3ca56321:
 
     # a_rena "\"The cotton, you see, is from futons or jackets."
-    a_rena "\"The cotton, you see, is from futons or jackets."
+    a_rena "\"O algodão, você vê, é de futons ou de casacos."
 
 # game/watanagashi/watanagashi_vm.rpy:599
 translate brazilian_portuguese vm_wata_004_00_n01_dialog004_f05913ca:
 
     # extend " So it'd be something like a futon memorial?"
-    extend " So it'd be something like a futon memorial?"
+    extend " Portanto, seria algo como um memorial de futons?"
 
 # game/watanagashi/watanagashi_vm.rpy:600
 translate brazilian_portuguese vm_wata_004_00_n01_dialog004_1e3ad84e:
@@ -1118,7 +1118,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog004_1e3ad84e:
     # voice "voice/ps3/s19/02/500200087.ogg"
     # extend " ...They also pile futons up on the altar.\""
     voice "voice/ps3/s19/02/500200087.ogg"
-    extend " ...They also pile futons up on the altar.\""
+    extend " ...Eles também empilham futons no altar.\""
 
 # game/watanagashi/watanagashi_vm.rpy:602
 translate brazilian_portuguese vm_wata_004_00_n01_dialog004_76b2fe88:
@@ -1130,19 +1130,19 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog004_76b2fe88:
 translate brazilian_portuguese vm_wata_004_00_n01_dialog005_a4be08d9:
 
     # a_keiichi "\"I've heard of people leaving offerings of things like needles or kitchen knives to their ancestors or to casualties of war..."
-    a_keiichi "\"I've heard of people leaving offerings of things like needles or kitchen knives to their ancestors or to casualties of war..."
+    a_keiichi "\"Eu já ouvi falar de pessoas que deixam oferendas de coisas como agulhas ou facas de cozinha para os seus antepassados ou para vítimas da guerra..."
 
 # game/watanagashi/watanagashi_vm.rpy:610
 translate brazilian_portuguese vm_wata_004_00_n01_dialog005_4fe46af6:
 
     # extend " But an offering of futons is a first for me."
-    extend " But an offering of futons is a first for me."
+    extend " Mas uma oferenda de futon é a primeira vez para mim."
 
 # game/watanagashi/watanagashi_vm.rpy:611
 translate brazilian_portuguese vm_wata_004_00_n01_dialog005_33ca914f:
 
     # extend " What's the history behind that?\""
-    extend " What's the history behind that?\""
+    extend " Qual a história por trás disso?\""
 
 # game/watanagashi/watanagashi_vm.rpy:618
 translate brazilian_portuguese vm_wata_004_00_n01_dialog006_6d368dd5:
@@ -1150,7 +1150,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog006_6d368dd5:
     # voice "voice/ps3/s19/00/badb50006.ogg"
     # a_deling "{b}\"Ye fookin biiiiitch!!{/b}"
     voice "voice/ps3/s19/00/badb50006.ogg"
-    a_deling "{b}\"Ye fookin biiiiitch!!{/b}"
+    a_deling "{b}\"Sua putaaaa!!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:620
 translate brazilian_portuguese vm_wata_004_00_n01_dialog006_6bc03a4e:
@@ -1158,7 +1158,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog006_6bc03a4e:
     # voice "voice/ps3/s19/00/badb50007.ogg"
     # extend " {b}I'll fookin bash yer ead in!!\"{/b}"
     voice "voice/ps3/s19/00/badb50007.ogg"
-    extend " {b}I'll fookin bash yer ead in!!\"{/b}"
+    extend " {b}Eu vou te foder!!\"{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:627
 translate brazilian_portuguese vm_wata_004_00_n01_dialog007_718e276c:
@@ -1166,7 +1166,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog007_718e276c:
     # voice "voice/ps3/s19/00/womb50004.ogg"
     # extend " *grumble*\""
     voice "voice/ps3/s19/00/womb50004.ogg"
-    extend " *grumble*\""
+    extend " *resmungo*\""
 
 # game/watanagashi/watanagashi_vm.rpy:634
 translate brazilian_portuguese vm_wata_004_00_n01_dialog008_139fecc2:
@@ -1174,7 +1174,7 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog008_139fecc2:
     # voice "voice/ps3/s19/06/500600093.ogg"
     # a_shion "\"More importantly, just now......"
     voice "voice/ps3/s19/06/500600093.ogg"
-    a_shion "\"More importantly, just now......"
+    a_shion "\"Mais importante, agora há pouco......"
 
 # game/watanagashi/watanagashi_vm.rpy:636
 translate brazilian_portuguese vm_wata_004_00_n01_dialog008_11a7dc8e:
@@ -1182,13 +1182,13 @@ translate brazilian_portuguese vm_wata_004_00_n01_dialog008_11a7dc8e:
     # voice "voice/ps3/s19/06/500600094.ogg"
     # extend " Were you surprised?"
     voice "voice/ps3/s19/06/500600094.ogg"
-    extend " Were you surprised?"
+    extend " Você ficou surpreso?"
 
 # game/watanagashi/watanagashi_vm.rpy:638
 translate brazilian_portuguese vm_wata_004_00_n01_dialog008_be88ddfc:
 
     # extend " When everybody kept on showing up.\""
-    extend " When everybody kept on showing up.\""
+    extend " Quando todos continuavam a aparecer.\""
 
 # game/watanagashi/watanagashi_vm.rpy:652
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_6d024795:
@@ -1196,7 +1196,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_6d024795:
     # voice "voice/ps3/s19/01/hr_kei15130_01.ogg"
     # a_keiichi "\"You guys did tell me about the festival before. That's right, Rika-chan is on the festival committee, isn't she? Does it have something to do with that?\""
     voice "voice/ps3/s19/01/hr_kei15130_01.ogg"
-    a_keiichi "\"You guys did tell me about the festival before. That's right, Rika-chan is on the festival committee, isn't she? Does it have something to do with that?\""
+    a_keiichi "\"Vocês me disseram sobre um festival antes. É isso mesmo, Rika-chan faz parte do comitê do festival, não é? Tem algo a ver com isso?\""
 
 # game/watanagashi/watanagashi_vm.rpy:655
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_7b223c89:
@@ -1204,7 +1204,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_7b223c89:
     # voice "voice/ps3/s19/02/500200081.ogg"
     # a_rena "\"Rika-chan is a shrine maiden for the Watanagashi, so she has to perform a ritual dance."
     voice "voice/ps3/s19/02/500200081.ogg"
-    a_rena "\"Rika-chan is a shrine maiden for the Watanagashi, so she has to perform a ritual dance."
+    a_rena "\"Rika-chan é a miko-san do Watanagashi, então ela tem de executar uma dança ritualística."
 
 # game/watanagashi/watanagashi_vm.rpy:657
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_ccbd53d5:
@@ -1212,13 +1212,13 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog002_ccbd53d5:
     # voice "voice/ps3/s19/02/500200082.ogg"
     # extend " It's practice for that.\""
     voice "voice/ps3/s19/02/500200082.ogg"
-    extend " It's practice for that.\""
+    extend " Ela tem de praticar para isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:664
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog003_3cc4a425:
 
     # n "Come to think of it, I have a feeling Mom did say something about it during dinner the other day."
-    n "Come to think of it, I have a feeling Mom did say something about it during dinner the other day."
+    n "Pensando nisso, eu tenho a sensação de que minha mãe me falou algo a respeito outro dia."
 
 # game/watanagashi/watanagashi_vm.rpy:665
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog003_a8749c2c:
@@ -1226,7 +1226,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog003_a8749c2c:
     # nvl clear
     # n "So, Rika-chan plays the part of a shrine maiden?"
     nvl clear
-    n "So, Rika-chan plays the part of a shrine maiden?"
+    n "Então Rika-chan é uma miko."
 
 # game/watanagashi/watanagashi_vm.rpy:668
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog003_e92e22d9:
@@ -1234,7 +1234,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog003_e92e22d9:
     # voice "voice/ps3/s19/01/hr_kei15130_02.ogg"
     # a_keiichi "\"I see, Mom did say that futons, padded cloaks and stuff are made as offerings. ...So, does that mean the cotton stuffing gets pulled out during a dance or something?\""
     voice "voice/ps3/s19/01/hr_kei15130_02.ogg"
-    a_keiichi "\"I see, Mom did say that futons, padded cloaks and stuff are made as offerings. ...So, does that mean the cotton stuffing gets pulled out during a dance or something?\""
+    a_keiichi "\"Entendo, minha mãe falou que futons, acolchoados e outras coisas são usadas como oferendas. ...Então, isso significa que o enchimento de algodão é arrancado para fora durante a dança ou algo do tipo?\""
 
 # game/watanagashi/watanagashi_vm.rpy:675
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog004_7542626d:
@@ -1242,7 +1242,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog004_7542626d:
     # voice "voice/ps3/s19/02/500200087.ogg"
     # a_rena "\"They also pile futons up on the altar."
     voice "voice/ps3/s19/02/500200087.ogg"
-    a_rena "\"They also pile futons up on the altar."
+    a_rena "\"Eles também empilham futons no altar."
 
 # game/watanagashi/watanagashi_vm.rpy:682
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_232ba19b:
@@ -1250,7 +1250,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_232ba19b:
     # voice "voice/ps3/s19/02/500200083.ogg"
     # extend " The Watanagashi is a festival that happens at the shrine on a Sunday every June."
     voice "voice/ps3/s19/02/500200083.ogg"
-    extend " The Watanagashi is a festival that happens at the shrine on a Sunday every June."
+    extend " O Watanagashi é um festival que acontece no santuário, em um domingo a cada junho."
 
 # game/watanagashi/watanagashi_vm.rpy:684
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_104129c3:
@@ -1258,31 +1258,31 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_104129c3:
     # voice "voice/ps3/s19/02/500200084.ogg"
     # extend " It's very lively!\""
     voice "voice/ps3/s19/02/500200084.ogg"
-    extend " It's very lively!\""
+    extend " É muito animado!\""
 
 # game/watanagashi/watanagashi_vm.rpy:687
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_91b48eb7:
 
     # n "Mion and Rena nodded back at me, looking a bit impressed."
-    n "Mion and Rena nodded back at me, looking a bit impressed."
+    n "Mion e Rena indicaram que minha resposta estava correta, parecendo um pouco impressionadas."
 
 # game/watanagashi/watanagashi_vm.rpy:688
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_c6039c4d:
 
     # extend " It seemed that my observations were on mark."
-    extend " It seemed that my observations were on mark."
+    extend " Parece que as minhas observações estavam certas."
 
 # game/watanagashi/watanagashi_vm.rpy:689
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_bd2f4bb3:
 
     # extend " Although, when I first heard about it, I imagined piling futons up in the swamp."
-    extend " Although, when I first heard about it, I imagined piling futons up in the swamp."
+    extend " Mesmo que no começo, eu tenha imaginado que eles empilhariam futons no pântano."
 
 # game/watanagashi/watanagashi_vm.rpy:690
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_66c86d82:
 
     # extend " ...but that'd block the river, and be a real pain to clear up after."
-    extend " ...but that'd block the river, and be a real pain to clear up after."
+    extend " ...mas isso bloquearia o rio, e seria muito difícil limpar depois."
 
 # game/watanagashi/watanagashi_vm.rpy:691
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_ce22e850:
@@ -1290,7 +1290,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog005_ce22e850:
     # voice "voice/ps3/s19/01/hr_kei15130_03.ogg"
     # a_keiichi "\"I've heard of people leaving offerings of things like needles or kitchen knives to their ancestors or to casualties of war... But an offering of futons is a first for me. What's the history behind that?\""
     voice "voice/ps3/s19/01/hr_kei15130_03.ogg"
-    a_keiichi "\"I've heard of people leaving offerings of things like needles or kitchen knives to their ancestors or to casualties of war... But an offering of futons is a first for me. What's the history behind that?\""
+    a_keiichi "\"Eu já ouvi falar de pessoas que deixam oferendas de coisas como agulhas ou facas de cozinha para os seus antepassados ou para vítimas da guerra... Mas uma oferenda de futon é a primeira vez para mim. Qual a história por trás disso?\""
 
 # game/watanagashi/watanagashi_vm.rpy:698
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog006_6d368dd5:
@@ -1298,7 +1298,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog006_6d368dd5:
     # voice "voice/ps3/s19/00/badb50006.ogg"
     # a_deling "{b}\"Ye fookin biiiiitch!!{/b}"
     voice "voice/ps3/s19/00/badb50006.ogg"
-    a_deling "{b}\"Ye fookin biiiiitch!!{/b}"
+    a_deling "{b}\"Sua putaaaa!!{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:700
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog006_6bc03a4e:
@@ -1306,7 +1306,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog006_6bc03a4e:
     # voice "voice/ps3/s19/00/badb50007.ogg"
     # extend " {b}I'll fookin bash yer ead in!!\"{/b}"
     voice "voice/ps3/s19/00/badb50007.ogg"
-    extend " {b}I'll fookin bash yer ead in!!\"{/b}"
+    extend " {b}Eu vou te foder!!\"{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:707
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog007_b29672d0:
@@ -1314,7 +1314,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog007_b29672d0:
     # voice "voice/ps3/s19/00/womb50004.ogg"
     # extend " *sigh*... honestly!\""
     voice "voice/ps3/s19/00/womb50004.ogg"
-    extend " *sigh*... honestly!\""
+    extend " Ah... sinceramente!\""
 
 # game/watanagashi/watanagashi_vm.rpy:714
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog008_139fecc2:
@@ -1322,7 +1322,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog008_139fecc2:
     # voice "voice/ps3/s19/06/500600093.ogg"
     # a_shion "\"More importantly, just now......"
     voice "voice/ps3/s19/06/500600093.ogg"
-    a_shion "\"More importantly, just now......"
+    a_shion "\"Mais importante, agora há pouco......"
 
 # game/watanagashi/watanagashi_vm.rpy:716
 translate brazilian_portuguese vm_wata_004_0x_n01_dialog008_dfe292fe:
@@ -1330,7 +1330,7 @@ translate brazilian_portuguese vm_wata_004_0x_n01_dialog008_dfe292fe:
     # voice "voice/ps3/s19/06/500600094.ogg"
     # extend " Were you surprised?\""
     voice "voice/ps3/s19/06/500600094.ogg"
-    extend " Were you surprised?\""
+    extend " Você ficou surpreso?\""
 
 # game/watanagashi/watanagashi_vm.rpy:728
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_02a040b8:
@@ -6006,7 +6006,7 @@ translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_e931ff09:
     # voice sustain
     # extend " Go with the truck and bring the bikes back."
     voice sustain
-    extend " Go with the truck and bring the bikes back."
+    extend " Vá com o caminhão e traga as motos com você."
 
 # game/watanagashi/watanagashi_vm.rpy:3176
 translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_d6959890:
@@ -6014,7 +6014,7 @@ translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_d6959890:
     # voice "voice/ps3/s20/11/440700100.ogg"
     # extend " Get the tough-looking red YAMAHA, the one with the broken right tail light,"
     voice "voice/ps3/s20/11/440700100.ogg"
-    extend " Get the tough-looking red YAMAHA, the one with the broken right tail light,"
+    extend " Pegue a Yamaha vermelha, a única que está com a lanterna traseira direita quebrada,"
 
 # game/watanagashi/watanagashi_vm.rpy:3178
 translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_419056f8:
@@ -6022,7 +6022,7 @@ translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_419056f8:
     # voice "voice/ps3/s20/11/440700101.ogg"
     # extend " and the white one that had the packing tape stuck to the seat."
     voice "voice/ps3/s20/11/440700101.ogg"
-    extend " and the white one that had the packing tape stuck to the seat."
+    extend " e a branca, que tem uma fita adesiva prendendo o assento."
 
 # game/watanagashi/watanagashi_vm.rpy:3180
 translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_8c575eef:
@@ -6030,7 +6030,7 @@ translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_8c575eef:
     # voice "voice/ps3/s20/11/440700102.ogg"
     # extend " It's those ones."
     voice "voice/ps3/s20/11/440700102.ogg"
-    extend " It's those ones."
+    extend " São essas."
 
 # game/watanagashi/watanagashi_vm.rpy:3182
 translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_b04a2e64:
@@ -6038,7 +6038,7 @@ translate brazilian_portuguese vm_wata_tips_05_00_n01_dialog001_b04a2e64:
     # voice "voice/ps3/s20/11/440700103.ogg"
     # extend " They belong to you, right?\""
     voice "voice/ps3/s20/11/440700103.ogg"
-    extend " They belong to you, right?\""
+    extend " Elas pertencem a vocês, certo?\""
 
 # game/watanagashi/watanagashi_vm.rpy:3194
 translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_4e1c5ce1:
@@ -6046,7 +6046,7 @@ translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_4e1c5ce1:
     # voice "voice/ps3/s20/11/440700099.ogg"
     # a_oishi "\"Kuma-chan.{w=1.0} Go with the truck and bring the bikes back."
     voice "voice/ps3/s20/11/440700099.ogg"
-    a_oishi "\"Kuma-chan.{w=1.0} Go with the truck and bring the bikes back."
+    a_oishi "\"Kuma-chan.{w=1.0} Vá com o caminhão e traga as motos com você."
 
 # game/watanagashi/watanagashi_vm.rpy:3196
 translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_ca014f11:
@@ -6054,7 +6054,7 @@ translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_ca014f11:
     # voice "voice/ps3/s20/11/440700100.ogg"
     # extend " Get the tough-looking red one, the one with the broken right tail light,"
     voice "voice/ps3/s20/11/440700100.ogg"
-    extend " Get the tough-looking red one, the one with the broken right tail light,"
+    extend " Pegue a vermelha, a única que está com a lanterna traseira direita quebrada,"
 
 # game/watanagashi/watanagashi_vm.rpy:3198
 translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_419056f8:
@@ -6062,7 +6062,7 @@ translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_419056f8:
     # voice "voice/ps3/s20/11/440700101.ogg"
     # extend " and the white one that had the packing tape stuck to the seat."
     voice "voice/ps3/s20/11/440700101.ogg"
-    extend " and the white one that had the packing tape stuck to the seat."
+    extend " e a branca, que tem uma fita adesiva prendendo o assento."
 
 # game/watanagashi/watanagashi_vm.rpy:3200
 translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_8c575eef:
@@ -6070,7 +6070,7 @@ translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_8c575eef:
     # voice "voice/ps3/s20/11/440700102.ogg"
     # extend " It's those ones."
     voice "voice/ps3/s20/11/440700102.ogg"
-    extend " It's those ones."
+    extend " São essas."
 
 # game/watanagashi/watanagashi_vm.rpy:3202
 translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_b04a2e64:
@@ -6078,7 +6078,7 @@ translate brazilian_portuguese vm_wata_tips_05_0x_n01_dialog001_b04a2e64:
     # voice "voice/ps3/s20/11/440700103.ogg"
     # extend " They belong to you, right?\""
     voice "voice/ps3/s20/11/440700103.ogg"
-    extend " They belong to you, right?\""
+    extend " Elas pertencem a vocês, certo?\""
 
 # game/watanagashi/watanagashi_vm.rpy:3214
 translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_3b5eb868:

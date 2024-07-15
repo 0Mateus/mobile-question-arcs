@@ -2404,7 +2404,7 @@ translate brazilian_portuguese wata_tips_04_7771f5bd:
     # voice "voice/ps3/s20/02/440200055.ogg"
     # a_rena "\"Mii-chan, you look sort of cozy today.{w=2.0}{nw}"
     voice "voice/ps3/s20/02/440200055.ogg"
-    a_rena "\"Mii-chan, you look sort of cozy today.{w=2.0}{nw}"
+    a_rena "\"Mii-chan parece que está com muito calor hoje.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:752
 translate brazilian_portuguese wata_tips_04_8cf0ab70:
@@ -2412,7 +2412,7 @@ translate brazilian_portuguese wata_tips_04_8cf0ab70:
     # voice sustain
     # extend " Did something happen?"
     voice sustain
-    extend " Did something happen?"
+    extend " Alguma coisa aconteceu, eu me pergunto?"
 
 # game/watanagashi/watanagashi_tips.rpy:754
 translate brazilian_portuguese wata_tips_04_ad9fee76:
@@ -2420,7 +2420,7 @@ translate brazilian_portuguese wata_tips_04_ad9fee76:
     # voice "voice/ps3/s20/02/440200056.ogg"
     # extend " Did it?\""
     voice "voice/ps3/s20/02/440200056.ogg"
-    extend " Did it?\""
+    extend " Eu me pergunto?\""
 
 # game/watanagashi/watanagashi_tips.rpy:757
 translate brazilian_portuguese wata_tips_04_bc62cf0c:
@@ -2428,7 +2428,7 @@ translate brazilian_portuguese wata_tips_04_bc62cf0c:
     # voice "voice/ps3/s20/04/440400041.ogg"
     # a_satoko "\"...Perhaps she's caught a fever?{w=2.0}{nw}"
     voice "voice/ps3/s20/04/440400041.ogg"
-    a_satoko "\"...Perhaps she's caught a fever?{w=2.0}{nw}"
+    a_satoko "\"...Talvez ela tenha pego uma febre?{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:759
 translate brazilian_portuguese wata_tips_04_f2e7af60:
@@ -2436,7 +2436,7 @@ translate brazilian_portuguese wata_tips_04_f2e7af60:
     # voice sustain
     # extend " The red in her face is probably due to the increased body temperature."
     voice sustain
-    extend " The red in her face is probably due to the increased body temperature."
+    extend " O vermelho em seu rosto é provavelmente devido ao aumento da temperatura corporal."
 
 # game/watanagashi/watanagashi_tips.rpy:762
 translate brazilian_portuguese wata_tips_04_b35bf9d2:
@@ -2444,7 +2444,7 @@ translate brazilian_portuguese wata_tips_04_b35bf9d2:
     # voice "voice/ps3/s20/04/440400042.ogg"
     # nvl_extend "......Hey, Rika.{w=1.0}{nw}"
     voice "voice/ps3/s20/04/440400042.ogg"
-    nvl_extend "......Hey, Rika.{w=1.0}{nw}"
+    nvl_extend "......Ei, Rika.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:764
 translate brazilian_portuguese wata_tips_04_a3b67ad2:
@@ -2452,7 +2452,7 @@ translate brazilian_portuguese wata_tips_04_a3b67ad2:
     # voice sustain
     # extend " Why are you petting my head?\""
     voice sustain
-    extend " Why are you petting my head?\""
+    extend " Por que você está acariciando minha ?\""
 
 # game/watanagashi/watanagashi_tips.rpy:768
 translate brazilian_portuguese wata_tips_04_5cfbd5fc:
@@ -2460,7 +2460,7 @@ translate brazilian_portuguese wata_tips_04_5cfbd5fc:
     # voice "voice/ps3/s20/05/440500024.ogg"
     # a_rika "\"......Satoko, I'm sure you'll be able to catch fevers soon enough.\""
     voice "voice/ps3/s20/05/440500024.ogg"
-    a_rika "\"......Satoko, I'm sure you'll be able to catch fevers soon enough.\""
+    a_rika "\"......Satoko, tenho certeza de que logo você também vai estar pegando febres.\""
 
 # game/watanagashi/watanagashi_tips.rpy:770
 translate brazilian_portuguese wata_tips_04_2dc4098d_7:
@@ -2486,7 +2486,7 @@ translate brazilian_portuguese wata_tips_05_fd011428:
     # voice "voice/ps3/s20/00/huryoa44001.ogg"
     # a_deling "{b}\"Just why ya arrestin' us?!!\"{/b}"
     voice "voice/ps3/s20/00/huryoa44001.ogg"
-    a_deling "{b}\"Just why ya arrestin' us?!!\"{/b}"
+    a_deling "{b}\"Por que diabos tão prendendo a gente?!!\"{/b}"
 
 # game/watanagashi/watanagashi_tips.rpy:792
 translate brazilian_portuguese wata_tips_05_889c3d69:
@@ -2494,7 +2494,7 @@ translate brazilian_portuguese wata_tips_05_889c3d69:
     # voice "voice/ps3/s20/00/huryob44001.ogg"
     # a_deling "{b}\"Bullshit!!{/b}{w=1.0}{nw}"
     voice "voice/ps3/s20/00/huryob44001.ogg"
-    a_deling "{b}\"Bullshit!!{/b}{w=1.0}{nw}"
+    a_deling "{b}\"Que droga!!{/b}{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:794
 translate brazilian_portuguese wata_tips_05_71b09c58:
@@ -2502,7 +2502,7 @@ translate brazilian_portuguese wata_tips_05_71b09c58:
     # voice sustain
     # extend " {b}Leggo a me!!!\"{/b}"
     voice sustain
-    extend " {b}Leggo a me!!!\"{/b}"
+    extend " {b}Nós não somos criminosos!!!\"{/b}"
 
 # game/watanagashi/watanagashi_tips.rpy:797
 translate brazilian_portuguese wata_tips_05_01c19ad5:
@@ -2510,7 +2510,7 @@ translate brazilian_portuguese wata_tips_05_01c19ad5:
     # voice "voice/ps3/s20/11/440700061.ogg"
     # a_oishi "\"Kuma-chan, you can let go of their arms now.{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700061.ogg"
-    a_oishi "\"Kuma-chan, you can let go of their arms now.{w=2.0}{nw}"
+    a_oishi "\"Kuma-chan, você pode soltar os braços deles agora.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:799
 translate brazilian_portuguese wata_tips_05_9cec3861:
@@ -2518,13 +2518,13 @@ translate brazilian_portuguese wata_tips_05_9cec3861:
     # voice sustain
     # extend " Here, please, sit down.\""
     voice sustain
-    extend " Here, please, sit down.\""
+    extend " Aqui, por favor, sentem-se.\""
 
 # game/watanagashi/watanagashi_tips.rpy:801
 translate brazilian_portuguese wata_tips_05_280a4228:
 
     # n "The three people rubbed their arms painfully - Kumagai-kun and the others must have been squeezing them pretty tightly."
-    n "The three people rubbed their arms painfully - Kumagai-kun and the others must have been squeezing them pretty tightly."
+    n "Os três caras esfregaram os braços dolorosamente - Kumagai-kun e os outros devem ter apertado bem firme."
 
 # game/watanagashi/watanagashi_tips.rpy:802
 translate brazilian_portuguese wata_tips_05_76b2fe88:
@@ -2546,7 +2546,7 @@ translate brazilian_portuguese wata_tips_05_5c7a9b65:
     # voice sustain
     # extend " Don't get me wrong."
     voice sustain
-    extend " Don't get me wrong."
+    extend " Não me interpretem mal."
 
 # game/watanagashi/watanagashi_tips.rpy:809
 translate brazilian_portuguese wata_tips_05_05c77540:
@@ -2554,7 +2554,7 @@ translate brazilian_portuguese wata_tips_05_05c77540:
     # voice "voice/ps3/s20/11/440700063.ogg"
     # extend " I haven't arrested you or anything."
     voice "voice/ps3/s20/11/440700063.ogg"
-    extend " I haven't arrested you or anything."
+    extend " Eu não prendi vocês nem nada parecido."
 
 # game/watanagashi/watanagashi_tips.rpy:811
 translate brazilian_portuguese wata_tips_05_aefb7592:
@@ -2570,7 +2570,7 @@ translate brazilian_portuguese wata_tips_05_bc3169cb:
     # voice sustain
     # extend " Go get me something cold from the fridge, please."
     voice sustain
-    extend " Go get me something cold from the fridge, please."
+    extend " Vá pegar alguma coisa gelada para eu beber, por favor."
 
 # game/watanagashi/watanagashi_tips.rpy:815
 translate brazilian_portuguese wata_tips_05_52ef946d:
@@ -2578,7 +2578,7 @@ translate brazilian_portuguese wata_tips_05_52ef946d:
     # voice "voice/ps3/s20/11/440700065.ogg"
     # extend " Would you like your barley with foam or without?"
     voice "voice/ps3/s20/11/440700065.ogg"
-    extend " Would you like your barley with foam or without?"
+    extend " Vocês gostariam de seu 'chá de cevada' com ou sem espuma?"
 
 # game/watanagashi/watanagashi_tips.rpy:817
 translate brazilian_portuguese wata_tips_05_8ee47ccb:
@@ -2594,13 +2594,13 @@ translate brazilian_portuguese wata_tips_05_7c4a050b:
     # nvl clear
     # n "They plunked down onto the reception sofa, and despite not yelling anymore, they still had dangerous expressions."
     nvl clear
-    n "They plunked down onto the reception sofa, and despite not yelling anymore, they still had dangerous expressions."
+    n "Eles afundaram no sofá da recepção, e apesar de não gritarem mais, eles ainda tinham expressões perigosas."
 
 # game/watanagashi/watanagashi_tips.rpy:822
 translate brazilian_portuguese wata_tips_05_71c73ffa:
 
     # extend " ...Mmm, what I'd give to be young again."
-    extend " ...Mmm, what I'd give to be young again."
+    extend " ...Mmm, o que eu não daria para ser jovem de novo."
 
 # game/watanagashi/watanagashi_tips.rpy:823
 translate brazilian_portuguese wata_tips_05_76c6313d:
@@ -2610,7 +2610,7 @@ translate brazilian_portuguese wata_tips_05_76c6313d:
     # a_oishi "\"I'll drink even if you don't, you know.{w=2.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700067.ogg"
-    a_oishi "\"I'll drink even if you don't, you know.{w=2.0}{nw}"
+    a_oishi "\"Eu vou beber, mesmo se vocês não quiserem, sabem.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:827
 translate brazilian_portuguese wata_tips_05_bf233bc7:
@@ -2618,7 +2618,7 @@ translate brazilian_portuguese wata_tips_05_bf233bc7:
     # voice sustain
     # extend " Excuse me for helping myself."
     voice sustain
-    extend " Excuse me for helping myself."
+    extend " Com licença, ah."
 
 # game/watanagashi/watanagashi_tips.rpy:829
 translate brazilian_portuguese wata_tips_05_1a346037:
@@ -2634,7 +2634,7 @@ translate brazilian_portuguese wata_tips_05_04ebfd5b:
     # voice "voice/ps3/s20/11/440700069.ogg"
     # extend " Beer is best when you drink it on the job~!\""
     voice "voice/ps3/s20/11/440700069.ogg"
-    extend " Beer is best when you drink it on the job~!\""
+    extend " A cerveja é melhor quando você bebe ela no trabalho~!\""
 
 # game/watanagashi/watanagashi_tips.rpy:833
 translate brazilian_portuguese wata_tips_05_2dc4098d:
@@ -2646,13 +2646,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d:
 translate brazilian_portuguese wata_tips_05_502313a1:
 
     # n "As he downed the beer with glee, the three people exchanged glances, then finally reached out for their cans."
-    n "As he downed the beer with glee, the three people exchanged glances, then finally reached out for their cans."
+    n "Enquanto ele bebia sua cerveja com alegria, as três pessoas se olharam, e então, finalmente, estenderam a mão para suas latas."
 
 # game/watanagashi/watanagashi_tips.rpy:835
 translate brazilian_portuguese wata_tips_05_df53ac0d:
 
     # n "...They hadn't stopped being cautious—it was more like they didn't see a reason to refuse."
-    n "...They hadn't stopped being cautious—it was more like they didn't see a reason to refuse."
+    n "...Eles não tinham deixado de ser cautelosos—mas não viam razão para recusar."
 
 # game/watanagashi/watanagashi_tips.rpy:836
 translate brazilian_portuguese wata_tips_05_ef87f320:
@@ -2660,7 +2660,7 @@ translate brazilian_portuguese wata_tips_05_ef87f320:
     # nvl clear
     # n "They each opened their cans and began to drink the contents."
     nvl clear
-    n "They each opened their cans and began to drink the contents."
+    n "Eles abriram suas latas e começaram a beber o conteúdo."
 
 # game/watanagashi/watanagashi_tips.rpy:839
 translate brazilian_portuguese wata_tips_05_76b2fe88_1:
@@ -2674,7 +2674,7 @@ translate brazilian_portuguese wata_tips_05_61481f50:
     # voice "voice/ps3/s20/11/440700070.ogg"
     # a_oishi "\"Where did you guys come from?{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700070.ogg"
-    a_oishi "\"Where did you guys come from?{w=2.0}{nw}"
+    a_oishi "\"De onde vocês, caras, vieram?{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:847
 translate brazilian_portuguese wata_tips_05_67e26b33:
@@ -2682,7 +2682,7 @@ translate brazilian_portuguese wata_tips_05_67e26b33:
     # voice sustain
     # extend " You're not from around here."
     voice sustain
-    extend " You're not from around here."
+    extend " Vocês não são das redondezas."
 
 # game/watanagashi/watanagashi_tips.rpy:849
 translate brazilian_portuguese wata_tips_05_fedf0c29:
@@ -2696,7 +2696,7 @@ translate brazilian_portuguese wata_tips_05_fedf0c29:
 translate brazilian_portuguese wata_tips_05_725f185e:
 
     # n "They looked at each other again, suspicious of whether they should tell him."
-    n "They looked at each other again, suspicious of whether they should tell him."
+    n "Eles olharam um para o outro novamente, não sabendo se deveriam dizer."
 
 # game/watanagashi/watanagashi_tips.rpy:852
 translate brazilian_portuguese wata_tips_05_d3da91ef:
@@ -2706,7 +2706,7 @@ translate brazilian_portuguese wata_tips_05_d3da91ef:
     # a_oishi "\"Are you all college students?{w=2.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700072.ogg"
-    a_oishi "\"Are you all college students?{w=2.0}{nw}"
+    a_oishi "\"Vocês são estudantes universitários?{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:856
 translate brazilian_portuguese wata_tips_05_b9d7e3ed:
@@ -2714,7 +2714,7 @@ translate brazilian_portuguese wata_tips_05_b9d7e3ed:
     # voice sustain
     # extend " Friends on a trip?"
     voice sustain
-    extend " Friends on a trip?"
+    extend " Amigos numa viagem?"
 
 # game/watanagashi/watanagashi_tips.rpy:858
 translate brazilian_portuguese wata_tips_05_772200b2:
@@ -2722,7 +2722,7 @@ translate brazilian_portuguese wata_tips_05_772200b2:
     # voice "voice/ps3/s20/11/440700073.ogg"
     # extend " You were probably travelling on bikes or something."
     voice "voice/ps3/s20/11/440700073.ogg"
-    extend " You were probably travelling on bikes or something."
+    extend " Provavelmente viajando em motos ou algo assim."
 
 # game/watanagashi/watanagashi_tips.rpy:860
 translate brazilian_portuguese wata_tips_05_165ad0eb:
@@ -2730,7 +2730,7 @@ translate brazilian_portuguese wata_tips_05_165ad0eb:
     # voice "voice/ps3/s20/11/440700074.ogg"
     # extend " Sounds like fun I wish I was having!\""
     voice "voice/ps3/s20/11/440700074.ogg"
-    extend " Sounds like fun I wish I was having!\""
+    extend " Que inveja!\""
 
 # game/watanagashi/watanagashi_tips.rpy:862
 translate brazilian_portuguese wata_tips_05_63d45e34:
@@ -2746,7 +2746,7 @@ translate brazilian_portuguese wata_tips_05_c2e5d1eb:
     # voice "voice/ps3/s20/11/440700075.ogg"
     # a_oishi "\"You don't live close by, do you?{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700075.ogg"
-    a_oishi "\"You don't live close by, do you?{w=2.0}{nw}"
+    a_oishi "\"Vocês não vivem perto daqui, certo?{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:866
 translate brazilian_portuguese wata_tips_05_bee60e4d:
@@ -2754,7 +2754,7 @@ translate brazilian_portuguese wata_tips_05_bee60e4d:
     # voice sustain
     # extend " Where did you come from?"
     voice sustain
-    extend " Where did you come from?"
+    extend " De onde vocês vieram?"
 
 # game/watanagashi/watanagashi_tips.rpy:868
 translate brazilian_portuguese wata_tips_05_b0f5e9ed:
@@ -2762,7 +2762,7 @@ translate brazilian_portuguese wata_tips_05_b0f5e9ed:
     # voice "voice/ps3/s20/11/440700076.ogg"
     # extend " Osaka, perhaps?\""
     voice "voice/ps3/s20/11/440700076.ogg"
-    extend " Osaka, perhaps?\""
+    extend " Osaka, talvez?\""
 
 # game/watanagashi/watanagashi_tips.rpy:870
 translate brazilian_portuguese wata_tips_05_544a44c8:
@@ -2770,7 +2770,7 @@ translate brazilian_portuguese wata_tips_05_544a44c8:
     # voice "voice/ps3/s20/00/huryob44002.ogg"
     # a_deling "\"Whassit matter to ya?\""
     voice "voice/ps3/s20/00/huryob44002.ogg"
-    a_deling "\"Whassit matter to ya?\""
+    a_deling "\"O que isso importa?\""
 
 # game/watanagashi/watanagashi_tips.rpy:873
 translate brazilian_portuguese wata_tips_05_a3428e00:
@@ -2778,7 +2778,7 @@ translate brazilian_portuguese wata_tips_05_a3428e00:
     # voice "voice/ps3/s20/11/440700077.ogg"
     # a_oishi "\"Now, now, there's no use trying to intimidate me.{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700077.ogg"
-    a_oishi "\"Now, now, there's no use trying to intimidate me.{w=2.0}{nw}"
+    a_oishi "\"Ora, ora, não tentem me intimidar.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:875
 translate brazilian_portuguese wata_tips_05_a2ba3474:
@@ -2786,7 +2786,7 @@ translate brazilian_portuguese wata_tips_05_a2ba3474:
     # voice sustain
     # extend " You would have all been in a lot of trouble if I'd left you there, right?\""
     voice sustain
-    extend " You would have all been in a lot of trouble if I'd left you there, right?\""
+    extend " Vocês teriam acabado muito mal se eu os tivesse deixado lá, certo?\""
 
 # game/watanagashi/watanagashi_tips.rpy:877
 translate brazilian_portuguese wata_tips_05_75b7ed00:
@@ -2794,7 +2794,7 @@ translate brazilian_portuguese wata_tips_05_75b7ed00:
     # nvl clear
     # n "They seemed to recall the thrilling event from earlier."
     nvl clear
-    n "They seemed to recall the thrilling event from earlier."
+    n "Eles pareceram recordar do evento emocionante de mais cedo."
 
 # game/watanagashi/watanagashi_tips.rpy:880
 translate brazilian_portuguese wata_tips_05_2dc4098d_1:
@@ -2806,13 +2806,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_1:
 translate brazilian_portuguese wata_tips_05_c22e1d2c:
 
     # n "...While they could understand getting surrounded by students, or a gang, or something along those lines..."
-    n "...While they could understand getting surrounded by students, or a gang, or something along those lines..."
+    n "...Eles podiam compreender ficar cercado por estudantes, ou uma gangue, algo nesse sentido..."
 
 # game/watanagashi/watanagashi_tips.rpy:882
 translate brazilian_portuguese wata_tips_05_277f0c86:
 
     # n "...They would never have been surrounded by locals both young and old, both men and women before."
-    n "...They would never have been surrounded by locals both young and old, both men and women before."
+    n "...Mas eles nunca tinham sido cercados por moradores locais antes, mulheres e homens, jovens e idosos."
 
 # game/watanagashi/watanagashi_tips.rpy:883
 translate brazilian_portuguese wata_tips_05_2dc4098d_2:
@@ -2824,7 +2824,7 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_2:
 translate brazilian_portuguese wata_tips_05_004dedb5:
 
     # n "It was easy to imagine how scared they must have been."
-    n "It was easy to imagine how scared they must have been."
+    n "Era fácil de imaginar como eles tinham ficado assustados."
 
 # game/watanagashi/watanagashi_tips.rpy:885
 translate brazilian_portuguese wata_tips_05_76b2fe88_2:
@@ -2838,7 +2838,7 @@ translate brazilian_portuguese wata_tips_05_b685bc60:
     # voice "voice/ps3/s20/11/440700078.ogg"
     # a_oishi "\"If you were from here, the people of Hinamizawa wouldn't have done anything to you, no matter what you had done wrong.{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700078.ogg"
-    a_oishi "\"If you were from here, the people of Hinamizawa wouldn't have done anything to you, no matter what you had done wrong.{w=1.0}{nw}"
+    a_oishi "\"Se vocês fossem daqui, o povo de Hinamizawa não teria feito qualquer coisa para vocês, não importa o que fizessem de errado.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:890
 translate brazilian_portuguese wata_tips_05_94ff7725:
@@ -2846,7 +2846,7 @@ translate brazilian_portuguese wata_tips_05_94ff7725:
     # voice sustain
     # extend " ......They're all special."
     voice sustain
-    extend " ......They're all special."
+    extend " ......Essa comunidade é especial."
 
 # game/watanagashi/watanagashi_tips.rpy:892
 translate brazilian_portuguese wata_tips_05_c39dfeee:
@@ -2854,7 +2854,7 @@ translate brazilian_portuguese wata_tips_05_c39dfeee:
     # voice "voice/ps3/s20/11/440700079.ogg"
     # nvl_extend "Not in the sense of parents not wanting to get involved in their children's fights.{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700079.ogg"
-    nvl_extend "Not in the sense of parents not wanting to get involved in their children's fights.{w=1.0}{nw}"
+    nvl_extend "Não como pais que não querem se envolver nas brigas de seus filhos.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:894
 translate brazilian_portuguese wata_tips_05_8f7dbb3c:
@@ -2862,7 +2862,7 @@ translate brazilian_portuguese wata_tips_05_8f7dbb3c:
     # voice sustain
     # extend " ......If one person gets bullied, the village will come out in full force."
     voice sustain
-    extend " ......If one person gets bullied, the village will come out in full force."
+    extend " ......Se uma pessoa está sendo intimidada, a vila inteira sai em seu auxílio, com força total."
 
 # game/watanagashi/watanagashi_tips.rpy:896
 translate brazilian_portuguese wata_tips_05_a88d3d86:
@@ -2870,19 +2870,19 @@ translate brazilian_portuguese wata_tips_05_a88d3d86:
     # voice "voice/ps3/s20/11/440700080.ogg"
     # extend " That's not just an idle threat, you know.\""
     voice "voice/ps3/s20/11/440700080.ogg"
-    extend " That's not just an idle threat, you know.\""
+    extend " Isso não é apenas uma ameaça vazia, vocês entendem.\""
 
 # game/watanagashi/watanagashi_tips.rpy:898
 translate brazilian_portuguese wata_tips_05_37943a2f:
 
     # n "They couldn't argue against that."
-    n "They couldn't argue against that."
+    n "Eles não podiam argumentar contra isso."
 
 # game/watanagashi/watanagashi_tips.rpy:899
 translate brazilian_portuguese wata_tips_05_fc510e9f:
 
     # n "...They themselves had been surrounded. They'd seen it with their own eyes. There was no doubt about it."
-    n "...They themselves had been surrounded. They'd seen it with their own eyes. There was no doubt about it."
+    n "...Eles haviam sido cercados. Eles tinham visto com seus próprios olhos. Não havia nenhuma dúvida sobre isso."
 
 # game/watanagashi/watanagashi_tips.rpy:900
 translate brazilian_portuguese wata_tips_05_d9e959f1:
@@ -2892,7 +2892,7 @@ translate brazilian_portuguese wata_tips_05_d9e959f1:
     # a_oishi "\"Around these parts...{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700081.ogg"
-    a_oishi "\"Around these parts...{w=1.0}{nw}"
+    a_oishi "\"Por estas partes...{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:904
 translate brazilian_portuguese wata_tips_05_a14c2c81:
@@ -2900,7 +2900,7 @@ translate brazilian_portuguese wata_tips_05_a14c2c81:
     # voice sustain
     # extend " If the people of Hinamizawa give you a glare like that, you'll simply get demoned away and no one will hear from you again."
     voice sustain
-    extend " If the people of Hinamizawa give you a glare like that, you'll simply get demoned away and no one will hear from you again."
+    extend " Se o povo de Hinamizawa pregar os olhos em você, você vai simplesmente sofrer onikakushi, e ninguém nunca mais vai ouvir falar de você."
 
 # game/watanagashi/watanagashi_tips.rpy:906
 translate brazilian_portuguese wata_tips_05_bbd760d1:
@@ -2908,7 +2908,7 @@ translate brazilian_portuguese wata_tips_05_bbd760d1:
     # voice "voice/ps3/s20/11/440700082.ogg"
     # extend " You'll suddenly disappear without a trace."
     voice "voice/ps3/s20/11/440700082.ogg"
-    extend " You'll suddenly disappear without a trace."
+    extend " Você desaparece de repente, sem deixar rasto."
 
 # game/watanagashi/watanagashi_tips.rpy:908
 translate brazilian_portuguese wata_tips_05_6ded2d66:
@@ -2916,7 +2916,7 @@ translate brazilian_portuguese wata_tips_05_6ded2d66:
     # voice "voice/ps3/s20/11/440700083.ogg"
     # nvl_extend "...Do you all have families that would get the police to search for you if you went missing?{w=4.0}{nw}"
     voice "voice/ps3/s20/11/440700083.ogg"
-    nvl_extend "...Do you all have families that would get the police to search for you if you went missing?{w=4.0}{nw}"
+    nvl_extend "...Vocês têm famílias, que iriam chamar a polícia para procurar por vocês, caso desaparecessem?{w=4.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:910
 translate brazilian_portuguese wata_tips_05_75d09838:
@@ -2924,7 +2924,7 @@ translate brazilian_portuguese wata_tips_05_75d09838:
     # voice sustain
     # extend " If not, then that's bad."
     voice sustain
-    extend " If not, then that's bad."
+    extend " Se não, isso é ruim."
 
 # game/watanagashi/watanagashi_tips.rpy:912
 translate brazilian_portuguese wata_tips_05_d6d23fbf:
@@ -2932,7 +2932,7 @@ translate brazilian_portuguese wata_tips_05_d6d23fbf:
     # voice "voice/ps3/s20/11/440700084.ogg"
     # extend " You'll vanish, and that'll be the end of it."
     voice "voice/ps3/s20/11/440700084.ogg"
-    extend " You'll vanish, and that'll be the end of it."
+    extend " Vocês vão desaparecer, e esse será o fim."
 
 # game/watanagashi/watanagashi_tips.rpy:914
 translate brazilian_portuguese wata_tips_05_cffe1043:
@@ -2948,7 +2948,7 @@ translate brazilian_portuguese wata_tips_05_6b0268ac:
     # nvl clear
     # n "Even then, we got there soon enough that nothing happened. If we'd been late, things could have taken a turn for the worse."
     nvl clear
-    n "Even then, we got there soon enough that nothing happened. If we'd been late, things could have taken a turn for the worse."
+    n "Mas nós chegamos lá rápido o bastante para que nada acontecesse. Se chegássemos mais tarde, as coisas poderiam ter tomado um rumo bem ruim."
 
 # game/watanagashi/watanagashi_tips.rpy:919
 translate brazilian_portuguese wata_tips_05_2dc4098d_3:
@@ -2960,13 +2960,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_3:
 translate brazilian_portuguese wata_tips_05_de1ba8ca:
 
     # n "If they'd been forced into an alleyway... these young men wouldn't be sitting on a couch right now, they might be lying on an autopsy table."
-    n "If they'd been forced into an alleyway... these young men wouldn't be sitting on a couch right now, they might be lying on an autopsy table."
+    n "Se eles tivessem sido encurralados num beco... esses jovens poderiam não estar sentados num sofá agora, mas talvez deitados numa mesa de autópsia."
 
 # game/watanagashi/watanagashi_tips.rpy:921
 translate brazilian_portuguese wata_tips_05_a99ecafe:
 
     # extend " ...Nfu-fu-fu! Well, probably not..."
-    extend " ...Nfu-fu-fu! Well, probably not..."
+    extend " ...Nfu-fu-fu! Bem, provavelmente não..."
 
 # game/watanagashi/watanagashi_tips.rpy:922
 translate brazilian_portuguese wata_tips_05_2dc4098d_4:
@@ -2978,13 +2978,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_4:
 translate brazilian_portuguese wata_tips_05_cc5635ac:
 
     # n "Anyway."
-    n "Anyway."
+    n "Bem, de quaquer jeito."
 
 # game/watanagashi/watanagashi_tips.rpy:924
 translate brazilian_portuguese wata_tips_05_29f19f14:
 
     # extend " ...Perhaps they'd be a little more cooperative if we'd found them as corpses."
-    extend " ...Perhaps they'd be a little more cooperative if we'd found them as corpses."
+    extend " ...Talvez eles fossem um pouco mais cooperativos se tivessem sido transformados em cadáveres."
 
 # game/watanagashi/watanagashi_tips.rpy:925
 translate brazilian_portuguese wata_tips_05_76b2fe88_3:
@@ -2998,7 +2998,7 @@ translate brazilian_portuguese wata_tips_05_a7ee4a54:
     # voice "voice/ps3/s20/11/440700086.ogg"
     # a_oishi "\"...How did you all get to Okinomiya?{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700086.ogg"
-    a_oishi "\"...How did you all get to Okinomiya?{w=1.0}{nw}"
+    a_oishi "\"...Como vocês vieram para Okinomiya?{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:930
 translate brazilian_portuguese wata_tips_05_ce8f87db:
@@ -3006,7 +3006,7 @@ translate brazilian_portuguese wata_tips_05_ce8f87db:
     # voice sustain
     # extend " By train?"
     voice sustain
-    extend " By train?"
+    extend " Com o trem?"
 
 # game/watanagashi/watanagashi_tips.rpy:932
 translate brazilian_portuguese wata_tips_05_374964e7:
@@ -3014,7 +3014,7 @@ translate brazilian_portuguese wata_tips_05_374964e7:
     # voice "voice/ps3/s20/11/440700087.ogg"
     # extend " By bike?\""
     voice "voice/ps3/s20/11/440700087.ogg"
-    extend " By bike?\""
+    extend " Com suas motos?\""
 
 # game/watanagashi/watanagashi_tips.rpy:934
 translate brazilian_portuguese wata_tips_05_37cd4b5f:
@@ -3022,7 +3022,7 @@ translate brazilian_portuguese wata_tips_05_37cd4b5f:
     # voice "voice/ps3/s20/00/huryoa44003.ogg"
     # a_deling "\"......Bike.\""
     voice "voice/ps3/s20/00/huryoa44003.ogg"
-    a_deling "\"......Bike.\""
+    a_deling "\"......Com as motos.\""
 
 # game/watanagashi/watanagashi_tips.rpy:936
 translate brazilian_portuguese wata_tips_05_76b2fe88_4:
@@ -3036,7 +3036,7 @@ translate brazilian_portuguese wata_tips_05_acf0d5af:
     # voice "voice/ps3/s20/11/440700088.ogg"
     # a_oishi "\"That's not good.{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700088.ogg"
-    a_oishi "\"That's not good.{w=1.0}{nw}"
+    a_oishi "\"Isso não é bom.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:941
 translate brazilian_portuguese wata_tips_05_0843833b:
@@ -3044,7 +3044,7 @@ translate brazilian_portuguese wata_tips_05_0843833b:
     # voice sustain
     # extend " They're still parked there, aren't they?"
     voice sustain
-    extend " They're still parked there, aren't they?"
+    extend " Elas ainda estão estacionadas lá, não é mesmo?"
 
 # game/watanagashi/watanagashi_tips.rpy:943
 translate brazilian_portuguese wata_tips_05_1e00c9f7:
@@ -3052,7 +3052,7 @@ translate brazilian_portuguese wata_tips_05_1e00c9f7:
     # voice "voice/ps3/s20/11/440700089.ogg"
     # extend " If you go waltzing in to get them back, they really might gang up on you.\""
     voice "voice/ps3/s20/11/440700089.ogg"
-    extend " If you go waltzing in to get them back, they really might gang up on you.\""
+    extend " Se vocês voltarem lá para recuperá-las, eles realmente podem vir para cima de vocês.\""
 
 # game/watanagashi/watanagashi_tips.rpy:945
 translate brazilian_portuguese wata_tips_05_fb45df3c:
@@ -3060,7 +3060,7 @@ translate brazilian_portuguese wata_tips_05_fb45df3c:
     # voice "voice/ps3/s20/00/huryob44003.ogg"
     # a_deling "\"......Hellsat?{w=1.0}{nw}"
     voice "voice/ps3/s20/00/huryob44003.ogg"
-    a_deling "\"......Hellsat?{w=1.0}{nw}"
+    a_deling "\"......C-Como?{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:947
 translate brazilian_portuguese wata_tips_05_277883bf:
@@ -3068,7 +3068,7 @@ translate brazilian_portuguese wata_tips_05_277883bf:
     # voice sustain
     # extend " We'll take'em all!!!\""
     voice sustain
-    extend " We'll take'em all!!!\""
+    extend " Nós vamos pegá-las de volta!!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:949
 translate brazilian_portuguese wata_tips_05_2dc4098d_5:
@@ -3080,13 +3080,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_5:
 translate brazilian_portuguese wata_tips_05_34ab3745:
 
     # n "Calm down, calm down..."
-    n "Calm down, calm down..."
+    n "Acalmem-se, acalmem-se..."
 
 # game/watanagashi/watanagashi_tips.rpy:951
 translate brazilian_portuguese wata_tips_05_f83fd016:
 
     # n "Why are young people these days so quick with the shouting...?"
-    n "Why are young people these days so quick with the shouting...?"
+    n "Por que os jovens hoje em dia são tão rápidos em gritar...?"
 
 # game/watanagashi/watanagashi_tips.rpy:952
 translate brazilian_portuguese wata_tips_05_76b2fe88_5:
@@ -3100,7 +3100,7 @@ translate brazilian_portuguese wata_tips_05_a4312720:
     # voice "voice/ps3/s20/11/440700090.ogg"
     # a_oishi "\"You don't want any more trouble, right?{w=1.5}{nw}"
     voice "voice/ps3/s20/11/440700090.ogg"
-    a_oishi "\"You don't want any more trouble, right?{w=1.5}{nw}"
+    a_oishi "\"Vocês não querem mais nenhum problema, certo?{w=1.5}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:957
 translate brazilian_portuguese wata_tips_05_796ffef0:
@@ -3108,7 +3108,7 @@ translate brazilian_portuguese wata_tips_05_796ffef0:
     # voice sustain
     # extend " Tell me the bike license plate numbers."
     voice sustain
-    extend " Tell me the bike license plate numbers."
+    extend " Digam-me os números das placas das motos."
 
 # game/watanagashi/watanagashi_tips.rpy:959
 translate brazilian_portuguese wata_tips_05_2f57904f:
@@ -3116,7 +3116,7 @@ translate brazilian_portuguese wata_tips_05_2f57904f:
     # voice "voice/ps3/s20/11/440700091.ogg"
     # extend " I'll bring them here for you."
     voice "voice/ps3/s20/11/440700091.ogg"
-    extend " I'll bring them here for you."
+    extend " Eu vou pegá-las para vocês."
 
 # game/watanagashi/watanagashi_tips.rpy:961
 translate brazilian_portuguese wata_tips_05_624e6ca4:
@@ -3124,7 +3124,7 @@ translate brazilian_portuguese wata_tips_05_624e6ca4:
     # voice "voice/ps3/s20/11/440700092.ogg"
     # extend " ...Kuma-chan, please borrow the loading truck we use for traffic disasters.\""
     voice "voice/ps3/s20/11/440700092.ogg"
-    extend " ...Kuma-chan, please borrow the loading truck we use for traffic disasters.\""
+    extend " ...Kuma-chan, por favor, peça por um desses caminhões que usamos para desastres de trânsito.\""
 
 # game/watanagashi/watanagashi_tips.rpy:963
 translate brazilian_portuguese wata_tips_05_f46099de:
@@ -3132,7 +3132,7 @@ translate brazilian_portuguese wata_tips_05_f46099de:
     # voice "voice/ps3/s20/19/443100007.ogg"
     # a_kuma "\"Got it!\""
     voice "voice/ps3/s20/19/443100007.ogg"
-    a_kuma "\"Got it!\""
+    a_kuma "\"Certo!\""
 
 # game/watanagashi/watanagashi_tips.rpy:965
 translate brazilian_portuguese wata_tips_05_9dd1db21:
@@ -3140,7 +3140,7 @@ translate brazilian_portuguese wata_tips_05_9dd1db21:
     # voice "voice/ps3/s20/00/huryoa44004.ogg"
     # a_deling "\"Iss, iss fine...!{w=1.0}{nw}"
     voice "voice/ps3/s20/00/huryoa44004.ogg"
-    a_deling "\"Iss, iss fine...!{w=1.0}{nw}"
+    a_deling "\"Não, não é preciso...!{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:967
 translate brazilian_portuguese wata_tips_05_b922d48a:
@@ -3148,7 +3148,7 @@ translate brazilian_portuguese wata_tips_05_b922d48a:
     # voice sustain
     # extend " We'll get them ourselves!\""
     voice sustain
-    extend " We'll get them ourselves!\""
+    extend " Nós mesmos vamos pegá-las!\""
 
 # game/watanagashi/watanagashi_tips.rpy:969
 translate brazilian_portuguese wata_tips_05_76b2fe88_6:
@@ -3162,7 +3162,7 @@ translate brazilian_portuguese wata_tips_05_87f99f3b:
     # voice "voice/ps3/s20/11/440700093.ogg"
     # a_oishi "\"Do you really want to get surrounded again?{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700093.ogg"
-    a_oishi "\"Do you really want to get surrounded again?{w=2.0}{nw}"
+    a_oishi "\"Vocês realmente querem se arriscar a serem cercados de novo?{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:974
 translate brazilian_portuguese wata_tips_05_52c92d2f:
@@ -3170,7 +3170,7 @@ translate brazilian_portuguese wata_tips_05_52c92d2f:
     # voice sustain
     # extend " The police may not be fast enough to save you this time.\""
     voice sustain
-    extend " The police may not be fast enough to save you this time.\""
+    extend " A polícia pode não ser rápido o suficiente para salvá-los dessa vez.\""
 
 # game/watanagashi/watanagashi_tips.rpy:976
 translate brazilian_portuguese wata_tips_05_a4afb7c9:
@@ -3186,7 +3186,7 @@ translate brazilian_portuguese wata_tips_05_55e5794d:
     # voice "voice/ps3/s20/00/huryob44004.ogg"
     # a_deling "\"It's fine, innit!?{w=1.0}{nw}"
     voice "voice/ps3/s20/00/huryob44004.ogg"
-    a_deling "\"It's fine, innit!?{w=1.0}{nw}"
+    a_deling "\"Está tudo bem, não é!?{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:980
 translate brazilian_portuguese wata_tips_05_fe3f0028:
@@ -3194,7 +3194,7 @@ translate brazilian_portuguese wata_tips_05_fe3f0028:
     # voice sustain
     # extend " If we's surrounded, they gonna get knocked down!\""
     voice sustain
-    extend " If we's surrounded, they gonna get knocked down!\""
+    extend " Se eles cercarem a gente, eles vão cair!\""
 
 # game/watanagashi/watanagashi_tips.rpy:982
 translate brazilian_portuguese wata_tips_05_76b2fe88_7:
@@ -3208,7 +3208,7 @@ translate brazilian_portuguese wata_tips_05_a97860af:
     # voice "voice/ps3/s20/11/440700094.ogg"
     # a_oishi "\"Hey.{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700094.ogg"
-    a_oishi "\"Hey.{w=1.0}{nw}"
+    a_oishi "\"Hei.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:987
 translate brazilian_portuguese wata_tips_05_4cbce1e6:
@@ -3216,7 +3216,7 @@ translate brazilian_portuguese wata_tips_05_4cbce1e6:
     # voice sustain
     # extend " You three..."
     voice sustain
-    extend " You three..."
+    extend " Vocês três..."
 
 # game/watanagashi/watanagashi_tips.rpy:989
 translate brazilian_portuguese wata_tips_05_f88cdb87:
@@ -3224,7 +3224,7 @@ translate brazilian_portuguese wata_tips_05_f88cdb87:
     # voice "voice/ps3/s20/11/440700095.ogg"
     # extend " You're drinking the barley with foam, right?"
     voice "voice/ps3/s20/11/440700095.ogg"
-    extend " You're drinking the barley with foam, right?"
+    extend " Vocês beberam o 'chá de cevada' que tinha espuma, certo?"
 
 # game/watanagashi/watanagashi_tips.rpy:991
 translate brazilian_portuguese wata_tips_05_40e1d735:
@@ -3232,7 +3232,7 @@ translate brazilian_portuguese wata_tips_05_40e1d735:
     # voice "voice/ps3/s20/11/440700096.ogg"
     # extend " ...Try turning your engines on."
     voice "voice/ps3/s20/11/440700096.ogg"
-    extend " ...Try turning your engines on."
+    extend " ...Tentem ligar seus motores."
 
 # game/watanagashi/watanagashi_tips.rpy:993
 translate brazilian_portuguese wata_tips_05_02cda1cf:
@@ -3240,7 +3240,7 @@ translate brazilian_portuguese wata_tips_05_02cda1cf:
     # voice "voice/ps3/s20/11/440700097.ogg"
     # extend " I'll arrest you on the spot for drunk driving.\""
     voice "voice/ps3/s20/11/440700097.ogg"
-    extend " I'll arrest you on the spot for drunk driving.\""
+    extend " Eu vou prendê-los por dirigirem embriagados.\""
 
 # game/watanagashi/watanagashi_tips.rpy:995
 translate brazilian_portuguese wata_tips_05_b5c6060e:
@@ -3248,7 +3248,7 @@ translate brazilian_portuguese wata_tips_05_b5c6060e:
     # voice "voice/ps3/s20/00/huryob44005.ogg"
     # a_deling "\"...You... that's fuckin' dirty...!!\""
     voice "voice/ps3/s20/00/huryob44005.ogg"
-    a_deling "\"...You... that's fuckin' dirty...!!\""
+    a_deling "\"...Você... seu fodido...!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:997
 translate brazilian_portuguese wata_tips_05_dad71257:
@@ -3256,7 +3256,7 @@ translate brazilian_portuguese wata_tips_05_dad71257:
     # voice "voice/ps3/s20/11/440700098.ogg"
     # a_oishi "\"Your tax dollars will be put to good use in bringing all your bikes back here.{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700098.ogg"
-    a_oishi "\"Your tax dollars will be put to good use in bringing all your bikes back here.{w=2.0}{nw}"
+    a_oishi "\"O dinheiro dos impostos será bem gasto em trazer todas as suas bicicletas de volta aqui.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:999
 translate brazilian_portuguese wata_tips_05_1d107bb3:
@@ -3264,7 +3264,7 @@ translate brazilian_portuguese wata_tips_05_1d107bb3:
     # voice sustain
     # extend " {b}Quit complaining and tell me the god damn license plate numbers, you pieces of shit.{/b}\""
     voice sustain
-    extend " {b}Quit complaining and tell me the god damn license plate numbers, you pieces of shit.{/b}\""
+    extend " {b}Parem de reclamar e me digam logo os malditos números das placas, seus pedaços de merda.{/b}\""
 
 # game/watanagashi/watanagashi_tips.rpy:1001
 translate brazilian_portuguese wata_tips_05_b8eb68dc:
@@ -3272,13 +3272,13 @@ translate brazilian_portuguese wata_tips_05_b8eb68dc:
     # nvl clear
     # n "The three were hesitant to tell him the numbers."
     nvl clear
-    n "The three were hesitant to tell him the numbers."
+    n "Os três hesitaram em dizer os números."
 
 # game/watanagashi/watanagashi_tips.rpy:1004
 translate brazilian_portuguese wata_tips_05_0144915a:
 
     # n "...They were mumbling something along the lines of not remembering them since they'd just bought the bikes."
-    n "...They were mumbling something along the lines of not remembering them since they'd just bought the bikes."
+    n "...Eles estavam resmungando algo sobre não lembrar, uma vez que tinham acabado de comprar as motos."
 
 # game/watanagashi/watanagashi_tips.rpy:1005
 translate brazilian_portuguese wata_tips_05_2dc4098d_6:
@@ -3290,7 +3290,7 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_6:
 translate brazilian_portuguese wata_tips_05_cd5205e6:
 
     # n ".........Well, that's what I thought. Hah~~..."
-    n ".........Well, that's what I thought. Hah~~..."
+    n ".........Bem, foi o que eu pensei. Hah~~..."
 
 # game/watanagashi/watanagashi_tips.rpy:1007
 translate brazilian_portuguese wata_tips_05_76b2fe88_8:
@@ -3302,7 +3302,7 @@ translate brazilian_portuguese wata_tips_05_76b2fe88_8:
 translate brazilian_portuguese wata_tips_05_fc04e9e9:
 
     # n "They didn't answer. Those must be the right ones."
-    n "They didn't answer. Those must be the right ones."
+    n "Eles não responderam. Deviam ser essas."
 
 # game/watanagashi/watanagashi_tips.rpy:1017
 translate brazilian_portuguese wata_tips_05_7e6dcf87:
@@ -3312,7 +3312,7 @@ translate brazilian_portuguese wata_tips_05_7e6dcf87:
     # a_kuma "\"Ooishi-san, the truck is here, so I'll get going.\""
     nvl clear
     voice "voice/ps3/s20/19/443100008.ogg"
-    a_kuma "\"Ooishi-san, the truck is here, so I'll get going.\""
+    a_kuma "\"Ooishi-san, o caminhão está aqui, eu estou indo.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1021
 translate brazilian_portuguese wata_tips_05_b76e297d:
@@ -3320,7 +3320,7 @@ translate brazilian_portuguese wata_tips_05_b76e297d:
     # voice "voice/ps3/s20/11/440700104.ogg"
     # a_oishi "\"Yes, yes, please do.{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700104.ogg"
-    a_oishi "\"Yes, yes, please do.{w=2.0}{nw}"
+    a_oishi "\"Sim, sim, por favor.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1023
 translate brazilian_portuguese wata_tips_05_48463f23:
@@ -3328,7 +3328,7 @@ translate brazilian_portuguese wata_tips_05_48463f23:
     # voice sustain
     # extend " Wait, Kuma-chan, hold on. One more thing.\""
     voice sustain
-    extend " Wait, Kuma-chan, hold on. One more thing.\""
+    extend " Espere, Kuma-chan, um momento. Mais uma coisa.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1025
 translate brazilian_portuguese wata_tips_05_740292f8:
@@ -3336,7 +3336,7 @@ translate brazilian_portuguese wata_tips_05_740292f8:
     # voice "voice/ps3/s20/19/443100009.ogg"
     # a_kuma "\"What's up?\""
     voice "voice/ps3/s20/19/443100009.ogg"
-    a_kuma "\"What's up?\""
+    a_kuma "\"O quê?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1027
 translate brazilian_portuguese wata_tips_05_38497b98:
@@ -3344,7 +3344,7 @@ translate brazilian_portuguese wata_tips_05_38497b98:
     # voice "voice/ps3/s20/11/440700105.ogg"
     # a_oishi "\"Look up the numbers.{w=1.0}{nw}"
     voice "voice/ps3/s20/11/440700105.ogg"
-    a_oishi "\"Look up the numbers.{w=1.0}{nw}"
+    a_oishi "\"Olhe os números.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1029
 translate brazilian_portuguese wata_tips_05_6aaef16b:
@@ -3352,7 +3352,7 @@ translate brazilian_portuguese wata_tips_05_6aaef16b:
     # voice sustain
     # extend " You don't want to bring the wrong ones back.\""
     voice sustain
-    extend " You don't want to bring the wrong ones back.\""
+    extend " Você não quer trazer as erradas, certo.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1031
 translate brazilian_portuguese wata_tips_05_2dc4098d_7:
@@ -3364,13 +3364,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_7:
 translate brazilian_portuguese wata_tips_05_2eb4e696:
 
     # n "The three people's faces changed color."
-    n "The three people's faces changed color."
+    n "O rosto dos três mudou de cor."
 
 # game/watanagashi/watanagashi_tips.rpy:1033
 translate brazilian_portuguese wata_tips_05_ada33888:
 
     # n "...They made themselves very easy to understand."
-    n "...They made themselves very easy to understand."
+    n "...Eles se fizeram fáceis de compreender."
 
 # game/watanagashi/watanagashi_tips.rpy:1034
 translate brazilian_portuguese wata_tips_05_76b2fe88_9:
@@ -3384,7 +3384,7 @@ translate brazilian_portuguese wata_tips_05_2f0fe7d8:
     # voice "voice/ps3/s20/11/440700106.ogg"
     # a_oishi "\"Let's take it easy here until your bikes get back.{w=2.0}{nw}"
     voice "voice/ps3/s20/11/440700106.ogg"
-    a_oishi "\"Let's take it easy here until your bikes get back.{w=2.0}{nw}"
+    a_oishi "\"Vamos relaxar até que suas motos voltem.{w=2.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1039
 translate brazilian_portuguese wata_tips_05_fbc67def:
@@ -3392,7 +3392,7 @@ translate brazilian_portuguese wata_tips_05_fbc67def:
     # voice sustain
     # extend " There's more beer, you know."
     voice sustain
-    extend " There's more beer, you know."
+    extend " Tem mais cervejas, sabem."
 
 # game/watanagashi/watanagashi_tips.rpy:1041
 translate brazilian_portuguese wata_tips_05_fbd60622:
@@ -3400,7 +3400,7 @@ translate brazilian_portuguese wata_tips_05_fbd60622:
     # voice "voice/ps3/s20/11/440700107.ogg"
     # extend " We have some snacks, too."
     voice "voice/ps3/s20/11/440700107.ogg"
-    extend " We have some snacks, too."
+    extend " Nós também temos salgadinhos."
 
 # game/watanagashi/watanagashi_tips.rpy:1043
 translate brazilian_portuguese wata_tips_05_f5694a98:
@@ -3408,7 +3408,7 @@ translate brazilian_portuguese wata_tips_05_f5694a98:
     # voice "voice/ps3/s20/11/440700108.ogg"
     # extend " Want to watch TV?"
     voice "voice/ps3/s20/11/440700108.ogg"
-    extend " Want to watch TV?"
+    extend " Querem ver televisão?"
 
 # game/watanagashi/watanagashi_tips.rpy:1045
 translate brazilian_portuguese wata_tips_05_15523161:
@@ -3416,7 +3416,7 @@ translate brazilian_portuguese wata_tips_05_15523161:
     # voice "voice/ps3/s20/11/440700109.ogg"
     # extend " There's probably nothing on, though.\""
     voice "voice/ps3/s20/11/440700109.ogg"
-    extend " There's probably nothing on, though.\""
+    extend " Apesar de que provavelmente não deve estar passando nada.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1047
 translate brazilian_portuguese wata_tips_05_c26a287d:
@@ -3424,7 +3424,7 @@ translate brazilian_portuguese wata_tips_05_c26a287d:
     # voice "voice/ps3/s20/00/huryoa44006.ogg"
     # a_deling "\"Nah, thanks, we's leavin'.{w=1.0}{nw}"
     voice "voice/ps3/s20/00/huryoa44006.ogg"
-    a_deling "\"Nah, thanks, we's leavin'.{w=1.0}{nw}"
+    a_deling "\"Não, obrigado, fui.{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1049
 translate brazilian_portuguese wata_tips_05_6fcd0ee6:
@@ -3432,7 +3432,7 @@ translate brazilian_portuguese wata_tips_05_6fcd0ee6:
     # voice sustain
     # extend " Don't wanna hang here forever!\""
     voice sustain
-    extend " Don't wanna hang here forever!\""
+    extend " Não queremos ficar prá sempre!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1051
 translate brazilian_portuguese wata_tips_05_c0c23528:
@@ -3440,13 +3440,13 @@ translate brazilian_portuguese wata_tips_05_c0c23528:
     # nvl clear
     # n "Suddenly, there were five or six huge officers surrounding them."
     nvl clear
-    n "Suddenly, there were five or six huge officers surrounding them."
+    n "De repente, havia cinco ou seis policiais cercando-os."
 
 # game/watanagashi/watanagashi_tips.rpy:1054
 translate brazilian_portuguese wata_tips_05_81821b1f:
 
     # n "Their clearly overpowering stares nailed them to the sofa."
-    n "Their clearly overpowering stares nailed them to the sofa."
+    n "Seus olhares, claramente avassaladores, pregaram-nos de volta ao sofá."
 
 # game/watanagashi/watanagashi_tips.rpy:1055
 translate brazilian_portuguese wata_tips_05_acd30b6b:
@@ -3456,7 +3456,7 @@ translate brazilian_portuguese wata_tips_05_acd30b6b:
     # a_deling "\"...Wha... What?!!{w=1.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/00/huryob44006.ogg"
-    a_deling "\"...Wha... What?!!{w=1.0}{nw}"
+    a_deling "\"...P... Por quê?!!{w=1.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1059
 translate brazilian_portuguese wata_tips_05_2ed6ca06:
@@ -3464,7 +3464,7 @@ translate brazilian_portuguese wata_tips_05_2ed6ca06:
     # voice sustain
     # extend " Whaddid we do?!!\""
     voice sustain
-    extend " Whaddid we do?!!\""
+    extend " Que diabo nós fizemos?!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1061
 translate brazilian_portuguese wata_tips_05_2dc4098d_8:
@@ -3476,13 +3476,13 @@ translate brazilian_portuguese wata_tips_05_2dc4098d_8:
 translate brazilian_portuguese wata_tips_05_d69c0b1f:
 
     # n "Going on a trip by stealing motorcycles, huh?"
-    n "Going on a trip by stealing motorcycles, huh?"
+    n "Saindo numa viagem para roubar motocicletas, huh?"
 
 # game/watanagashi/watanagashi_tips.rpy:1063
 translate brazilian_portuguese wata_tips_05_4f25ed9b:
 
     # extend " ...Students these days have too much time on their hands."
-    extend " ...Students these days have too much time on their hands."
+    extend " ...Os estudantes nos dias de hoje têm tanto tempo livre em suas mãos."
 
 # game/watanagashi/watanagashi_tips.rpy:1064
 translate brazilian_portuguese wata_tips_05_76b2fe88_10:
