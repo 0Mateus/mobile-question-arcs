@@ -1338,7 +1338,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog001_02a040b8:
     # voice "voice/ps3/s19/00/otae50001.ogg"
     # a_otaku "\"I heard they're planning on selling Angel Mort figures."
     voice "voice/ps3/s19/00/otae50001.ogg"
-    a_otaku "\"I heard they're planning on selling Angel Mort figures."
+    a_otaku "\"Eu ouvi que eles estão planejando vender <i>figures</i> do Angel Mort."
 
 # game/watanagashi/watanagashi_vm.rpy:730
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_2f72551b:
@@ -1346,19 +1346,19 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog001_2f72551b:
     # voice "voice/ps3/s19/00/otae50002.ogg"
     # extend " We'll have to pay heed at the next Wonder Festival...!!\""
     voice "voice/ps3/s19/00/otae50002.ogg"
-    extend " We'll have to pay heed at the next Wonder Festival...!!\""
+    extend " Nós vamos ter de ficar de olho no próximo Wonder Festival...!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:732
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_08fb9d8c:
 
     # a_otaku "\"They sell used Angel Mort uniforms on the 4th floor of [[redacted] in Akiba!!"
-    a_otaku "\"They sell used Angel Mort uniforms on the 4th floor of [[redacted] in Akiba!!"
+    a_otaku "\"Eles vendem uniformes usados do Angel Mort no 4º andar do [censurado] em Akiba!!"
 
 # game/watanagashi/watanagashi_vm.rpy:733
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_1d6f844f:
 
     # extend " But they cost 280,000...\""
-    extend " But they cost 280,000...\""
+    extend " Mas eles custam 280,000...\""
 
 # game/watanagashi/watanagashi_vm.rpy:734
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_ed0fc26b:
@@ -1366,31 +1366,31 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog001_ed0fc26b:
     # nvl clear
     # a_otaku "\"'Tis an absurd price!"
     nvl clear
-    a_otaku "\"'Tis an absurd price!"
+    a_otaku "\"Isso é um preço absurdo!"
 
 # game/watanagashi/watanagashi_vm.rpy:737
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_95ec80c9:
 
     # extend " AnnMull cost 80,000; when BroBa closed down the going rate for theirs was 12,000. (That's the price for used ones. Knock-offs are less than half of that!)\""
-    extend " AnnMull cost 80,000; when BroBa closed down the going rate for theirs was 12,000. (That's the price for used ones. Knock-offs are less than half of that!)\""
+    extend " O da AnnMull custava 80,000; quando a BroBa fechou o preço do deles era de 12,000. (Esse é o preço dos usados. As imitações custam menos da metade desse valor!)\""
 
 # game/watanagashi/watanagashi_vm.rpy:738
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_1ed214ca:
 
     # a_otaku "\"A knock-off from [[redacted] is fine with me, I wonder if they'll start selling them~{font=DejaVuSans.ttf}☆{/font}"
-    a_otaku "\"A knock-off from [[redacted] is fine with me, I wonder if they'll start selling them~{font=DejaVuSans.ttf}☆{/font}"
+    a_otaku "\"Para mim, uma imitação do da [censurado] está ótimo, eu me pergunto se eles vão começar a vendê-la~{font=DejaVuSans.ttf}☆{/font}"
 
 # game/watanagashi/watanagashi_vm.rpy:739
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_d2916efd:
 
     # extend " Then I'll put it on mine life-size figure I did buy off of [[redacted] for several hundred thousand~{font=DejaVuSans.ttf}☆{/font}"
-    extend " Then I'll put it on mine life-size figure I did buy off of [[redacted] for several hundred thousand~{font=DejaVuSans.ttf}☆{/font}"
+    extend " Depois, colocarei na minha <i>figure</i> em tamanho real que comprei da [censurado] por várias centenas de milhares de ienes~{font=DejaVuSans.ttf}☆{/font}"
 
 # game/watanagashi/watanagashi_vm.rpy:740
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_e6d2531d:
 
     # extend " If I can wake up every day to an angel from Angel, that'll really get my gears going~!!!\""
-    extend " If I can wake up every day to an angel from Angel, that'll really get my gears going~!!!\""
+    extend " Se eu puder acordar todos os dias com um anjo do Angel, isso seria o paraíso~!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:746
 translate brazilian_portuguese vm_wata_005_00_n01_dialog002_82173763:
@@ -1398,7 +1398,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog002_82173763:
     # voice "voice/ps3/s19/01/hr_kei18070.ogg"
     # a_keiichi "\"Shut up, you greasy fatass!"
     voice "voice/ps3/s19/01/hr_kei18070.ogg"
-    a_keiichi "\"Shut up, you greasy fatass!"
+    a_keiichi "\"Cale a boca, seu bola de banha!"
 
 # game/watanagashi/watanagashi_vm.rpy:748
 translate brazilian_portuguese vm_wata_005_00_n01_dialog002_a8d85db3:
@@ -1406,7 +1406,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog002_a8d85db3:
     # voice "voice/ps3/s19/01/hr_kei18080.ogg"
     # extend " Get out of here before I get angry.\""
     voice "voice/ps3/s19/01/hr_kei18080.ogg"
-    extend " Get out of here before I get angry.\""
+    extend " Saia daqui antes que eu fique furioso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:755
 translate brazilian_portuguese vm_wata_005_00_n01_dialog003_8cca4840:
@@ -1414,7 +1414,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog003_8cca4840:
     # voice "voice/ps3/s19/00/otae50007.ogg"
     # a_otaku "\"It seems you don't understand."
     voice "voice/ps3/s19/00/otae50007.ogg"
-    a_otaku "\"It seems you don't understand."
+    a_otaku "\"Parece que você não entende."
 
 # game/watanagashi/watanagashi_vm.rpy:757
 translate brazilian_portuguese vm_wata_005_00_n01_dialog003_1187e0a8:
@@ -1422,7 +1422,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog003_1187e0a8:
     # voice "voice/ps3/s19/00/otae50008.ogg"
     # extend " Yonder waitress was the one who wet mine pants!"
     voice "voice/ps3/s19/00/otae50008.ogg"
-    extend " Yonder waitress was the one who wet mine pants!"
+    extend " A garçonete foi a única que molhou minhas calças!"
 
 # game/watanagashi/watanagashi_vm.rpy:759
 translate brazilian_portuguese vm_wata_005_00_n01_dialog003_240ff2c3:
@@ -1430,7 +1430,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog003_240ff2c3:
     # voice "voice/ps3/s19/00/otae50009.ogg"
     # extend " This is her punishment!!\""
     voice "voice/ps3/s19/00/otae50009.ogg"
-    extend " This is her punishment!!\""
+    extend " Essa é a punição dela!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:766
 translate brazilian_portuguese vm_wata_005_00_n01_dialog004_6a501e72:
@@ -1438,7 +1438,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog004_6a501e72:
     # voice "voice/ps3/s19/01/hr_kei18350.ogg"
     # a_keiichi "\"...There's nothing I can say to that.\""
     voice "voice/ps3/s19/01/hr_kei18350.ogg"
-    a_keiichi "\"...There's nothing I can say to that.\""
+    a_keiichi "\"...Não há nada que eu possa dizer em resposta.\""
 
 # game/watanagashi/watanagashi_vm.rpy:773
 translate brazilian_portuguese vm_wata_005_00_n01_dialog005_6846930f:
@@ -1446,7 +1446,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog005_6846930f:
     # voice "voice/ps3/s19/00/otad50006.ogg"
     # a_otaku "\"Mew too."
     voice "voice/ps3/s19/00/otad50006.ogg"
-    a_otaku "\"Mew too."
+    a_otaku "\"Eu também, nyah."
 
 # game/watanagashi/watanagashi_vm.rpy:775
 translate brazilian_portuguese vm_wata_005_00_n01_dialog005_fedcb90e:
@@ -1454,7 +1454,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog005_fedcb90e:
     # voice "voice/ps3/s19/00/otad50007.ogg"
     # extend " Not a nyamber one, but a nyamber two!"
     voice "voice/ps3/s19/00/otad50007.ogg"
-    extend " Not a nyamber one, but a nyamber two!"
+    extend " Não o número um, mas o número dois!"
 
 # game/watanagashi/watanagashi_vm.rpy:777
 translate brazilian_portuguese vm_wata_005_00_n01_dialog005_5bfebaa2:
@@ -1462,7 +1462,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog005_5bfebaa2:
     # voice "voice/ps3/s19/00/otad50008.ogg"
     # extend " I need to cash out meow!\""
     voice "voice/ps3/s19/00/otad50008.ogg"
-    extend " I need to cash out meow!\""
+    extend " Eu preciso pôr para fora!\""
 
 # game/watanagashi/watanagashi_vm.rpy:784
 translate brazilian_portuguese vm_wata_005_00_n01_dialog006_bb10cfb7:
@@ -1470,7 +1470,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog006_bb10cfb7:
     # voice "voice/ps3/s19/00/otae50019.ogg"
     # a_otaku "\"Where's da toilet!?"
     voice "voice/ps3/s19/00/otae50019.ogg"
-    a_otaku "\"Where's da toilet!?"
+    a_otaku "\"Onde é o toalete!?"
 
 # game/watanagashi/watanagashi_vm.rpy:786
 translate brazilian_portuguese vm_wata_005_00_n01_dialog006_c172cea9:
@@ -1478,7 +1478,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog006_c172cea9:
     # voice "voice/ps3/s19/00/otae50020.ogg"
     # extend " I found eeeet!"
     voice "voice/ps3/s19/00/otae50020.ogg"
-    extend " I found eeeet!"
+    extend " Eu encontreeei!"
 
 # game/watanagashi/watanagashi_vm.rpy:788
 translate brazilian_portuguese vm_wata_005_00_n01_dialog006_8e667700:
@@ -1486,7 +1486,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog006_8e667700:
     # voice "voice/ps3/s19/00/otae50021.ogg"
     # extend " Urine for it now!!!\""
     voice "voice/ps3/s19/00/otae50021.ogg"
-    extend " Urine for it now!!!\""
+    extend " Eu preciso fazer xixi!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:790
 translate brazilian_portuguese vm_wata_005_00_n01_dialog006_2dc4098d:
@@ -1500,7 +1500,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog007_5aed18ad:
     # voice "voice/ps3/s19/00/otae50023.ogg"
     # a_otaku "\"*pant pant*... Women's toilets are the best~~!!!!!\""
     voice "voice/ps3/s19/00/otae50023.ogg"
-    a_otaku "\"*pant pant*... Women's toilets are the best~~!!!!!\""
+    a_otaku "\"*pant pant*... Banheiros femininos são os melhores~~!!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:798
 translate brazilian_portuguese vm_wata_005_00_n01_dialog007_2dc4098d:
@@ -1514,7 +1514,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog008_a74f9dd4:
     # voice "voice/ps3/s19/00/otad50012.ogg"
     # a_otaku "\"That would be purrfect!!"
     voice "voice/ps3/s19/00/otad50012.ogg"
-    a_otaku "\"That would be purrfect!!"
+    a_otaku "\"Isso seria perfeito, nyah!!"
 
 # game/watanagashi/watanagashi_vm.rpy:806
 translate brazilian_portuguese vm_wata_005_00_n01_dialog008_01136206:
@@ -1522,7 +1522,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog008_01136206:
     # voice "voice/ps3/s19/00/otad50013.ogg"
     # extend " Purrease, purrease!!"
     voice "voice/ps3/s19/00/otad50013.ogg"
-    extend " Purrease, purrease!!"
+    extend " Por favor, por favor!!"
 
 # game/watanagashi/watanagashi_vm.rpy:808
 translate brazilian_portuguese vm_wata_005_00_n01_dialog008_82e9e823:
@@ -1530,7 +1530,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog008_82e9e823:
     # voice "voice/ps3/s19/00/otad50014.ogg"
     # extend " At this rate it'll end up becoming group enema purray~~!!\""
     voice "voice/ps3/s19/00/otad50014.ogg"
-    extend " At this rate it'll end up becoming group enema purray~~!!\""
+    extend " Neste passo, isto vai acabar virando uma lavagem intestinal grupal~~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:815
 translate brazilian_portuguese vm_wata_005_00_n01_dialog009_9f4e9bb2:
@@ -1538,7 +1538,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog009_9f4e9bb2:
     # voice "voice/ps3/s19/01/hr_kei18710.ogg"
     # a_keiichi "\"Listen up, you tubs of lard!!"
     voice "voice/ps3/s19/01/hr_kei18710.ogg"
-    a_keiichi "\"Listen up, you tubs of lard!!"
+    a_keiichi "\"Escutem, gorduchos!!"
 
 # game/watanagashi/watanagashi_vm.rpy:817
 translate brazilian_portuguese vm_wata_005_00_n01_dialog009_fbe0500d:
@@ -1546,7 +1546,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog009_fbe0500d:
     # voice "voice/ps3/s19/01/hr_kei18720.ogg"
     # extend " You know what happens if you even set one foot outside this door, right!?\""
     voice "voice/ps3/s19/01/hr_kei18720.ogg"
-    extend " You know what happens if you even set one foot outside this door, right!?\""
+    extend " Vocês sabem o que acontece se vocês colocarem mesmo um pé fora desta porta, certo!?\""
 
 # game/watanagashi/watanagashi_vm.rpy:824
 translate brazilian_portuguese vm_wata_005_00_n01_dialog010_60c8b9ab:
@@ -1554,7 +1554,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog010_60c8b9ab:
     # voice "voice/ps3/s19/02/500200241.ogg"
     # a_rena "\"Ke-Keiichi-kun... was a pervert...\""
     voice "voice/ps3/s19/02/500200241.ogg"
-    a_rena "\"Ke-Keiichi-kun... was a pervert...\""
+    a_rena "\"Ke-Keiichi-kun... seria um pervertido...\""
 
 # game/watanagashi/watanagashi_vm.rpy:831
 translate brazilian_portuguese vm_wata_005_00_n01_dialog011_566d8291:
@@ -1562,7 +1562,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog011_566d8291:
     # voice "voice/ps3/s19/03/500300188.ogg"
     # a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
     voice "voice/ps3/s19/03/500300188.ogg"
-    a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
+    a_mion "\"Se você andar com ela por aí, então você será tratado como um esquisitão a partir de amanhã. Com certeza!\""
 
 # game/watanagashi/watanagashi_vm.rpy:833
 translate brazilian_portuguese vm_wata_005_00_n01_dialog011_2dc4098d:
@@ -1602,7 +1602,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog014_e4ff119d:
 translate brazilian_portuguese vm_wata_005_00_n01_dialog014_d10580a4:
 
     # extend " {w=0.8}\"...This is...\"{nw}"
-    extend " {w=0.8}\"...This is...\"{nw}"
+    extend " {w=0.8}\"...Isso é...\"{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:860
 translate brazilian_portuguese vm_wata_005_00_n01_dialog014_60e9a3ae:
@@ -1622,7 +1622,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog015_7210adbb:
     # voice "voice/ps3/s19/00/otaa50002.ogg"
     # a_otaku "\"This time we'll have her spill everything on my pants, and have her wipey-wipey right down to my underwear!!\""
     voice "voice/ps3/s19/00/otaa50002.ogg"
-    a_otaku "\"This time we'll have her spill everything on my pants, and have her wipey-wipey right down to my underwear!!\""
+    a_otaku "\"Desta vez, vamos fazê-la derramar tudo em minhas calças, e fazer um esfrega-esfrega até a minha cueca!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:871
 translate brazilian_portuguese vm_wata_005_00_n01_dialog015_2dc4098d:
@@ -1636,7 +1636,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_02a040b8:
     # voice "voice/ps3/s19/00/otae50001.ogg"
     # a_otaku "\"I heard they're planning on selling Angel Mort figures."
     voice "voice/ps3/s19/00/otae50001.ogg"
-    a_otaku "\"I heard they're planning on selling Angel Mort figures."
+    a_otaku "\"Eu ouvi que eles estão planejando vender <i>figures</i> do Angel Mort."
 
 # game/watanagashi/watanagashi_vm.rpy:884
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_cf047223:
@@ -1644,7 +1644,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_cf047223:
     # voice "voice/ps3/s19/00/otae50002.ogg"
     # extend " We'll have to pay heed at the next event...!!\""
     voice "voice/ps3/s19/00/otae50002.ogg"
-    extend " We'll have to pay heed at the next event...!!\""
+    extend " Nós vamos ter de prestar atenção no próximo evento...!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:886
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_7b0ac5f9:
@@ -1652,7 +1652,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_7b0ac5f9:
     # voice "voice/ps3/s19/00/otaf50001.ogg"
     # a_otaku "\"Speaking of which, that major figure maker decided to bring out the line!"
     voice "voice/ps3/s19/00/otaf50001.ogg"
-    a_otaku "\"Speaking of which, that major figure maker decided to bring out the line!"
+    a_otaku "\"Falando disso, os maiores fabricantes de <i>figures</i> decidiram trazer a linha a público!"
 
 # game/watanagashi/watanagashi_vm.rpy:888
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_e99d8efa:
@@ -1660,7 +1660,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_e99d8efa:
     # voice "voice/ps3/s19/00/otaf50002.ogg"
     # extend " We must confirm the release date...!\""
     voice "voice/ps3/s19/00/otaf50002.ogg"
-    extend " We must confirm the release date...!\""
+    extend " Temos de confirmar a data do lançamento...!\""
 
 # game/watanagashi/watanagashi_vm.rpy:890
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_035d4b63:
@@ -1670,7 +1670,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_035d4b63:
     # a_otaku "\"The problem is, there's too many variations to bulk buy them..."
     nvl clear
     voice "voice/ps3/s19/00/otag50001.ogg"
-    a_otaku "\"The problem is, there's too many variations to bulk buy them..."
+    a_otaku "\"O problema é que tem tantas variações para as construírem..."
 
 # game/watanagashi/watanagashi_vm.rpy:894
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_46707c08:
@@ -1678,7 +1678,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_46707c08:
     # voice "voice/ps3/s19/00/otag50002.ogg"
     # extend " If it were just a normal set of family restaurant uniforms, there'd only be around ten types... But, including the secret set with different poses that are planned, there's 100 or so!!\""
     voice "voice/ps3/s19/00/otag50002.ogg"
-    extend " If it were just a normal set of family restaurant uniforms, there'd only be around ten types... But, including the secret set with different poses that are planned, there's 100 or so!!\""
+    extend " Se fosse apenas um conjunto normal de uniformes de restaurante familiar, haveria apenas cerca de dez tipos... Mas, incluindo o conjunto secreto com poses diferentes que são planejadas, há mais de 100!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:896
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_f092029b:
@@ -1686,7 +1686,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_f092029b:
     # voice "voice/ps3/s19/00/otah50001.ogg"
     # a_otaku "\"Someone, trade with me when I get a double~{font=DejaVuSans.ttf}☆{/font}"
     voice "voice/ps3/s19/00/otah50001.ogg"
-    a_otaku "\"Someone, trade with me when I get a double~{font=DejaVuSans.ttf}☆{/font}"
+    a_otaku "\"Alguém, troque comigo quando eu tiver um repetido~{font=DejaVuSans.ttf}☆{/font}"
 
 # game/watanagashi/watanagashi_vm.rpy:898
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_a4828d5f:
@@ -1694,7 +1694,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_a4828d5f:
     # voice "voice/ps3/s19/00/otah50002.ogg"
     # extend " It's my duty as a fan to complete the collection right away! No, this is destiny between us~!!\""
     voice "voice/ps3/s19/00/otah50002.ogg"
-    extend " It's my duty as a fan to complete the collection right away! No, this is destiny between us~!!\""
+    extend " É meu dever como fã completar a coleção de uma vez! Não, esse é um destino que compartilhamos~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:905
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog002_82173763:
@@ -1702,7 +1702,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog002_82173763:
     # voice "voice/ps3/s19/01/hr_kei18070.ogg"
     # a_keiichi "\"Shut up, you greasy fatass!"
     voice "voice/ps3/s19/01/hr_kei18070.ogg"
-    a_keiichi "\"Shut up, you greasy fatass!"
+    a_keiichi "\"Cale a boca, seu bola de banha!"
 
 # game/watanagashi/watanagashi_vm.rpy:907
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog002_a8d85db3:
@@ -1710,7 +1710,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog002_a8d85db3:
     # voice "voice/ps3/s19/01/hr_kei18080.ogg"
     # extend " Get out of here before I get angry.\""
     voice "voice/ps3/s19/01/hr_kei18080.ogg"
-    extend " Get out of here before I get angry.\""
+    extend " Saia daqui antes que eu fique furioso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:914
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog003_1a78d8b5:
@@ -1718,7 +1718,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog003_1a78d8b5:
     # voice "voice/ps3/s19/00/otae50008.ogg"
     # a_otaku "Yonder waitress was the one who wet mine pants!"
     voice "voice/ps3/s19/00/otae50008.ogg"
-    a_otaku "Yonder waitress was the one who wet mine pants!"
+    a_otaku "A garçonete foi a única que molhou minhas calças!"
 
 # game/watanagashi/watanagashi_vm.rpy:921
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog004_6a501e72:
@@ -1726,7 +1726,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog004_6a501e72:
     # voice "voice/ps3/s19/01/hr_kei18350.ogg"
     # a_keiichi "\"...There's nothing I can say to that.\""
     voice "voice/ps3/s19/01/hr_kei18350.ogg"
-    a_keiichi "\"...There's nothing I can say to that.\""
+    a_keiichi "\"...Não há nada que eu possa dizer em resposta.\""
 
 # game/watanagashi/watanagashi_vm.rpy:928
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_6846930f:
@@ -1734,7 +1734,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_6846930f:
     # voice "voice/ps3/s19/00/otad50006.ogg"
     # a_otaku "\"Mew too."
     voice "voice/ps3/s19/00/otad50006.ogg"
-    a_otaku "\"Mew too."
+    a_otaku "\"Eu também, nyah."
 
 # game/watanagashi/watanagashi_vm.rpy:930
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_fedcb90e:
@@ -1742,7 +1742,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_fedcb90e:
     # voice "voice/ps3/s19/00/otad50007.ogg"
     # extend " Not a nyamber one, but a nyamber two!"
     voice "voice/ps3/s19/00/otad50007.ogg"
-    extend " Not a nyamber one, but a nyamber two!"
+    extend " Não o número um, mas o número dois!"
 
 # game/watanagashi/watanagashi_vm.rpy:932
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_5bfebaa2:
@@ -1750,7 +1750,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog005_5bfebaa2:
     # voice "voice/ps3/s19/00/otad50008.ogg"
     # extend " I need to cash out meow!\""
     voice "voice/ps3/s19/00/otad50008.ogg"
-    extend " I need to cash out meow!\""
+    extend " Eu preciso pôr para fora!\""
 
 # game/watanagashi/watanagashi_vm.rpy:939
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_bb10cfb7:
@@ -1758,7 +1758,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_bb10cfb7:
     # voice "voice/ps3/s19/00/otae50019.ogg"
     # a_otaku "\"Where's da toilet!?"
     voice "voice/ps3/s19/00/otae50019.ogg"
-    a_otaku "\"Where's da toilet!?"
+    a_otaku "\"Onde é o toalete!?"
 
 # game/watanagashi/watanagashi_vm.rpy:941
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_c172cea9:
@@ -1766,7 +1766,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_c172cea9:
     # voice "voice/ps3/s19/00/otae50020.ogg"
     # extend " I found eeeet!"
     voice "voice/ps3/s19/00/otae50020.ogg"
-    extend " I found eeeet!"
+    extend " Eu encontreeei!"
 
 # game/watanagashi/watanagashi_vm.rpy:943
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_8e667700:
@@ -1774,7 +1774,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_8e667700:
     # voice "voice/ps3/s19/00/otae50021.ogg"
     # extend " Urine for it now!!!\""
     voice "voice/ps3/s19/00/otae50021.ogg"
-    extend " Urine for it now!!!\""
+    extend " Eu preciso fazer xixi!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:945
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog006_2dc4098d:
@@ -1788,7 +1788,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog007_5aed18ad:
     # voice "voice/ps3/s19/00/otae50023.ogg"
     # a_otaku "\"*pant pant*... Women's toilets are the best~~!!!!!\""
     voice "voice/ps3/s19/00/otae50023.ogg"
-    a_otaku "\"*pant pant*... Women's toilets are the best~~!!!!!\""
+    a_otaku "\"*pant pant*... Banheiros femininos são os melhores~~!!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:953
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog007_2dc4098d:
@@ -1802,7 +1802,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog008_a74f9dd4:
     # voice "voice/ps3/s19/00/otad50012.ogg"
     # a_otaku "\"That would be purrfect!!"
     voice "voice/ps3/s19/00/otad50012.ogg"
-    a_otaku "\"That would be purrfect!!"
+    a_otaku "\"Isso seria perfeito, nyah!!"
 
 # game/watanagashi/watanagashi_vm.rpy:961
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog008_01136206:
@@ -1810,7 +1810,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog008_01136206:
     # voice "voice/ps3/s19/00/otad50013.ogg"
     # extend " Purrease, purrease!!"
     voice "voice/ps3/s19/00/otad50013.ogg"
-    extend " Purrease, purrease!!"
+    extend " Por favor, por favor!!"
 
 # game/watanagashi/watanagashi_vm.rpy:963
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog008_82e9e823:
@@ -1818,7 +1818,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog008_82e9e823:
     # voice "voice/ps3/s19/00/otad50014.ogg"
     # extend " At this rate it'll end up becoming group enema purray~~!!\""
     voice "voice/ps3/s19/00/otad50014.ogg"
-    extend " At this rate it'll end up becoming group enema purray~~!!\""
+    extend " Neste passo, isto vai acabar virando uma lavagem intestinal grupal, nyah~~!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:970
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog009_9f4e9bb2:
@@ -1826,7 +1826,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog009_9f4e9bb2:
     # voice "voice/ps3/s19/01/hr_kei18710.ogg"
     # a_keiichi "\"Listen up, you tubs of lard!!"
     voice "voice/ps3/s19/01/hr_kei18710.ogg"
-    a_keiichi "\"Listen up, you tubs of lard!!"
+    a_keiichi "\"Escutem, gorduchos!!"
 
 # game/watanagashi/watanagashi_vm.rpy:972
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog009_fbe0500d:
@@ -1834,7 +1834,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog009_fbe0500d:
     # voice "voice/ps3/s19/01/hr_kei18720.ogg"
     # extend " You know what happens if you even set one foot outside this door, right!?\""
     voice "voice/ps3/s19/01/hr_kei18720.ogg"
-    extend " You know what happens if you even set one foot outside this door, right!?\""
+    extend " Vocês sabem o que acontece se vocês colocarem mesmo um pé fora desta porta, certo!?\""
 
 # game/watanagashi/watanagashi_vm.rpy:979
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog010_cac9a5a8:
@@ -1850,7 +1850,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog011_566d8291:
     # voice "voice/ps3/s19/03/500300188.ogg"
     # a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
     voice "voice/ps3/s19/03/500300188.ogg"
-    a_mion "\"If you walked around with it, then you'd be treated like a weirdo starting tomorrow. Definitely!\""
+    a_mion "\"Se você andar com ela por aí, então você será tratado como um esquisitão a partir de amanhã. Com certeza!\""
 
 # game/watanagashi/watanagashi_vm.rpy:988
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog011_2dc4098d:
@@ -1886,7 +1886,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog015_1a5d38e8:
     # voice "voice/ps3/s19/00/otaa50002.ogg"
     # a_otaku "\"This time we'll have her spill everything on my pants, and have her give an especially thorough wipey-wipey!!\""
     voice "voice/ps3/s19/00/otaa50002.ogg"
-    a_otaku "\"This time we'll have her spill everything on my pants, and have her give an especially thorough wipey-wipey!!\""
+    a_otaku "\"Desta vez, vamos fazê-la derramar tudo em minhas calças, e fazer um esfrega-esfrega muito especial!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:1026
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog015_2dc4098d:
