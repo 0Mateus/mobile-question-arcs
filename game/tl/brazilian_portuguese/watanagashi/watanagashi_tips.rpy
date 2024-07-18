@@ -3496,7 +3496,7 @@ translate brazilian_portuguese wata_tips_06_9de58b26:
     # voice "voice/ps3/s20/06/440600001.ogg"
     # a_shion "\"...Stop saying 'it's been a while'!{nw}"
     voice "voice/ps3/s20/06/440600001.ogg"
-    a_shion "\"...Stop saying 'it's been a while'!{nw}"
+    a_shion "\"...Pare de dizer 'prazer em te conhecer'!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1086
 translate brazilian_portuguese wata_tips_06_26a1f0ee:
@@ -3504,7 +3504,7 @@ translate brazilian_portuguese wata_tips_06_26a1f0ee:
     # voice sustain
     # extend " We've seen each other every day up until yesterday, haven't we?\""
     voice sustain
-    extend " We've seen each other every day up until yesterday, haven't we?\""
+    extend " Nós temos nos visto todos os dias até ontem, não temos?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1088
 translate brazilian_portuguese wata_tips_06_08e1c091:
@@ -3512,7 +3512,7 @@ translate brazilian_portuguese wata_tips_06_08e1c091:
     # voice "voice/ps3/s20/01/440100084.ogg"
     # a_keiichi "\"...Whatever.{nw}"
     voice "voice/ps3/s20/01/440100084.ogg"
-    a_keiichi "\"...Whatever.{nw}"
+    a_keiichi "\"...Tudo bem.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1090
 translate brazilian_portuguese wata_tips_06_b3618210:
@@ -3520,7 +3520,7 @@ translate brazilian_portuguese wata_tips_06_b3618210:
     # voice sustain
     # extend " If you say so, we'll go with that.\""
     voice sustain
-    extend " If you say so, we'll go with that.\""
+    extend " Se você diz assim, vamos indo.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1092
 translate brazilian_portuguese wata_tips_06_b91afc5d:
@@ -3528,7 +3528,7 @@ translate brazilian_portuguese wata_tips_06_b91afc5d:
     # nvl clear
     # n "Someone from Shion's house came to get me in a station wagon."
     nvl clear
-    n "Someone from Shion's house came to get me in a station wagon."
+    n "Alguém da casa de Shion veio me buscar em uma camionete."
 
 # game/watanagashi/watanagashi_tips.rpy:1095
 translate brazilian_portuguese wata_tips_06_2dc4098d:
@@ -3540,7 +3540,7 @@ translate brazilian_portuguese wata_tips_06_2dc4098d:
 translate brazilian_portuguese wata_tips_06_746d797e:
 
     # n "I had initially refused, but Shion insisted, and so both my bicycle and I ended up stuffed in the car."
-    n "I had initially refused, but Shion insisted, and so both my bicycle and I ended up stuffed in the car."
+    n "Eu tinha a princípio recusado, mas Shion insistiu, e eu e minha bicicleta terminamos socados no carro."
 
 # game/watanagashi/watanagashi_tips.rpy:1097
 translate brazilian_portuguese wata_tips_06_76b2fe88:
@@ -3552,13 +3552,13 @@ translate brazilian_portuguese wata_tips_06_76b2fe88:
 translate brazilian_portuguese wata_tips_06_03a337d2:
 
     # n "Said car was currently driving across the single bumpy road leading to Hinamizawa."
-    n "Said car was currently driving across the single bumpy road leading to Hinamizawa."
+    n "O carro estava agora se locomovendo pela única estrada esburacada que levava à Hinamizawa."
 
 # game/watanagashi/watanagashi_tips.rpy:1101
 translate brazilian_portuguese wata_tips_06_c3ae51ef:
 
     # n "For goodness sake... Shion was at Mion's level at least, or maybe an even better actor—either way, no matter what questions I pressed her with, she'd slip out of them like an eel."
-    n "For goodness sake... Shion was at Mion's level at least, or maybe an even better actor—either way, no matter what questions I pressed her with, she'd slip out of them like an eel."
+    n "Shion estava, no mínimo, no nível de Mion, ou mesmo poderia ser uma atriz melhor. Não importa as perguntas que eu fizesse, ela era escorregadia como uma enguia."
 
 # game/watanagashi/watanagashi_tips.rpy:1102
 translate brazilian_portuguese wata_tips_06_781c9229:
@@ -3568,7 +3568,7 @@ translate brazilian_portuguese wata_tips_06_781c9229:
     # a_keiichi "\"Still...... you two look so alike.{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100085.ogg"
-    a_keiichi "\"Still...... you two look so alike.{nw}"
+    a_keiichi "\"Mas ainda assim...... vocês duas são muito parecidas.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1106
 translate brazilian_portuguese wata_tips_06_1f23a9e3:
@@ -3576,7 +3576,7 @@ translate brazilian_portuguese wata_tips_06_1f23a9e3:
     # voice sustain
     # extend " If you tied your hair back like Mion does, would you look exactly like her?\""
     voice sustain
-    extend " If you tied your hair back like Mion does, would you look exactly like her?\""
+    extend " Se você amarrar seu cabelo para baixo, como Mion faz, você pareceria exatamente como ela, não é mesmo?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1108
 translate brazilian_portuguese wata_tips_06_34444564:
@@ -3584,7 +3584,7 @@ translate brazilian_portuguese wata_tips_06_34444564:
     # voice "voice/ps3/s20/06/440600002.ogg"
     # a_shion "\"Who knows?{nw}"
     voice "voice/ps3/s20/06/440600002.ogg"
-    a_shion "\"Who knows?{nw}"
+    a_shion "\"Quem sabe?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1110
 translate brazilian_portuguese wata_tips_06_30e7e884:
@@ -3592,7 +3592,7 @@ translate brazilian_portuguese wata_tips_06_30e7e884:
     # voice sustain
     # extend " That's probably what would happen."
     voice sustain
-    extend " That's probably what would happen."
+    extend " Provavelmente seria isso mesmo."
 
 # game/watanagashi/watanagashi_tips.rpy:1112
 translate brazilian_portuguese wata_tips_06_44e9caab:
@@ -3600,7 +3600,7 @@ translate brazilian_portuguese wata_tips_06_44e9caab:
     # voice "voice/ps3/s20/06/440600003.ogg"
     # extend " We're identical twins, through and through."
     voice "voice/ps3/s20/06/440600003.ogg"
-    extend " We're identical twins, through and through."
+    extend " Nós somos gêmeas idênticas, de ponta a ponta."
 
 # game/watanagashi/watanagashi_tips.rpy:1114
 translate brazilian_portuguese wata_tips_06_b8369600:
@@ -3608,7 +3608,7 @@ translate brazilian_portuguese wata_tips_06_b8369600:
     # voice "voice/ps3/s20/06/440600004.ogg"
     # extend " In the past, we could just change our clothes and no one would be the wiser."
     voice "voice/ps3/s20/06/440600004.ogg"
-    extend " In the past, we could just change our clothes and no one would be the wiser."
+    extend " No passado, nós podíamos apenas trocar nossas roupas e ninguém saberia quem era quem."
 
 # game/watanagashi/watanagashi_tips.rpy:1116
 translate brazilian_portuguese wata_tips_06_0e6d6095:
@@ -3616,7 +3616,7 @@ translate brazilian_portuguese wata_tips_06_0e6d6095:
     # voice "voice/ps3/s20/06/440600005.ogg"
     # nvl_extend "I remember we'd swap places at every opportunity and fooled a whole lot of people. Ahahaha!\""
     voice "voice/ps3/s20/06/440600005.ogg"
-    nvl_extend "I remember we'd swap places at every opportunity and fooled a whole lot of people. Ahahaha!\""
+    nvl_extend "Eu me lembro que trocávamos de lugar a cada oportunidade, enganando um monte de gente. Ahahaha!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1118
 translate brazilian_portuguese wata_tips_06_4ecd8d84:
@@ -3624,7 +3624,7 @@ translate brazilian_portuguese wata_tips_06_4ecd8d84:
     # nvl clear
     # n "The middle-aged driver wearing a black suit heaved a heavy sigh, like he were a butler."
     nvl clear
-    n "The middle-aged driver wearing a black suit heaved a heavy sigh, like he were a butler."
+    n "O motorista de meia-idade, vestindo um terno preto, deu um suspiro pesado, como se ele fosse um mordomo."
 
 # game/watanagashi/watanagashi_tips.rpy:1121
 translate brazilian_portuguese wata_tips_06_ff28df24:
@@ -3634,7 +3634,7 @@ translate brazilian_portuguese wata_tips_06_ff28df24:
     # a_shion "\"What's wrong, Kasai?{nw}"
     nvl clear
     voice "voice/ps3/s20/06/440600006.ogg"
-    a_shion "\"What's wrong, Kasai?{nw}"
+    a_shion "\"O que há de errado, Kasai?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1125
 translate brazilian_portuguese wata_tips_06_18dbe81c:
@@ -3642,7 +3642,7 @@ translate brazilian_portuguese wata_tips_06_18dbe81c:
     # voice sustain
     # extend " That was a pretty deep sigh.\""
     voice sustain
-    extend " That was a pretty deep sigh.\""
+    extend " Esse foi um suspiro bem profundo.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1127
 translate brazilian_portuguese wata_tips_06_cffbbc66:
@@ -3650,7 +3650,7 @@ translate brazilian_portuguese wata_tips_06_cffbbc66:
     # voice "voice/ps3/s20/15/441500001.ogg"
     # a_kasai "\"Excuse me.{nw}"
     voice "voice/ps3/s20/15/441500001.ogg"
-    a_kasai "\"Excuse me.{nw}"
+    a_kasai "\"Me desculpe.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1129
 translate brazilian_portuguese wata_tips_06_fde12e5f:
@@ -3658,13 +3658,13 @@ translate brazilian_portuguese wata_tips_06_fde12e5f:
     # voice sustain
     # extend " ...I was just thinking that you haven't changed.\""
     voice sustain
-    extend " ...I was just thinking that you haven't changed.\""
+    extend " ...Eu só estava pensando que você não mudou nada.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1131
 translate brazilian_portuguese wata_tips_06_de38a57d:
 
     # n "You could see many years of hardship on the man's face through the rear-view mirror."
-    n "You could see many years of hardship on the man's face through the rear-view mirror."
+    n "Era possível ver muitos anos de sofrimento no rosto do homem, através do espelho retrovisor."
 
 # game/watanagashi/watanagashi_tips.rpy:1132
 translate brazilian_portuguese wata_tips_06_fd58d934:
@@ -3674,7 +3674,7 @@ translate brazilian_portuguese wata_tips_06_fd58d934:
     # a_shion "\"Anyway, Kei-chan, your house was around here, right?{nw}"
     nvl clear
     voice "voice/ps3/s20/06/440600007.ogg"
-    a_shion "\"Anyway, Kei-chan, your house was around here, right?{nw}"
+    a_shion "\"De qualquer jeito, Kei-chan, sua casa é aqui perto, certo?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1136
 translate brazilian_portuguese wata_tips_06_52681ec7:
@@ -3682,7 +3682,7 @@ translate brazilian_portuguese wata_tips_06_52681ec7:
     # voice sustain
     # extend " Kasai doesn't know much about Hinamizawa aside from the road that goes to the Sonozaki main house."
     voice sustain
-    extend " Kasai doesn't know much about Hinamizawa aside from the road that goes to the Sonozaki main house."
+    extend " Kasai não conhece Hinamizawa além do caminho que leva à casa principal dos Sonozaki."
 
 # game/watanagashi/watanagashi_tips.rpy:1138
 translate brazilian_portuguese wata_tips_06_e1f71d53:
@@ -3690,7 +3690,7 @@ translate brazilian_portuguese wata_tips_06_e1f71d53:
     # voice "voice/ps3/s20/06/440600008.ogg"
     # extend " If you leave it to him, he'll take you all the way to Yagouchi.\""
     voice "voice/ps3/s20/06/440600008.ogg"
-    extend " If you leave it to him, he'll take you all the way to Yagouchi.\""
+    extend " Se você deixá-lo por conta, ele vai levá-lo até Yagouchi.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1140
 translate brazilian_portuguese wata_tips_06_e1148981:
@@ -3698,7 +3698,7 @@ translate brazilian_portuguese wata_tips_06_e1148981:
     # voice "voice/ps3/s20/01/440100086.ogg"
     # a_keiichi "\"I-I don't want that!{nw}"
     voice "voice/ps3/s20/01/440100086.ogg"
-    a_keiichi "\"I-I don't want that!{nw}"
+    a_keiichi "\"E-Eu não quero isso!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1142
 translate brazilian_portuguese wata_tips_06_16745d6d:
@@ -3706,7 +3706,7 @@ translate brazilian_portuguese wata_tips_06_16745d6d:
     # voice sustain
     # extend " ...Excuse me, could you stop at the narrow road at the next right?"
     voice sustain
-    extend " ...Excuse me, could you stop at the narrow road at the next right?"
+    extend " ...Com licença, você poderia parar na rua estreita à próxima direita?"
 
 # game/watanagashi/watanagashi_tips.rpy:1144
 translate brazilian_portuguese wata_tips_06_d0052e69:
@@ -3714,7 +3714,7 @@ translate brazilian_portuguese wata_tips_06_d0052e69:
     # voice "voice/ps3/s20/01/440100087.ogg"
     # extend " I'll walk from there.\""
     voice "voice/ps3/s20/01/440100087.ogg"
-    extend " I'll walk from there.\""
+    extend " Eu vou caminhando de lá.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1146
 translate brazilian_portuguese wata_tips_06_76b2fe88_1:
@@ -3726,13 +3726,13 @@ translate brazilian_portuguese wata_tips_06_76b2fe88_1:
 translate brazilian_portuguese wata_tips_06_e9f5e2e6:
 
     # n "He stopped the car at the desired place."
-    n "He stopped the car at the desired place."
+    n "Ele parou o carro no lugar desejado."
 
 # game/watanagashi/watanagashi_tips.rpy:1155
 translate brazilian_portuguese wata_tips_06_d6c812a0:
 
     # n "The driver, Kasai-san, got my bike out of the trunk for me."
-    n "The driver, Kasai-san, got my bike out of the trunk for me."
+    n "O motorista, Kasai-san, tirou minha bicicleta do porta-malas para mim."
 
 # game/watanagashi/watanagashi_tips.rpy:1156
 translate brazilian_portuguese wata_tips_06_b75bf32c:
@@ -3742,7 +3742,7 @@ translate brazilian_portuguese wata_tips_06_b75bf32c:
     # a_keiichi "\"Ah... Sorry about that.{nw}"
     nvl clear
     voice "voice/ps3/s20/01/440100088.ogg"
-    a_keiichi "\"Ah... Sorry about that.{nw}"
+    a_keiichi "\"Ah... Me desculpe pelo incômodo.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1160
 translate brazilian_portuguese wata_tips_06_2b9f7859:
@@ -3750,7 +3750,7 @@ translate brazilian_portuguese wata_tips_06_2b9f7859:
     # voice sustain
     # extend " Thank you very much for showing me home today...\""
     voice sustain
-    extend " Thank you very much for showing me home today...\""
+    extend " Muito obrigado por me deixar em casa hoje...\""
 
 # game/watanagashi/watanagashi_tips.rpy:1163
 translate brazilian_portuguese wata_tips_06_c867aae1:
@@ -3758,7 +3758,7 @@ translate brazilian_portuguese wata_tips_06_c867aae1:
     # voice "voice/ps3/s20/15/441500002.ogg"
     # a_kasai "\"Was it Keiichi-san?{nw}"
     voice "voice/ps3/s20/15/441500002.ogg"
-    a_kasai "\"Was it Keiichi-san?{nw}"
+    a_kasai "\"Keiichi-san, não é?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1165
 translate brazilian_portuguese wata_tips_06_ebdefd06:
@@ -3766,7 +3766,7 @@ translate brazilian_portuguese wata_tips_06_ebdefd06:
     # voice sustain
     # extend " Your name, that is.\""
     voice sustain
-    extend " Your name, that is.\""
+    extend " O seu nome.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1167
 translate brazilian_portuguese wata_tips_06_4cf050a3:
@@ -3774,7 +3774,7 @@ translate brazilian_portuguese wata_tips_06_4cf050a3:
     # voice "voice/ps3/s20/01/440100089.ogg"
     # a_keiichi "\"Eh? Ah, yes.\""
     voice "voice/ps3/s20/01/440100089.ogg"
-    a_keiichi "\"Eh? Ah, yes.\""
+    a_keiichi "\"Eh? Ah, sim.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1170
 translate brazilian_portuguese wata_tips_06_8b9c5471:
@@ -3782,7 +3782,7 @@ translate brazilian_portuguese wata_tips_06_8b9c5471:
     # voice "voice/ps3/s20/15/441500003.ogg"
     # a_kasai "\"......You must be having various difficulties, but I believe she will grow tired soon, so please endure things until then.\""
     voice "voice/ps3/s20/15/441500003.ogg"
-    a_kasai "\"......You must be having various difficulties, but I believe she will grow tired soon, so please endure things until then.\""
+    a_kasai "\"......Você deve estar tendo várias dificuldades, mas eu acredito que ela vai se cansar em breve, por isso, suporte tudo até então.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1172
 translate brazilian_portuguese wata_tips_06_87ce2e96:
@@ -3790,13 +3790,13 @@ translate brazilian_portuguese wata_tips_06_87ce2e96:
     # nvl clear
     # n "He gave me a deep, deep look of sympathy."
     nvl clear
-    n "He gave me a deep, deep look of sympathy."
+    n "Ele me deu um profundo olhar de simpatia."
 
 # game/watanagashi/watanagashi_tips.rpy:1175
 translate brazilian_portuguese wata_tips_06_ef24d54b:
 
     # n "......This guy has definitely been dealing with the Sonozaki sisters ever since they were little kids."
-    n "......This guy has definitely been dealing with the Sonozaki sisters ever since they were little kids."
+    n "......Esse cara estava lidando com as irmãs Sonozaki desde que elas eram criancinhas."
 
 # game/watanagashi/watanagashi_tips.rpy:1176
 translate brazilian_portuguese wata_tips_06_76b2fe88_2:
@@ -3810,7 +3810,7 @@ translate brazilian_portuguese wata_tips_06_6e116d50:
     # voice "voice/ps3/s20/15/441500004.ogg"
     # a_kasai "\"However, like Mion-san, she's a kind person at heart.\""
     voice "voice/ps3/s20/15/441500004.ogg"
-    a_kasai "\"However, like Mion-san, she's a kind person at heart.\""
+    a_kasai "\"Entretanto, como Mion-san, ela é uma pessoa de coração gentil.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1181
 translate brazilian_portuguese wata_tips_06_6d177da0:
@@ -3818,7 +3818,7 @@ translate brazilian_portuguese wata_tips_06_6d177da0:
     # voice "voice/ps3/s20/01/440100090.ogg"
     # a_keiichi "\"...So that means she'll be as much of a bother as Mion, right?\""
     voice "voice/ps3/s20/01/440100090.ogg"
-    a_keiichi "\"...So that means she'll be as much of a bother as Mion, right?\""
+    a_keiichi "\"...Então isso quer dizer que ela vai ser um incômodo similar à Mion?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1183
 translate brazilian_portuguese wata_tips_06_2dc4098d_1:
@@ -3830,13 +3830,13 @@ translate brazilian_portuguese wata_tips_06_2dc4098d_1:
 translate brazilian_portuguese wata_tips_06_01045673:
 
     # n "The man's face froze in a smile, his reply lost."
-    n "The man's face froze in a smile, his reply lost."
+    n "O rosto do homem congelou num sorriso, sua resposta perdida."
 
 # game/watanagashi/watanagashi_tips.rpy:1185
 translate brazilian_portuguese wata_tips_06_27b01ae2:
 
     # extend " ...Hey, back me up here."
-    extend " ...Hey, back me up here."
+    extend " ...Ei, me dê uma resposta."
 
 # game/watanagashi/watanagashi_tips.rpy:1186
 translate brazilian_portuguese wata_tips_06_76b2fe88_3:
@@ -3850,7 +3850,7 @@ translate brazilian_portuguese wata_tips_06_a1245c09:
     # voice "voice/ps3/s20/06/440600009.ogg"
     # a_shion "\"Bye, Kei-chan! We'll see each other again soon.{nw}"
     voice "voice/ps3/s20/06/440600009.ogg"
-    a_shion "\"Bye, Kei-chan! We'll see each other again soon.{nw}"
+    a_shion "\"Até mais, Kei-chan! Nós nos veremos logo de novo.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1192
 translate brazilian_portuguese wata_tips_06_22c4f0a8:
@@ -3858,7 +3858,7 @@ translate brazilian_portuguese wata_tips_06_22c4f0a8:
     # voice sustain
     # extend " Say hi to my sister for me, too."
     voice sustain
-    extend " Say hi to my sister for me, too."
+    extend " Diga oi para minha irmã por mim, também."
 
 # game/watanagashi/watanagashi_tips.rpy:1194
 translate brazilian_portuguese wata_tips_06_f98fe724:
@@ -3866,7 +3866,7 @@ translate brazilian_portuguese wata_tips_06_f98fe724:
     # voice "voice/ps3/s20/06/440600010.ogg"
     # extend " Maybe I'll start going to Hinamizawa tomorrow?\""
     voice "voice/ps3/s20/06/440600010.ogg"
-    extend " Maybe I'll start going to Hinamizawa tomorrow?\""
+    extend " Talvez eu devesse começar a vir à Hinamizawa a partir de amanhã?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1196
 translate brazilian_portuguese wata_tips_06_0938d9bb:
@@ -3874,7 +3874,7 @@ translate brazilian_portuguese wata_tips_06_0938d9bb:
     # voice "voice/ps3/s20/01/440100091.ogg"
     # a_keiichi "\"Don't you dare.{nw}"
     voice "voice/ps3/s20/01/440100091.ogg"
-    a_keiichi "\"Don't you dare.{nw}"
+    a_keiichi "\"Nem mesmo tente.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1198
 translate brazilian_portuguese wata_tips_06_5b9d38cd:
@@ -3882,7 +3882,7 @@ translate brazilian_portuguese wata_tips_06_5b9d38cd:
     # voice sustain
     # extend " If you transferred in, I'll transfer out to a school in Okinomiya.\""
     voice sustain
-    extend " If you transferred in, I'll transfer out to a school in Okinomiya.\""
+    extend " Se você se transferir para cá, eu vou me transferir para uma escola em Okinomiya.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1201
 translate brazilian_portuguese wata_tips_06_178c32ee:
@@ -3890,7 +3890,7 @@ translate brazilian_portuguese wata_tips_06_178c32ee:
     # voice "voice/ps3/s20/06/440600011.ogg"
     # a_shion "\"Wow, that was really mean, Kei-chan...!\""
     voice "voice/ps3/s20/06/440600011.ogg"
-    a_shion "\"Wow, that was really mean, Kei-chan...!\""
+    a_shion "\"Uau, isso foi realmente cruel, Kei-chan...!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1203
 translate brazilian_portuguese wata_tips_06_76b2fe88_4:
@@ -3902,13 +3902,13 @@ translate brazilian_portuguese wata_tips_06_76b2fe88_4:
 translate brazilian_portuguese wata_tips_06_5999ad42:
 
     # n "A short beep of the horn."
-    n "A short beep of the horn."
+    n "Uma buzinada curta."
 
 # game/watanagashi/watanagashi_tips.rpy:1207
 translate brazilian_portuguese wata_tips_06_3f0defc2:
 
     # extend " The man gave a little wave to me from the driver's seat."
-    extend " The man gave a little wave to me from the driver's seat."
+    extend " O homem deu um pequeno aceno para mim, do banco do motorista."
 
 # game/watanagashi/watanagashi_tips.rpy:1208
 translate brazilian_portuguese wata_tips_06_76b2fe88_5:
@@ -3920,7 +3920,7 @@ translate brazilian_portuguese wata_tips_06_76b2fe88_5:
 translate brazilian_portuguese wata_tips_06_e1aea393:
 
     # n "Then, the car withdrew into the dark night roads, leaving dust in its wake..."
-    n "Then, the car withdrew into the dark night roads, leaving dust in its wake..."
+    n "Então, o carro partiu para as escuras estradas noturnas, deixando a poeira em seu rastro..."
 
 # game/watanagashi/watanagashi_tips.rpy:1214
 translate brazilian_portuguese wata_tips_06_2dc4098d_2:
@@ -3932,13 +3932,13 @@ translate brazilian_portuguese wata_tips_06_2dc4098d_2:
 translate brazilian_portuguese wata_tips_06_a2ed2c5a:
 
     # n ".........Man...... this entire day made no sense."
-    n ".........Man...... this entire day made no sense."
+    n ".........Cara...... todo este dia foi um absurdo."
 
 # game/watanagashi/watanagashi_tips.rpy:1216
 translate brazilian_portuguese wata_tips_06_cc53eb88:
 
     # n "...I ran into Mion while I was with Shion, and the former's expression, like a pigeon shot with a pellet gun, had finally begun to make a strong impression on me."
-    n "...I ran into Mion while I was with Shion, and the former's expression, like a pigeon shot with a pellet gun, had finally begun to make a strong impression on me."
+    n "...Eu corri para Mion enquanto eu estava com Shion, e a expressão da primeira, como um tiro de uma arma de pressão num pombo, tinha finalmente começado a deixar uma forte impressão em mim."
 
 # game/watanagashi/watanagashi_tips.rpy:1217
 translate brazilian_portuguese wata_tips_06_76b2fe88_6:
