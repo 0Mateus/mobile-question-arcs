@@ -3950,7 +3950,7 @@ translate brazilian_portuguese wata_tips_06_76b2fe88_6:
 translate brazilian_portuguese wata_tips_07_a27a63a4:
 
     # centered "{space=14}— About Oyashiro-sama's Curse —"
-    centered "{space=14}— About Oyashiro-sama's Curse —"
+    centered "{space=14}— A Maldição de Oyashiro-sama —"
 
 # game/watanagashi/watanagashi_tips.rpy:1237
 translate brazilian_portuguese wata_tips_07_76b2fe88:
@@ -3962,13 +3962,13 @@ translate brazilian_portuguese wata_tips_07_76b2fe88:
 translate brazilian_portuguese wata_tips_07_57a25b41:
 
     # n "In the ancient Onigafuchi Village, the anger of Oyashiro-sama (his curse) was feared above all."
-    n "In the ancient Onigafuchi Village, the anger of Oyashiro-sama (his curse) was feared above all."
+    n "No antigo povoado de Onigafuchi, a ira de Oyashiro-sama (sua maldição) era temida acima de tudo."
 
 # game/watanagashi/watanagashi_tips.rpy:1241
 translate brazilian_portuguese wata_tips_07_eac8f0e1:
 
     # n "However, it is seldom stated anywhere what eventually happens, and what sort of divine judgement (curse) befalls them when Oyashiro-sama is angry."
-    n "However, it is seldom stated anywhere what eventually happens, and what sort of divine judgement (curse) befalls them when Oyashiro-sama is angry."
+    n "Entretanto, raramente é indicado, em qualquer lugar, o que eventualmente acontece, e que tipo de julgamento divino (maldição) cai sobre aqueles com os quais Oyashiro-sama está furioso."
 
 # game/watanagashi/watanagashi_tips.rpy:1242
 translate brazilian_portuguese wata_tips_07_76b2fe88_1:
@@ -3980,31 +3980,31 @@ translate brazilian_portuguese wata_tips_07_76b2fe88_1:
 translate brazilian_portuguese wata_tips_07_f4c3b986:
 
     # n "From various reports..."
-    n "From various reports..."
+    n "De inúmeros registros..."
 
 # game/watanagashi/watanagashi_tips.rpy:1246
 translate brazilian_portuguese wata_tips_07_2f0994aa:
 
     # extend " \"All hell will break loose\""
-    extend " \"All hell will break loose\""
+    extend " \"O inferno vai se abrir\""
 
 # game/watanagashi/watanagashi_tips.rpy:1247
 translate brazilian_portuguese wata_tips_07_32adfc42:
 
     # extend " \"Demons will come flooding out\""
-    extend " \"Demons will come flooding out\""
+    extend " \"Demônios virão à tona\""
 
 # game/watanagashi/watanagashi_tips.rpy:1248
 translate brazilian_portuguese wata_tips_07_9cb1a8bf:
 
     # extend " \"The miasma from Hell will flood outward and kill every villager, letting not a single one escape\""
-    extend " \"The miasma from Hell will flood outward and kill every villager, letting not a single one escape\""
+    extend " \"O miasma do inferno vai fluir para fora e matar cada morador, não deixando uma única pessoa fugir\""
 
 # game/watanagashi/watanagashi_tips.rpy:1249
 translate brazilian_portuguese wata_tips_07_7a06f8d7:
 
     # extend " The ones evoking images of the village being annihilated stand out the most."
-    extend " The ones evoking images of the village being annihilated stand out the most."
+    extend " Os artigos que evocam imagens do povoado sendo aniquilado são os que mais se destacam."
 
 # game/watanagashi/watanagashi_tips.rpy:1250
 translate brazilian_portuguese wata_tips_07_2dc4098d:
@@ -4016,7 +4016,7 @@ translate brazilian_portuguese wata_tips_07_2dc4098d:
 translate brazilian_portuguese wata_tips_07_f16ef781:
 
     # n "These terrifying ideas of divine punishment are in alignment with many other religious beliefs regarding the apocalypse (Hell), and it's easy to imagine that they are just ways of convincing people to obey the teachings in order to prevent such an end."
-    n "These terrifying ideas of divine punishment are in alignment with many other religious beliefs regarding the apocalypse (Hell), and it's easy to imagine that they are just ways of convincing people to obey the teachings in order to prevent such an end."
+    n "Essas ideias aterrorizantes de castigo divino estão alinhadas com muitas outras crenças religiosas sobre o apocalipse (Inferno), e é fácil imaginar que são apenas um meio de convencer as pessoas a obedecer os ensinamentos, a fim de impedir tal final."
 
 # game/watanagashi/watanagashi_tips.rpy:1252
 translate brazilian_portuguese wata_tips_07_76b2fe88_2:
@@ -4028,7 +4028,7 @@ translate brazilian_portuguese wata_tips_07_76b2fe88_2:
 translate brazilian_portuguese wata_tips_07_05cf0710:
 
     # n "The conditions for inciting Oyashiro-sama's wrath are likely the same as the taboos in Onigafuchi Village."
-    n "The conditions for inciting Oyashiro-sama's wrath are likely the same as the taboos in Onigafuchi Village."
+    n "As condições para incitar a ira de Oyashiro-sama são semelhantes aos tabus do povoado de Onigafuchi."
 
 # game/watanagashi/watanagashi_tips.rpy:1256
 translate brazilian_portuguese wata_tips_07_2dc4098d_1:
@@ -4040,13 +4040,13 @@ translate brazilian_portuguese wata_tips_07_2dc4098d_1:
 translate brazilian_portuguese wata_tips_07_11755cbb:
 
     # n "I believe that when an act was performed that violates one of these taboos, Oyashiro-sama was termed 'angry,'"
-    n "I believe that when an act was performed that violates one of these taboos, Oyashiro-sama was termed 'angry,'"
+    n "Eu acredito que quando um ato que violava um desses tabus era executado, Oyashiro-sama tinha sua 'ira' desperta,"
 
 # game/watanagashi/watanagashi_tips.rpy:1258
 translate brazilian_portuguese wata_tips_07_265cf9fc:
 
     # extend " and in order to quell his anger, they would perform the aforementioned sacrificial ritual."
-    extend " and in order to quell his anger, they would perform the aforementioned sacrificial ritual."
+    extend " e, a fim de reprimir sua ira, eles deveriam realizar o ritual do sacrifício, como mencionado acima."
 
 # game/watanagashi/watanagashi_tips.rpy:1259
 translate brazilian_portuguese wata_tips_07_76b2fe88_3:
@@ -4058,7 +4058,7 @@ translate brazilian_portuguese wata_tips_07_76b2fe88_3:
 translate brazilian_portuguese wata_tips_08_4d80b529:
 
     # centered "{space=14}— About The Human Sacrifice Ritual —"
-    centered "{space=14}— About The Human Sacrifice Ritual —"
+    centered "{space=14}— O Ritual do Sacrifício Humano —"
 
 # game/watanagashi/watanagashi_tips.rpy:1279
 translate brazilian_portuguese wata_tips_08_76b2fe88:
@@ -4070,7 +4070,7 @@ translate brazilian_portuguese wata_tips_08_76b2fe88:
 translate brazilian_portuguese wata_tips_08_4ee18cb8:
 
     # n "The sacrificial ritual was a simple drowning, involving plunging sacrifices into Onigafuchi Swamp, which was considered hallowed."
-    n "The sacrificial ritual was a simple drowning, involving plunging sacrifices into Onigafuchi Swamp, which was considered hallowed."
+    n "O ritual de sacrifício era um afogamento simples, envolvendo mergulhar os sacrifícios no Pântano de Onigafuchi, que era considerado sagrado."
 
 # game/watanagashi/watanagashi_tips.rpy:1283
 translate brazilian_portuguese wata_tips_08_76b2fe88_1:
@@ -4082,19 +4082,19 @@ translate brazilian_portuguese wata_tips_08_76b2fe88_1:
 translate brazilian_portuguese wata_tips_08_42b50582:
 
     # n "Of the rituals of Onigafuchi Village, this one was unique in that the sacrifice would sink slowly over the long course of three days and three nights."
-    n "Of the rituals of Onigafuchi Village, this one was unique in that the sacrifice would sink slowly over the long course of three days and three nights."
+    n "Dos rituais do povoado de Onigafuchi, este era o único no qual o sacrifício iria afundar lentamente ao longo de três dias e três noites."
 
 # game/watanagashi/watanagashi_tips.rpy:1287
 translate brazilian_portuguese wata_tips_08_e4017acb:
 
     # n "I believe that it wasn't so much the killing of this sacrifice that was important,"
-    n "I believe that it wasn't so much the killing of this sacrifice that was important,"
+    n "Eu acredito que o assassinato ritual em si mesmo não era o mais importante,"
 
 # game/watanagashi/watanagashi_tips.rpy:1288
 translate brazilian_portuguese wata_tips_08_bdbf52f6:
 
     # extend " but rather the symbolism of them sinking as the 'submerging' of Oyashiro-sama's anger."
-    extend " but rather the symbolism of them sinking as the 'submerging' of Oyashiro-sama's anger."
+    extend " mas sim o simbolismo de 'submergir' a ira de Oyashiro-sama."
 
 # game/watanagashi/watanagashi_tips.rpy:1289
 translate brazilian_portuguese wata_tips_08_2dc4098d:
@@ -4106,13 +4106,13 @@ translate brazilian_portuguese wata_tips_08_2dc4098d:
 translate brazilian_portuguese wata_tips_08_3b779bb1:
 
     # n "For that purpose, they must have had a passion for learning various methods for keeping the sacrifice from sinking too quickly—to force them to sink more slowly."
-    n "For that purpose, they must have had a passion for learning various methods for keeping the sacrifice from sinking too quickly—to force them to sink more slowly."
+    n "Para alcançar tal propósito, eles devem ter se dedicado a aprender vários métodos para impedir o sacrifício de afundar muito rápido, para forçá-lo a afundar lentamente."
 
 # game/watanagashi/watanagashi_tips.rpy:1291
 translate brazilian_portuguese wata_tips_08_ee0f009d:
 
     # n "Unfortunately, as far as I can tell from the records, those methods were not recorded."
-    n "Unfortunately, as far as I can tell from the records, those methods were not recorded."
+    n "Infelizmente, até onde eu consigo ler dos registros, tais métodos não foram registrados."
 
 # game/watanagashi/watanagashi_tips.rpy:1292
 translate brazilian_portuguese wata_tips_08_76b2fe88_2:
@@ -4124,13 +4124,13 @@ translate brazilian_portuguese wata_tips_08_76b2fe88_2:
 translate brazilian_portuguese wata_tips_08_80139e5a:
 
     # n "My thoughts are that they may have used logs or some similar material to create a raft,"
-    n "My thoughts are that they may have used logs or some similar material to create a raft,"
+    n "Minha teoria é de que eles podem ter usado troncos ou algum material similar para fazer uma jangada,"
 
 # game/watanagashi/watanagashi_tips.rpy:1296
 translate brazilian_portuguese wata_tips_08_016c347a:
 
     # extend " then set up a scaffold on there, hung the sacrifice up with ropes, and let them sink little by little over time into the swamp."
-    extend " then set up a scaffold on there, hung the sacrifice up with ropes, and let them sink little by little over time into the swamp."
+    extend " em seguida, eles erguiam um mastro nela, amarravam ali o sacrifício, com cordas, e deixavam-no afundar pouco a pouco dentro do pântano."
 
 # game/watanagashi/watanagashi_tips.rpy:1297
 translate brazilian_portuguese wata_tips_08_2dc4098d_1:
@@ -4142,7 +4142,7 @@ translate brazilian_portuguese wata_tips_08_2dc4098d_1:
 translate brazilian_portuguese wata_tips_08_56dc8407:
 
     # n "However, if that were the case, it would not be strange if the 'ritual implements' used for such a ceremony were honored as holy and enshrined somewhere."
-    n "However, if that were the case, it would not be strange if the 'ritual implements' used for such a ceremony were honored as holy and enshrined somewhere."
+    n "No entanto, se fosse esse o caso, então seria plausível que as ferramentas ritualísticas utilizados na referida cerimônia fossem honradas como sagradas e guardadas no santuário."
 
 # game/watanagashi/watanagashi_tips.rpy:1299
 translate brazilian_portuguese wata_tips_08_76b2fe88_3:
@@ -4154,7 +4154,7 @@ translate brazilian_portuguese wata_tips_08_76b2fe88_3:
 translate brazilian_portuguese wata_tips_09_6d85db4d:
 
     # centered "{space=14}— About Implements Used For the Ritual —"
-    centered "{space=14}— About Implements Used For the Ritual —"
+    centered "{space=14}— Implementos Usados Para o Ritual —"
 
 # game/watanagashi/watanagashi_tips.rpy:1319
 translate brazilian_portuguese wata_tips_09_76b2fe88:
@@ -4166,7 +4166,7 @@ translate brazilian_portuguese wata_tips_09_76b2fe88:
 translate brazilian_portuguese wata_tips_09_2fb2beb4:
 
     # n "Ritual tools utilized for ancient religious ceremonies are commonly referred to as 'implements' or 'ritual implements,' and even now, some of them are enshrined on the property of Furude Shrine and the Three Families."
-    n "Ritual tools utilized for ancient religious ceremonies are commonly referred to as 'implements' or 'ritual implements,' and even now, some of them are enshrined on the property of Furude Shrine and the Three Families."
+    n "Ferramentas ritualísticas utilizadas em cerimônias religiosas antigas são comumente referidas como 'implementos' ou 'implementos rituais,' e mesmo agora, alguns deles são guardados pelo Santuário Furude e pelas Três Famílias."
 
 # game/watanagashi/watanagashi_tips.rpy:1323
 translate brazilian_portuguese wata_tips_09_2dc4098d:
@@ -4178,7 +4178,7 @@ translate brazilian_portuguese wata_tips_09_2dc4098d:
 translate brazilian_portuguese wata_tips_09_fcce9808:
 
     # n "However, the identifiable tools are all decorative, and none appear to have been used in rituals governing the dark side of Onigafuchi Village."
-    n "However, the identifiable tools are all decorative, and none appear to have been used in rituals governing the dark side of Onigafuchi Village."
+    n "No entanto, as ferramentas identificáveis são todas decorativas, e nenhuma parece ter sido usada em rituais que governam o lado escuro do povoado de Onigafuchi."
 
 # game/watanagashi/watanagashi_tips.rpy:1325
 translate brazilian_portuguese wata_tips_09_76b2fe88_1:
@@ -4190,13 +4190,13 @@ translate brazilian_portuguese wata_tips_09_76b2fe88_1:
 translate brazilian_portuguese wata_tips_09_aa0de2d5:
 
     # n "As the Edo era came to a close and many traditional rituals were lost, were they lost as well,"
-    n "As the Edo era came to a close and many traditional rituals were lost, were they lost as well,"
+    n "Quando a era Edo chegou ao fim e muitos rituais tradicionais se perderam, também muitas delas foram perdidas,"
 
 # game/watanagashi/watanagashi_tips.rpy:1329
 translate brazilian_portuguese wata_tips_09_39fca3e9:
 
     # extend " or perhaps buried in the darkness?"
-    extend " or perhaps buried in the darkness?"
+    extend " ou talvez enterradas na escuridão?"
 
 # game/watanagashi/watanagashi_tips.rpy:1330
 translate brazilian_portuguese wata_tips_09_2dc4098d_1:
@@ -4208,19 +4208,19 @@ translate brazilian_portuguese wata_tips_09_2dc4098d_1:
 translate brazilian_portuguese wata_tips_09_af9669b6:
 
     # n "I don't believe so."
-    n "I don't believe so."
+    n "Eu não acredito nisso."
 
 # game/watanagashi/watanagashi_tips.rpy:1332
 translate brazilian_portuguese wata_tips_09_cf4b59fc:
 
     # n "Both the implements used on the night of the feast of Onikakushi and those used during the sacrificial ceremony must still exist, enshrined away from the eyes of the masses."
-    n "Both the implements used on the night of the feast of Onikakushi and those used during the sacrificial ceremony must still exist, enshrined away from the eyes of the masses."
+    n "Ambos os implementos utilizados na noite da festa do Onikakushi, e os utilizados durante a cerimônia de sacrifício, ainda devem existir, consagrados longe dos olhos das massas."
 
 # game/watanagashi/watanagashi_tips.rpy:1333
 translate brazilian_portuguese wata_tips_09_de28ea7b:
 
     # n "Without a doubt, they exist here, today, at this very moment, in Hinamizawa."
-    n "Without a doubt, they exist here, today, at this very moment, in Hinamizawa."
+    n "Sem dúvida, eles existem aqui, hoje, neste exato momento, em Hinamizawa."
 
 # game/watanagashi/watanagashi_tips.rpy:1334
 translate brazilian_portuguese wata_tips_09_76b2fe88_2:
@@ -4232,19 +4232,19 @@ translate brazilian_portuguese wata_tips_09_76b2fe88_2:
 translate brazilian_portuguese wata_tips_09_534a251a:
 
     # n "Also, I'm nearly certain where they've been enshrined."
-    n "Also, I'm nearly certain where they've been enshrined."
+    n "Além disso, eu tenho quase certeza do lugar onde foram guardados."
 
 # game/watanagashi/watanagashi_tips.rpy:1338
 translate brazilian_portuguese wata_tips_09_796a7cff:
 
     # n "What was once locked steadfastly has, for some reason, changed this year to a cheap-looking padlock."
-    n "What was once locked steadfastly has, for some reason, changed this year to a cheap-looking padlock."
+    n "O que antes estava trancado firmemente foi, por algum motivo, mudado este ano para um cadeado barato."
 
 # game/watanagashi/watanagashi_tips.rpy:1339
 translate brazilian_portuguese wata_tips_09_7b663ba6:
 
     # extend " He may be able to do something about such a lock."
-    extend " He may be able to do something about such a lock."
+    extend " Ele pode ser capaz de fazer algo com o cadeado."
 
 # game/watanagashi/watanagashi_tips.rpy:1340
 translate brazilian_portuguese wata_tips_09_2dc4098d_2:
@@ -4256,7 +4256,7 @@ translate brazilian_portuguese wata_tips_09_2dc4098d_2:
 translate brazilian_portuguese wata_tips_09_4999d653:
 
     # n "However, it is not far from the assembly hall, nor is it ever far from the presence of people."
-    n "However, it is not far from the assembly hall, nor is it ever far from the presence of people."
+    n "No entanto, não é muito longe da sala de reunião, nem é muito longe da presença de pessoas."
 
 # game/watanagashi/watanagashi_tips.rpy:1342
 translate brazilian_portuguese wata_tips_09_76b2fe88_3:
@@ -4268,13 +4268,13 @@ translate brazilian_portuguese wata_tips_09_76b2fe88_3:
 translate brazilian_portuguese wata_tips_09_7189d7ee:
 
     # n "However, I will not give up.{nw}"
-    n "However, I will not give up.{nw}"
+    n "No entanto, eu não vou desistir.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1348
 translate brazilian_portuguese wata_tips_09_61b6992c:
 
     # n "...The night when it becomes a blind spot to every villager in Hinamizawa is coming soon."
-    n "...The night when it becomes a blind spot to every villager in Hinamizawa is coming soon."
+    n "...A noite em que ele vai se tornar um ponto cego para cada morador de Hinamizawa vai vir em breve."
 
 # game/watanagashi/watanagashi_tips.rpy:1349
 translate brazilian_portuguese wata_tips_09_2dc4098d_3:
@@ -4286,7 +4286,7 @@ translate brazilian_portuguese wata_tips_09_2dc4098d_3:
 translate brazilian_portuguese wata_tips_09_1f3e403a:
 
     # n "Soon, it will be{w=1.0} Watanagashi."
-    n "Soon, it will be{w=1.0} Watanagashi."
+    n "Logo, vai chegar o{w=1.0} Watanagashi."
 
 # game/watanagashi/watanagashi_tips.rpy:1351
 translate brazilian_portuguese wata_tips_09_76b2fe88_4:
@@ -4298,7 +4298,7 @@ translate brazilian_portuguese wata_tips_09_76b2fe88_4:
 translate brazilian_portuguese wata_tips_10_e1a996f2:
 
     # n "*rabble* *rabble* *rabble*..."
-    n "*rabble* *rabble* *rabble*..."
+    n "*sons de conversa*..."
 
 # game/watanagashi/watanagashi_tips.rpy:1373
 translate brazilian_portuguese wata_tips_10_15e68740:
@@ -4308,7 +4308,7 @@ translate brazilian_portuguese wata_tips_10_15e68740:
     # a_komiyama "\"Hey! Are you worn out already?{nw}"
     nvl clear
     voice "voice/ps3/s20/00/442500001.ogg"
-    a_komiyama "\"Hey! Are you worn out already?{nw}"
+    a_komiyama "\"Hei! Vocês já estão cansados?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1377
 translate brazilian_portuguese wata_tips_10_890b3683:
@@ -4316,7 +4316,7 @@ translate brazilian_portuguese wata_tips_10_890b3683:
     # voice sustain
     # extend " Tomorrow's the real thing!"
     voice sustain
-    extend " Tomorrow's the real thing!"
+    extend " Amanhã vai ser coisa real!"
 
 # game/watanagashi/watanagashi_tips.rpy:1379
 translate brazilian_portuguese wata_tips_10_ae80bf46:
@@ -4324,7 +4324,7 @@ translate brazilian_portuguese wata_tips_10_ae80bf46:
     # voice "voice/ps3/s20/00/442500002.ogg"
     # extend " We're gonna be partying until morning, until the very end of it all, got it!?\""
     voice "voice/ps3/s20/00/442500002.ogg"
-    extend " We're gonna be partying until morning, until the very end of it all, got it!?\""
+    extend " Nós vamos continuar noite adentro, se preciso, até terminar tudo, entenderam!?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1381
 translate brazilian_portuguese wata_tips_10_38429868:
@@ -4332,7 +4332,7 @@ translate brazilian_portuguese wata_tips_10_38429868:
     # voice "voice/ps3/s20/19/443100010.ogg"
     # a_kuma "\"Got it!{nw}"
     voice "voice/ps3/s20/19/443100010.ogg"
-    a_kuma "\"Got it!{nw}"
+    a_kuma "\"Certo!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1383
 translate brazilian_portuguese wata_tips_10_1014bc3a:
@@ -4340,7 +4340,7 @@ translate brazilian_portuguese wata_tips_10_1014bc3a:
     # voice sustain
     # extend " I'll give it everything I've got!\""
     voice sustain
-    extend " I'll give it everything I've got!\""
+    extend " Eu vou dar tudo o que eu tenho!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1385
 translate brazilian_portuguese wata_tips_10_b76d782d:
@@ -4348,7 +4348,7 @@ translate brazilian_portuguese wata_tips_10_b76d782d:
     # voice "voice/ps3/s20/00/442500003.ogg"
     # a_komiyama "\"Wa-ha-ha!{nw}"
     voice "voice/ps3/s20/00/442500003.ogg"
-    a_komiyama "\"Wa-ha-ha!{nw}"
+    a_komiyama "\"Ua-ha-ha!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1387
 translate brazilian_portuguese wata_tips_10_0a082be1:
@@ -4356,7 +4356,7 @@ translate brazilian_portuguese wata_tips_10_0a082be1:
     # voice sustain
     # extend " All right, then! Youth is the greatest!\""
     voice sustain
-    extend " All right, then! Youth is the greatest!\""
+    extend " Muito bem! Ser jovem é esplêndido!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1389
 translate brazilian_portuguese wata_tips_10_5ae10008:
@@ -4364,7 +4364,7 @@ translate brazilian_portuguese wata_tips_10_5ae10008:
     # voice "voice/ps3/s20/00/keijib44001.ogg"
     # a_det "\"Good work, everyone!{nw}"
     voice "voice/ps3/s20/00/keijib44001.ogg"
-    a_det "\"Good work, everyone!{nw}"
+    a_det "\"Pessoal, vocês fizeram um bom trabalho!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1391
 translate brazilian_portuguese wata_tips_10_2561bb32:
@@ -4372,7 +4372,7 @@ translate brazilian_portuguese wata_tips_10_2561bb32:
     # voice sustain
     # extend " Tomorrow is Watanagashi at last."
     voice sustain
-    extend " Tomorrow is Watanagashi at last."
+    extend " Amanhã finalmente é o Watanagashi."
 
 # game/watanagashi/watanagashi_tips.rpy:1393
 translate brazilian_portuguese wata_tips_10_d48f3ed1:
@@ -4380,7 +4380,7 @@ translate brazilian_portuguese wata_tips_10_d48f3ed1:
     # voice "voice/ps3/s20/00/keijib44002.ogg"
     # extend " Let's get some shut-eye in and save our energy for tomorrow night!\""
     voice "voice/ps3/s20/00/keijib44002.ogg"
-    extend " Let's get some shut-eye in and save our energy for tomorrow night!\""
+    extend " Vamos tirar uma soneca e guardar a nossa energia para amanhã à noite!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1395
 translate brazilian_portuguese wata_tips_10_4afe26e5:
@@ -4388,19 +4388,19 @@ translate brazilian_portuguese wata_tips_10_4afe26e5:
     # nvl clear
     # n "Tomorrow was finally Watanagashi."
     nvl clear
-    n "Tomorrow was finally Watanagashi."
+    n "Amanhã vai ser o dia do Watanagashi."
 
 # game/watanagashi/watanagashi_tips.rpy:1398
 translate brazilian_portuguese wata_tips_10_e4e6a6c1:
 
     # n "Festivals are split into two groups: those who enjoy them, and those who support them."
-    n "Festivals are split into two groups: those who enjoy them, and those who support them."
+    n "Festivais são divididos em dois grupos: aqueles que que desfrutam deles, e aqueles que os organizam."
 
 # game/watanagashi/watanagashi_tips.rpy:1399
 translate brazilian_portuguese wata_tips_10_b2f1f9dd:
 
     # n "The former only need prepare their minds, but the latter needs not only that, but also painstakingly crafted plans and preliminary arrangements."
-    n "The former only need prepare their minds, but the latter needs not only that, but also painstakingly crafted plans and preliminary arrangements."
+    n "Os primeiros apenas precisam preparar suas mentes, mas os últimos precisam, além disso, também planejar meticulosamente o trabalho e os arranjos preliminares."
 
 # game/watanagashi/watanagashi_tips.rpy:1400
 translate brazilian_portuguese wata_tips_10_2dc4098d:
@@ -4412,13 +4412,13 @@ translate brazilian_portuguese wata_tips_10_2dc4098d:
 translate brazilian_portuguese wata_tips_10_e26dc42c:
 
     # n "While the general majority attending goes about enjoying the festival without a care in the world, we'll be strained the whole way through."
-    n "While the general majority attending goes about enjoying the festival without a care in the world, we'll be strained the whole way through."
+    n "Enquanto a maioria vai assistir ao festival sem se importar com o que acontece ao redor, nós vamos ter de continuar preparados."
 
 # game/watanagashi/watanagashi_tips.rpy:1402
 translate brazilian_portuguese wata_tips_10_71fa415d:
 
     # extend " ...Why?"
-    extend " ...Why?"
+    extend " ...Por quê?"
 
 # game/watanagashi/watanagashi_tips.rpy:1403
 translate brazilian_portuguese wata_tips_10_53209248:
@@ -4428,7 +4428,7 @@ translate brazilian_portuguese wata_tips_10_53209248:
     # a_det "\"You sure as hell know why!{nw}"
     nvl clear
     voice "voice/ps3/s20/00/keijib44003.ogg"
-    a_det "\"You sure as hell know why!{nw}"
+    a_det "\"Você certamente sabe o porque!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1407
 translate brazilian_portuguese wata_tips_10_71b9f54b:
@@ -4436,7 +4436,7 @@ translate brazilian_portuguese wata_tips_10_71b9f54b:
     # voice sustain
     # extend " Because the beer after everything's over is the best damn beer you'll ever have.\""
     voice sustain
-    extend " Because the beer after everything's over is the best damn beer you'll ever have.\""
+    extend " Porque a cerveja que você vai tomar depois que tudo acabar é a melhor que você já bebeu.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1409
 translate brazilian_portuguese wata_tips_10_deee9ce3:
@@ -4444,19 +4444,19 @@ translate brazilian_portuguese wata_tips_10_deee9ce3:
     # voice "voice/ps3/s20/00/442500004.ogg"
     # a_komiyama "\"Wa-ha-ha-ha-ha-ha-ha!!\""
     voice "voice/ps3/s20/00/442500004.ogg"
-    a_komiyama "\"Wa-ha-ha-ha-ha-ha-ha!!\""
+    a_komiyama "\"Ua-ha-ha-ha-ha-ha-ha!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1411
 translate brazilian_portuguese wata_tips_10_4e828c91:
 
     # n "At times like these, it's best to have energetic, physically fit people!"
-    n "At times like these, it's best to have energetic, physically fit people!"
+    n "Em momentos como estes, é bom ter pessoas com energia e fisicamente aptas!"
 
 # game/watanagashi/watanagashi_tips.rpy:1412
 translate brazilian_portuguese wata_tips_10_498e84ee:
 
     # n "It wouldn't be worth it if you didn't do your best until the end, enjoying it the whole way!"
-    n "It wouldn't be worth it if you didn't do your best until the end, enjoying it the whole way!"
+    n "Não valeria a pena se você não fizesse o seu melhor até o final, apreciando a coisa toda!"
 
 # game/watanagashi/watanagashi_tips.rpy:1413
 translate brazilian_portuguese wata_tips_10_eed6ceea:
@@ -4466,19 +4466,19 @@ translate brazilian_portuguese wata_tips_10_eed6ceea:
     # a_kuma "\"Oh, he's here...!\""
     nvl clear
     voice "voice/ps3/s20/19/443100011.ogg"
-    a_kuma "\"Oh, he's here...!\""
+    a_kuma "\"Oh, ele está aqui...!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1417
 translate brazilian_portuguese wata_tips_10_58f6068c:
 
     # n "Ooishi-san came in."
-    n "Ooishi-san came in."
+    n "Ooishi-san tinha entrado."
 
 # game/watanagashi/watanagashi_tips.rpy:1418
 translate brazilian_portuguese wata_tips_10_330af5f6:
 
     # extend " Everyone hurried to stand up."
-    extend " Everyone hurried to stand up."
+    extend " Todos se apressaram em levantar."
 
 # game/watanagashi/watanagashi_tips.rpy:1419
 translate brazilian_portuguese wata_tips_10_76b2fe88:
@@ -4492,7 +4492,7 @@ translate brazilian_portuguese wata_tips_10_b73bfcc7:
     # voice "voice/ps3/s20/11/440700110.ogg"
     # a_oishi "\"Hello, everyone. Excellent work out there.{nw}"
     voice "voice/ps3/s20/11/440700110.ogg"
-    a_oishi "\"Hello, everyone. Excellent work out there.{nw}"
+    a_oishi "\"Olá, pessoal. Vocês fizeram um trabalho excelente aqui.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1428
 translate brazilian_portuguese wata_tips_10_969eb3e4:
@@ -4500,7 +4500,7 @@ translate brazilian_portuguese wata_tips_10_969eb3e4:
     # voice sustain
     # extend " Ah, you can be at ease.\""
     voice sustain
-    extend " Ah, you can be at ease.\""
+    extend " Ah, vocês podem ficar à vontade.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1432
 translate brazilian_portuguese wata_tips_10_640402e6:
@@ -4508,7 +4508,7 @@ translate brazilian_portuguese wata_tips_10_640402e6:
     # voice "voice/ps3/s20/19/443100012.ogg"
     # a_detectives "\"\"\"Thank you, sir!!\"\"\""
     voice "voice/ps3/s20/19/443100012.ogg"
-    a_detectives "\"\"\"Thank you, sir!!\"\"\""
+    a_detectives "\"\"\"Muito obrigado, senhor!!\"\"\""
 
 # game/watanagashi/watanagashi_tips.rpy:1436
 translate brazilian_portuguese wata_tips_10_2dc4098d_1:
@@ -4520,13 +4520,13 @@ translate brazilian_portuguese wata_tips_10_2dc4098d_1:
 translate brazilian_portuguese wata_tips_10_26c186da:
 
     # n "Not even my seniors, who usually talk big about themselves, can hold a candle to Ooishi-san."
-    n "Not even my seniors, who usually talk big about themselves, can hold a candle to Ooishi-san."
+    n "Nem mesmo os mais velhos, que geralmente davam importância demais a si mesmos, podiam andar ombro a ombro com Oishi-san."
 
 # game/watanagashi/watanagashi_tips.rpy:1438
 translate brazilian_portuguese wata_tips_10_95733a71:
 
     # n "We all bow as if we were one of those cheering squads of old."
-    n "We all bow as if we were one of those cheering squads of old."
+    n "Nós todos fizemos uma reverência, como se fôssemos membros de um velho esquadrão o saudando."
 
 # game/watanagashi/watanagashi_tips.rpy:1439
 translate brazilian_portuguese wata_tips_10_0619d19a:
@@ -4534,25 +4534,25 @@ translate brazilian_portuguese wata_tips_10_0619d19a:
     # nvl clear
     # n "Kuraudo Ooishi."
     nvl clear
-    n "Kuraudo Ooishi."
+    n "Ooishi Kuraudo."
 
 # game/watanagashi/watanagashi_tips.rpy:1442
 translate brazilian_portuguese wata_tips_10_dffb99bb:
 
     # n "A detective just waiting to retire—one who doesn't pay much mind to rules and regulations, and doesn't do too much in the way of real work."
-    n "A detective just waiting to retire—one who doesn't pay much mind to rules and regulations, and doesn't do too much in the way of real work."
+    n "Um detetive à beira de se aposentar, e que não presta muita atenção às regras e regulamentos, vivendo seus dias descuidadamente."
 
 # game/watanagashi/watanagashi_tips.rpy:1443
 translate brazilian_portuguese wata_tips_10_0563583f:
 
     # n "He looks like a rotten old man with a penchant for dirty jokes."
-    n "He looks like a rotten old man with a penchant for dirty jokes."
+    n "Ele parece um velho homem podre com uma certa inclinação a fazer piadas sujas."
 
 # game/watanagashi/watanagashi_tips.rpy:1444
 translate brazilian_portuguese wata_tips_10_fcd7f2fa:
 
     # extend " My seniors, though, tell me he was a real fighter in his younger days, and that he may or may not have quite a heroic legend trailing behind him..."
-    extend " My seniors, though, tell me he was a real fighter in his younger days, and that he may or may not have quite a heroic legend trailing behind him..."
+    extend " Os velhos, no entanto, me disseram que ele era um verdadeiro lutador em seus dias de juventude, e que ele podia mesmo ter uma lenda heroica atrás de si..."
 
 # game/watanagashi/watanagashi_tips.rpy:1445
 translate brazilian_portuguese wata_tips_10_2dc4098d_2:
@@ -4564,13 +4564,13 @@ translate brazilian_portuguese wata_tips_10_2dc4098d_2:
 translate brazilian_portuguese wata_tips_10_6fd1f445:
 
     # n "...Anyway."
-    n "...Anyway."
+    n "...De qualquer jeito."
 
 # game/watanagashi/watanagashi_tips.rpy:1447
 translate brazilian_portuguese wata_tips_10_34d2feca:
 
     # extend " He surely had much more dignity and presence in the room than the section chief who came in with him."
-    extend " He surely had much more dignity and presence in the room than the section chief who came in with him."
+    extend " Ele certamente tinha muito mais dignidade e presença na sala do que o chefe de seção que o estava acompanhando."
 
 # game/watanagashi/watanagashi_tips.rpy:1448
 translate brazilian_portuguese wata_tips_10_5f9a6fef:
@@ -4580,13 +4580,13 @@ translate brazilian_portuguese wata_tips_10_5f9a6fef:
     # a_oishi "\"Everyone, I really, really thank you for your hard work on the preparations for the festival tomorrow.\""
     nvl clear
     voice "voice/ps3/s20/11/440700111.ogg"
-    a_oishi "\"Everyone, I really, really thank you for your hard work on the preparations for the festival tomorrow.\""
+    a_oishi "\"Pessoal, eu realmente agradeço a todos vocês pelo trabalho duro preparando tudo para amanhã.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1452
 translate brazilian_portuguese wata_tips_10_bab736c7:
 
     # n "Everyone present stands upright and lends their ear to the chief's directions."
-    n "Everyone present stands upright and lends their ear to the chief's directions."
+    n "Todos os presentes ficaram atentos, emprestando seus ouvidos às instruções do chefe."
 
 # game/watanagashi/watanagashi_tips.rpy:1453
 translate brazilian_portuguese wata_tips_10_4dae84a0:
@@ -4596,7 +4596,7 @@ translate brazilian_portuguese wata_tips_10_4dae84a0:
     # a_oishi "\"We're on heavy alert for any thrill-seeking criminals expecting another incident like last year.{w=6.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700112.ogg"
-    a_oishi "\"We're on heavy alert for any thrill-seeking criminals expecting another incident like last year.{w=6.0}{nw}"
+    a_oishi "\"Nós estamos em alerta máximo para qualquer criminoso em busca de emoção que espera outro incidente como no ano passado.{w=6.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1457
 translate brazilian_portuguese wata_tips_10_1fc440f7:
@@ -4604,7 +4604,7 @@ translate brazilian_portuguese wata_tips_10_1fc440f7:
     # voice sustain
     # extend " I need all of you to focus your energy as much as possible in your mission to prevent any crimes from happening.\""
     voice sustain
-    extend " I need all of you to focus your energy as much as possible in your mission to prevent any crimes from happening.\""
+    extend " Eu preciso de todos vocês com sua energia focada, tanto quanto possível, para impedir qualquer crime de acontecer.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1461
 translate brazilian_portuguese wata_tips_10_5b2b8a40:
@@ -4612,7 +4612,7 @@ translate brazilian_portuguese wata_tips_10_5b2b8a40:
     # voice "voice/ps3/s20/19/443100013.ogg"
     # a_detectives "\"\"\"Yes, sir!\"\"\""
     voice "voice/ps3/s20/19/443100013.ogg"
-    a_detectives "\"\"\"Yes, sir!\"\"\""
+    a_detectives "\"\"\"Sim, senhor!\"\"\""
 
 # game/watanagashi/watanagashi_tips.rpy:1465
 translate brazilian_portuguese wata_tips_10_76b2fe88_1:
@@ -4626,7 +4626,7 @@ translate brazilian_portuguese wata_tips_10_c5a0b794:
     # voice "voice/ps3/s20/11/440700113.ogg"
     # a_oishi "\"Of course, it would be best if nothing happened.{nw}"
     voice "voice/ps3/s20/11/440700113.ogg"
-    a_oishi "\"Of course, it would be best if nothing happened.{nw}"
+    a_oishi "\"Certamente seria melhor se nada acontecesse.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1470
 translate brazilian_portuguese wata_tips_10_cd3edbbe:
@@ -4634,7 +4634,7 @@ translate brazilian_portuguese wata_tips_10_cd3edbbe:
     # voice sustain
     # extend " ...However, everyone."
     voice sustain
-    extend " ...However, everyone."
+    extend " ...Entretanto, pessoal."
 
 # game/watanagashi/watanagashi_tips.rpy:1472
 translate brazilian_portuguese wata_tips_10_d3c35b38:
@@ -4642,7 +4642,7 @@ translate brazilian_portuguese wata_tips_10_d3c35b38:
     # voice "voice/ps3/s20/11/440700114.ogg"
     # extend " Please assume that an incident will, in fact, occur."
     voice "voice/ps3/s20/11/440700114.ogg"
-    extend " Please assume that an incident will, in fact, occur."
+    extend " Por favor, assumam que um incidente, de fato, vai ocorrer."
 
 # game/watanagashi/watanagashi_tips.rpy:1474
 translate brazilian_portuguese wata_tips_10_79803eb1:
@@ -4650,7 +4650,7 @@ translate brazilian_portuguese wata_tips_10_79803eb1:
     # voice "voice/ps3/s20/11/440700115.ogg"
     # nvl_extend "Prevention is number one, but it probably won't be enough.{nw}"
     voice "voice/ps3/s20/11/440700115.ogg"
-    nvl_extend "Prevention is number one, but it probably won't be enough.{nw}"
+    nvl_extend "Prevenção é fundamental, mas também não é o suficiente.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1476
 translate brazilian_portuguese wata_tips_10_43d416cb:
@@ -4658,7 +4658,7 @@ translate brazilian_portuguese wata_tips_10_43d416cb:
     # voice sustain
     # extend " This year, too, someone will die, and someone will disappear."
     voice sustain
-    extend " This year, too, someone will die, and someone will disappear."
+    extend " Este ano, também, alguém vai morrer, e alguém vai desaparecer."
 
 # game/watanagashi/watanagashi_tips.rpy:1478
 translate brazilian_portuguese wata_tips_10_194f3e42:
@@ -4666,7 +4666,7 @@ translate brazilian_portuguese wata_tips_10_194f3e42:
     # voice "voice/ps3/s20/11/440700116.ogg"
     # extend " There's really no doubt about it."
     voice "voice/ps3/s20/11/440700116.ogg"
-    extend " There's really no doubt about it."
+    extend " Não há dúvida sobre isso."
 
 # game/watanagashi/watanagashi_tips.rpy:1480
 translate brazilian_portuguese wata_tips_10_8ee21884:
@@ -4680,7 +4680,7 @@ translate brazilian_portuguese wata_tips_10_8ee21884:
 translate brazilian_portuguese wata_tips_10_728d7fc6:
 
     # n "Everyone, apart from the section chief, smiled painfully."
-    n "Everyone, apart from the section chief, smiled painfully."
+    n "Todos, com exceção do chefe de seção, sorriram dolorosamente."
 
 # game/watanagashi/watanagashi_tips.rpy:1483
 translate brazilian_portuguese wata_tips_10_48f0eabc:
@@ -4690,7 +4690,7 @@ translate brazilian_portuguese wata_tips_10_48f0eabc:
     # a_takasugi "\"Ooishi-san... that won't do!{nw}"
     nvl clear
     voice "voice/ps3/s20/00/442700018.ogg"
-    a_takasugi "\"Ooishi-san... that won't do!{nw}"
+    a_takasugi "\"Ooishi-san... é problemático agir assim!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1487
 translate brazilian_portuguese wata_tips_10_337eade5:
@@ -4698,7 +4698,7 @@ translate brazilian_portuguese wata_tips_10_337eade5:
     # voice sustain
     # extend " We need to be more serious about this...\""
     voice sustain
-    extend " We need to be more serious about this...\""
+    extend " Nós precisamos ser mais sérios sobre isso...\""
 
 # game/watanagashi/watanagashi_tips.rpy:1490
 translate brazilian_portuguese wata_tips_10_3676e0ab:
@@ -4706,7 +4706,7 @@ translate brazilian_portuguese wata_tips_10_3676e0ab:
     # voice "voice/ps3/s20/11/440700118.ogg"
     # a_oishi "\"The important part isn't to get past the night of the festival.{nw}"
     voice "voice/ps3/s20/11/440700118.ogg"
-    a_oishi "\"The important part isn't to get past the night of the festival.{nw}"
+    a_oishi "\"A parte importante é não deixar passar a noite do festival.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1492
 translate brazilian_portuguese wata_tips_10_1b6cfbbb:
@@ -4714,7 +4714,7 @@ translate brazilian_portuguese wata_tips_10_1b6cfbbb:
     # voice sustain
     # extend " ...It's to be able to quickly, swiftly, and aggressively pursue whatever does happen tomorrow night."
     voice sustain
-    extend " ...It's to be able to quickly, swiftly, and aggressively pursue whatever does happen tomorrow night."
+    extend " ...Devemos ser capazes de lidar rápida e agressivamente com o que quer que aconteça amanhã à noite."
 
 # game/watanagashi/watanagashi_tips.rpy:1503
 translate brazilian_portuguese wata_tips_10_3edf5520:
@@ -4722,7 +4722,7 @@ translate brazilian_portuguese wata_tips_10_3edf5520:
     # voice "voice/ps3/s20/19/443100014.ogg"
     # a_detectives "\"\"\"Yeaaaaahhh!!!\"\"\""
     voice "voice/ps3/s20/19/443100014.ogg"
-    a_detectives "\"\"\"Yeaaaaahhh!!!\"\"\""
+    a_detectives "\"\"\"Siiiim!!!\"\"\""
 
 # game/watanagashi/watanagashi_tips.rpy:1507
 translate brazilian_portuguese wata_tips_10_76b2fe88_2:
@@ -4734,7 +4734,7 @@ translate brazilian_portuguese wata_tips_10_76b2fe88_2:
 translate brazilian_portuguese wata_tips_11_76999c18:
 
     # centered "{space=14}— About Watanagashi —"
-    centered "{space=14}— About Watanagashi —"
+    centered "{space=14}— Watanagashi —"
 
 # game/watanagashi/watanagashi_tips.rpy:1527
 translate brazilian_portuguese wata_tips_11_76b2fe88:
@@ -4746,7 +4746,7 @@ translate brazilian_portuguese wata_tips_11_76b2fe88:
 translate brazilian_portuguese wata_tips_11_1c4576a2:
 
     # n "The rite of Watanagashi is performed during a village festival every June even now, but reading back to its origin turns up a seriously sanguine ceremony."
-    n "The rite of Watanagashi is performed during a village festival every June even now, but reading back to its origin turns up a seriously sanguine ceremony."
+    n "O ritual do Watanagashi é realizado durante um festival popular a cada mês de junho, mas lendo de volta à sua origem, parece ser uma cerimônia sanguinária."
 
 # game/watanagashi/watanagashi_tips.rpy:1531
 translate brazilian_portuguese wata_tips_11_76b2fe88_1:
@@ -4758,13 +4758,13 @@ translate brazilian_portuguese wata_tips_11_76b2fe88_1:
 translate brazilian_portuguese wata_tips_11_52ad2809:
 
     # n "Originally, Watanagashi would happen at certain intervals, and after receiving Oyashiro-sama's trust, they chose a sacrifice."
-    n "Originally, Watanagashi would happen at certain intervals, and after receiving Oyashiro-sama's trust, they chose a sacrifice."
+    n "Originalmente, o Watanagashi acontecia em intervalos fixos, e depois de receber a confiança de Oyashiro-sama, eles escolhiam um sacrifício."
 
 # game/watanagashi/watanagashi_tips.rpy:1535
 translate brazilian_portuguese wata_tips_11_de991f76:
 
     # extend " Then, the entire village would kidnap (demon away) the person and ceremonially dissect and devour them in a feast."
-    extend " Then, the entire village would kidnap (demon away) the person and ceremonially dissect and devour them in a feast."
+    extend " Então, a vila inteira raptaria (faria onikakushi) a pessoa e a dissecaria numa cerimônia, e a devorariam num banquete."
 
 # game/watanagashi/watanagashi_tips.rpy:1536
 translate brazilian_portuguese wata_tips_11_2dc4098d:
@@ -4776,19 +4776,19 @@ translate brazilian_portuguese wata_tips_11_2dc4098d:
 translate brazilian_portuguese wata_tips_11_8e53bba1:
 
     # n "(The rules that determined the intervals are shrouded in mystery."
-    n "(The rules that determined the intervals are shrouded in mystery."
+    n "(As regras que determinam os intervalos estão envoltas em mistério."
 
 # game/watanagashi/watanagashi_tips.rpy:1538
 translate brazilian_portuguese wata_tips_11_af1cfb56:
 
     # extend " This is because the ceremonies occurred extremely irregularly."
-    extend " This is because the ceremonies occurred extremely irregularly."
+    extend " Isso acontece porque o intervalo entre as cerimônias era extremamente irregular."
 
 # game/watanagashi/watanagashi_tips.rpy:1539
 translate brazilian_portuguese wata_tips_11_10c85e33:
 
     # extend " There's a theory that it was determined based on astrological fortune-telling, but it isn't too convincing.)"
-    extend " There's a theory that it was determined based on astrological fortune-telling, but it isn't too convincing.)"
+    extend " Há uma teoria de que era determinado com base na adivinhação astrológica, mas ela não é muito convincente.)"
 
 # game/watanagashi/watanagashi_tips.rpy:1540
 translate brazilian_portuguese wata_tips_11_76b2fe88_2:
@@ -4800,7 +4800,7 @@ translate brazilian_portuguese wata_tips_11_76b2fe88_2:
 translate brazilian_portuguese wata_tips_11_99b701ab:
 
     # n "The residents of ancient Onigafuchi Village firmly believed that they were half-man, half-demon transcendents, and that they were more valuable than humans were—and they forced people within and without to accept that."
-    n "The residents of ancient Onigafuchi Village firmly believed that they were half-man, half-demon transcendents, and that they were more valuable than humans were—and they forced people within and without to accept that."
+    n "Os moradores da antiga vila de Onigafuchi acreditavam firmemente que eles eram meio-homens, meio-demônios sen'nin, e que eles eram melhores do que os seres humanos comuns—e obrigavam as pessoas de dentro e fora a aceitar isso."
 
 # game/watanagashi/watanagashi_tips.rpy:1544
 translate brazilian_portuguese wata_tips_11_2dc4098d_1:
@@ -4812,7 +4812,7 @@ translate brazilian_portuguese wata_tips_11_2dc4098d_1:
 translate brazilian_portuguese wata_tips_11_f2e2e89c:
 
     # n "Perhaps the act of kidnapping and eating people was done to prove that they were higher up on the food chain."
-    n "Perhaps the act of kidnapping and eating people was done to prove that they were higher up on the food chain."
+    n "Talvez o ato de sequestro e de comer as pessoas era feito para provar que eles estavam no topo da cadeia alimentar."
 
 # game/watanagashi/watanagashi_tips.rpy:1546
 translate brazilian_portuguese wata_tips_11_dd72290e:
@@ -4820,19 +4820,19 @@ translate brazilian_portuguese wata_tips_11_dd72290e:
     # nvl clear
     # n "This is just a hypothesis, but maybe the rite of Watanagashi was a political event for the purpose of being an outlet for (or outright diverting the attention of) the villagers of the isolated Onigafuchi Village,"
     nvl clear
-    n "This is just a hypothesis, but maybe the rite of Watanagashi was a political event for the purpose of being an outlet for (or outright diverting the attention of) the villagers of the isolated Onigafuchi Village,"
+    n "Esta é apenas uma hipótese, mas talvez o ritual do Watanagashi fosse um evento político com a finalidade de ser um escape para os moradores da vila isolada de Onigafuchi (ou para desviar a atenção dela),"
 
 # game/watanagashi/watanagashi_tips.rpy:1549
 translate brazilian_portuguese wata_tips_11_b3f2ebfa:
 
     # extend " in case any of their complaints or dissatisfactions grew serious."
-    extend " in case any of their complaints or dissatisfactions grew serious."
+    extend " no caso de suas queixas ou insatisfações crescerem seriamente."
 
 # game/watanagashi/watanagashi_tips.rpy:1550
 translate brazilian_portuguese wata_tips_11_dc1c26eb:
 
     # n "If that was the main reason these ceremonies were held, then it's easy to explain how erratic they were."
-    n "If that was the main reason these ceremonies were held, then it's easy to explain how erratic they were."
+    n "Se esse era o principal motivo dessas cerimônias serem realizadas, então é fácil de explicar porque elas eram tão erráticas."
 
 # game/watanagashi/watanagashi_tips.rpy:1551
 translate brazilian_portuguese wata_tips_11_76b2fe88_3:
@@ -4844,7 +4844,7 @@ translate brazilian_portuguese wata_tips_11_76b2fe88_3:
 translate brazilian_portuguese wata_tips_12_552f3250:
 
     # centered "{space=14}— About The Alleged Importance of the Implements —"
-    centered "{space=14}— About The Alleged Importance of the Implements —"
+    centered "{space=14}— A Alegada Importância dos Implementos —"
 
 # game/watanagashi/watanagashi_tips.rpy:1571
 translate brazilian_portuguese wata_tips_12_76b2fe88:
@@ -4856,13 +4856,13 @@ translate brazilian_portuguese wata_tips_12_76b2fe88:
 translate brazilian_portuguese wata_tips_12_ea3fe392:
 
     # n "I can't find anything that gives a concrete description on what the ritual implements were like."
-    n "I can't find anything that gives a concrete description on what the ritual implements were like."
+    n "Eu não pude encontrar nada que descreva concretamente como eram os implementos rituais."
 
 # game/watanagashi/watanagashi_tips.rpy:1575
 translate brazilian_portuguese wata_tips_12_b6e51f41:
 
     # n "They were, however, real, and there definitely existed a multitude of different kinds."
-    n "They were, however, real, and there definitely existed a multitude of different kinds."
+    n "No entanto, eram reais, e definitivamente havia uma infinidade de tipos diferentes."
 
 # game/watanagashi/watanagashi_tips.rpy:1576
 translate brazilian_portuguese wata_tips_12_2dc4098d:
@@ -4874,7 +4874,7 @@ translate brazilian_portuguese wata_tips_12_2dc4098d:
 translate brazilian_portuguese wata_tips_12_18b9ab7b:
 
     # n "One source states that the implements used in the Watanagashi rite alone numbered two hundred."
-    n "One source states that the implements used in the Watanagashi rite alone numbered two hundred."
+    n "Uma fonte afirma que os implementos utilizados no ritual do Watanagashi passavam de duzentos."
 
 # game/watanagashi/watanagashi_tips.rpy:1578
 translate brazilian_portuguese wata_tips_12_2dc4098d_1:
@@ -4886,7 +4886,7 @@ translate brazilian_portuguese wata_tips_12_2dc4098d_1:
 translate brazilian_portuguese wata_tips_12_28f4d895:
 
     # n "The obvious question, then, is why they required such a myriad of them."
-    n "The obvious question, then, is why they required such a myriad of them."
+    n "A pergunta óbvia, então, é por que eles eles necessitavam dessa quantidade enorme."
 
 # game/watanagashi/watanagashi_tips.rpy:1580
 translate brazilian_portuguese wata_tips_12_76b2fe88_1:
@@ -4898,13 +4898,13 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_1:
 translate brazilian_portuguese wata_tips_12_82c63fdc:
 
     # n "The rite of Watanagashi was to kidnap people through the 'demoning away,' dissect them, and eat them."
-    n "The rite of Watanagashi was to kidnap people through the 'demoning away,' dissect them, and eat them."
+    n "O ritual do Watanagashi consistia em raptar pessoas através do 'onikakushi,' dissecá-los e devorá-los."
 
 # game/watanagashi/watanagashi_tips.rpy:1584
 translate brazilian_portuguese wata_tips_12_93c49534:
 
     # n "I believe the tools were for dissection and restraining, but two hundred of them is far too many."
-    n "I believe the tools were for dissection and restraining, but two hundred of them is far too many."
+    n "Eu acredito que as ferramentas eram para dissecação e imobilização, mas duzentas delas é ir longe demais."
 
 # game/watanagashi/watanagashi_tips.rpy:1585
 translate brazilian_portuguese wata_tips_12_76b2fe88_2:
@@ -4916,19 +4916,19 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_2:
 translate brazilian_portuguese wata_tips_12_12dd5f3c:
 
     # n "Generally, tools evolve in such a way as to reach a solution for a certain problem."
-    n "Generally, tools evolve in such a way as to reach a solution for a certain problem."
+    n "De um modo geral, as ferramentas evoluem de tal modo até que seja alcançada a solução para um determinado problema."
 
 # game/watanagashi/watanagashi_tips.rpy:1589
 translate brazilian_portuguese wata_tips_12_e9f37d52:
 
     # n "Once you've reached the ultimate goal—that is, attained a certain level of efficiency—the tool's evolution normally stops there."
-    n "Once you've reached the ultimate goal—that is, attained a certain level of efficiency—the tool's evolution normally stops there."
+    n "Uma vez que você tenha alcançado o objetivo final, ou seja, atingido um certo nível de evolução na eficiência da ferramenta—normalmente você para por aí."
 
 # game/watanagashi/watanagashi_tips.rpy:1590
 translate brazilian_portuguese wata_tips_12_e106a9ad:
 
     # n "Regardless, why would they have created so many different kinds?"
-    n "Regardless, why would they have created so many different kinds?"
+    n "Mas então, por que eles criaram tantos tipos diferentes?"
 
 # game/watanagashi/watanagashi_tips.rpy:1591
 translate brazilian_portuguese wata_tips_12_76b2fe88_3:
@@ -4940,13 +4940,13 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_3:
 translate brazilian_portuguese wata_tips_12_22b24244:
 
     # n "One of the cultural elements responsible for diversification over time is that of entertainment."
-    n "One of the cultural elements responsible for diversification over time is that of entertainment."
+    n "Um dos elementos culturais responsáveis pela diversificação ao longo do tempo é o entretenimento."
 
 # game/watanagashi/watanagashi_tips.rpy:1595
 translate brazilian_portuguese wata_tips_12_81584d5a:
 
     # n "Tools used for entertainment would evolve over time and branch out."
-    n "Tools used for entertainment would evolve over time and branch out."
+    n "Ferramentas utilizadas para o entretenimento evoluem ao longo do tempo e se ramificam."
 
 # game/watanagashi/watanagashi_tips.rpy:1596
 translate brazilian_portuguese wata_tips_12_2dc4098d_2:
@@ -4958,7 +4958,7 @@ translate brazilian_portuguese wata_tips_12_2dc4098d_2:
 translate brazilian_portuguese wata_tips_12_f81ee524:
 
     # n "Unlike normal tools, reaching the ultimate goal would be more of a dead end, and in searching for the next goal, they would split into many different subtypes."
-    n "Unlike normal tools, reaching the ultimate goal would be more of a dead end, and in searching for the next goal, they would split into many different subtypes."
+    n "Ao contrário das ferramentas normais (que quando atingem o objetivo final alcançam um beco sem saída), na busca pelo próximo objetivo, elas se dividem em muitos subtipos diferentes."
 
 # game/watanagashi/watanagashi_tips.rpy:1598
 translate brazilian_portuguese wata_tips_12_76b2fe88_4:
@@ -4970,7 +4970,7 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_4:
 translate brazilian_portuguese wata_tips_12_1a350f77:
 
     # n "So then, perhaps it's not a stretch to suggest that these two hundred-plus implements had some entertainment value."
-    n "So then, perhaps it's not a stretch to suggest that these two hundred-plus implements had some entertainment value."
+    n "Então, talvez não seja exagero supor que estes mais de duzentos implementos tenham algum valor como entretenimento."
 
 # game/watanagashi/watanagashi_tips.rpy:1602
 translate brazilian_portuguese wata_tips_12_2dc4098d_3:
@@ -4982,19 +4982,19 @@ translate brazilian_portuguese wata_tips_12_2dc4098d_3:
 translate brazilian_portuguese wata_tips_12_d646a0f0:
 
     # n "This is just a hypothesis, of course, but maybe the human dissection process was viewed as a type of entertainment."
-    n "This is just a hypothesis, of course, but maybe the human dissection process was viewed as a type of entertainment."
+    n "Esta é apenas uma hipótese, naturalmente, mas talvez o processo de dissecação humana fosse visto como um tipo de entretenimento."
 
 # game/watanagashi/watanagashi_tips.rpy:1604
 translate brazilian_portuguese wata_tips_12_47540032:
 
     # n "The Three Families of old would develop one new implement (dissection tool) after another, and each was varied, novel, and attracted spectators to keep them from growing bored..."
-    n "The Three Families of old would develop one new implement (dissection tool) after another, and each was varied, novel, and attracted spectators to keep them from growing bored..."
+    n "As Três Famílias antigas desenvolveriam um novo implemento (ferramenta de dissecação) após o outro, e cada um deveria ser diferente e inovador, a fim de atrair a atenção dos espectadores e mantê-los livres do tédio..."
 
 # game/watanagashi/watanagashi_tips.rpy:1605
 translate brazilian_portuguese wata_tips_12_057b16e4:
 
     # extend " It's not unimaginable."
-    extend " It's not unimaginable."
+    extend " Isso não é inimaginável."
 
 # game/watanagashi/watanagashi_tips.rpy:1606
 translate brazilian_portuguese wata_tips_12_76b2fe88_5:
@@ -5006,7 +5006,7 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_5:
 translate brazilian_portuguese wata_tips_12_18db81b8:
 
     # n "All of them have to be enshrined within that storehouse."
-    n "All of them have to be enshrined within that storehouse."
+    n "Todos elas deviam ser mantidas consagradas dentro desse saiguden."
 
 # game/watanagashi/watanagashi_tips.rpy:1610
 translate brazilian_portuguese wata_tips_12_2dc4098d_4:
@@ -5018,25 +5018,25 @@ translate brazilian_portuguese wata_tips_12_2dc4098d_4:
 translate brazilian_portuguese wata_tips_12_31ab6641:
 
     # n "There isn't much longer until the night of Watanagashi."
-    n "There isn't much longer until the night of Watanagashi."
+    n "Não falta muito até a noite do Watanagashi."
 
 # game/watanagashi/watanagashi_tips.rpy:1612
 translate brazilian_portuguese wata_tips_12_3ede0b8c:
 
     # n "Though its original intent has been lost, I will reveal the secrets of the traditional ceremonial night within the ritual storehouse."
-    n "Though its original intent has been lost, I will reveal the secrets of the traditional ceremonial night within the ritual storehouse."
+    n "Apesar de sua função original ter se perdido, eu vou revelar os segredos da noite cerimonial tradicional dentro do saiguden."
 
 # game/watanagashi/watanagashi_tips.rpy:1613
 translate brazilian_portuguese wata_tips_12_c103cfbd:
 
     # n "...I can't restrain my excitement."
-    n "...I can't restrain my excitement."
+    n "...Eu não posso segurar minha excitação."
 
 # game/watanagashi/watanagashi_tips.rpy:1614
 translate brazilian_portuguese wata_tips_12_f82b7669:
 
     # n "Watanagashi cannot come soon enough."
-    n "Watanagashi cannot come soon enough."
+    n "O Watanagashi está chegando, eu estou ansiosa."
 
 # game/watanagashi/watanagashi_tips.rpy:1615
 translate brazilian_portuguese wata_tips_12_76b2fe88_6:
@@ -5048,7 +5048,7 @@ translate brazilian_portuguese wata_tips_12_76b2fe88_6:
 translate brazilian_portuguese wata_tips_13_726469ea:
 
     # n "Late that night, tensions in the police station were strained."
-    n "Late that night, tensions in the police station were strained."
+    n "Tarde da noite, o clima na delegacia estava tenso."
 
 # game/watanagashi/watanagashi_tips.rpy:1634
 translate brazilian_portuguese wata_tips_13_2dc4098d:
@@ -5060,13 +5060,13 @@ translate brazilian_portuguese wata_tips_13_2dc4098d:
 translate brazilian_portuguese wata_tips_13_9e13bd11:
 
     # n "In the silence, many of the staff members' eyes shifted back and forth between the clock and their telephones, counting the seconds in that stifled atmosphere."
-    n "In the silence, many of the staff members' eyes shifted back and forth between the clock and their telephones, counting the seconds in that stifled atmosphere."
+    n "Em silêncio, muitos dos dos membros da equipe alternavam os olhares entre o relógio e seus telefones, contando os segundos naquela atmosfera abafada."
 
 # game/watanagashi/watanagashi_tips.rpy:1636
 translate brazilian_portuguese wata_tips_13_5594e25d:
 
     # n "Kumagaya-kun burst in with a young guy trailing behind him."
-    n "Kumagaya-kun burst in with a young guy trailing behind him."
+    n "Kumagaya-kun explodiu numa exclamação, com um homem mais jovem seguindo ele."
 
 # game/watanagashi/watanagashi_tips.rpy:1637
 translate brazilian_portuguese wata_tips_13_6b14ca91:
@@ -5076,7 +5076,7 @@ translate brazilian_portuguese wata_tips_13_6b14ca91:
     # a_kuma "\"Ooishi-san, I've got the autopsy results!{nw}"
     nvl clear
     voice "voice/ps3/s20/19/443100015.ogg"
-    a_kuma "\"Ooishi-san, I've got the autopsy results!{nw}"
+    a_kuma "\"Ooishi-san, eu tenho os resultados da autópsia!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1641
 translate brazilian_portuguese wata_tips_13_e7d97cc4:
@@ -5084,7 +5084,7 @@ translate brazilian_portuguese wata_tips_13_e7d97cc4:
     # voice sustain
     # extend " The court physician just got here!!"
     voice sustain
-    extend " The court physician just got here!!"
+    extend " O médico legal já chegou!!"
 
 # game/watanagashi/watanagashi_tips.rpy:1643
 translate brazilian_portuguese wata_tips_13_6c0941dd:
@@ -5092,7 +5092,7 @@ translate brazilian_portuguese wata_tips_13_6c0941dd:
     # voice "voice/ps3/s20/19/443100016.ogg"
     # extend " I'm ready to go, sir!!"
     voice "voice/ps3/s20/19/443100016.ogg"
-    extend " I'm ready to go, sir!!"
+    extend " Eu estou em standby, pronto e OK para ir, senhor!!"
 
 # game/watanagashi/watanagashi_tips.rpy:1652
 translate brazilian_portuguese wata_tips_13_0d2fa5e9:
@@ -5100,7 +5100,7 @@ translate brazilian_portuguese wata_tips_13_0d2fa5e9:
     # voice "voice/ps3/s20/11/440700121.ogg"
     # a_oishi "\"Kuma-chan, things have gotten a bit complicated.{nw}"
     voice "voice/ps3/s20/11/440700121.ogg"
-    a_oishi "\"Kuma-chan, things have gotten a bit complicated.{nw}"
+    a_oishi "\"Kuma-chan, as coisas ficaram um pouco complicadas.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1654
 translate brazilian_portuguese wata_tips_13_233943c1:
@@ -5108,7 +5108,7 @@ translate brazilian_portuguese wata_tips_13_233943c1:
     # voice sustain
     # extend " They appear to be having a very difficult time determining who the victim is.\""
     voice sustain
-    extend " They appear to be having a very difficult time determining who the victim is.\""
+    extend " Eles parecem estar tendo muita dificuldade para determinar quem é a vítima.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1656
 translate brazilian_portuguese wata_tips_13_76b2fe88:
@@ -5122,7 +5122,7 @@ translate brazilian_portuguese wata_tips_13_77bde3c0:
     # voice "voice/ps3/s20/11/440700122.ogg"
     # a_oishi "\"Nope."
     voice "voice/ps3/s20/11/440700122.ogg"
-    a_oishi "\"Nope."
+    a_oishi "\"Não é isso."
 
 # game/watanagashi/watanagashi_tips.rpy:1667
 translate brazilian_portuguese wata_tips_13_02ae336a:
@@ -5130,13 +5130,13 @@ translate brazilian_portuguese wata_tips_13_02ae336a:
     # voice "voice/ps3/s20/11/440700123.ogg"
     # nvl_extend "Cooked to a nice, light brown.\""
     voice "voice/ps3/s20/11/440700123.ogg"
-    nvl_extend "Cooked to a nice, light brown.\""
+    nvl_extend "Cozido até ficar bem marrom.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1669
 translate brazilian_portuguese wata_tips_13_b25b320d:
 
     # n "He spoke in sportive tones, but the meaning behind his words was heavy."
-    n "He spoke in sportive tones, but the meaning behind his words was heavy."
+    n "Ele falou num tom descontraído, mas o significado por trás de suas palavras era pesado."
 
 # game/watanagashi/watanagashi_tips.rpy:1670
 translate brazilian_portuguese wata_tips_13_2dc4098d_1:
@@ -5148,7 +5148,7 @@ translate brazilian_portuguese wata_tips_13_2dc4098d_1:
 translate brazilian_portuguese wata_tips_13_4d436c1a:
 
     # n "...The staff gave a collective sigh."
-    n "...The staff gave a collective sigh."
+    n "...A equipe deu um suspiro em conjunto."
 
 # game/watanagashi/watanagashi_tips.rpy:1672
 translate brazilian_portuguese wata_tips_13_c2e85a72:
@@ -5158,19 +5158,19 @@ translate brazilian_portuguese wata_tips_13_c2e85a72:
     # a_kuma "\"All the way? Head to toe...?\""
     nvl clear
     voice "voice/ps3/s20/19/443100019.ogg"
-    a_kuma "\"All the way? Head to toe...?\""
+    a_kuma "\"Totalmente? Da cabeça aos pés...?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1682
 translate brazilian_portuguese wata_tips_13_1fb6ad3c:
 
     # n "Cooked, with no possessions."
-    n "Cooked, with no possessions."
+    n "Cozido, sem pertences."
 
 # game/watanagashi/watanagashi_tips.rpy:1683
 translate brazilian_portuguese wata_tips_13_bf968562:
 
     # extend " Then, discarded outside the prefecture..."
-    extend " Then, discarded outside the prefecture..."
+    extend " Então, descartado fora da província..."
 
 # game/watanagashi/watanagashi_tips.rpy:1684
 translate brazilian_portuguese wata_tips_13_2dc4098d_2:
@@ -5182,13 +5182,13 @@ translate brazilian_portuguese wata_tips_13_2dc4098d_2:
 translate brazilian_portuguese wata_tips_13_ff413a47:
 
     # n "At worst, it would have taken a week for the body to be identified."
-    n "At worst, it would have taken a week for the body to be identified."
+    n "Levaria pelo menos uma semana para o corpo ser identificado."
 
 # game/watanagashi/watanagashi_tips.rpy:1686
 translate brazilian_portuguese wata_tips_13_74eecb1e:
 
     # n "...The fact that they'd sniffed it out tonight was huge."
-    n "...The fact that they'd sniffed it out tonight was huge."
+    n "...O cheiro durante esta noite seria bem forte."
 
 # game/watanagashi/watanagashi_tips.rpy:1687
 translate brazilian_portuguese wata_tips_13_5bb2fc98:
@@ -5198,7 +5198,7 @@ translate brazilian_portuguese wata_tips_13_5bb2fc98:
     # a_oishi "\"Komiyama-kun and a few others are performing a thorough night raid on the dentist in Okinomiya.{w=4.0}{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700125.ogg"
-    a_oishi "\"Komiyama-kun and a few others are performing a thorough night raid on the dentist in Okinomiya.{w=4.0}{nw}"
+    a_oishi "\"Komiyama-kun e alguns outros estão realizando uma investigação noturna completa com o dentista em Okinomiya.{w=4.0}{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1691
 translate brazilian_portuguese wata_tips_13_d516c61c:
@@ -5206,13 +5206,13 @@ translate brazilian_portuguese wata_tips_13_d516c61c:
     # voice sustain
     # extend " All we can do is hope a tooth matches some medical records."
     voice sustain
-    extend " All we can do is hope a tooth matches some medical records."
+    extend " Tudo o que podemos fazer é esperar que algum dente corresponda ao registro de algum paciente."
 
 # game/watanagashi/watanagashi_tips.rpy:1699
 translate brazilian_portuguese wata_tips_13_81ca9cda:
 
     # n "The young guy answered in affirmation and darted out into the hallway."
-    n "The young guy answered in affirmation and darted out into the hallway."
+    n "O jovem respondeu afirmativamente e correu para o corredor."
 
 # game/watanagashi/watanagashi_tips.rpy:1700
 translate brazilian_portuguese wata_tips_13_76b2fe88_1:
@@ -5226,7 +5226,7 @@ translate brazilian_portuguese wata_tips_13_4dcf055b:
     # voice "voice/ps3/s20/11/440700128.ogg"
     # a_oishi "\"Then why not bury them,{nw}"
     voice "voice/ps3/s20/11/440700128.ogg"
-    a_oishi "\"Then why not bury them,{nw}"
+    a_oishi "\"Mas por que não enterrá-las,{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1712
 translate brazilian_portuguese wata_tips_13_eb9f0f67:
@@ -5234,7 +5234,7 @@ translate brazilian_portuguese wata_tips_13_eb9f0f67:
     # voice sustain
     # extend " or sink them into the Sea of Japan, or Lake Biwa, or somewhere like that?\""
     voice sustain
-    extend " or sink them into the Sea of Japan, or Lake Biwa, or somewhere like that?\""
+    extend " ou afundá-las no Mar do Japão, ou no Lago Biwa, ou um lugar assim?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1714
 translate brazilian_portuguese wata_tips_13_9f10ce82:
@@ -5242,7 +5242,7 @@ translate brazilian_portuguese wata_tips_13_9f10ce82:
     # voice "voice/ps3/s20/19/443100021.ogg"
     # a_kuma "\"...Why, though?{nw}"
     voice "voice/ps3/s20/19/443100021.ogg"
-    a_kuma "\"...Why, though?{nw}"
+    a_kuma "\"...Por que será?{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1716
 translate brazilian_portuguese wata_tips_13_073ecc80:
@@ -5250,7 +5250,7 @@ translate brazilian_portuguese wata_tips_13_073ecc80:
     # voice sustain
     # extend " ...Hasn't the pattern so far been one person dies, and another disappears?\""
     voice sustain
-    extend " ...Hasn't the pattern so far been one person dies, and another disappears?\""
+    extend " ...O padrão até agora não tem sido uma pessoa morrer e outra desaparecer?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1718
 translate brazilian_portuguese wata_tips_13_4cb2596d:
@@ -5260,7 +5260,7 @@ translate brazilian_portuguese wata_tips_13_4cb2596d:
     # a_oishi "\"Kuma-chan, the corpse was inside an oil drum, unrestrained, and cooked.{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700129.ogg"
-    a_oishi "\"Kuma-chan, the corpse was inside an oil drum, unrestrained, and cooked.{nw}"
+    a_oishi "\"Kuma-chan, o cadáver estava dentro de um tambor de óleo, sem tampa, e cozido.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1722
 translate brazilian_portuguese wata_tips_13_5d9a2cbd:
@@ -5268,7 +5268,7 @@ translate brazilian_portuguese wata_tips_13_5d9a2cbd:
     # voice sustain
     # extend " They probably burned them after strangling them."
     voice sustain
-    extend " They probably burned them after strangling them."
+    extend " Eles provavelmente o queimaram depois de estrangulá-lo."
 
 # game/watanagashi/watanagashi_tips.rpy:1724
 translate brazilian_portuguese wata_tips_13_3a9c793d:
@@ -5276,7 +5276,7 @@ translate brazilian_portuguese wata_tips_13_3a9c793d:
     # voice "voice/ps3/s20/11/440700130.ogg"
     # extend " They {i}knew{/i} it would be found.\""
     voice "voice/ps3/s20/11/440700130.ogg"
-    extend " They {i}knew{/i} it would be found.\""
+    extend " Eles {i}sabiam{/i} que ele seria encontrado.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1726
 translate brazilian_portuguese wata_tips_13_cf0d123a:
@@ -5284,7 +5284,7 @@ translate brazilian_portuguese wata_tips_13_cf0d123a:
     # voice "voice/ps3/s20/19/443100022.ogg"
     # a_kuma "\"So what you mean is... from the beginning, they didn't want a person to disappear this year?\""
     voice "voice/ps3/s20/19/443100022.ogg"
-    a_kuma "\"So what you mean is... from the beginning, they didn't want a person to disappear this year?\""
+    a_kuma "\"Então, isso quer dizer que... desde o início, eles não queriam fazer uma pessoa desaparecer este ano?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1728
 translate brazilian_portuguese wata_tips_13_903ea509:
@@ -5294,7 +5294,7 @@ translate brazilian_portuguese wata_tips_13_903ea509:
     # a_oishi "\"Not so much that as they just aren't related.{nw}"
     nvl clear
     voice "voice/ps3/s20/11/440700131.ogg"
-    a_oishi "\"Not so much that as they just aren't related.{nw}"
+    a_oishi "\"Não apenas não houve um desaparecimento, como foi algo muito diferente.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1732
 translate brazilian_portuguese wata_tips_13_1b7b41ed:
@@ -5302,7 +5302,7 @@ translate brazilian_portuguese wata_tips_13_1b7b41ed:
     # voice sustain
     # extend " The person didn't disappear—in fact, whoever did it seems to have wanted to make a show of it.\""
     voice sustain
-    extend " The person didn't disappear—in fact, whoever did it seems to have wanted to make a show of it.\""
+    extend " Desta vez o alvo não desapareceu—na verdade, quem fez isso parece que queria mostrá-lo.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1734
 translate brazilian_portuguese wata_tips_13_c20ddf7c:
@@ -5310,13 +5310,13 @@ translate brazilian_portuguese wata_tips_13_c20ddf7c:
     # voice "voice/ps3/s20/19/443100023.ogg"
     # a_kuma "\"You mean... it could be a warning?\""
     voice "voice/ps3/s20/19/443100023.ogg"
-    a_kuma "\"You mean... it could be a warning?\""
+    a_kuma "\"Você quer dizer que... poderia ser um aviso?\""
 
 # game/watanagashi/watanagashi_tips.rpy:1736
 translate brazilian_portuguese wata_tips_13_dccdaae5:
 
     # n "He folded his arms... and then heaved a long and heavy sigh."
-    n "He folded his arms... and then heaved a long and heavy sigh."
+    n "Ele cruzou seus braços... e então deu um longo e alto suspiro."
 
 # game/watanagashi/watanagashi_tips.rpy:1737
 translate brazilian_portuguese wata_tips_13_76b2fe88_2:
@@ -5330,7 +5330,7 @@ translate brazilian_portuguese wata_tips_13_82479ed2:
     # voice "voice/ps3/s20/11/440700132.ogg"
     # a_oishi "\"That might have been the case had it happened in town."
     voice "voice/ps3/s20/11/440700132.ogg"
-    a_oishi "\"That might have been the case had it happened in town."
+    a_oishi "\"Poderia ser isso caso tivesse acontecido na cidade."
 
 # game/watanagashi/watanagashi_tips.rpy:1742
 translate brazilian_portuguese wata_tips_13_128ed92b:
@@ -5338,7 +5338,7 @@ translate brazilian_portuguese wata_tips_13_128ed92b:
     # voice "voice/ps3/s20/11/440700133.ogg"
     # a_oishi "...If they'd messed up, taking the victim far away and burning them alive wouldn't have been noticed.{nw}"
     voice "voice/ps3/s20/11/440700133.ogg"
-    a_oishi "...If they'd messed up, taking the victim far away and burning them alive wouldn't have been noticed.{nw}"
+    a_oishi "...Depois de queimar a vítima, levá-la para longe dificultaria a ligação entre os fatos.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1744
 translate brazilian_portuguese wata_tips_13_bfab8f9f:
@@ -5346,7 +5346,7 @@ translate brazilian_portuguese wata_tips_13_bfab8f9f:
     # voice sustain
     # extend " If they meant it as a warning, they should have done it closer to Hinamizawa."
     voice sustain
-    extend " If they meant it as a warning, they should have done it closer to Hinamizawa."
+    extend " Se eles quisessem dar um aviso, teriam feito isso perto de Hinamizawa."
 
 # game/watanagashi/watanagashi_tips.rpy:1746
 translate brazilian_portuguese wata_tips_13_a810907d:
@@ -5354,7 +5354,7 @@ translate brazilian_portuguese wata_tips_13_a810907d:
     # voice "voice/ps3/s20/11/440700134.ogg"
     # nvl_extend "...They wanted to emphasize the fact that they killed the victim, but instead of doing it somewhere for dramatic effect, they did it outside the prefecture.{nw}"
     voice "voice/ps3/s20/11/440700134.ogg"
-    nvl_extend "...They wanted to emphasize the fact that they killed the victim, but instead of doing it somewhere for dramatic effect, they did it outside the prefecture.{nw}"
+    nvl_extend "...Eles queriam enfatizar o fato de que eles mataram a vítima, mas em vez de fazê-lo em algum lugar com efeito dramático, eles fizeram isso fora da província.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1748
 translate brazilian_portuguese wata_tips_13_c4b052c2:
@@ -5362,7 +5362,7 @@ translate brazilian_portuguese wata_tips_13_c4b052c2:
     # voice sustain
     # extend " Did they want to emphasize it or hide it?"
     voice sustain
-    extend " Did they want to emphasize it or hide it?"
+    extend " Eles queriam enfatizá-lo ou escondê-lo?"
 
 # game/watanagashi/watanagashi_tips.rpy:1750
 translate brazilian_portuguese wata_tips_13_6628949c:
@@ -5370,7 +5370,7 @@ translate brazilian_portuguese wata_tips_13_6628949c:
     # voice "voice/ps3/s20/11/440700135.ogg"
     # extend " ......Boy, I do wonder what Oyashiro-sama is up to this year~\""
     voice "voice/ps3/s20/11/440700135.ogg"
-    extend " ......Boy, I do wonder what Oyashiro-sama is up to this year~\""
+    extend " ......Cara, eu me pergunto o que Oyashiro-sama está pensando este ano~\""
 
 # game/watanagashi/watanagashi_tips.rpy:1752
 translate brazilian_portuguese wata_tips_13_76b2fe88_3:
@@ -5382,13 +5382,13 @@ translate brazilian_portuguese wata_tips_13_76b2fe88_3:
 translate brazilian_portuguese wata_tips_13_78244a83:
 
     # n "A telephone ring cut through the heavy silence."
-    n "A telephone ring cut through the heavy silence."
+    n "Um toque telefônico cortou o pesado silêncio."
 
 # game/watanagashi/watanagashi_tips.rpy:1763
 translate brazilian_portuguese wata_tips_13_4214fa60:
 
     # extend " A staff member nearby snatched up the receiver."
-    extend " A staff member nearby snatched up the receiver."
+    extend " Um membro da equipe pegou o receptor."
 
 # game/watanagashi/watanagashi_tips.rpy:1764
 translate brazilian_portuguese wata_tips_13_bb933df6:
@@ -5406,7 +5406,7 @@ translate brazilian_portuguese wata_tips_13_7f21bdf2:
     # voice sustain
     # extend " It's Komiyama!!"
     voice sustain
-    extend " It's Komiyama!!"
+    extend " É Komiyama!!"
 
 # game/watanagashi/watanagashi_tips.rpy:1770
 translate brazilian_portuguese wata_tips_13_790e862b:
@@ -5414,7 +5414,7 @@ translate brazilian_portuguese wata_tips_13_790e862b:
     # voice "voice/ps3/s20/00/keijia44002.ogg"
     # extend " They have it!"
     voice "voice/ps3/s20/00/keijia44002.ogg"
-    extend " They have it!"
+    extend " Eles conseguiram!"
 
 # game/watanagashi/watanagashi_tips.rpy:1772
 translate brazilian_portuguese wata_tips_13_ba28f225:
@@ -5422,7 +5422,7 @@ translate brazilian_portuguese wata_tips_13_ba28f225:
     # voice "voice/ps3/s20/00/keijia44003.ogg"
     # extend " The dental clinic in Okinomiya fixed the wisdom tooth three years ago!!\""
     voice "voice/ps3/s20/00/keijia44003.ogg"
-    extend " The dental clinic in Okinomiya fixed the wisdom tooth three years ago!!\""
+    extend " A clínica dentária em Okinomiya retirou o dente do siso há três anos!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1775
 translate brazilian_portuguese wata_tips_13_77c4ff61:
@@ -5430,7 +5430,7 @@ translate brazilian_portuguese wata_tips_13_77c4ff61:
     # voice "voice/ps3/s20/11/440700136.ogg"
     # a_oishi "\"What about the records?!\""
     voice "voice/ps3/s20/11/440700136.ogg"
-    a_oishi "\"What about the records?!\""
+    a_oishi "\"E os registros?!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1777
 translate brazilian_portuguese wata_tips_13_51b31baa:
@@ -5438,7 +5438,7 @@ translate brazilian_portuguese wata_tips_13_51b31baa:
     # voice "voice/ps3/s20/00/keijia44004.ogg"
     # a_det "\"Complete with X-rays!\""
     voice "voice/ps3/s20/00/keijia44004.ogg"
-    a_det "\"Complete with X-rays!\""
+    a_det "\"Completos, com chapas de raio-X!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1779
 translate brazilian_portuguese wata_tips_13_76b2fe88_4:
@@ -5452,7 +5452,7 @@ translate brazilian_portuguese wata_tips_13_38f24fd2:
     # voice "voice/ps3/s20/11/440700137.ogg"
     # a_oishi "\"Well... I feel bad for waking up the dentist before dawn.{nw}"
     voice "voice/ps3/s20/11/440700137.ogg"
-    a_oishi "\"Well... I feel bad for waking up the dentist before dawn.{nw}"
+    a_oishi "\"Bem... Eu me sinto mal por ter acordado o dentista de madrugada.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1784
 translate brazilian_portuguese wata_tips_13_e61368b7:
@@ -5460,7 +5460,7 @@ translate brazilian_portuguese wata_tips_13_e61368b7:
     # voice sustain
     # extend " Kuma-chan, get out there as soon as you get the records from Komiyama-kun.\""
     voice sustain
-    extend " Kuma-chan, get out there as soon as you get the records from Komiyama-kun.\""
+    extend " Kuma-chan, vá para lá tão logo você tenha obtido os registros de Komiyama-kun.\""
 
 # game/watanagashi/watanagashi_tips.rpy:1786
 translate brazilian_portuguese wata_tips_13_ab93d80c:
@@ -5468,7 +5468,7 @@ translate brazilian_portuguese wata_tips_13_ab93d80c:
     # voice "voice/ps3/s20/19/443100024.ogg"
     # a_kuma "\"Will do!!\""
     voice "voice/ps3/s20/19/443100024.ogg"
-    a_kuma "\"Will do!!\""
+    a_kuma "\"Compreendido!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1788
 translate brazilian_portuguese wata_tips_13_263db6e6:
@@ -5478,7 +5478,7 @@ translate brazilian_portuguese wata_tips_13_263db6e6:
     # a_det "\"Oh, it's the Chief!!{nw}"
     nvl clear
     voice "voice/ps3/s20/00/keijia44005.ogg"
-    a_det "\"Oh, it's the Chief!!{nw}"
+    a_det "\"Oh, é o Chefe!!{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1792
 translate brazilian_portuguese wata_tips_13_30a99a59:
@@ -5486,7 +5486,7 @@ translate brazilian_portuguese wata_tips_13_30a99a59:
     # voice sustain
     # extend " Thank you for coming out at this hour!\""
     voice sustain
-    extend " Thank you for coming out at this hour!\""
+    extend " Obrigado por ter vindo a esta hora da noite!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1794
 translate brazilian_portuguese wata_tips_13_c0785727:
@@ -5494,7 +5494,7 @@ translate brazilian_portuguese wata_tips_13_c0785727:
     # voice "voice/ps3/s20/00/442700019.ogg"
     # a_takasugi "\"Ooishi-san, my apologies for my lateness.{nw}"
     voice "voice/ps3/s20/00/442700019.ogg"
-    a_takasugi "\"Ooishi-san, my apologies for my lateness.{nw}"
+    a_takasugi "\"Ooishi-san, me desculpe pela demora.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1796
 translate brazilian_portuguese wata_tips_13_ad362faf:
@@ -5502,7 +5502,7 @@ translate brazilian_portuguese wata_tips_13_ad362faf:
     # voice sustain
     # extend " What's the situation?!\""
     voice sustain
-    extend " What's the situation?!\""
+    extend " Qual é a situação?!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1799
 translate brazilian_portuguese wata_tips_13_e53c398f:
@@ -5510,7 +5510,7 @@ translate brazilian_portuguese wata_tips_13_e53c398f:
     # voice "voice/ps3/s20/11/440700138.ogg"
     # a_oishi "\"Hmm... Well, it's just getting good, you see.{nw}"
     voice "voice/ps3/s20/11/440700138.ogg"
-    a_oishi "\"Hmm... Well, it's just getting good, you see.{nw}"
+    a_oishi "\"Hmm... Bem, está começando a ficar bom, sabe.{nw}"
 
 # game/watanagashi/watanagashi_tips.rpy:1801
 translate brazilian_portuguese wata_tips_13_d7153e33:
@@ -5518,7 +5518,7 @@ translate brazilian_portuguese wata_tips_13_d7153e33:
     # voice sustain
     # extend " We're all getting fired up!"
     voice sustain
-    extend " We're all getting fired up!"
+    extend " Nós estamos queimando aqui!"
 
 # game/watanagashi/watanagashi_tips.rpy:1803
 translate brazilian_portuguese wata_tips_13_02361293:
@@ -5526,7 +5526,7 @@ translate brazilian_portuguese wata_tips_13_02361293:
     # voice "voice/ps3/s20/11/440700139.ogg"
     # extend " Waa~o{font=DejaVuSans.ttf}♪{/font}!!\""
     voice "voice/ps3/s20/11/440700139.ogg"
-    extend " Waa~o{font=DejaVuSans.ttf}♪{/font}!!\""
+    extend " Uaa~o{font=DejaVuSans.ttf}♪{/font}!!\""
 
 # game/watanagashi/watanagashi_tips.rpy:1805
 translate brazilian_portuguese wata_tips_13_76b2fe88_5:
