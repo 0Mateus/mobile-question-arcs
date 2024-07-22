@@ -1900,7 +1900,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog001_84149c8b:
     # voice "voice/ps3/s19/01/hr_kei34750.ogg"
     # a_keiichi "\"One with a bust size of at least 90."
     voice "voice/ps3/s19/01/hr_kei34750.ogg"
-    a_keiichi "\"One with a bust size of at least 90."
+    a_keiichi "\"Uma com o tamanho do busto de pelo menos 90."
 
 # game/watanagashi/watanagashi_vm.rpy:1039
 translate brazilian_portuguese vm_wata_007_00_n01_dialog001_1c560d08:
@@ -1908,7 +1908,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog001_1c560d08:
     # voice "voice/ps3/s19/01/hr_kei34760.ogg"
     # extend " Huge knockers that you're okay with me touching.\""
     voice "voice/ps3/s19/01/hr_kei34760.ogg"
-    extend " Huge knockers that you're okay with me touching.\""
+    extend " Com seios enormes que não se importaria se eu os tocasse.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1046
 translate brazilian_portuguese vm_wata_007_00_n01_dialog002_c2a722f7:
@@ -1916,7 +1916,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog002_c2a722f7:
     # voice "voice/ps3/s19/08/500800037.ogg"
     # a_tomitake "\"So you're that transfer student I've been hearing about—Keiichi Maebara-kun, right?"
     voice "voice/ps3/s19/08/500800037.ogg"
-    a_tomitake "\"So you're that transfer student I've been hearing about—Keiichi Maebara-kun, right?"
+    a_tomitake "\"Então você é aquele estudante transferido que eu tenho ouvido falar—Maebara Keiichi-kun, certo?"
 
 # game/watanagashi/watanagashi_vm.rpy:1048
 translate brazilian_portuguese vm_wata_007_00_n01_dialog002_3b73066e:
@@ -1924,13 +1924,13 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog002_3b73066e:
     # voice "voice/ps3/s19/08/500800038.ogg"
     # extend " You really did a bang-up job today! I'm impressed.\""
     voice "voice/ps3/s19/08/500800038.ogg"
-    extend " You really did a bang-up job today! I'm impressed.\""
+    extend " Você realmente fez um excelente trabalho hoje! Estou impressionado.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1055
 translate brazilian_portuguese vm_wata_007_00_n01_dialog003_c80f8ab9:
 
     # n "...I feel like I've seen this photographer guy before."
-    n "...I feel like I've seen this photographer guy before."
+    n "...Sinto como se já tivesse visto esse fotógrafo antes."
 
 # game/watanagashi/watanagashi_vm.rpy:1056
 translate brazilian_portuguese vm_wata_007_00_n01_dialog003_0738a245:
@@ -1938,31 +1938,31 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog003_0738a245:
     # nvl clear
     # a_keiichi "\"Umm... Have we met before?\""
     nvl clear
-    a_keiichi "\"Umm... Have we met before?\""
+    a_keiichi "\"Umm... Já nos encontramos antes?\""
 
 # game/watanagashi/watanagashi_vm.rpy:1064
 translate brazilian_portuguese vm_wata_007_00_n01_dialog004_fedc82ef:
 
     # a_tomitake "\"I'm glad you remembered."
-    a_tomitake "\"I'm glad you remembered."
+    a_tomitake "\"Fico feliz que você tenha se lembrado."
 
 # game/watanagashi/watanagashi_vm.rpy:1065
 translate brazilian_portuguese vm_wata_007_00_n01_dialog004_7a88d89d:
 
     # extend " We've passed many times on the road, Keiichi-kun."
-    extend " We've passed many times on the road, Keiichi-kun."
+    extend " Já nos cruzamos muitas vezes na estrada, Keiichi-kun."
 
 # game/watanagashi/watanagashi_vm.rpy:1066
 translate brazilian_portuguese vm_wata_007_00_n01_dialog004_08fdc828:
 
     # extend " I'm Tomitake."
-    extend " I'm Tomitake."
+    extend " Sou Tomitake."
 
 # game/watanagashi/watanagashi_vm.rpy:1067
 translate brazilian_portuguese vm_wata_007_00_n01_dialog004_a43817cf:
 
     # extend " I'm a freelancing photographer from Tokyo.\""
-    extend " I'm a freelancing photographer from Tokyo.\""
+    extend " Sou um fotógrafo freelancer de Tóquio.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1073
 translate brazilian_portuguese vm_wata_007_00_n01_dialog005_839f5052:
@@ -1970,7 +1970,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog005_839f5052:
     # voice "voice/ps3/s19/09/500900004.ogg"
     # a_woman2 "\"Then do you recognize me...?\""
     voice "voice/ps3/s19/09/500900004.ogg"
-    a_woman2 "\"Then do you recognize me...?\""
+    a_woman2 "\"Você também me reconhece...?\""
 
 # game/watanagashi/watanagashi_vm.rpy:1080
 translate brazilian_portuguese vm_wata_007_00_n01_dialog006_d7e733e0:
@@ -1978,7 +1978,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog006_d7e733e0:
     # voice "voice/ps3/s19/08/500800042.ogg"
     # a_tomitake "\"I've heard about them, but this is the first time I've actually seen a pair of identical twins."
     voice "voice/ps3/s19/08/500800042.ogg"
-    a_tomitake "\"I've heard about them, but this is the first time I've actually seen a pair of identical twins."
+    a_tomitake "\"Eu já ouvi a respeito deles, mas esta é a primeira vez que eu realmente vejo um par de gêmeos idênticos."
 
 # game/watanagashi/watanagashi_vm.rpy:1082
 translate brazilian_portuguese vm_wata_007_00_n01_dialog006_39e17f91:
@@ -1986,7 +1986,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog006_39e17f91:
     # voice "voice/ps3/s19/08/500800043.ogg"
     # extend " You really do look exactly alike!\""
     voice "voice/ps3/s19/08/500800043.ogg"
-    extend " You really do look exactly alike!\""
+    extend " Vocês parecem exatamente iguais!\""
 
 # game/watanagashi/watanagashi_vm.rpy:1089
 translate brazilian_portuguese vm_wata_007_00_n01_dialog007_9f892903:
@@ -1994,7 +1994,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog007_9f892903:
     # voice "voice/ps3/s19/09/500900031.ogg"
     # extend " They believed that interaction with the lower world would sully their souls."
     voice "voice/ps3/s19/09/500900031.ogg"
-    extend " They believed that interaction with the lower world would sully their souls."
+    extend " Eles acreditavam que a interação com o mundo inferior iria macular suas almas."
 
 # game/watanagashi/watanagashi_vm.rpy:1091
 translate brazilian_portuguese vm_wata_007_00_n01_dialog007_4b421729:
@@ -2002,7 +2002,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog007_4b421729:
     # voice "voice/ps3/s19/09/500900032.ogg"
     # a_miyo "......So everyone believed that if one from the lower world came to the village, they would be sullied and suffer the wrath of Oyashiro-sama. Apparently that kept everyone away.\""
     voice "voice/ps3/s19/09/500900032.ogg"
-    a_miyo "......So everyone believed that if one from the lower world came to the village, they would be sullied and suffer the wrath of Oyashiro-sama. Apparently that kept everyone away.\""
+    a_miyo "......Então, todos acreditavam que, se alguém do mundo inferior viesse ao povoado, eles ficariam maculados e sofreriam a ira de Oyashiro-sama. Aparentemente, isso mantinha todos longe.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1098
 translate brazilian_portuguese vm_wata_007_00_n01_dialog008_285110a4:
@@ -2010,7 +2010,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog008_285110a4:
     # voice "voice/ps3/s19/08/500800072.ogg"
     # a_tomitake "\"Villages that hate outsiders come up all the time in Kindaichi novels."
     voice "voice/ps3/s19/08/500800072.ogg"
-    a_tomitake "\"Villages that hate outsiders come up all the time in Kindaichi novels."
+    a_tomitake "\"Vilarejos que odeiam forasteiros aparecem o tempo todo nos romances de Kindaichi."
 
 # game/watanagashi/watanagashi_vm.rpy:1100
 translate brazilian_portuguese vm_wata_007_00_n01_dialog008_a22b98ca:
@@ -2018,7 +2018,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog008_a22b98ca:
     # voice "voice/ps3/s19/08/500800073.ogg"
     # extend " This was once a classic example of a xenophobic village.\""
     voice "voice/ps3/s19/08/500800073.ogg"
-    extend " This was once a classic example of a xenophobic village.\""
+    extend " Este era, uma vez, um costumeiro povoado de xenófobos.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1107
 translate brazilian_portuguese vm_wata_007_00_n01_dialog009_2e751942:
@@ -2026,7 +2026,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog009_2e751942:
     # voice "voice/ps2/06/500600486.ogg"
     # a_shion "\"He had a fight with a subordinate and was beaten to death with a pickaxe. His limbs and head were torn off, and the remains disposed of.\""
     voice "voice/ps2/06/500600486.ogg"
-    a_shion "\"He had a fight with a subordinate and was beaten to death with a pickaxe. His limbs and head were torn off, and the remains disposed of.\""
+    a_shion "\"Ele teve uma briga com um subordinado e foi espancado até a morte com uma picareta. Seus membros e cabeça foram arrancados e os restos mortais foram descartados.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1109
 translate brazilian_portuguese vm_wata_007_00_n01_dialog009_76b2fe88:
@@ -2040,7 +2040,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog010_d34a1b77:
     # voice "voice/ps3/s19/08/500800078.ogg"
     # a_tomitake "\"One of those dismemberment homicides."
     voice "voice/ps3/s19/08/500800078.ogg"
-    a_tomitake "\"One of those dismemberment homicides."
+    a_tomitake "\"Esse foi um daqueles homicídios por desmembramento."
 
 # game/watanagashi/watanagashi_vm.rpy:1118
 translate brazilian_portuguese vm_wata_007_00_n01_dialog010_8f539c8f:
@@ -2048,7 +2048,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog010_8f539c8f:
     # voice "voice/ps2/08/500800079.ogg"
     # extend " They were all the rage at one point.\""
     voice "voice/ps2/08/500800079.ogg"
-    extend " They were all the rage at one point.\""
+    extend " Eles eram frequentes há muito tempo.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1125
 translate brazilian_portuguese vm_wata_007_00_n01_dialog011_0cde8e00:
@@ -2056,7 +2056,7 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog011_0cde8e00:
     # voice "voice/ps3/s19/08/500800106.ogg"
     # a_tomitake "\"And the next year... what was it, the dam proponent's sister-in-law?"
     voice "voice/ps3/s19/08/500800106.ogg"
-    a_tomitake "\"And the next year... what was it, the dam proponent's sister-in-law?"
+    a_tomitake "\"E no ano seguinte... o que foi mesmo, a cunhada do defensor da represa?"
 
 # game/watanagashi/watanagashi_vm.rpy:1127
 translate brazilian_portuguese vm_wata_007_00_n01_dialog011_160368ae:
@@ -2064,13 +2064,13 @@ translate brazilian_portuguese vm_wata_007_00_n01_dialog011_160368ae:
     # voice "voice/ps3/s19/08/500800107.ogg"
     # extend " She was killed."
     voice "voice/ps3/s19/08/500800107.ogg"
-    extend " She was killed."
+    extend " Ela foi assassinada."
 
 # game/watanagashi/watanagashi_vm.rpy:1129
 translate brazilian_portuguese vm_wata_007_00_n01_dialog011_18286dd1:
 
     # extend " ......And the same way, someone disa—\""
-    extend " ......And the same way, someone disa—\""
+    extend " ......E dá mesma forma, alguém desa—\""
 
 # game/watanagashi/watanagashi_vm.rpy:1140
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog001_9fc8c318:
@@ -2078,7 +2078,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog001_9fc8c318:
     # voice "voice/ps3/s19/01/hr_kei34750.ogg"
     # a_keiichi "\"One with a model class body line,{vw}{nw}"
     voice "voice/ps3/s19/01/hr_kei34750.ogg"
-    a_keiichi "\"One with a model class body line,{vw}{nw}"
+    a_keiichi "\"Uma bem proporcionada,{vw}{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:1142
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog001_8abcb876:
@@ -2086,7 +2086,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog001_8abcb876:
     # voice "voice/ps3/s19/01/hr_kei34760.ogg"
     # extend " the looks of an innocent young idol, and the patience to see to my every whim.\""
     voice "voice/ps3/s19/01/hr_kei34760.ogg"
-    extend " the looks of an innocent young idol, and the patience to see to my every whim.\""
+    extend " e com a aparência de uma IDOL, e que faça tudo o que eu disser.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1149
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog002_35993391:
@@ -2094,7 +2094,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog002_35993391:
     # voice "voice/ps3/s19/08/500800037.ogg"
     # a_tomitake "\"Hey there, Keiichi-kun."
     voice "voice/ps3/s19/08/500800037.ogg"
-    a_tomitake "\"Hey there, Keiichi-kun."
+    a_tomitake "\"Olá, Keiichi-kun."
 
 # game/watanagashi/watanagashi_vm.rpy:1151
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog002_3b73066e:
@@ -2102,7 +2102,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog002_3b73066e:
     # voice "voice/ps3/s19/08/500800038.ogg"
     # extend " You really did a bang-up job today! I'm impressed.\""
     voice "voice/ps3/s19/08/500800038.ogg"
-    extend " You really did a bang-up job today! I'm impressed.\""
+    extend " Você realmente fez um ótimo trabalho hoje! Estou impressionado.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1158
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog003_49681dcd:
@@ -2110,7 +2110,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog003_49681dcd:
     # voice "voice/ps3/s19/01/hr_kei35230.ogg"
     # a_keiichi "\"It was nothing... Do you know Shion, too?\""
     voice "voice/ps3/s19/01/hr_kei35230.ogg"
-    a_keiichi "\"It was nothing... Do you know Shion, too?\""
+    a_keiichi "\"Não foi nada... Você também conhece Shion?\""
 
 # game/watanagashi/watanagashi_vm.rpy:1165
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_12215b88:
@@ -2118,7 +2118,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_12215b88:
     # voice "voice/ps3/s19/08/500800039.ogg"
     # a_tomitake "\"Ha ha ha! Indeed I do."
     voice "voice/ps3/s19/08/500800039.ogg"
-    a_tomitake "\"Ha ha ha! Indeed I do."
+    a_tomitake "\"Ha ha ha! Realmente."
 
 # game/watanagashi/watanagashi_vm.rpy:1167
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_4416a839:
@@ -2126,7 +2126,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_4416a839:
     # voice "voice/ps3/s19/08/500800040.ogg"
     # extend " I come every year, after all."
     voice "voice/ps3/s19/08/500800040.ogg"
-    extend " I come every year, after all."
+    extend " Afinal, eu venho todos os anos."
 
 # game/watanagashi/watanagashi_vm.rpy:1169
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_339309c1:
@@ -2134,7 +2134,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_339309c1:
     # voice "voice/ps3/s19/08/500800041.ogg"
     # extend " Still, if they changed hair styles, I still wouldn't be able to tell them apart.\""
     voice "voice/ps3/s19/08/500800041.ogg"
-    extend " Still, if they changed hair styles, I still wouldn't be able to tell them apart.\""
+    extend " Ainda assim, se elas trocassem de penteado, eu não conseguiria diferenciar uma da outra.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1173
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_856b6551:
@@ -2142,7 +2142,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_856b6551:
     # voice "voice/ps3/s19/03/500300801.ogg"
     # a_mion "\"Don't lump me in with someone like her.\""
     voice "voice/ps3/s19/03/500300801.ogg"
-    a_mion "\"Don't lump me in with someone like her.\""
+    a_mion "\"Não me compare com alguém como ela.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1175
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog004_b27ce7b4:
@@ -2158,7 +2158,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog005_0b9febf3:
     # voice "voice/ps3/s19/09/500900004.ogg"
     # a_woman2 "\"Good evening. Do you recognize me...?\""
     voice "voice/ps3/s19/09/500900004.ogg"
-    a_woman2 "\"Good evening. Do you recognize me...?\""
+    a_woman2 "\"Boa noite. Você se lembra de mim...?\""
 
 # game/watanagashi/watanagashi_vm.rpy:1189
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog006_ee5942ec:
@@ -2166,7 +2166,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog006_ee5942ec:
     # voice "voice/ps3/s19/08/500800042.ogg"
     # a_tomitake "\"Wow, I'd heard you two were identical twins, but it really is quite something to see you side-by-side."
     voice "voice/ps3/s19/08/500800042.ogg"
-    a_tomitake "\"Wow, I'd heard you two were identical twins, but it really is quite something to see you side-by-side."
+    a_tomitake "\"Uau, eu já tinha ouvido falar que vocês duas eram gêmeas identicas, mas realmente é surpreendente olhar uma ao lado da outra."
 
 # game/watanagashi/watanagashi_vm.rpy:1191
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog006_39e17f91:
@@ -2174,7 +2174,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog006_39e17f91:
     # voice "voice/ps3/s19/08/500800043.ogg"
     # extend " You really do look exactly alike!\""
     voice "voice/ps3/s19/08/500800043.ogg"
-    extend " You really do look exactly alike!\""
+    extend " Vocês parecem exatamente iguais!\""
 
 # game/watanagashi/watanagashi_vm.rpy:1198
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog007_9f892903:
@@ -2182,7 +2182,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog007_9f892903:
     # voice "voice/ps3/s19/09/500900031.ogg"
     # extend " They believed that interaction with the lower world would sully their souls."
     voice "voice/ps3/s19/09/500900031.ogg"
-    extend " They believed that interaction with the lower world would sully their souls."
+    extend " Eles acreditavam que a interação com o mundo inferior iria macular suas almas."
 
 # game/watanagashi/watanagashi_vm.rpy:1200
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog007_4b421729:
@@ -2190,7 +2190,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog007_4b421729:
     # voice "voice/ps3/s19/09/500900032.ogg"
     # a_miyo "......So everyone believed that if one from the lower world came to the village, they would be sullied and suffer the wrath of Oyashiro-sama. Apparently that kept everyone away.\""
     voice "voice/ps3/s19/09/500900032.ogg"
-    a_miyo "......So everyone believed that if one from the lower world came to the village, they would be sullied and suffer the wrath of Oyashiro-sama. Apparently that kept everyone away.\""
+    a_miyo "......Então, todos acreditavam que, se alguém do mundo inferior viesse ao povoado, eles ficariam maculados e sofreriam a ira de Oyashiro-sama. Aparentemente, isso mantinha todos longe.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1207
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog008_1ae2ba72:
@@ -2198,7 +2198,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog008_1ae2ba72:
     # voice "voice/ps3/s19/08/500800072.ogg"
     # a_tomitake "\"Villages that hate outsiders come up all the time in mystery novels."
     voice "voice/ps3/s19/08/500800072.ogg"
-    a_tomitake "\"Villages that hate outsiders come up all the time in mystery novels."
+    a_tomitake "\"Vilarejos que odeiam forasteiros aparecem o tempo todo nos romances de mistério."
 
 # game/watanagashi/watanagashi_vm.rpy:1209
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog008_a22b98ca:
@@ -2206,7 +2206,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog008_a22b98ca:
     # voice "voice/ps3/s19/08/500800073.ogg"
     # extend " This was once a classic example of a xenophobic village.\""
     voice "voice/ps3/s19/08/500800073.ogg"
-    extend " This was once a classic example of a xenophobic village.\""
+    extend " Este era, uma vez, um costumeiro povoado de xenófobos.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1220
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog010_3639fcae:
@@ -2214,7 +2214,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog010_3639fcae:
     # voice "voice/ps3/s19/08/500800078.ogg"
     # a_tomitake "\"The construction manager was murdered and dismembered.\""
     voice "voice/ps3/s19/08/500800078.ogg"
-    a_tomitake "\"The construction manager was murdered and dismembered.\""
+    a_tomitake "\"O gerente da contrução foi assassinado e desmembrado.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1227
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog011_0cde8e00:
@@ -2222,7 +2222,7 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog011_0cde8e00:
     # voice "voice/ps3/s19/08/500800106.ogg"
     # a_tomitake "\"And the next year... what was it, the dam proponent's sister-in-law?"
     voice "voice/ps3/s19/08/500800106.ogg"
-    a_tomitake "\"And the next year... what was it, the dam proponent's sister-in-law?"
+    a_tomitake "\"E no ano seguinte... o que foi mesmo, a cunhada do defensor da represa?"
 
 # game/watanagashi/watanagashi_vm.rpy:1229
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog011_111f848b:
@@ -2230,13 +2230,13 @@ translate brazilian_portuguese vm_wata_007_0x_n01_dialog011_111f848b:
     # voice "voice/ps3/s19/08/500800107.ogg"
     # extend " She was killed.\""
     voice "voice/ps3/s19/08/500800107.ogg"
-    extend " She was killed.\""
+    extend " Ela foi assassinada.\""
 
 # game/watanagashi/watanagashi_vm.rpy:1231
 translate brazilian_portuguese vm_wata_007_0x_n01_dialog011_bb791e3a:
 
     # n "So... at that time, someone else... 'vanished'?"
-    n "So... at that time, someone else... 'vanished'?"
+    n "Então... nessa época, alguém... 'desapareceu'?"
 
 # game/watanagashi/watanagashi_vm.rpy:1242
 translate brazilian_portuguese vm_wata_008_00_n01_dialog001_199f8f1e:
@@ -6086,7 +6086,7 @@ translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_3b5eb868:
     # voice "voice/ps3/s20/11/440700119.ogg"
     # nvl_extend "I won't tolerate anything less than your best!!{nw}"
     voice "voice/ps3/s20/11/440700119.ogg"
-    nvl_extend "I won't tolerate anything less than your best!!{nw}"
+    nvl_extend "Eu não espero nada menos do que o bom trabalho de vocês!!{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3216
 translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_2abad16e:
@@ -6094,7 +6094,7 @@ translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_2abad16e:
     # voice sustain
     # extend " Clench those cheeks!!"
     voice sustain
-    extend " Clench those cheeks!!"
+    extend " Apertem seus cintos!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3218
 translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_e244d76a:
@@ -6102,7 +6102,7 @@ translate brazilian_portuguese vm_wata_tips_10_00_n01_dialog001_e244d76a:
     # voice "voice/ps3/s20/11/440700120.ogg"
     # extend " We're gonna rip all the skin off the ghost of Oyashiro-sama's curse!!!\""
     voice "voice/ps3/s20/11/440700120.ogg"
-    extend " We're gonna rip all the skin off the ghost of Oyashiro-sama's curse!!!\""
+    extend " Nós vamos rasgar fora toda a pele da maldição de Oyashiro-sama!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3230
 translate brazilian_portuguese vm_wata_tips_10_0x_n01_dialog001_f79b8cf3:
@@ -6110,7 +6110,7 @@ translate brazilian_portuguese vm_wata_tips_10_0x_n01_dialog001_f79b8cf3:
     # voice "voice/ps3/s20/11/440700119.ogg"
     # nvl_extend "I won't tolerate anything less than your best!! Clench those cheeks!!"
     voice "voice/ps3/s20/11/440700119.ogg"
-    nvl_extend "I won't tolerate anything less than your best!! Clench those cheeks!!"
+    nvl_extend "Eu não espero nada menos do que o bom trabalho de vocês!! Apertem seus cintos!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3232
 translate brazilian_portuguese vm_wata_tips_10_0x_n01_dialog001_e244d76a:
@@ -6118,7 +6118,7 @@ translate brazilian_portuguese vm_wata_tips_10_0x_n01_dialog001_e244d76a:
     # voice "voice/ps3/s20/11/440700120.ogg"
     # extend " We're gonna rip all the skin off the ghost of Oyashiro-sama's curse!!!\""
     voice "voice/ps3/s20/11/440700120.ogg"
-    extend " We're gonna rip all the skin off the ghost of Oyashiro-sama's curse!!!\""
+    extend " Nós vamos rasgar fora toda a pele da maldição de Oyashiro-sama!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3244
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog001_08e2ea47:
@@ -6126,7 +6126,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog001_08e2ea47:
     # voice "voice/ps3/s20/19/443100018.ogg"
     # a_kuma "\"Could they have been... dismembered...?!\""
     voice "voice/ps3/s20/19/443100018.ogg"
-    a_kuma "\"Could they have been... dismembered...?!\""
+    a_kuma "\"Poderia ser que ele... foi desmembrado...?!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3251
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_98622c31:
@@ -6134,7 +6134,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_98622c31:
     # voice "voice/ps3/s20/11/440700124.ogg"
     # a_oishi "\"Completely blackened, it seems.{nw}"
     voice "voice/ps3/s20/11/440700124.ogg"
-    a_oishi "\"Completely blackened, it seems.{nw}"
+    a_oishi "\"Completamente torrado, é o que parece.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3253
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_04ffb4a2:
@@ -6142,7 +6142,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_04ffb4a2:
     # voice sustain
     # extend " Probably smells terrible, too.{nw}"
     voice sustain
-    extend " Probably smells terrible, too.{nw}"
+    extend " Provavelmente deve cheirar bem mal, também.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3255
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_660b8d3d:
@@ -6150,7 +6150,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog002_660b8d3d:
     # voice sustain
     # extend " What a shame it is to be Gifu-san.\""
     voice sustain
-    extend " What a shame it is to be Gifu-san.\""
+    extend " O coitado foi largado em Gifu.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3262
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog003_1fe31cfb:
@@ -6158,7 +6158,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog003_1fe31cfb:
     # voice "voice/ps3/s20/11/440700126.ogg"
     # extend " ...Sorry!"
     voice "voice/ps3/s20/11/440700126.ogg"
-    extend " ...Sorry!"
+    extend " ...Me desculpem!"
 
 # game/watanagashi/watanagashi_vm.rpy:3264
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog003_39428eb6:
@@ -6166,7 +6166,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog003_39428eb6:
     # voice "voice/ps3/s20/11/440700127.ogg"
     # extend " Could someone go buy me two or so boxes of ultra-mild?\""
     voice "voice/ps3/s20/11/440700127.ogg"
-    extend " Could someone go buy me two or so boxes of ultra-mild?\""
+    extend " Alguém poderia me comprar dois maços de ultra-suave?\""
 
 # game/watanagashi/watanagashi_vm.rpy:3271
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog004_b5b6bba5:
@@ -6174,7 +6174,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog004_b5b6bba5:
     # voice "voice/ps3/s20/19/443100020.ogg"
     # a_kuma "\"......We did an excellent job finding it this year.{nw}"
     voice "voice/ps3/s20/19/443100020.ogg"
-    a_kuma "\"......We did an excellent job finding it this year.{nw}"
+    a_kuma "\"......Nós fizemos um excelente trabalho encontrando isso este ano.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3273
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog004_05a0bd45:
@@ -6182,7 +6182,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog004_05a0bd45:
     # voice sustain
     # extend " ...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\""
     voice sustain
-    extend " ...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\""
+    extend " ...Pode ser que as pessoas que desapareceram nos anos anteriores também tenham sido levadas para fora da província.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3280
 translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog005_b5da8baa:
@@ -6190,7 +6190,7 @@ translate brazilian_portuguese vm_wata_tips_13_00_n01_dialog005_b5da8baa:
     # voice "voice/ps3/s20/19/443100017.ogg"
     # extend " I'll head straight for Gifu!!\""
     voice "voice/ps3/s20/19/443100017.ogg"
-    extend " I'll head straight for Gifu!!\""
+    extend " Planejo ir diretamente para Gifu!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3292
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog001_178c35c8:
@@ -6198,7 +6198,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog001_178c35c8:
     # voice "voice/ps3/s20/19/443100018.ogg"
     # a_kuma "\"You don't mean... like 4 years ago...?!\""
     voice "voice/ps3/s20/19/443100018.ogg"
-    a_kuma "\"You don't mean... like 4 years ago...?!\""
+    a_kuma "\"Você quer dizer... como há 4 anos atrás...?!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3299
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog002_38f4faca:
@@ -6206,7 +6206,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog002_38f4faca:
     # voice "voice/ps3/s20/11/440700124.ogg"
     # a_oishi "\"Completely blackened, it seems. I feel sorry for the guys on the scene.\""
     voice "voice/ps3/s20/11/440700124.ogg"
-    a_oishi "\"Completely blackened, it seems. I feel sorry for the guys on the scene.\""
+    a_oishi "\"Completamente torrado, é o que parece. Eu sinto muito por terem que ver aquilo.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3306
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog003_1fe31cfb:
@@ -6214,7 +6214,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog003_1fe31cfb:
     # voice "voice/ps3/s20/11/440700126.ogg"
     # extend " ...Sorry!"
     voice "voice/ps3/s20/11/440700126.ogg"
-    extend " ...Sorry!"
+    extend " ...Me desculpem!"
 
 # game/watanagashi/watanagashi_vm.rpy:3308
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog003_b8d69cd0:
@@ -6222,7 +6222,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog003_b8d69cd0:
     # voice "voice/ps3/s20/11/440700127.ogg"
     # extend " Could someone go buy me two or so boxes of strong cigarettes?\""
     voice "voice/ps3/s20/11/440700127.ogg"
-    extend " Could someone go buy me two or so boxes of strong cigarettes?\""
+    extend " Alguém poderia me comprar dois maços de cigarros fortes?\""
 
 # game/watanagashi/watanagashi_vm.rpy:3315
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog004_ad117490:
@@ -6230,7 +6230,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog004_ad117490:
     # voice "voice/ps3/s20/19/443100020.ogg"
     # a_kuma "\"......We did an excellent job finding it this year. ...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\""
     voice "voice/ps3/s20/19/443100020.ogg"
-    a_kuma "\"......We did an excellent job finding it this year. ...It could be that the people who disappeared in past years were scattered outside the prefecture like this too.\""
+    a_kuma "\"......Nós fizemos um excelente trabalho encontrando isso este ano. ...Pode ser que as pessoas que desapareceram nos anos anteriores também tenham sido levadas para fora da província.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3322
 translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog005_9c0b8292:
@@ -6238,7 +6238,7 @@ translate brazilian_portuguese vm_wata_tips_13_0x_n01_dialog005_9c0b8292:
     # voice "voice/ps3/s20/19/443100017.ogg"
     # extend " I'll head straight for the burned body's location!!\""
     voice "voice/ps3/s20/19/443100017.ogg"
-    extend " I'll head straight for the burned body's location!!\""
+    extend " Vou direto para o local do corpo queimado!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3334
 translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_7db3139d:
