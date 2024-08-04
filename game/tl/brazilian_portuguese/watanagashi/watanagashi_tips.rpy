@@ -5538,7 +5538,7 @@ translate brazilian_portuguese wata_tips_13_76b2fe88_5:
 translate brazilian_portuguese wata_tips_14_d99762b9:
 
     # centered "{space=14}— About The Significance of Watanagashi —"
-    centered "{space=14}— About The Significance of Watanagashi —"
+    centered "{space=14}— O Significado do Watanagashi —"
 
 # game/watanagashi/watanagashi_tips.rpy:1828
 translate brazilian_portuguese wata_tips_14_76b2fe88:
@@ -5550,13 +5550,13 @@ translate brazilian_portuguese wata_tips_14_76b2fe88:
 translate brazilian_portuguese wata_tips_14_eef99207:
 
     # n "Watanagashi—a festival of hunting for sacrifices and feasting on them."
-    n "Watanagashi—a festival of hunting for sacrifices and feasting on them."
+    n "O Significado do Watanagashi—um festival para caçar sacrifícios e devorá-los."
 
 # game/watanagashi/watanagashi_tips.rpy:1832
 translate brazilian_portuguese wata_tips_14_6bbdd96d:
 
     # n "While the festival itself is remarkable, it has come to be considered a form of entertainment as well."
-    n "While the festival itself is remarkable, it has come to be considered a form of entertainment as well."
+    n "Enquanto o festival em si mesmo é notável, ele também pode ser considerado uma forma de entretenimento."
 
 # game/watanagashi/watanagashi_tips.rpy:1833
 translate brazilian_portuguese wata_tips_14_2dc4098d:
@@ -5568,7 +5568,7 @@ translate brazilian_portuguese wata_tips_14_2dc4098d:
 translate brazilian_portuguese wata_tips_14_2378b1ee:
 
     # n "(Perhaps it was because of the disparity between being both an egregious act and a form of entertainment that the perpetrators began to believe themselves transcendent.)"
-    n "(Perhaps it was because of the disparity between being both an egregious act and a form of entertainment that the perpetrators began to believe themselves transcendent.)"
+    n "(Talvez por causa da disparidade entre seus atos terríveis e, ao mesmo tempo, uma forma de entretenimento, os autores começaram a ver a si mesmos como transcendentes à humanidade.)"
 
 # game/watanagashi/watanagashi_tips.rpy:1835
 translate brazilian_portuguese wata_tips_14_76b2fe88_1:
@@ -5580,19 +5580,19 @@ translate brazilian_portuguese wata_tips_14_76b2fe88_1:
 translate brazilian_portuguese wata_tips_14_6c6f4324:
 
     # n "However, I found some very interesting literature that appears to raise questions about that explanation."
-    n "However, I found some very interesting literature that appears to raise questions about that explanation."
+    n "No entanto, eu encontrei uma literatura muito interessante que parece levantar dúvidas sobre essa explicação."
 
 # game/watanagashi/watanagashi_tips.rpy:1839
 translate brazilian_portuguese wata_tips_14_d3dffc10:
 
     # n "As with most oral traditions, it's not easily swallowed, but it does mention a few things that spark my interest."
-    n "As with most oral traditions, it's not easily swallowed, but it does mention a few things that spark my interest."
+    n "Como a maioria das tradições orais, não pode ser facilmente engolido, mas vale mencionar algumas coisas que despertaram meu interesse."
 
 # game/watanagashi/watanagashi_tips.rpy:1840
 translate brazilian_portuguese wata_tips_14_fdf9659e:
 
     # n "According to this literature, even the residents of Onigafuchi Village felt fear towards this ritual."
-    n "According to this literature, even the residents of Onigafuchi Village felt fear towards this ritual."
+    n "De acordo com esta literatura, até mesmo os moradores da vila de Onigafuchi sentiam medo em relação a este ritual."
 
 # game/watanagashi/watanagashi_tips.rpy:1841
 translate brazilian_portuguese wata_tips_14_2dc4098d_1:
@@ -5604,7 +5604,7 @@ translate brazilian_portuguese wata_tips_14_2dc4098d_1:
 translate brazilian_portuguese wata_tips_14_24cfffea:
 
     # n "Women and children would grow pale and tremble, and those of weak constitution would vomit—but it said that the feast (the dissection) was an obligatory viewing."
-    n "Women and children would grow pale and tremble, and those of weak constitution would vomit—but it said that the feast (the dissection) was an obligatory viewing."
+    n "Mulheres e crianças ficavam pálidas e trêmulas, e os indivíduos de constituição fraca chegavam a vomitar—mas dizem que a festa (a dissecação) era uma visão obrigatória."
 
 # game/watanagashi/watanagashi_tips.rpy:1843
 translate brazilian_portuguese wata_tips_14_76b2fe88_2:
@@ -5616,13 +5616,13 @@ translate brazilian_portuguese wata_tips_14_76b2fe88_2:
 translate brazilian_portuguese wata_tips_14_2cd47151:
 
     # n "This is an extremely curious tale."
-    n "This is an extremely curious tale."
+    n "Este é um conto extremamente curioso."
 
 # game/watanagashi/watanagashi_tips.rpy:1847
 translate brazilian_portuguese wata_tips_14_998ba8d9:
 
     # n "Until now, I'd thought that the residents of Onigafuchi Village were fascinated by the Watanagashi ritual."
-    n "Until now, I'd thought that the residents of Onigafuchi Village were fascinated by the Watanagashi ritual."
+    n "Até agora, eu pensava que os moradores da vila de Onigafuchi tinham fascínio pelo ritual do Watanagashi."
 
 # game/watanagashi/watanagashi_tips.rpy:1848
 translate brazilian_portuguese wata_tips_14_2dc4098d_2:
@@ -5634,13 +5634,13 @@ translate brazilian_portuguese wata_tips_14_2dc4098d_2:
 translate brazilian_portuguese wata_tips_14_12142916:
 
     # n "They looked down on those vulgar, barbaric humans, cut them open like fish,"
-    n "They looked down on those vulgar, barbaric humans, cut them open like fish,"
+    n "Eles olhavam altivamente para baixo, sobre os seres humanos bárbaros e vulgares, mantendo-os abertos como peixes,"
 
 # game/watanagashi/watanagashi_tips.rpy:1850
 translate brazilian_portuguese wata_tips_14_8b82fd71:
 
     # extend " and by eating them, they reaffirmed their own holiness... at least, that's what I thought."
-    extend " and by eating them, they reaffirmed their own holiness... at least, that's what I thought."
+    extend " e através do ato de comê-los, eles reafirmavam a sua própria santidade... pelo menos, isso é o que eu pensava."
 
 # game/watanagashi/watanagashi_tips.rpy:1851
 translate brazilian_portuguese wata_tips_14_76b2fe88_3:
@@ -5652,7 +5652,7 @@ translate brazilian_portuguese wata_tips_14_76b2fe88_3:
 translate brazilian_portuguese wata_tips_14_81614050:
 
     # n "However, if what the villagers gained from this ritual was not fascination, but fear, then that would suggest the ritual meant something entirely different."
-    n "However, if what the villagers gained from this ritual was not fascination, but fear, then that would suggest the ritual meant something entirely different."
+    n "No entanto, se o que os moradores da vila sentiam a partir deste ritual não era fascínio, mas medo, então isso sugeria que o ritual significava algo completamente diferente."
 
 # game/watanagashi/watanagashi_tips.rpy:1855
 translate brazilian_portuguese wata_tips_14_2dc4098d_3:
@@ -5664,7 +5664,7 @@ translate brazilian_portuguese wata_tips_14_2dc4098d_3:
 translate brazilian_portuguese wata_tips_14_8c758fbb:
 
     # n "There's the possibility that the executions were meant as warnings, encouraging the villagers to strictly follow religious precepts created by those with power for their own convenience."
-    n "There's the possibility that the executions were meant as warnings, encouraging the villagers to strictly follow religious precepts created by those with power for their own convenience."
+    n "Existe a possibilidade de que as execuções fossem feitas como uma advertência, incentivando os moradores a seguir rigorosamente os preceitos religiosos criados por aqueles com poder para sua própria conveniência."
 
 # game/watanagashi/watanagashi_tips.rpy:1857
 translate brazilian_portuguese wata_tips_14_76b2fe88_4:
@@ -5676,13 +5676,13 @@ translate brazilian_portuguese wata_tips_14_76b2fe88_4:
 translate brazilian_portuguese wata_tips_14_128963c3:
 
     # n "Onigafuchi Village has been effectively ruled over by three old families, called the Three Families."
-    n "Onigafuchi Village has been effectively ruled over by three old families, called the Three Families."
+    n "A vila de Onigafuchi era efetivamente governada por três famílias antigas, chamadas de As Três Famílias."
 
 # game/watanagashi/watanagashi_tips.rpy:1861
 translate brazilian_portuguese wata_tips_14_e0c8a9db:
 
     # n "Without investigating the Three Families, I probably won't get any closer to the truth of Onigafuchi Village."
-    n "Without investigating the Three Families, I probably won't get any closer to the truth of Onigafuchi Village."
+    n "Sem investigar As Três Famílias, eu provavelmente não vou conseguir chegar mais perto da verdade sobre a vila de Onigafuchi."
 
 # game/watanagashi/watanagashi_tips.rpy:1862
 translate brazilian_portuguese wata_tips_14_76b2fe88_5:
@@ -5694,7 +5694,7 @@ translate brazilian_portuguese wata_tips_14_76b2fe88_5:
 translate brazilian_portuguese wata_tips_15_f6eb94fa:
 
     # centered "{space=14}— About The Three Families —"
-    centered "{space=14}— About The Three Families —"
+    centered "{space=14}— As Três Famílias —"
 
 # game/watanagashi/watanagashi_tips.rpy:1882
 translate brazilian_portuguese wata_tips_15_76b2fe88:
@@ -5706,7 +5706,7 @@ translate brazilian_portuguese wata_tips_15_76b2fe88:
 translate brazilian_portuguese wata_tips_15_14e5c54f:
 
     # n "\"The Three Families\" refers to the three old families who effectively came to rule Onigafuchi Village."
-    n "\"The Three Families\" refers to the three old families who effectively came to rule Onigafuchi Village."
+    n "\"As Três Famílias\" é uma referência às três famílias antigas, que efetivamente governavam a vila de Onigafuchi."
 
 # game/watanagashi/watanagashi_tips.rpy:1886
 translate brazilian_portuguese wata_tips_15_2dc4098d:
@@ -5718,13 +5718,13 @@ translate brazilian_portuguese wata_tips_15_2dc4098d:
 translate brazilian_portuguese wata_tips_15_bde7b434:
 
     # n "To break it down, there was the Kimiyoshi family, the Furude family, and the Sonozaki family, and each of them still exists today."
-    n "To break it down, there was the Kimiyoshi family, the Furude family, and the Sonozaki family, and each of them still exists today."
+    n "Havia a família Kimiyoshi, a família Furude, e a família Sonozaki, e cada uma delas ainda existe hoje."
 
 # game/watanagashi/watanagashi_tips.rpy:1888
 translate brazilian_portuguese wata_tips_15_3ab168ba:
 
     # n "(Though they don't have as much control as they did in the remote past, they still hold considerable influence today.)"
-    n "(Though they don't have as much control as they did in the remote past, they still hold considerable influence today.)"
+    n "(Ainda que eles não tenham tanto controle como tinham num passado remoto, eles ainda têm considerável influência hoje.)"
 
 # game/watanagashi/watanagashi_tips.rpy:1889
 translate brazilian_portuguese wata_tips_15_2dc4098d_1:
@@ -5736,7 +5736,7 @@ translate brazilian_portuguese wata_tips_15_2dc4098d_1:
 translate brazilian_portuguese wata_tips_15_9e6267a7:
 
     # n "The Three Families are considered by legend to be those in whom the blood of the swamp demons runs the thickest."
-    n "The Three Families are considered by legend to be those in whom the blood of the swamp demons runs the thickest."
+    n "As Três Famílias eram tidas pela lenda como aquelas onde o sangue dos demônios do pântano corria com mais força."
 
 # game/watanagashi/watanagashi_tips.rpy:1891
 translate brazilian_portuguese wata_tips_15_76b2fe88_1:
@@ -5748,19 +5748,19 @@ translate brazilian_portuguese wata_tips_15_76b2fe88_1:
 translate brazilian_portuguese wata_tips_15_9bc10338:
 
     # n "{space=325}— The Kimiyoshi Family —"
-    n "{space=325}— The Kimiyoshi Family —"
+    n "{space=325}— A Família Kimiyoshi —"
 
 # game/watanagashi/watanagashi_tips.rpy:1896
 translate brazilian_portuguese wata_tips_15_7d7c78fa:
 
     # adv_extend "\nThe Kimiyoshi family appears to have held great power as the head of the Three Families, but it doesn't have that kind of leadership today."
-    adv_extend "\nThe Kimiyoshi family appears to have held great power as the head of the Three Families, but it doesn't have that kind of leadership today."
+    adv_extend "\nA família Kimiyoshi parece ter tido um grande poder como a líder das Três Famílias, mas ela não tem mais esse tipo de liderança hoje."
 
 # game/watanagashi/watanagashi_tips.rpy:1897
 translate brazilian_portuguese wata_tips_15_3f516e04:
 
     # n "The current mayor of the village (Kiichirou Kimiyoshi) is from this family."
-    n "The current mayor of the village (Kiichirou Kimiyoshi) is from this family."
+    n "O atual chefe da vila (Kimiyoshi Yoshiichirou) é desta família."
 
 # game/watanagashi/watanagashi_tips.rpy:1898
 translate brazilian_portuguese wata_tips_15_2dc4098d_2:
@@ -5772,13 +5772,13 @@ translate brazilian_portuguese wata_tips_15_2dc4098d_2:
 translate brazilian_portuguese wata_tips_15_ba1490aa:
 
     # n "The fact that members of the Kimiyoshi family are elected as mayor every generation is thought to be a remnant of the old system."
-    n "The fact that members of the Kimiyoshi family are elected as mayor every generation is thought to be a remnant of the old system."
+    n "O fato de que os membros da família Kimiyoshi são eleitos como chefes da vila a cada geração parece ser remanescente do antigo sistema."
 
 # game/watanagashi/watanagashi_tips.rpy:1900
 translate brazilian_portuguese wata_tips_15_b9d396ba:
 
     # n "Of course, as no rival candidates appear, it doesn't change the fact that the Kimiyoshi family holds the mayoral office even through popular elections in the post-war era."
-    n "Of course, as no rival candidates appear, it doesn't change the fact that the Kimiyoshi family holds the mayoral office even through popular elections in the post-war era."
+    n "Claro que, como não há candidatos rivais, mesmo com a institução de eleições populares depois da guerra, isso não muda o fato de que a família Kimiyoshi continua detendo o cargo."
 
 # game/watanagashi/watanagashi_tips.rpy:1901
 translate brazilian_portuguese wata_tips_15_76b2fe88_2:
@@ -5790,13 +5790,13 @@ translate brazilian_portuguese wata_tips_15_76b2fe88_2:
 translate brazilian_portuguese wata_tips_15_79345ef9:
 
     # n "{space=350}— The Furude Family —"
-    n "{space=350}— The Furude Family —"
+    n "{space=350}— A Família Furude —"
 
 # game/watanagashi/watanagashi_tips.rpy:1906
 translate brazilian_portuguese wata_tips_15_8376afdb:
 
     # adv_extend "\nThe center of the village's faith since ancient times, the Furude clan has guarded the sole shrine dedicated to Oyashiro-sama."
-    adv_extend "\nThe center of the village's faith since ancient times, the Furude clan has guarded the sole shrine dedicated to Oyashiro-sama."
+    adv_extend "\nO centro da fé da vila desde os tempos antigos, o clã Furude guarda o único santuário dedicado a Oyashiro-sama."
 
 # game/watanagashi/watanagashi_tips.rpy:1907
 translate brazilian_portuguese wata_tips_15_2dc4098d_3:
@@ -5808,7 +5808,7 @@ translate brazilian_portuguese wata_tips_15_2dc4098d_3:
 translate brazilian_portuguese wata_tips_15_f244c72a:
 
     # n "They were worshipped as the only people to represent the voice of Oyashiro-sama for a long time, but the family branched off after the war and lost most of its power. It now consists of only the main house."
-    n "They were worshipped as the only people to represent the voice of Oyashiro-sama for a long time, but the family branched off after the war and lost most of its power. It now consists of only the main house."
+    n "Eles eram adorados como as únicas pessoas que representavam a voz de Oyashiro-sama por um longo tempo, mas a família ramificou-se depois da guerra e perdeu a maior parte de seu poder. Ela consiste agora somente da casa principal."
 
 # game/watanagashi/watanagashi_tips.rpy:1909
 translate brazilian_portuguese wata_tips_15_76b2fe88_3:
@@ -5820,7 +5820,7 @@ translate brazilian_portuguese wata_tips_15_76b2fe88_3:
 translate brazilian_portuguese wata_tips_15_b40d4434:
 
     # n "The main house, as well, presently consists of only one daughter (Rika Furude), so the lineage may end in this generation."
-    n "The main house, as well, presently consists of only one daughter (Rika Furude), so the lineage may end in this generation."
+    n "A casa principal atualmente consiste apenas na filha única (Furude Rika), de modo que a linhagem pode acabar nesta geração."
 
 # game/watanagashi/watanagashi_tips.rpy:1913
 translate brazilian_portuguese wata_tips_15_2dc4098d_4:
@@ -5832,7 +5832,7 @@ translate brazilian_portuguese wata_tips_15_2dc4098d_4:
 translate brazilian_portuguese wata_tips_15_6c233190:
 
     # n "There is apparently an old tradition of honoring females of the Furude family, so the only daughter, Rika, is the subject of much respect among the elderly of the village."
-    n "There is apparently an old tradition of honoring females of the Furude family, so the only daughter, Rika, is the subject of much respect among the elderly of the village."
+    n "Há aparentemente uma velha tradição de homenagear as mulheres da família Furude, então a filha única, Rika, é objeto de muito respeito entre os idosos da aldeia."
 
 # game/watanagashi/watanagashi_tips.rpy:1915
 translate brazilian_portuguese wata_tips_15_76b2fe88_4:
@@ -5844,19 +5844,19 @@ translate brazilian_portuguese wata_tips_15_76b2fe88_4:
 translate brazilian_portuguese wata_tips_15_a18c3382:
 
     # n "{space=325}— The Sonozaki Family —"
-    n "{space=325}— The Sonozaki Family —"
+    n "{space=325}— A Família Sonozaki —"
 
 # game/watanagashi/watanagashi_tips.rpy:1920
 translate brazilian_portuguese wata_tips_15_d291e927:
 
     # adv_extend "\nIt's said that this family had a certain police-like role of protecting the religious precepts of Onigafuchi Village."
-    adv_extend "\nIt's said that this family had a certain police-like role of protecting the religious precepts of Onigafuchi Village."
+    adv_extend "\nDizem que esta família tinha um certo poder de polícia como o papel de proteger os preceitos religiosos da vila de Onigafuchi."
 
 # game/watanagashi/watanagashi_tips.rpy:1921
 translate brazilian_portuguese wata_tips_15_5a26717a:
 
     # n "Of the three families, their relatively weak position can be seen from me putting them here last."
-    n "Of the three families, their relatively weak position can be seen from me putting them here last."
+    n "Das três famílias, a sua posição era relativamente fraca, e por isso eu a coloquei aqui por última."
 
 # game/watanagashi/watanagashi_tips.rpy:1922
 translate brazilian_portuguese wata_tips_15_76b2fe88_5:
@@ -5868,13 +5868,13 @@ translate brazilian_portuguese wata_tips_15_76b2fe88_5:
 translate brazilian_portuguese wata_tips_15_14d1bf41:
 
     # n "Of course, today, the Sonozaki family is flourishing, and the state of affairs among the Three Families has completely reversed."
-    n "Of course, today, the Sonozaki family is flourishing, and the state of affairs among the Three Families has completely reversed."
+    n "Claro que, hoje, a família Sonozaki está florescendo, e o estado de coisas entre as Três famílias foi completamente revertido."
 
 # game/watanagashi/watanagashi_tips.rpy:1926
 translate brazilian_portuguese wata_tips_15_cddd5f11:
 
     # n "Even now, one could say that they are in control of Hinamizawa."
-    n "Even now, one could say that they are in control of Hinamizawa."
+    n "Mesmo agora, poderia ser dito que eles estão no controle de Hinamizawa."
 
 # game/watanagashi/watanagashi_tips.rpy:1927
 translate brazilian_portuguese wata_tips_15_2dc4098d_5:
@@ -5886,7 +5886,7 @@ translate brazilian_portuguese wata_tips_15_2dc4098d_5:
 translate brazilian_portuguese wata_tips_15_595d6958:
 
     # n "The three families conferring with each other is similar to the old way—the current head of the Sonozaki family, Oryou, essentially decides all of the goings-on in the village by herself."
-    n "The three families conferring with each other is similar to the old way—the current head of the Sonozaki family, Oryou, essentially decides all of the goings-on in the village by herself."
+    n "As três famílias têm atribuições semelhantes à maneira antiga—a atual líder da família Sonozaki, Oryou, decide basicamente sozinha todos os acontecimentos na aldeia."
 
 # game/watanagashi/watanagashi_tips.rpy:1929
 translate brazilian_portuguese wata_tips_15_76b2fe88_6:
