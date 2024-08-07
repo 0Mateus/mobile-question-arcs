@@ -2280,7 +2280,7 @@ translate brazilian_portuguese onik_001_ac24f261:
 translate brazilian_portuguese onik_001_f6f2e2cc:
 
     # n "...Rika-chan really is just so..."
-    n "...ka-chan realmente é tão..."
+    n "...Rika-chan realmente é tão..."
 
 # game/onikakushi/onik_001.rpy:659
 translate brazilian_portuguese onik_001_0c1ff290:
@@ -3235,13 +3235,13 @@ translate brazilian_portuguese onik_001_30a6d871:
     # nvl clear
     # n "Rena and Mion pushed their desks together so they were facing each other."
     nvl clear
-    n "Rena e Mion tinham empurrado suas classes juntas, assim uma estava de frente à outra."
+    n "Rena e Mion tinham empurrado suas mesas juntas, assim uma estava de frente à outra."
 
 # game/onikakushi/onik_001.rpy:951
 translate brazilian_portuguese onik_001_f354c0d1:
 
     # n "At the same time, Satoko and Rika-chan were slowly lugging their desks over as well."
-    n "Ao mesmo tempo, Satoko e Rika-chan estavam lentamente arrastando suas classes também."
+    n "Ao mesmo tempo, Satoko e Rika-chan estavam lentamente arrastando suas mesas também."
 
 # game/onikakushi/onik_001.rpy:952
 translate brazilian_portuguese onik_001_76b2fe88_40:
@@ -4051,7 +4051,7 @@ translate brazilian_portuguese onik_001_dcb8cf8e:
     # voice "voice/ps3/s19/04/990400030.ogg"
     # a_satoko "\"Rena, Rena~!{w=1.0} MiiMii is picking on me-!"
     voice "voice/ps3/s19/04/990400030.ogg"
-    a_satoko "\"Rena, Rena~!{w=1.0} MiiMii está me provocando-!"
+    a_satoko "\"Rena, Rena~!{w=1.0} Mion-san está me provocando-!"
 
 # game/onikakushi/onik_001.rpy:1194
 translate brazilian_portuguese onik_001_edbbde3e:
