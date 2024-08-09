@@ -4000,7 +4000,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog001_cc78a090:
     # voice "voice/ps3/s02/03/130300100.ogg"
     # extend " ...Ahahahaha. Actually, this is a secret, but... after the festival yesterday, I got wrapped up in the party my relatives were having."
     voice "voice/ps3/s02/03/130300100.ogg"
-    extend " ...Ahahahaha. Actually, this is a secret, but... after the festival yesterday, I got wrapped up in the party my relatives were having."
+    extend " ...Ahahahaha. Na verdade, é segredo, mas... depois do festival de ontem, eu fiquei envolvida com a festa que meus parentes estavam fazendo."
 
 # game/watanagashi/watanagashi_vm.rpy:2106
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_c6b1da85:
@@ -4008,7 +4008,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog001_c6b1da85:
     # voice "voice/ps3/s02/03/130300101.ogg"
     # nvl_extend "And well... I had a bit.\""
     voice "voice/ps3/s02/03/130300101.ogg"
-    nvl_extend "And well... I had a bit.\""
+    nvl_extend "E bem... Foi só um pouquinho.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2108
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_7345f8ac:
@@ -4016,19 +4016,19 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog001_7345f8ac:
     # nvl clear
     # n "A bit."
     nvl clear
-    n "A bit."
+    n "Um pouquinho."
 
 # game/watanagashi/watanagashi_vm.rpy:2111
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_06fa4736:
 
     # n "She made a gesture like she was tilting a cup into her mouth."
-    n "She made a gesture like she was tilting a cup into her mouth."
+    n "Ela fez um gesto como se estivesse inclinando um copo em sua boca."
 
 # game/watanagashi/watanagashi_vm.rpy:2112
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_c8b7a380:
 
     # extend " ...Which means you didn't have a cold or anything..."
-    extend " ...Which means you didn't have a cold or anything..."
+    extend " ...O que quer dizer que ela não está resfriada..."
 
 # game/watanagashi/watanagashi_vm.rpy:2113
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_4d372f85:
@@ -4038,7 +4038,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog001_4d372f85:
     # a_keiichi "\"A-Are you hung over?!"
     nvl clear
     voice "voice/ps3/s02/01/130100233.ogg"
-    a_keiichi "\"A-Are you hung over?!"
+    a_keiichi "\"V-Você está de ressaca?!"
 
 # game/watanagashi/watanagashi_vm.rpy:2117
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_a961cec3:
@@ -4046,37 +4046,37 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog001_a961cec3:
     # voice "voice/ps3/s02/01/130100234.ogg"
     # extend " How old are you?!!\""
     voice "voice/ps3/s02/01/130100234.ogg"
-    extend " How old are you?!!\""
+    extend " Quantos anos você tem?!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2124
 translate brazilian_portuguese vm_wata_009_00_n01_dialog002_c917e2d4:
 
     # n "...I suppose she'd be feeling lousy either way."
-    n "...I suppose she'd be feeling lousy either way."
+    n "...Eu estava supondo que ela estava se sentindo mal por outro motivo."
 
 # game/watanagashi/watanagashi_vm.rpy:2125
 translate brazilian_portuguese vm_wata_009_00_n01_dialog002_129c41e6:
 
     # extend " Still, you treat colds and hangovers in completely different ways."
-    extend " Still, you treat colds and hangovers in completely different ways."
+    extend " Ainda assim, você trata resfriados e ressacas de maneiras completamente diferentes."
 
 # game/watanagashi/watanagashi_vm.rpy:2131
 translate brazilian_portuguese vm_wata_009_00_n01_dialog003_c407d604:
 
     # n "...She didn't seem to be feeling well, but now that I knew it was a hangover, I didn't need to worry too much."
-    n "...She didn't seem to be feeling well, but now that I knew it was a hangover, I didn't need to worry too much."
+    n "...Ela não parecia estar se sentindo bem, mas agora que eu sabia que era uma ressaca, eu não precisava me preocupar muito."
 
 # game/watanagashi/watanagashi_vm.rpy:2132
 translate brazilian_portuguese vm_wata_009_00_n01_dialog003_03c2faba:
 
     # extend " It would go away with time, after all."
-    extend " It would go away with time, after all."
+    extend " Afinal, era apenas questão de tempo para passar."
 
 # game/watanagashi/watanagashi_vm.rpy:2138
 translate brazilian_portuguese vm_wata_009_00_n01_dialog004_a4db009c:
 
     # n "...The older sister had a hangover today, but the younger made no reference to it."
-    n "...The older sister had a hangover today, but the younger made no reference to it."
+    n "...A irmã mais velha teve uma ressaca hoje, mas a mais jovem não fez nenhuma referência a ela."
 
 # game/watanagashi/watanagashi_vm.rpy:2144
 translate brazilian_portuguese vm_wata_009_00_n01_dialog005_43b5a270:
@@ -4092,7 +4092,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog005_c8c9969d:
     # voice "voice/ps3/s02/01/130100268.ogg"
     # extend " I thought you'd be sleeping in today with a hangover, same as Mion.\""
     voice "voice/ps3/s02/01/130100268.ogg"
-    extend " I thought you'd be sleeping in today with a hangover, same as Mion.\""
+    extend " Eu pensei que você estaria dormindo hoje, de ressaca, como Mion.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2153
 translate brazilian_portuguese vm_wata_009_00_n01_dialog006_60afb4c4:
@@ -4100,7 +4100,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog006_60afb4c4:
     # voice "voice/ps3/s02/06/130600153.ogg"
     # a_shion "\"What?"
     voice "voice/ps3/s02/06/130600153.ogg"
-    a_shion "\"What?"
+    a_shion "\"O quê?"
 
 # game/watanagashi/watanagashi_vm.rpy:2155
 translate brazilian_portuguese vm_wata_009_00_n01_dialog006_43918294:
@@ -4108,7 +4108,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog006_43918294:
     # voice "voice/ps3/s02/06/130600154.ogg"
     # extend " Mion had a hangover?"
     voice "voice/ps3/s02/06/130600154.ogg"
-    extend " Mion had a hangover?"
+    extend " Mion estava de ressaca?"
 
 # game/watanagashi/watanagashi_vm.rpy:2157
 translate brazilian_portuguese vm_wata_009_00_n01_dialog006_9d6c3bcc:
@@ -4116,7 +4116,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog006_9d6c3bcc:
     # voice "voice/ps3/s02/06/130600155.ogg"
     # extend " Ah-hahahaha! That's so like her~~!\""
     voice "voice/ps3/s02/06/130600155.ogg"
-    extend " Ah-hahahaha! That's so like her~~!\""
+    extend " Ah-hahahaha! Isso é tão do jeito dela~~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2159
 translate brazilian_portuguese vm_wata_009_00_n01_dialog006_2dc4098d:
@@ -4128,13 +4128,13 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog006_2dc4098d:
 translate brazilian_portuguese vm_wata_009_00_n01_dialog007_dd527f30:
 
     # n "Shion seemed a little unsteady too."
-    n "Shion seemed a little unsteady too."
+    n "Shion pareceu um pouco instável demais."
 
 # game/watanagashi/watanagashi_vm.rpy:2166
 translate brazilian_portuguese vm_wata_009_00_n01_dialog007_82682a52:
 
     # extend " ...She was drinking with Mion last night, wasn't she?"
-    extend " ...She was drinking with Mion last night, wasn't she?"
+    extend " ...Ela estava bebendo com Mion à noite passada, não estava?"
 
 # game/watanagashi/watanagashi_vm.rpy:2172
 translate brazilian_portuguese vm_wata_009_00_n01_dialog008_adef39ee:
@@ -4142,7 +4142,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog008_adef39ee:
     # voice "voice/ps3/s02/11/130700020.ogg"
     # a_oishi "\"The Sonozakis are a yakuza group with this entire region under their thumb."
     voice "voice/ps3/s02/11/130700020.ogg"
-    a_oishi "\"The Sonozakis are a yakuza group with this entire region under their thumb."
+    a_oishi "\"Os Sonozaki são um grupo de yakuza com toda esta região em sua mão."
 
 # game/watanagashi/watanagashi_vm.rpy:2174
 translate brazilian_portuguese vm_wata_009_00_n01_dialog008_c6aa13f8:
@@ -4150,7 +4150,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog008_c6aa13f8:
     # voice "voice/ps3/s02/11/130700021.ogg"
     # extend " Plus, her father is a high-ranked executive in the ×× yakuza association."
     voice "voice/ps3/s02/11/130700021.ogg"
-    extend " Plus, her father is a high-ranked executive in the ×× yakuza association."
+    extend " Além disso, seu pai é um executivo de alto-escalão na associação ×× nessa yakuza."
 
 # game/watanagashi/watanagashi_vm.rpy:2181
 translate brazilian_portuguese vm_wata_009_00_n01_dialog009_d7d0781c:
@@ -4158,7 +4158,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog009_d7d0781c:
     # voice "voice/ps3/s02/11/130700024.ogg"
     # a_oishi "It's the very picture of a gang boss's house, protected by high walls, barbed-wire fence, and security cameras."
     voice "voice/ps3/s02/11/130700024.ogg"
-    a_oishi "It's the very picture of a gang boss's house, protected by high walls, barbed-wire fence, and security cameras."
+    a_oishi "É a imagem escarada da casa de um chefe de gangue, protegida por muros altos, cercas de arame farpado, e câmeras de segurança."
 
 # game/watanagashi/watanagashi_vm.rpy:2183
 translate brazilian_portuguese vm_wata_009_00_n01_dialog009_6bf73de3:
@@ -4166,7 +4166,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog009_6bf73de3:
     # voice "voice/ps3/s02/11/130700025.ogg"
     # extend " If you have the chance, you should go and visit her.\""
     voice "voice/ps3/s02/11/130700025.ogg"
-    extend " If you have the chance, you should go and visit her.\""
+    extend " Se você tiver uma chance, você deveria ir visitá-la.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2190
 translate brazilian_portuguese vm_wata_009_00_n01_dialog010_897f651e:
@@ -4174,7 +4174,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog010_897f651e:
     # voice "voice/ps3/s02/11/130700026.ogg"
     # a_oishi "\"No, no, no, no, no."
     voice "voice/ps3/s02/11/130700026.ogg"
-    a_oishi "\"No, no, no, no, no."
+    a_oishi "\"Não, não, não, não, não."
 
 # game/watanagashi/watanagashi_vm.rpy:2192
 translate brazilian_portuguese vm_wata_009_00_n01_dialog010_438bceb7:
@@ -4182,7 +4182,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog010_438bceb7:
     # voice "voice/ps3/s02/11/130700027.ogg"
     # extend " Not at all, not at all."
     voice "voice/ps3/s02/11/130700027.ogg"
-    extend " Not at all, not at all."
+    extend " De forma alguma, de forma alguma."
 
 # game/watanagashi/watanagashi_vm.rpy:2194
 translate brazilian_portuguese vm_wata_009_00_n01_dialog010_123f245f:
@@ -4190,7 +4190,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog010_123f245f:
     # voice "voice/ps3/s02/11/130700028.ogg"
     # extend " A boring old yakuza group isn't the only thing Mion Sonozaki-san will inherit."
     voice "voice/ps3/s02/11/130700028.ogg"
-    extend " A boring old yakuza group isn't the only thing Mion Sonozaki-san will inherit."
+    extend " Uma coisa tão chata como um velho grupo de yakuza não é a única coisa que Sonozaki Mion-san vai herdar."
 
 # game/watanagashi/watanagashi_vm.rpy:2196
 translate brazilian_portuguese vm_wata_009_00_n01_dialog010_207c77c7:
@@ -4198,13 +4198,13 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog010_207c77c7:
     # voice "voice/ps3/s02/11/130700029.ogg"
     # extend " She's inheriting the Sonozaki family itself. "
     voice "voice/ps3/s02/11/130700029.ogg"
-    extend " She's inheriting the Sonozaki family itself. "
+    extend " Ela vai herdar a própria família Sonozaki. "
 
 # game/watanagashi/watanagashi_vm.rpy:2203
 translate brazilian_portuguese vm_wata_009_00_n01_dialog011_c0547846:
 
     # n "She'd mentioned Mion being a successor...... but... to a yakuza group...?"
-    n "She'd mentioned Mion being a successor...... but... to a yakuza group...?"
+    n "Ela tinha mencionado Mion como sendo a sucessora...... mas... de um grupo de yakuza...?"
 
 # game/watanagashi/watanagashi_vm.rpy:2209
 translate brazilian_portuguese vm_wata_009_00_n01_dialog012_c8561baf:
@@ -4212,7 +4212,7 @@ translate brazilian_portuguese vm_wata_009_00_n01_dialog012_c8561baf:
     # voice "voice/ps3/s02/01/130100231.ogg"
     # a_keiichi "\"...Mion, how is your cold doing?"
     voice "voice/ps3/s02/01/130100231.ogg"
-    a_keiichi "\"...Mion, how is your cold doing?"
+    a_keiichi "\"...Mion, como você está com seu resfriado?"
 
 # game/watanagashi/watanagashi_vm.rpy:2221
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_dee724aa:
@@ -4228,7 +4228,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_cc78a090:
     # voice "voice/ps3/s02/03/130300100.ogg"
     # extend " ...Ahahahaha. Actually, this is a secret, but... after the festival yesterday, I got wrapped up in the party my relatives were having."
     voice "voice/ps3/s02/03/130300100.ogg"
-    extend " ...Ahahahaha. Actually, this is a secret, but... after the festival yesterday, I got wrapped up in the party my relatives were having."
+    extend " ...Ahahahaha. Na verdade, é segredo, mas... depois do festival de ontem, eu fiquei envolvida com a festa que meus parentes estavam fazendo."
 
 # game/watanagashi/watanagashi_vm.rpy:2226
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_08b28994:
@@ -4236,7 +4236,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_08b28994:
     # voice "voice/ps3/s02/03/130300101.ogg"
     # extend " And well... things dragged on a while.\""
     voice "voice/ps3/s02/03/130300101.ogg"
-    extend " And well... things dragged on a while.\""
+    extend " E bem... foi um pouco interminável.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2228
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_9971c7e5:
@@ -4244,19 +4244,19 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_9971c7e5:
     # nvl clear
     # n "Things dragged on?"
     nvl clear
-    n "Things dragged on?"
+    n "Interminável?"
 
 # game/watanagashi/watanagashi_vm.rpy:2231
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_0cbe2969:
 
     # n "So, you mean to say..."
-    n "So, you mean to say..."
+    n "Então, você quer dizer que..."
 
 # game/watanagashi/watanagashi_vm.rpy:2232
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_e18002da:
 
     # extend " ...You didn't have a cold or anything..."
-    extend " ...You didn't have a cold or anything..."
+    extend " ...Você não está resfriada nem nada do tipo..."
 
 # game/watanagashi/watanagashi_vm.rpy:2233
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_5621eae2:
@@ -4266,7 +4266,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_5621eae2:
     # a_keiichi "\"So you really are just tired?!"
     nvl clear
     voice "voice/ps3/s02/01/130100233.ogg"
-    a_keiichi "\"So you really are just tired?!"
+    a_keiichi "\"E-Então você está apenas cansada?!"
 
 # game/watanagashi/watanagashi_vm.rpy:2237
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_f270a3a0:
@@ -4274,37 +4274,37 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog001_f270a3a0:
     # voice "voice/ps3/s02/01/130100234.ogg"
     # extend " If you were up all night, just say so! That was confusing...\""
     voice "voice/ps3/s02/01/130100234.ogg"
-    extend " If you were up all night, just say so! That was confusing...\""
+    extend " Se você passou a noite acordada, bastava dizer. Não deixe as pessoas confusas...\""
 
 # game/watanagashi/watanagashi_vm.rpy:2244
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog002_c917e2d4:
 
     # n "...I suppose she'd be feeling lousy either way."
-    n "...I suppose she'd be feeling lousy either way."
+    n "...Eu estava supondo que ela estava se sentindo mal por outro motivo."
 
 # game/watanagashi/watanagashi_vm.rpy:2245
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog002_292137c6:
 
     # extend " Still, you treat colds and sleep deprivation in completely different ways."
-    extend " Still, you treat colds and sleep deprivation in completely different ways."
+    extend " Ainda assim, você trata resfriados e cansaço de maneira completamente diferente."
 
 # game/watanagashi/watanagashi_vm.rpy:2251
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog003_6b4f32d7:
 
     # n "...She didn't seem to be feeling well, but now that I knew the cause, I didn't need to worry too much."
-    n "...She didn't seem to be feeling well, but now that I knew the cause, I didn't need to worry too much."
+    n "...Ela não parecia estar se sentindo bem, mas agora que eu sabia o motivo, eu não precisava me preocupar muito."
 
 # game/watanagashi/watanagashi_vm.rpy:2252
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog003_3f57a13c:
 
     # extend " It would go away with a little rest, after all."
-    extend " It would go away with a little rest, after all."
+    extend " Afinal, era apenas questão de tempo para passar."
 
 # game/watanagashi/watanagashi_vm.rpy:2258
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog004_668a0ba4:
 
     # n "...The older sister shattered from an all nighter, but the younger seemed fine."
-    n "...The older sister shattered from an all nighter, but the younger seemed fine."
+    n "...A irmã mais velha ficou exausta por ficar acordada a noite toda, mas a mais nova parecia estar bem."
 
 # game/watanagashi/watanagashi_vm.rpy:2264
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog005_43b5a270:
@@ -4320,7 +4320,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog005_3ca5c152:
     # voice "voice/ps3/s02/01/130100268.ogg"
     # extend " I thought you'd be catching up on your sleep today, same as Mion.\""
     voice "voice/ps3/s02/01/130100268.ogg"
-    extend " I thought you'd be catching up on your sleep today, same as Mion.\""
+    extend " Achei que você estaria dormindo hoje, assim como Mion.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2273
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_60afb4c4:
@@ -4328,7 +4328,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_60afb4c4:
     # voice "voice/ps3/s02/06/130600153.ogg"
     # a_shion "\"What?"
     voice "voice/ps3/s02/06/130600153.ogg"
-    a_shion "\"What?"
+    a_shion "\"O quê?"
 
 # game/watanagashi/watanagashi_vm.rpy:2275
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_67b363a1:
@@ -4336,7 +4336,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_67b363a1:
     # voice "voice/ps3/s02/06/130600154.ogg"
     # extend " Is Mion playing truant today?"
     voice "voice/ps3/s02/06/130600154.ogg"
-    extend " Is Mion playing truant today?"
+    extend " Mion está faltando às aulas hoje?"
 
 # game/watanagashi/watanagashi_vm.rpy:2277
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_9d6c3bcc:
@@ -4344,7 +4344,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_9d6c3bcc:
     # voice "voice/ps3/s02/06/130600155.ogg"
     # extend " Ah-hahahaha! That's so like her~~!\""
     voice "voice/ps3/s02/06/130600155.ogg"
-    extend " Ah-hahahaha! That's so like her~~!\""
+    extend " Ah-hahahaha! Isso é tão do jeito dela~~!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2279
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_2dc4098d:
@@ -4356,13 +4356,13 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog006_2dc4098d:
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog007_dd527f30:
 
     # n "Shion seemed a little unsteady too."
-    n "Shion seemed a little unsteady too."
+    n "Shion pareceu um pouco instável demais."
 
 # game/watanagashi/watanagashi_vm.rpy:2286
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog007_cd0c2b4f:
 
     # extend " ...She was up all night with Mion, wasn't she?"
-    extend " ...She was up all night with Mion, wasn't she?"
+    extend " ...Ela ficou à noite toda acordada com Mion, não ficou?"
 
 # game/watanagashi/watanagashi_vm.rpy:2292
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog008_add41ef0:
@@ -4370,7 +4370,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog008_add41ef0:
     # voice "voice/ps3/s02/11/130700020.ogg"
     # a_oishi "\"The Sonozakis are a syndicate with this entire region under their thumb."
     voice "voice/ps3/s02/11/130700020.ogg"
-    a_oishi "\"The Sonozakis are a syndicate with this entire region under their thumb."
+    a_oishi "\"Os sonozaki são uma organização com toda esta região em sua mão."
 
 # game/watanagashi/watanagashi_vm.rpy:2294
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog008_2aafca5d:
@@ -4378,7 +4378,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog008_2aafca5d:
     # voice "voice/ps3/s02/11/130700021.ogg"
     # extend " Incidentally, her father is a high-ranked executive in a syndicate association that's well known even in the Kanto region. "
     voice "voice/ps3/s02/11/130700021.ogg"
-    extend " Incidentally, her father is a high-ranked executive in a syndicate association that's well known even in the Kanto region. "
+    extend " Além disso, seu pai é um executivo de alto escalão numa organização que é bem conhecida até mesmo em Kanto. "
 
 # game/watanagashi/watanagashi_vm.rpy:2301
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog009_d7d0781c:
@@ -4386,7 +4386,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog009_d7d0781c:
     # voice "voice/ps3/s02/11/130700024.ogg"
     # a_oishi "It's the very picture of a gang boss's house, protected by high walls, barbed-wire fence, and security cameras."
     voice "voice/ps3/s02/11/130700024.ogg"
-    a_oishi "It's the very picture of a gang boss's house, protected by high walls, barbed-wire fence, and security cameras."
+    a_oishi "É a imagem escarada da casa de um chefe de gangue, protegida por muros altos, cercas de arame farpado, e câmeras de segurança."
 
 # game/watanagashi/watanagashi_vm.rpy:2303
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog009_6bf73de3:
@@ -4394,7 +4394,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog009_6bf73de3:
     # voice "voice/ps3/s02/11/130700025.ogg"
     # extend " If you have the chance, you should go and visit her.\""
     voice "voice/ps3/s02/11/130700025.ogg"
-    extend " If you have the chance, you should go and visit her.\""
+    extend " Se você tiver uma chance, você deveria ir visitá-la.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2310
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_897f651e:
@@ -4402,7 +4402,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_897f651e:
     # voice "voice/ps3/s02/11/130700026.ogg"
     # a_oishi "\"No, no, no, no, no."
     voice "voice/ps3/s02/11/130700026.ogg"
-    a_oishi "\"No, no, no, no, no."
+    a_oishi "\"Não, não, não, não, não."
 
 # game/watanagashi/watanagashi_vm.rpy:2312
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_438bceb7:
@@ -4410,7 +4410,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_438bceb7:
     # voice "voice/ps3/s02/11/130700027.ogg"
     # extend " Not at all, not at all."
     voice "voice/ps3/s02/11/130700027.ogg"
-    extend " Not at all, not at all."
+    extend " De forma alguma, de forma alguma."
 
 # game/watanagashi/watanagashi_vm.rpy:2314
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_9c55a0e9:
@@ -4418,7 +4418,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_9c55a0e9:
     # voice "voice/ps3/s02/11/130700028.ogg"
     # extend " A boring old syndicate isn't the only thing Mion Sonozaki-san will inherit."
     voice "voice/ps3/s02/11/130700028.ogg"
-    extend " A boring old syndicate isn't the only thing Mion Sonozaki-san will inherit."
+    extend " Uma coisa tão chata como uma velha organização não é a única coisa que Sonozaki Mion-san vai herdar."
 
 # game/watanagashi/watanagashi_vm.rpy:2316
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_207c77c7:
@@ -4426,13 +4426,13 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog010_207c77c7:
     # voice "voice/ps3/s02/11/130700029.ogg"
     # extend " She's inheriting the Sonozaki family itself. "
     voice "voice/ps3/s02/11/130700029.ogg"
-    extend " She's inheriting the Sonozaki family itself. "
+    extend " Ela vai herdar a própria família Sonozaki. "
 
 # game/watanagashi/watanagashi_vm.rpy:2323
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog011_fe7cb284:
 
     # n "She'd mentioned Mion being a successor...... but... to a crime syndicate...?"
-    n "She'd mentioned Mion being a successor...... but... to a crime syndicate...?"
+    n "Ela tinha mencionado Mion como sendo a sucessora...... mas... de uma organização criminosa...?"
 
 # game/watanagashi/watanagashi_vm.rpy:2329
 translate brazilian_portuguese vm_wata_009_0x_n01_dialog012_c8561baf:
@@ -4440,7 +4440,7 @@ translate brazilian_portuguese vm_wata_009_0x_n01_dialog012_c8561baf:
     # voice "voice/ps3/s02/01/130100231.ogg"
     # a_keiichi "\"...Mion, how is your cold doing?"
     voice "voice/ps3/s02/01/130100231.ogg"
-    a_keiichi "\"...Mion, how is your cold doing?"
+    a_keiichi "\"...Mion, como você está com seu resfriado?"
 
 # game/watanagashi/watanagashi_vm.rpy:2346
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_efb4a7a9:
