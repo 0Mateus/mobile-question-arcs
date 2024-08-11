@@ -4650,7 +4650,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog003_3ad6ea95:
 translate brazilian_portuguese vm_wata_010_00_n01_dialog001_106d9371:
 
     # a_keiichi "\"...Going somewhere?"
-    a_keiichi "\"...Going somewhere?"
+    a_keiichi "\"...A algum lugar?"
 
 # game/watanagashi/watanagashi_vm.rpy:2467
 translate brazilian_portuguese vm_wata_010_00_n01_dialog001_3fe29f82:
@@ -4658,7 +4658,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog001_3fe29f82:
     # voice "voice/ps3/s02/01/130100430.ogg"
     # extend " ...Yeah."
     voice "voice/ps3/s02/01/130100430.ogg"
-    extend " ...Yeah."
+    extend " ...Sim."
 
 # game/watanagashi/watanagashi_vm.rpy:2469
 translate brazilian_portuguese vm_wata_010_00_n01_dialog001_9679826f:
@@ -4666,13 +4666,13 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog001_9679826f:
     # voice "voice/ps3/s02/01/130100431.ogg"
     # extend " ...To school.\""
     voice "voice/ps3/s02/01/130100431.ogg"
-    extend " ...To school.\""
+    extend " ...À escola.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2476
 translate brazilian_portuguese vm_wata_010_00_n01_dialog002_27977cf6:
 
     # n "...Mion had gone home early yesterday with a hangover, but she didn't look too good this morning, either."
-    n "...Mion had gone home early yesterday with a hangover, but she didn't look too good this morning, either."
+    n "...Mion tinha ido para casa mais cedo ontem com uma ressaca, mas ela também não parecia muito bem esta manhã."
 
 # game/watanagashi/watanagashi_vm.rpy:2482
 translate brazilian_portuguese vm_wata_010_00_n01_dialog003_5e1e23fd:
@@ -4680,7 +4680,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog003_5e1e23fd:
     # voice "voice/ps3/s02/01/130100434.ogg"
     # a_keiichi "\"Th-Three?!"
     voice "voice/ps3/s02/01/130100434.ogg"
-    a_keiichi "\"Th-Three?!"
+    a_keiichi "\"T-Três?!"
 
 # game/watanagashi/watanagashi_vm.rpy:2484
 translate brazilian_portuguese vm_wata_010_00_n01_dialog003_c2d56f33:
@@ -4688,7 +4688,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog003_c2d56f33:
     # voice "voice/ps3/s02/01/130100435.ogg"
     # extend " Hey, now... You can't keep staying up late!"
     voice "voice/ps3/s02/01/130100435.ogg"
-    extend " Hey, now... You can't keep staying up late!"
+    extend " Ei, ei... Você não deve ficar acordada até tão tarde!"
 
 # game/watanagashi/watanagashi_vm.rpy:2486
 translate brazilian_portuguese vm_wata_010_00_n01_dialog003_6084bf6e:
@@ -4696,7 +4696,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog003_6084bf6e:
     # voice "voice/ps3/s02/01/130100436.ogg"
     # extend " You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you?"
     voice "voice/ps3/s02/01/130100436.ogg"
-    extend " You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you?"
+    extend " Você provavelmente leu o primeiro volume de um mangá, pensou que era interessante, e então leu toda a série, não é?"
 
 # game/watanagashi/watanagashi_vm.rpy:2493
 translate brazilian_portuguese vm_wata_010_00_n01_dialog004_421fa054:
@@ -4704,7 +4704,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog004_421fa054:
     # voice "voice/ps3/s02/02/130200129.ogg"
     # a_rena "{b}\"H-H-H-H-H-Her throat, the thing in her throat, all wobbly~~~! Hau~~~~!!!!\"{/b}"
     voice "voice/ps3/s02/02/130200129.ogg"
-    a_rena "{b}\"H-H-H-H-H-Her throat, the thing in her throat, all wobbly~~~! Hau~~~~!!!!\"{/b}"
+    a_rena "{b}\"A-A-A-A-A-A garganta, a coisa no fundo da garganta dela, se mexendo~~~! Hau~~~~!!!!\"{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:2500
 translate brazilian_portuguese vm_wata_010_00_n01_dialog005_2f7a08b5:
@@ -4712,7 +4712,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog005_2f7a08b5:
     # voice "voice/ps3/s02/02/130200130.ogg"
     # a_rena "\"I-I-I-I think Satoko-chan is kyute, not only R-Rika-chan~!!"
     voice "voice/ps3/s02/02/130200130.ogg"
-    a_rena "\"I-I-I-I think Satoko-chan is kyute, not only R-Rika-chan~!!"
+    a_rena "\"E-E-E-Eu também acho que a de Satoko-chan é mEiGA, não apenas R-Rika-chan~!!"
 
 # game/watanagashi/watanagashi_vm.rpy:2502
 translate brazilian_portuguese vm_wata_010_00_n01_dialog005_6f031a4b:
@@ -4720,7 +4720,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog005_6f031a4b:
     # voice "voice/ps3/s02/02/130200131.ogg"
     # extend " U~vu~la~~!!!\""
     voice "voice/ps3/s02/02/130200131.ogg"
-    extend " U~vu~la~~!!!\""
+    extend " A ú~vu~la~~!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2509
 translate brazilian_portuguese vm_wata_010_00_n01_dialog006_8a7cd922:
@@ -4736,7 +4736,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog006_5a23520d:
     # voice "voice/ps3/s02/02/130200133.ogg"
     # extend " I got a glimpse! It was so kyute!!"
     voice "voice/ps3/s02/02/130200133.ogg"
-    extend " I got a glimpse! It was so kyute!!"
+    extend " Eu tive um vislumbre! Tão mEiGA!!"
 
 # game/watanagashi/watanagashi_vm.rpy:2513
 translate brazilian_portuguese vm_wata_010_00_n01_dialog006_81762a10:
@@ -4744,7 +4744,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog006_81762a10:
     # voice "voice/ps3/s02/02/130200134.ogg"
     # extend " Satoko-chan's is kyute too! I'm gonna take you home~~!!!!\""
     voice "voice/ps3/s02/02/130200134.ogg"
-    extend " Satoko-chan's is kyute too! I'm gonna take you home~~!!!!\""
+    extend " Satoko-chan é tão mEiGA! Eu vou levá-la para casa~~!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2515
 translate brazilian_portuguese vm_wata_010_00_n01_dialog006_37284ad9:
@@ -4752,7 +4752,7 @@ translate brazilian_portuguese vm_wata_010_00_n01_dialog006_37284ad9:
     # nvl clear
     # n "...Rena was squeezing her hands around Satoko's neck and was trying to get a look into her throat..."
     nvl clear
-    n "...Rena was squeezing her hands around Satoko's neck and was trying to get a look into her throat..."
+    n "...Rena estava apertando as mãos em torno do pescoço de Satoko, tentando olhar a garganta dela..."
 
 # game/watanagashi/watanagashi_vm.rpy:2518
 translate brazilian_portuguese vm_wata_010_00_n01_dialog006_2dc4098d:
@@ -4766,7 +4766,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog001_506aae8b:
     # voice "voice/ps3/s02/01/130100430.ogg"
     # a_keiichi "\"...Yeah."
     voice "voice/ps3/s02/01/130100430.ogg"
-    a_keiichi "\"...Yeah."
+    a_keiichi "\"...Sim."
 
 # game/watanagashi/watanagashi_vm.rpy:2531
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog001_9679826f:
@@ -4774,13 +4774,13 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog001_9679826f:
     # voice "voice/ps3/s02/01/130100431.ogg"
     # extend " ...To school.\""
     voice "voice/ps3/s02/01/130100431.ogg"
-    extend " ...To school.\""
+    extend " ...À escola.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2538
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog002_65322e6a:
 
     # a_keiichi "...Mion had gone home early yesterday with sleep deprivation, but she didn't look too good this morning, either."
-    a_keiichi "...Mion had gone home early yesterday with sleep deprivation, but she didn't look too good this morning, either."
+    a_keiichi "...Mion tinha ido para casa mais cedo ontem porque estava cansada, mas ela também não parecia muito bem esta manhã."
 
 # game/watanagashi/watanagashi_vm.rpy:2544
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_71ff943d:
@@ -4788,7 +4788,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_71ff943d:
     # voice "voice/ps3/s02/01/130100434.ogg"
     # a_keiichi "\"Th-Three?! Right after yesterday?!"
     voice "voice/ps3/s02/01/130100434.ogg"
-    a_keiichi "\"Th-Three?! Right after yesterday?!"
+    a_keiichi "\"T-Três?! Logo depois de ontem?!"
 
 # game/watanagashi/watanagashi_vm.rpy:2546
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_c2d56f33:
@@ -4796,7 +4796,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_c2d56f33:
     # voice "voice/ps3/s02/01/130100435.ogg"
     # extend " Hey, now... You can't keep staying up late!"
     voice "voice/ps3/s02/01/130100435.ogg"
-    extend " Hey, now... You can't keep staying up late!"
+    extend " Ei, ei... Você não pode ficar acordada até tão tarde!"
 
 # game/watanagashi/watanagashi_vm.rpy:2548
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_7c0f6d73:
@@ -4804,7 +4804,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog003_7c0f6d73:
     # voice "voice/ps3/s02/01/130100436.ogg"
     # extend " You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you? "
     voice "voice/ps3/s02/01/130100436.ogg"
-    extend " You probably read the first volume of a manga, thought it was interesting, then read the entire series, didn't you? "
+    extend " Você provavelmente leu o primeiro volume de um mangá, pensou que era interessante, e então leu toda a série, não é? "
 
 # game/watanagashi/watanagashi_vm.rpy:2555
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog004_8957ed13:
@@ -4812,7 +4812,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog004_8957ed13:
     # voice "voice/ps3/s02/02/130200129.ogg"
     # a_rena "{b}\"R-R-R-R-Rika-chan's giant yawn~~~! Hau~~~~!!!!\"{/b}"
     voice "voice/ps3/s02/02/130200129.ogg"
-    a_rena "{b}\"R-R-R-R-Rika-chan's giant yawn~~~! Hau~~~~!!!!\"{/b}"
+    a_rena "{b}\"O-O-O-O-O bocejo gigante da Rika-chan~~~! Hau~~~~!!!!\"{/b}"
 
 # game/watanagashi/watanagashi_vm.rpy:2562
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog005_2f7a08b5:
@@ -4820,7 +4820,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog005_2f7a08b5:
     # voice "voice/ps3/s02/02/130200130.ogg"
     # a_rena "\"I-I-I-I think Satoko-chan is kyute, not only R-Rika-chan~!!"
     voice "voice/ps3/s02/02/130200130.ogg"
-    a_rena "\"I-I-I-I think Satoko-chan is kyute, not only R-Rika-chan~!!"
+    a_rena "\"E-E-E-Eu também acho que a de Satoko-chan é mEiGA, não apenas R-Rika-chan~!!"
 
 # game/watanagashi/watanagashi_vm.rpy:2564
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog005_56957c1b:
@@ -4828,7 +4828,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog005_56957c1b:
     # voice "voice/ps3/s02/02/130200131.ogg"
     # extend " Giaaant~~yaaaawn~~!!!\""
     voice "voice/ps3/s02/02/130200131.ogg"
-    extend " Giaaant~~yaaaawn~~!!!\""
+    extend " Bocejo~~gigaaante~~!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2571
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_8a7cd922:
@@ -4844,7 +4844,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_5a23520d:
     # voice "voice/ps3/s02/02/130200133.ogg"
     # extend " I got a glimpse! It was so kyute!!"
     voice "voice/ps3/s02/02/130200133.ogg"
-    extend " I got a glimpse! It was so kyute!!"
+    extend " Eu tive um vislumbre! Tão mEiGA!!"
 
 # game/watanagashi/watanagashi_vm.rpy:2575
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_81762a10:
@@ -4852,7 +4852,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_81762a10:
     # voice "voice/ps3/s02/02/130200134.ogg"
     # extend " Satoko-chan's is kyute too! I'm gonna take you home~~!!!!\""
     voice "voice/ps3/s02/02/130200134.ogg"
-    extend " Satoko-chan's is kyute too! I'm gonna take you home~~!!!!\""
+    extend " Satoko-chan é tão mEiGA! Eu vou levá-la para casa~~!!!!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2577
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_566713a2:
@@ -4860,7 +4860,7 @@ translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_566713a2:
     # nvl clear
     # n "...Rena was strangling Satoko. I don't think that counts as yawning..."
     nvl clear
-    n "...Rena was strangling Satoko. I don't think that counts as yawning..."
+    n "...Rena estava sufocando Satoko. Acho que isso não conta como bocejo..."
 
 # game/watanagashi/watanagashi_vm.rpy:2580
 translate brazilian_portuguese vm_wata_010_0x_n01_dialog006_2dc4098d:
