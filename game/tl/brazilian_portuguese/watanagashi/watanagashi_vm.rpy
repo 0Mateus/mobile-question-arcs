@@ -3908,7 +3908,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_dc0a5bb7:
     # voice "voice/ps3/s02/36/132900001.ogg"
     # a_unkn "\"Is this the Maebara residence?"
     voice "voice/ps3/s02/36/132900001.ogg"
-    a_unkn "\"Is this the Maebara residence?"
+    a_unkn "\"É a casa dos Maebara?"
 
 # game/watanagashi/watanagashi_vm.rpy:2063
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_7345c33e:
@@ -3916,7 +3916,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_7345c33e:
     # voice "voice/ps3/s02/36/132900002.ogg"
     # extend " Excuse me for the late call..."
     voice "voice/ps3/s02/36/132900002.ogg"
-    extend " Excuse me for the late call..."
+    extend " Me desculpe por ligar tão tarde..."
 
 # game/watanagashi/watanagashi_vm.rpy:2065
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_a43d369c:
@@ -3924,7 +3924,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_a43d369c:
     # voice "voice/ps3/s02/36/132900003.ogg"
     # extend " I'm Kimiyoshi."
     voice "voice/ps3/s02/36/132900003.ogg"
-    extend " I'm Kimiyoshi."
+    extend " Meu nome é Kimiyoshi."
 
 # game/watanagashi/watanagashi_vm.rpy:2067
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_516ac2d8:
@@ -3932,19 +3932,19 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_516ac2d8:
     # voice "voice/ps3/s02/36/132900004.ogg"
     # extend " Is this the head of the household?\""
     voice "voice/ps3/s02/36/132900004.ogg"
-    extend " Is this the head of the household?\""
+    extend " O chefe da casa está aí?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2069
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_0e7b08f0:
 
     # n "It was the voice of a girl who clearly wasn't Shion."
-    n "It was the voice of a girl who clearly wasn't Shion."
+    n "Era a voz de uma garota, que claramente não era Shion."
 
 # game/watanagashi/watanagashi_vm.rpy:2070
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog001_69c83618:
 
     # extend " ......All my hopes rushed out of me."
-    extend " ......All my hopes rushed out of me."
+    extend " ......Todas as minhas esperanças fugiram para fora de mim."
 
 # game/watanagashi/watanagashi_vm.rpy:2076
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog002_c2634000:
@@ -3952,7 +3952,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog002_c2634000:
     # voice "voice/ps3/s02/36/132900005.ogg"
     # a_kimiyoshi "\"Oh, no no, if he's busy, then it's fine."
     voice "voice/ps3/s02/36/132900005.ogg"
-    a_kimiyoshi "\"Oh, no no, if he's busy, then it's fine."
+    a_kimiyoshi "\"Oh, não, se ele está ocupado está tudo bem."
 
 # game/watanagashi/watanagashi_vm.rpy:2078
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog002_b387590c:
@@ -3960,7 +3960,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog002_b387590c:
     # voice "voice/ps3/s02/36/132900006.ogg"
     # extend " ...This may be a strange question, but... is my old man paying you a visit?\""
     voice "voice/ps3/s02/36/132900006.ogg"
-    extend " ...This may be a strange question, but... is my old man paying you a visit?\""
+    extend " ...Esta pode ser uma pergunta estranha, mas... o meu avô não está aí, fazendo uma visita?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2085
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_7dfdaf94:
@@ -3968,7 +3968,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_7dfdaf94:
     # voice "voice/ps3/s02/36/132900007.ogg"
     # a_kimiyoshi "\"I see!"
     voice "voice/ps3/s02/36/132900007.ogg"
-    a_kimiyoshi "\"I see!"
+    a_kimiyoshi "\"Entendo!"
 
 # game/watanagashi/watanagashi_vm.rpy:2087
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_3f0b7766:
@@ -3976,7 +3976,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_3f0b7766:
     # voice "voice/ps3/s02/36/132900008.ogg"
     # extend " Again, I apologize for calling you so late at night."
     voice "voice/ps3/s02/36/132900008.ogg"
-    extend " Again, I apologize for calling you so late at night."
+    extend " Mais uma vez, peço desculpas por chamá-lo tão tarde da noite."
 
 # game/watanagashi/watanagashi_vm.rpy:2089
 translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_883ffac6:
@@ -3984,7 +3984,7 @@ translate brazilian_portuguese vm_wata_009_02_0x_n01_dialog003_883ffac6:
     # voice "voice/ps3/s02/36/132900009.ogg"
     # extend " Goodbye......\""
     voice "voice/ps3/s02/36/132900009.ogg"
-    extend " Goodbye......\""
+    extend " Tchau......\""
 
 # game/watanagashi/watanagashi_vm.rpy:2101
 translate brazilian_portuguese vm_wata_009_00_n01_dialog001_dee724aa:
