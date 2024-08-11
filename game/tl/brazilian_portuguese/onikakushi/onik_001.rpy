@@ -4903,7 +4903,7 @@ translate brazilian_portuguese onik_001_ba507bbc:
     # a_keiichi "\"Don't feel bad, Mion. You're probably the only one who can dodge her jabs!\""
     nvl clear
     voice "voice/ps3/s19/01/hr_kei01260.ogg"
-    a_keiichi "\"Não sinta-se mal, Mion. Você é provavelmente a única que pode se desviar de seus jabs!\""
+    a_keiichi "\"Não sinta-se mal, Mion. Você é provavelmente a única que pode desviar de seus jabs!\""
 
 # game/onikakushi/onik_001.rpy:1463
 translate brazilian_portuguese onik_001_a3164e05:
