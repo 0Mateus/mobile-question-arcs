@@ -4448,7 +4448,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_efb4a7a9:
     # voice "voice/ps3/s02/06/130600367.ogg"
     # a_shion "\"Well, our dad is a big-shot yakuza."
     voice "voice/ps3/s02/06/130600367.ogg"
-    a_shion "\"Well, our dad is a big-shot yakuza."
+    a_shion "\"Bem, nosso pai é um yakuza importante."
 
 # game/watanagashi/watanagashi_vm.rpy:2348
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_50e595bb:
@@ -4456,7 +4456,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_50e595bb:
     # voice "voice/ps2/06/130600368.ogg"
     # extend " ...Even when she was little, my sister managed to subjugate a bunch of young street rats."
     voice "voice/ps2/06/130600368.ogg"
-    extend " ...Even when she was little, my sister managed to subjugate a bunch of young street rats."
+    extend " ...Mesmo quando ela era pequena, minha onee conseguiu subjugar um bando de jovens ratos de rua."
 
 # game/watanagashi/watanagashi_vm.rpy:2350
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_611a6fd1:
@@ -4464,7 +4464,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog001_611a6fd1:
     # voice "voice/ps2/06/130600369.ogg"
     # extend " Then she played all sorts of tricks on them and just generally got in their way.\""
     voice "voice/ps2/06/130600369.ogg"
-    extend " Then she played all sorts of tricks on them and just generally got in their way.\""
+    extend " Depois, ela pregava todo tipo de peça neles e, geralmente, os atrapalhava.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2357
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_9bb50a36:
@@ -4472,7 +4472,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_9bb50a36:
     # voice "voice/ps2/06/130600370.ogg"
     # a_shion "\"...Now she's pretty laid-back, so it might be hard to imagine."
     voice "voice/ps2/06/130600370.ogg"
-    a_shion "\"...Now she's pretty laid-back, so it might be hard to imagine."
+    a_shion "\"...Agora ela é bem descontraída, então deve ser difícil imaginar."
 
 # game/watanagashi/watanagashi_vm.rpy:2359
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_606c16b7:
@@ -4480,7 +4480,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_606c16b7:
     # voice "voice/ps2/06/130600371.ogg"
     # extend " She did everything, from property damage to threats and even acts of violence, and she was picked up for it countless times."
     voice "voice/ps2/06/130600371.ogg"
-    extend " She did everything, from property damage to threats and even acts of violence, and she was picked up for it countless times."
+    extend " Ela fez de tudo, de danos à propriedade a ameaças e até atos de violência, e foi pega inúmeras vezes por isso."
 
 # game/watanagashi/watanagashi_vm.rpy:2361
 translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_ea09ce18:
@@ -4488,7 +4488,7 @@ translate brazilian_portuguese vm_wata_010_02_00_n01_dialog002_ea09ce18:
     # voice "voice/ps3/s02/06/130600372.ogg"
     # extend " ...Though since she was a kid, they could get her released pretty easily."
     voice "voice/ps3/s02/06/130600372.ogg"
-    extend " ...Though since she was a kid, they could get her released pretty easily."
+    extend " ...No entanto, já que ela era criança, eles tinham de soltá-la logo em seguida."
 
 # game/watanagashi/watanagashi_vm.rpy:2373
 translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog001_efb4a7a9:
@@ -4496,7 +4496,7 @@ translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog001_efb4a7a9:
     # voice "voice/ps3/s02/06/130600367.ogg"
     # a_shion "\"Well, our dad is a big-shot yakuza."
     voice "voice/ps3/s02/06/130600367.ogg"
-    a_shion "\"Well, our dad is a big-shot yakuza."
+    a_shion "\"Bem, nosso pai é um yakuza importante."
 
 # game/watanagashi/watanagashi_vm.rpy:2375
 translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog001_5ab8074a:
@@ -4504,7 +4504,7 @@ translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog001_5ab8074a:
     # voice "voice/ps3/s02/06/130600368.ogg"
     # extend " ...Even when she was little, my sister managed to subjugate a bunch of young street rats.\""
     voice "voice/ps3/s02/06/130600368.ogg"
-    extend " ...Even when she was little, my sister managed to subjugate a bunch of young street rats.\""
+    extend " ...Mesmo quando ela era pequena, minha onee conseguiu subjugar um bando de jovens ratos de rua.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2382
 translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog002_8deeed46:
@@ -4512,7 +4512,7 @@ translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog002_8deeed46:
     # voice "voice/ps3/s02/06/130600370.ogg"
     # a_shion "\"She was detained several times... although she's pretty laid-back now, so it might be hard to imagine."
     voice "voice/ps3/s02/06/130600370.ogg"
-    a_shion "\"She was detained several times... although she's pretty laid-back now, so it might be hard to imagine."
+    a_shion "\"Ela já foi detida diversas vezes... agora ela é bem descontraída, então deve ser difícil de imaginar."
 
 # game/watanagashi/watanagashi_vm.rpy:2384
 translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog002_ea09ce18:
@@ -4520,7 +4520,7 @@ translate brazilian_portuguese vm_wata_010_02_0x_n01_dialog002_ea09ce18:
     # voice "voice/ps3/s02/06/130600372.ogg"
     # extend " ...Though since she was a kid, they could get her released pretty easily."
     voice "voice/ps3/s02/06/130600372.ogg"
-    extend " ...Though since she was a kid, they could get her released pretty easily."
+    extend " ...No entanto, já que ela era criança, eles tinham de soltá-la logo em seguida."
 
 # game/watanagashi/watanagashi_vm.rpy:2396
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog001_f3a5602b:
