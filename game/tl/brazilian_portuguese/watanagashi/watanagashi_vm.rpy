@@ -4528,7 +4528,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog001_f3a5602b:
     # voice "voice/ps3/s02/11/130700105.ogg"
     # a_oishi "\"We're taxpayers too, you know."
     voice "voice/ps3/s02/11/130700105.ogg"
-    a_oishi "\"We're taxpayers too, you know."
+    a_oishi "\"Nós também pagamos impostos, sabe."
 
 # game/watanagashi/watanagashi_vm.rpy:2398
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog001_92971e37:
@@ -4536,7 +4536,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog001_92971e37:
     # voice "voice/ps3/s02/11/130700106.ogg"
     # extend " ...It's like we're drinking our own piss. Na-ha-ha-ha-ha...!\""
     voice "voice/ps3/s02/11/130700106.ogg"
-    extend " ...It's like we're drinking our own piss. Na-ha-ha-ha-ha...!\""
+    extend " ...É como se estivéssemos bebendo nosso próprio mijo. Na-ha-ha-ha-ha...!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2400
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog001_2dc4098d:
@@ -4550,7 +4550,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_516f2edc:
     # voice "voice/ps3/s02/11/130700160.ogg"
     # a_oishi "\"Are you familiar with the Three Families?"
     voice "voice/ps3/s02/11/130700160.ogg"
-    a_oishi "\"Are you familiar with the Three Families?"
+    a_oishi "\"Você já ouviu falar das Três Famílias?"
 
 # game/watanagashi/watanagashi_vm.rpy:2408
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_934ee3fc:
@@ -4558,7 +4558,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_934ee3fc:
     # voice "voice/ps3/s02/11/130700161.ogg"
     # extend " Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony."
     voice "voice/ps3/s02/11/130700161.ogg"
-    extend " Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony."
+    extend " Representantes de cada uma delas dão um pequeno discurso na cerimônia de abertura do Watanagashi."
 
 # game/watanagashi/watanagashi_vm.rpy:2410
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_cfd5c128:
@@ -4566,7 +4566,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_cfd5c128:
     # voice "voice/ps2/11/130700161-162(from130100732).ogg"
     # extend " Did you see them?\""
     voice "voice/ps2/11/130700161-162(from130100732).ogg"
-    extend " Did you see them?\""
+    extend " Você os viu?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2412
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_d47a048c:
@@ -4574,7 +4574,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog002_d47a048c:
     # voice "voice/ps3/s02/01/130100733.ogg"
     # a_keiichi "\"...I came... partway through the festival... so I don't really...\""
     voice "voice/ps3/s02/01/130100733.ogg"
-    a_keiichi "\"...I came... partway through the festival... so I don't really...\""
+    a_keiichi "\"...Eu cheguei... no meio do festival... então eu realmente não...\""
 
 # game/watanagashi/watanagashi_vm.rpy:2419
 translate brazilian_portuguese vm_wata_010_04_00_n01_dialog003_3ad6ea95:
@@ -4582,7 +4582,7 @@ translate brazilian_portuguese vm_wata_010_04_00_n01_dialog003_3ad6ea95:
     # voice "voice/ps3/s02/01/130100737.ogg"
     # a_keiichi "\"I don't know anything about it either.\""
     voice "voice/ps3/s02/01/130100737.ogg"
-    a_keiichi "\"I don't know anything about it either.\""
+    a_keiichi "\"Eu tampouco sei a respeito.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2431
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog001_f3a5602b:
@@ -4590,7 +4590,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog001_f3a5602b:
     # voice "voice/ps3/s02/11/130700105.ogg"
     # a_oishi "\"We're taxpayers too, you know."
     voice "voice/ps3/s02/11/130700105.ogg"
-    a_oishi "\"We're taxpayers too, you know."
+    a_oishi "\"Nós também pagamos impostos, sabe."
 
 # game/watanagashi/watanagashi_vm.rpy:2433
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog001_db5d584c:
@@ -4598,7 +4598,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog001_db5d584c:
     # voice "voice/ps3/s02/11/130700106.ogg"
     # extend " ...I feel like a soba noodle chef eating my own soba. Na-ha-ha-ha-ha...!\""
     voice "voice/ps3/s02/11/130700106.ogg"
-    extend " ...I feel like a soba noodle chef eating my own soba. Na-ha-ha-ha-ha...!\""
+    extend " ...Eu me sinto como um chefe-macarrão comendo o próprio macarrão. Na-ha-ha-ha-ha...!\""
 
 # game/watanagashi/watanagashi_vm.rpy:2435
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog001_2dc4098d:
@@ -4612,7 +4612,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_516f2edc:
     # voice "voice/ps3/s02/11/130700160.ogg"
     # a_oishi "\"Are you familiar with the Three Families?"
     voice "voice/ps3/s02/11/130700160.ogg"
-    a_oishi "\"Are you familiar with the Three Families?"
+    a_oishi "\"Você já ouviu falar das Três Famílias?"
 
 # game/watanagashi/watanagashi_vm.rpy:2443
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_6f9eecd8:
@@ -4620,7 +4620,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_6f9eecd8:
     # voice "voice/ps3/s02/11/130700161.ogg"
     # extend " Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.\""
     voice "voice/ps3/s02/11/130700161.ogg"
-    extend " Representatives from each of them gave short addresses at the Watanagashi festival's opening ceremony.\""
+    extend " Representantes de cada uma delas dão um pequeno discurso na cerimônia de abertura do Watanagashi.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2445
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_c3d124fc:
@@ -4628,7 +4628,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_c3d124fc:
     # voice "voice/ps3/s02/01/130100732.ogg"
     # a_keiichi "\"I didn't see them."
     voice "voice/ps3/s02/01/130100732.ogg"
-    a_keiichi "\"I didn't see them."
+    a_keiichi "\"Eu não vi isso."
 
 # game/watanagashi/watanagashi_vm.rpy:2447
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_b94d6431:
@@ -4636,7 +4636,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog002_b94d6431:
     # voice "voice/ps3/s02/01/130100733.ogg"
     # extend " ...I came... partway through the festival... so I don't really...\""
     voice "voice/ps3/s02/01/130100733.ogg"
-    extend " ...I came... partway through the festival... so I don't really...\""
+    extend " ...Eu cheguei... no meio do festival... então eu realmente não...\""
 
 # game/watanagashi/watanagashi_vm.rpy:2454
 translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog003_3ad6ea95:
@@ -4644,7 +4644,7 @@ translate brazilian_portuguese vm_wata_010_04_0x_n01_dialog003_3ad6ea95:
     # voice "voice/ps3/s02/01/130100737.ogg"
     # a_keiichi "\"I don't know anything about it either.\""
     voice "voice/ps3/s02/01/130100737.ogg"
-    a_keiichi "\"I don't know anything about it either.\""
+    a_keiichi "\"Eu tampouco sei a respeito.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2466
 translate brazilian_portuguese vm_wata_010_00_n01_dialog001_106d9371:
