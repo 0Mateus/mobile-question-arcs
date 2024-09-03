@@ -4874,7 +4874,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog001_69ad01d4:
     # voice "voice/ps3/s02/11/130700233.ogg"
     # a_oishi "...We suspect an overdose from a stimulant or something, but we didn't detect anything.\""
     voice "voice/ps3/s02/11/130700233.ogg"
-    a_oishi "...We suspect an overdose from a stimulant or something, but we didn't detect anything.\""
+    a_oishi "...Nós suspeitamos de uma overdose de algum estimulante ou algo assim, mas não detectamos nada.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2598
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog002_5d213d3a:
@@ -4882,7 +4882,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog002_5d213d3a:
     # voice "voice/ps2/11/130700241.ogg"
     # extend " ...It's a bit uncertain in Takano-san's case, but the likely prospect is that she was murdered at about the same time as Tomitake-san, then dumped in the mountains in Gifu.\""
     voice "voice/ps2/11/130700241.ogg"
-    extend " ...It's a bit uncertain in Takano-san's case, but the likely prospect is that she was murdered at about the same time as Tomitake-san, then dumped in the mountains in Gifu.\""
+    extend " ...É um pouco incerto quanto a Takano-san, mas o mais provável é que ela foi assassinada por volta da mesma hora que Tomitake-san, então despejada nas montanhas em Gifu.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2605
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_1790d950:
@@ -4890,7 +4890,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_1790d950:
     # voice "voice/ps3/s02/11/130700281.ogg"
     # a_oishi "\"There was nothing terrible in there that would make you keep silent?"
     voice "voice/ps3/s02/11/130700281.ogg"
-    a_oishi "\"There was nothing terrible in there that would make you keep silent?"
+    a_oishi "\"Não havia nada de tão terrível lá que faria você ficar em silêncio?"
 
 # game/watanagashi/watanagashi_vm.rpy:2607
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_94eadb7c:
@@ -4898,7 +4898,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_94eadb7c:
     # voice "voice/ps2/11/130700282.ogg"
     # extend " ...Like a pile of psychoactive drugs?"
     voice "voice/ps2/11/130700282.ogg"
-    extend " ...Like a pile of psychoactive drugs?"
+    extend " ...Como um monte de drogas psicoativas?"
 
 # game/watanagashi/watanagashi_vm.rpy:2609
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_7d36c320:
@@ -4906,7 +4906,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_7d36c320:
     # voice "voice/ps2/11/130700283.ogg"
     # extend " Maybe a secret poppy workshop?"
     voice "voice/ps2/11/130700283.ogg"
-    extend " Maybe a secret poppy workshop?"
+    extend " Ou uma fábrica secreta de ópio?"
 
 # game/watanagashi/watanagashi_vm.rpy:2611
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_d409899e:
@@ -4914,7 +4914,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_d409899e:
     # voice "voice/ps2/11/130700284.ogg"
     # extend " Perhaps there were mountains of Soviet or Chinese handguns. "
     voice "voice/ps2/11/130700284.ogg"
-    extend " Perhaps there were mountains of Soviet or Chinese handguns. "
+    extend " Talvez houvesse montanhas de armas de fogo soviéticas ou chinesas. "
 
 # game/watanagashi/watanagashi_vm.rpy:2613
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_8b09140d:
@@ -4922,7 +4922,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_8b09140d:
     # voice "voice/ps3/s02/11/130700285.ogg"
     # nvl_extend "There weren't any suspicious wooden boxes or containers packed in there?\""
     voice "voice/ps3/s02/11/130700285.ogg"
-    nvl_extend "There weren't any suspicious wooden boxes or containers packed in there?\""
+    nvl_extend "Não havia caixas de madeira ou recipientes suspeitos?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2615
 translate brazilian_portuguese vm_wata_011_02_00_n01_dialog003_2dc4098d:
@@ -4936,7 +4936,7 @@ translate brazilian_portuguese vm_wata_011_02_00_n01_dialog004_298faaf8:
     # voice "voice/ps3/s02/11/130700237.ogg"
     # a_oishi "...That one falls under the Gifu Prefecture's police department."
     voice "voice/ps3/s02/11/130700237.ogg"
-    a_oishi "...That one falls under the Gifu Prefecture's police department."
+    a_oishi "...Isso está sob a responsabilidade da Província de Gifu."
 
 # game/watanagashi/watanagashi_vm.rpy:2633
 translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog001_69ad01d4:
@@ -4944,7 +4944,7 @@ translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog001_69ad01d4:
     # voice "voice/ps3/s02/11/130700233.ogg"
     # a_oishi "...We suspect an overdose from a stimulant or something, but we didn't detect anything.\""
     voice "voice/ps3/s02/11/130700233.ogg"
-    a_oishi "...We suspect an overdose from a stimulant or something, but we didn't detect anything.\""
+    a_oishi "...Nós suspeitamos de uma overdose de algum estimulante ou algo assim, mas não detectamos nada.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2640
 translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog002_aa046e02:
@@ -4952,7 +4952,7 @@ translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog002_aa046e02:
     # voice "voice/ps3/s02/11/130700241.ogg"
     # extend " ...It's a bit uncertain in Takano-san's case, but the likely prospect is that she was murdered at about the same time as Tomitake-san, then dumped in the mountains.\""
     voice "voice/ps3/s02/11/130700241.ogg"
-    extend " ...It's a bit uncertain in Takano-san's case, but the likely prospect is that she was murdered at about the same time as Tomitake-san, then dumped in the mountains.\""
+    extend " ...É um pouco incerto quanto a Takano-san, mas o mais provável é que ela foi assassinada por volta da mesma hora que Tomitake-san, então despejada nas montanhas.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2647
 translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog003_1790d950:
@@ -4960,7 +4960,7 @@ translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog003_1790d950:
     # voice "voice/ps3/s02/11/130700281.ogg"
     # a_oishi "\"There was nothing terrible in there that would make you keep silent?"
     voice "voice/ps3/s02/11/130700281.ogg"
-    a_oishi "\"There was nothing terrible in there that would make you keep silent?"
+    a_oishi "\"Não havia nada de tão terrível lá que faria você ficar em silêncio?"
 
 # game/watanagashi/watanagashi_vm.rpy:2649
 translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog003_8b09140d:
@@ -4968,7 +4968,7 @@ translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog003_8b09140d:
     # voice "voice/ps3/s02/11/130700285.ogg"
     # nvl_extend "There weren't any suspicious wooden boxes or containers packed in there?\""
     voice "voice/ps3/s02/11/130700285.ogg"
-    nvl_extend "There weren't any suspicious wooden boxes or containers packed in there?\""
+    nvl_extend "Não havia caixas de madeira ou recipientes suspeitos?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2651
 translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog003_2dc4098d:
@@ -4982,7 +4982,7 @@ translate brazilian_portuguese vm_wata_011_02_0x_n01_dialog004_64b60e09:
     # voice "voice/ps3/s02/11/130700237.ogg"
     # a_oishi "...That one falls under the neighbouring Prefecture's police department."
     voice "voice/ps3/s02/11/130700237.ogg"
-    a_oishi "...That one falls under the neighbouring Prefecture's police department."
+    a_oishi "...Isso está sob a responsabilidade da prefeitura vizinha."
 
 # game/watanagashi/watanagashi_vm.rpy:2669
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_a381d810:
