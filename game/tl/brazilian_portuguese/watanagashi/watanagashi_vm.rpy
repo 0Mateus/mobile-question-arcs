@@ -5448,7 +5448,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog001_1db2a752:
     # voice "voice/ps3/s02/06/130600585.ogg"
     # a_shion "\"...Shion Sonozaki...... is a lowly, worthless sow not fit to even lick her big sister Mion's feet..."
     voice "voice/ps3/s02/06/130600585.ogg"
-    a_shion "\"...Shion Sonozaki...... is a lowly, worthless sow not fit to even lick her big sister Mion's feet..."
+    a_shion "\"...Sonozaki Shion...... é uma porca inútil e imunda, que não serve nem mesmo para lamber os pés de sua Onee-sama..."
 
 # game/watanagashi/watanagashi_vm.rpy:2898
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_5e67d3d9:
@@ -5456,7 +5456,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_5e67d3d9:
     # voice "voice/ps3/s02/03/130300673.ogg"
     # a_mion "\"...Can I start now, then?"
     voice "voice/ps3/s02/03/130300673.ogg"
-    a_mion "\"...Can I start now, then?"
+    a_mion "\"...Vamos começar, então?"
 
 # game/watanagashi/watanagashi_vm.rpy:2900
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_2bcea162:
@@ -5464,7 +5464,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_2bcea162:
     # voice "voice/ps3/s02/03/130300674.ogg"
     # extend " This method of torture is very simple."
     voice "voice/ps3/s02/03/130300674.ogg"
-    extend " This method of torture is very simple."
+    extend " Este método de tortura é muito simples."
 
 # game/watanagashi/watanagashi_vm.rpy:2902
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_9a23ab87:
@@ -5472,7 +5472,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_9a23ab87:
     # voice "voice/ps2/03/130300675.ogg"
     # nvl_extend "I'll nail one of these into the joint on the end of your left pinky finger."
     voice "voice/ps2/03/130300675.ogg"
-    nvl_extend "I'll nail one of these into the joint on the end of your left pinky finger."
+    nvl_extend "Vou pregar um desses na articulação da extremidade do seu dedo mindinho esquerdo."
 
 # game/watanagashi/watanagashi_vm.rpy:2904
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_a7f80257:
@@ -5480,7 +5480,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_a7f80257:
     # voice "voice/ps2/03/130300676.ogg"
     # extend " Then, I'll nail each one in order until I get to your thumb, and then I'll go back to your pinky and nail one into the joint in the middle."
     voice "voice/ps2/03/130300676.ogg"
-    extend " Then, I'll nail each one in order until I get to your thumb, and then I'll go back to your pinky and nail one into the joint in the middle."
+    extend " Em seguida, pregarei cada um deles em ordem até chegar ao polegar e, depois, voltarei ao mindinho e pregarei um na articulação no meio."
 
 # game/watanagashi/watanagashi_vm.rpy:2906
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_a12bf9b4:
@@ -5488,7 +5488,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_a12bf9b4:
     # voice "voice/ps2/03/130300677.ogg"
     # nvl_extend "...So on and so on, until I hammer fifteen nails into your left hand."
     voice "voice/ps2/03/130300677.ogg"
-    nvl_extend "...So on and so on, until I hammer fifteen nails into your left hand."
+    nvl_extend "...E assim por diante, até que eu martele quinze pregos em sua mão esquerda."
 
 # game/watanagashi/watanagashi_vm.rpy:2908
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_d3380644:
@@ -5496,7 +5496,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_d3380644:
     # voice "voice/ps2/03/130300678.ogg"
     # extend " When that's over with, I'll do your right hand next."
     voice "voice/ps2/03/130300678.ogg"
-    extend " When that's over with, I'll do your right hand next."
+    extend " Quando isso terminar, farei em sua mão direita em seguida."
 
 # game/watanagashi/watanagashi_vm.rpy:2910
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_9710631c:
@@ -5504,7 +5504,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_9710631c:
     # voice "voice/ps2/03/130300679.ogg"
     # nvl_extend "...After that......... if you're still conscious, I'll tell you."
     voice "voice/ps2/03/130300679.ogg"
-    nvl_extend "...After that......... if you're still conscious, I'll tell you."
+    nvl_extend "...Após isso......... se você ainda estiver consciente, eu lhe direi."
 
 # game/watanagashi/watanagashi_vm.rpy:2912
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_754ce69c:
@@ -5512,7 +5512,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_754ce69c:
     # voice "voice/ps2/03/130300680.ogg"
     # extend " There are a lot of nerves bundled in your fingertips, so it hurts far more than you could imagine."
     voice "voice/ps2/03/130300680.ogg"
-    extend " There are a lot of nerves bundled in your fingertips, so it hurts far more than you could imagine."
+    extend " Há uma grande quantidade de nervos agrupados nas pontas dos dedos, por isso dói muito mais do que você poderia imaginar."
 
 # game/watanagashi/watanagashi_vm.rpy:2914
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_d67078f5:
@@ -5520,7 +5520,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog002_d67078f5:
     # voice "voice/ps2/03/130300681.ogg"
     # nvl_extend "...Some people apparently pass out before you finish hammering thirty nails into their hands, so...\""
     voice "voice/ps2/03/130300681.ogg"
-    nvl_extend "...Some people apparently pass out before you finish hammering thirty nails into their hands, so...\""
+    nvl_extend "...Algumas pessoas aparentemente desmaiam antes de você terminar de martelar trinta pregos em suas mãos, então...\""
 
 # game/watanagashi/watanagashi_vm.rpy:2921
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog003_2d214177:
@@ -5528,7 +5528,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog003_2d214177:
     # voice "voice/ps2/03/130300682.ogg"
     # a_mion "\"............I didn't hesitate at all when I was torturing the others."
     voice "voice/ps2/03/130300682.ogg"
-    a_mion "\"............I didn't hesitate at all when I was torturing the others."
+    a_mion "\"............Eu não hesitei em nenhum momento enquanto eu estava torturando os outros."
 
 # game/watanagashi/watanagashi_vm.rpy:2923
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog003_9a9a159d:
@@ -5536,7 +5536,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog003_9a9a159d:
     # voice "voice/ps3/s02/03/130300683.ogg"
     # extend " ...Why do I hesitate now?\""
     voice "voice/ps3/s02/03/130300683.ogg"
-    extend " ...Why do I hesitate now?\""
+    extend " ...Por que eu hesito agora?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2930
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_8facc0ab:
@@ -5544,7 +5544,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_8facc0ab:
     # voice "voice/ps3/s02/03/130300712.ogg"
     # a_mion "\"......You've probably never seen one before, right?"
     voice "voice/ps3/s02/03/130300712.ogg"
-    a_mion "\"......You've probably never seen one before, right?"
+    a_mion "\"......Você provavelmente nunca viu um destes, certo?"
 
 # game/watanagashi/watanagashi_vm.rpy:2932
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_0312f9d7:
@@ -5552,7 +5552,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_0312f9d7:
     # voice "voice/ps3/s02/03/130300713.ogg"
     # extend " It's a real stun gun."
     voice "voice/ps3/s02/03/130300713.ogg"
-    extend " It's a real stun gun."
+    extend " Esta coisa é uma arma de choque."
 
 # game/watanagashi/watanagashi_vm.rpy:2934
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_bfe7e36d:
@@ -5560,7 +5560,7 @@ translate brazilian_portuguese vm_wata_012_03_00_n01_dialog004_bfe7e36d:
     # voice "voice/ps2/03/130300714.ogg"
     # extend " ...It's illegal, and its output has been increased quite a bit.\""
     voice "voice/ps2/03/130300714.ogg"
-    extend " ...It's illegal, and its output has been increased quite a bit.\""
+    extend " ...É ilegal, e sua potência foi aumentada um pouco.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2946
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog001_1db2a752:
@@ -5568,7 +5568,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog001_1db2a752:
     # voice "voice/ps3/s02/06/130600585.ogg"
     # a_shion "\"...Shion Sonozaki...... is a lowly, worthless sow not fit to even lick her big sister Mion's feet..."
     voice "voice/ps3/s02/06/130600585.ogg"
-    a_shion "\"...Shion Sonozaki...... is a lowly, worthless sow not fit to even lick her big sister Mion's feet..."
+    a_shion "\"...Sonozaki Shion...... é uma porca inútil e imunda, que não serve nem mesmo para lamber os pés de sua Onee-sama..."
 
 # game/watanagashi/watanagashi_vm.rpy:2953
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog002_5e67d3d9:
@@ -5576,7 +5576,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog002_5e67d3d9:
     # voice "voice/ps3/s02/03/130300673.ogg"
     # a_mion "\"...Can I start now, then?"
     voice "voice/ps3/s02/03/130300673.ogg"
-    a_mion "\"...Can I start now, then?"
+    a_mion "\"...Vamos começar, então?"
 
 # game/watanagashi/watanagashi_vm.rpy:2955
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog002_2bcea162:
@@ -5584,7 +5584,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog002_2bcea162:
     # voice "voice/ps3/s02/03/130300674.ogg"
     # extend " This method of torture is very simple."
     voice "voice/ps3/s02/03/130300674.ogg"
-    extend " This method of torture is very simple."
+    extend " Este método de tortura é muito simples."
 
 # game/watanagashi/watanagashi_vm.rpy:2964
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog003_c1be410a:
@@ -5592,7 +5592,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog003_c1be410a:
     # voice "voice/ps3/s02/03/130300682_1.ogg"
     # a_mion "\"............I didn't hesitate at all when I was torturing the others."
     voice "voice/ps3/s02/03/130300682_1.ogg"
-    a_mion "\"............I didn't hesitate at all when I was torturing the others."
+    a_mion "\"............Eu não hesitei em nenhum momento enquanto eu estava torturando os outros."
 
 # game/watanagashi/watanagashi_vm.rpy:2966
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog003_9a9a159d:
@@ -5600,7 +5600,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog003_9a9a159d:
     # voice "voice/ps3/s02/03/130300683.ogg"
     # extend " ...Why do I hesitate now?\""
     voice "voice/ps3/s02/03/130300683.ogg"
-    extend " ...Why do I hesitate now?\""
+    extend " ...Por que eu hesito agora?\""
 
 # game/watanagashi/watanagashi_vm.rpy:2973
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_8facc0ab:
@@ -5608,7 +5608,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_8facc0ab:
     # voice "voice/ps3/s02/03/130300712.ogg"
     # a_mion "\"......You've probably never seen one before, right?"
     voice "voice/ps3/s02/03/130300712.ogg"
-    a_mion "\"......You've probably never seen one before, right?"
+    a_mion "\"......Você provavelmente nunca viu um destes, certo?"
 
 # game/watanagashi/watanagashi_vm.rpy:2975
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_0312f9d7:
@@ -5616,7 +5616,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_0312f9d7:
     # voice "voice/ps3/s02/03/130300713.ogg"
     # extend " It's a real stun gun."
     voice "voice/ps3/s02/03/130300713.ogg"
-    extend " It's a real stun gun."
+    extend " Esta coisa é uma arma de choque."
 
 # game/watanagashi/watanagashi_vm.rpy:2977
 translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_384ab2cd:
@@ -5624,7 +5624,7 @@ translate brazilian_portuguese vm_wata_012_03_0x_n01_dialog004_384ab2cd:
     # voice "voice/ps3/s02/03/130300714.ogg"
     # extend " ...It's illegal, and its output has been increased quite a bit.\""
     voice "voice/ps3/s02/03/130300714.ogg"
-    extend " ...It's illegal, and its output has been increased quite a bit.\""
+    extend " ...É ilegal, e sua potência foi aumentada um pouco.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2989
 translate brazilian_portuguese vm_wata_012_00_n01_dialog001_3abfacfc:
@@ -5632,7 +5632,7 @@ translate brazilian_portuguese vm_wata_012_00_n01_dialog001_3abfacfc:
     # voice "voice/ps3/s02/01/130100946.ogg"
     # nvl_extend "{i}{b}Shion, now that you know they weren't having some secret rendezvous, you've had enough, right?!{/b}{/i}"
     voice "voice/ps3/s02/01/130100946.ogg"
-    nvl_extend "{i}{b}Shion, now that you know they weren't having some secret rendezvous, you've had enough, right?!{/b}{/i}"
+    nvl_extend "{i}{b}Shion, agora que você sabe que eles não estavam tendo um encontro secreto, você já teve o suficiente, certo?!{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:2991
 translate brazilian_portuguese vm_wata_012_00_n01_dialog001_7c61c89f:
@@ -5640,7 +5640,7 @@ translate brazilian_portuguese vm_wata_012_00_n01_dialog001_7c61c89f:
     # voice "voice/ps3/s02/01/130100947.ogg"
     # extend " {i}{b}I don't want to do something like this!{/b}{/i}"
     voice "voice/ps3/s02/01/130100947.ogg"
-    extend " {i}{b}I don't want to do something like this!{/b}{/i}"
+    extend " {i}{b}Eu não quero fazer algo parecido com isto!{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:2993
 translate brazilian_portuguese vm_wata_012_00_n01_dialog001_b5fd3849:
@@ -5648,7 +5648,7 @@ translate brazilian_portuguese vm_wata_012_00_n01_dialog001_b5fd3849:
     # voice "voice/ps3/s02/01/130100948.ogg"
     # extend " {i}{b}What if Rika-chan's dance ends while we're messing around here?!\"{/b}{/i}"
     voice "voice/ps3/s02/01/130100948.ogg"
-    extend " {i}{b}What if Rika-chan's dance ends while we're messing around here?!\"{/b}{/i}"
+    extend " {i}{b}E se a dança de Rika-chan terminar enquanto estamos perdendo tempo aqui?!\"{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:3005
 translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_3abfacfc:
@@ -5656,7 +5656,7 @@ translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_3abfacfc:
     # voice "voice/ps3/s02/01/130100946.ogg"
     # nvl_extend "{i}{b}Shion, now that you know they weren't having some secret rendezvous, you've had enough, right?!{/b}{/i}"
     voice "voice/ps3/s02/01/130100946.ogg"
-    nvl_extend "{i}{b}Shion, now that you know they weren't having some secret rendezvous, you've had enough, right?!{/b}{/i}"
+    nvl_extend "{i}{b}Shion, agora que você sabe que eles não estavam tendo um encontro secreto, você já teve o suficiente, certo?!{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:3007
 translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_7c61c89f:
@@ -5664,7 +5664,7 @@ translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_7c61c89f:
     # voice "voice/ps3/s02/01/130100947.ogg"
     # extend " {i}{b}I don't want to do something like this!{/b}{/i}"
     voice "voice/ps3/s02/01/130100947.ogg"
-    extend " {i}{b}I don't want to do something like this!{/b}{/i}"
+    extend " {i}{b}Eu não quero fazer algo parecido com isto!{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:3009
 translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_b5fd3849:
@@ -5672,7 +5672,7 @@ translate brazilian_portuguese vm_wata_012_0x_n01_dialog001_b5fd3849:
     # voice "voice/ps3/s02/01/130100948.ogg"
     # extend " {i}{b}What if Rika-chan's dance ends while we're messing around here?!\"{/b}{/i}"
     voice "voice/ps3/s02/01/130100948.ogg"
-    extend " {i}{b}What if Rika-chan's dance ends while we're messing around here?!\"{/b}{/i}"
+    extend " {i}{b}E se a dança de Rika-chan terminar enquanto estamos perdendo tempo aqui?!\"{/b}{/i}"
 
 # game/watanagashi/watanagashi_vm.rpy:3021
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_5b267693:
