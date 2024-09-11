@@ -5680,7 +5680,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_5b267693:
     # voice "voice/ps3/s02/11/130700414.ogg"
     # a_oishi "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~"
     voice "voice/ps3/s02/11/130700414.ogg"
-    a_oishi "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~"
+    a_oishi "\"Eu não sabia do que você gostava, Maebara-san, então eu trouxe todos os tipo de coisas~"
 
 # game/watanagashi/watanagashi_vm.rpy:3023
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_1415c8d3:
@@ -5688,7 +5688,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_1415c8d3:
     # voice "voice/ps3/s02/11/130700415.ogg"
     # extend " See, all sorts of cute-looking ones, from Westerns to comic strips!"
     voice "voice/ps3/s02/11/130700415.ogg"
-    extend " See, all sorts of cute-looking ones, from Westerns to comic strips!"
+    extend " Veja, todo o tipo de coisas encantadoras, desde mangás adultos a produtos ocidentais!"
 
 # game/watanagashi/watanagashi_vm.rpy:3025
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_29993ea5:
@@ -5696,7 +5696,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_29993ea5:
     # voice "voice/ps3/s02/11/130700416.ogg"
     # extend " Lately they have this sort of H-manga aimed at girls, too~\""
     voice "voice/ps3/s02/11/130700416.ogg"
-    extend " Lately they have this sort of H-manga aimed at girls, too~\""
+    extend " Ultimamente eles também têm esses mangás ecchi voltado a garotas~\""
 
 # game/watanagashi/watanagashi_vm.rpy:3027
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_3b7987da:
@@ -5704,7 +5704,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_3b7987da:
     # voice "voice/ps3/s02/01/130101198.ogg"
     # a_keiichi "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!"
     voice "voice/ps3/s02/01/130101198.ogg"
-    a_keiichi "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!"
+    a_keiichi "\"N-N-N-N-N-N-N-Não traga publicações eróticas para cá~!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3029
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_abf0d9e0:
@@ -5712,7 +5712,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_abf0d9e0:
     # voice "voice/ps3/s02/01/130101199.ogg"
     # extend " Take them away, and go home!!"
     voice "voice/ps3/s02/01/130101199.ogg"
-    extend " Take them away, and go home!!"
+    extend " Pegue elas de volta, e vá para casa!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3031
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog001_a507275e:
@@ -5728,7 +5728,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_c9b6621b:
     # voice "voice/ps2/11/130700467.ogg"
     # a_oishi "\"The Sonozaki family corporates...{w=1.0} er, the yakuza people."
     voice "voice/ps2/11/130700467.ogg"
-    a_oishi "\"The Sonozaki family corporates...{w=1.0} er, the yakuza people."
+    a_oishi "\"As corporações da família Sonozaki...{w=1.0} er, o pessoal da yakuza."
 
 # game/watanagashi/watanagashi_vm.rpy:3040
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_9984789b:
@@ -5736,7 +5736,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_9984789b:
     # voice "voice/ps2/11/130700468.ogg"
     # extend " ...Anyway, there's rumors that they deal in psychostimulants."
     voice "voice/ps2/11/130700468.ogg"
-    extend " ...Anyway, there's rumors that they deal in psychostimulants."
+    extend " ...De qualquer forma, há rumores de que eles traficam psicoestimulantes."
 
 # game/watanagashi/watanagashi_vm.rpy:3042
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_53b34b56:
@@ -5744,7 +5744,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_53b34b56:
     # voice "voice/ps2/11/130700469.ogg"
     # extend " ...I was thinking that might have something to do with it, too.\""
     voice "voice/ps2/11/130700469.ogg"
-    extend " ...I was thinking that might have something to do with it, too.\""
+    extend " ...Eu estava me perguntando se poderia ter alguma relação com isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3044
 translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_d97a30d6:
@@ -5752,7 +5752,7 @@ translate brazilian_portuguese vm_wata_ep_02_00_n01_dialog002_d97a30d6:
     # voice "voice/ps2/01/130101215.ogg"
     # a_keiichi "\".........Are you trying to tell me... that Rika-chan is a drug addict...?!\""
     voice "voice/ps2/01/130101215.ogg"
-    a_keiichi "\".........Are you trying to tell me... that Rika-chan is a drug addict...?!\""
+    a_keiichi "\".........Você está tentando me dizer... que Rika-chan é viciada em drogas...?!\""
 
 # game/watanagashi/watanagashi_vm.rpy:3056
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_5b267693:
@@ -5760,7 +5760,7 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_5b267693:
     # voice "voice/ps3/s02/11/130700414.ogg"
     # a_oishi "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~"
     voice "voice/ps3/s02/11/130700414.ogg"
-    a_oishi "\"I didn't know what you were into, Maebara-san, so I brought all sorts of things~"
+    a_oishi "\"Eu não sabia do que você gostava, Maebara-san, então eu trouxe todos os tipo de coisas~"
 
 # game/watanagashi/watanagashi_vm.rpy:3058
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_1415c8d3:
@@ -5768,7 +5768,7 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_1415c8d3:
     # voice "voice/ps3/s02/11/130700415.ogg"
     # extend " See, all sorts of cute-looking ones, from Westerns to comic strips!"
     voice "voice/ps3/s02/11/130700415.ogg"
-    extend " See, all sorts of cute-looking ones, from Westerns to comic strips!"
+    extend " Veja, todo o tipo de coisas encantadoras, desde mangás adultos a produtos ocidentais!"
 
 # game/watanagashi/watanagashi_vm.rpy:3060
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_29993ea5:
@@ -5776,7 +5776,7 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_29993ea5:
     # voice "voice/ps3/s02/11/130700416.ogg"
     # extend " Lately they have this sort of H-manga aimed at girls, too~\""
     voice "voice/ps3/s02/11/130700416.ogg"
-    extend " Lately they have this sort of H-manga aimed at girls, too~\""
+    extend " Ultimamente eles também têm esses mangás ecchi voltado a garotas~\""
 
 # game/watanagashi/watanagashi_vm.rpy:3062
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_3b7987da:
@@ -5784,7 +5784,7 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_3b7987da:
     # voice "voice/ps3/s02/01/130101198.ogg"
     # a_keiichi "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!"
     voice "voice/ps3/s02/01/130101198.ogg"
-    a_keiichi "\"D-D-D-D-D-D-D-Don't bring porn in here~!!!"
+    a_keiichi "\"N-N-N-N-N-N-N-Não traga publicações eróticas para cá~!!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3064
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_abf0d9e0:
@@ -5792,7 +5792,7 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_abf0d9e0:
     # voice "voice/ps3/s02/01/130101199.ogg"
     # extend " Take them away, and go home!!"
     voice "voice/ps3/s02/01/130101199.ogg"
-    extend " Take them away, and go home!!"
+    extend " Pegue elas de volta, e vá para casa!!"
 
 # game/watanagashi/watanagashi_vm.rpy:3066
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_a507275e:
@@ -5806,19 +5806,19 @@ translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog001_a507275e:
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog002_87450998:
 
     # n "There were various dark rumors relating to the Sonozaki family."
-    n "There were various dark rumors relating to the Sonozaki family."
+    n "Havia vários rumores obscuros ligados à família Sonozaki."
 
 # game/watanagashi/watanagashi_vm.rpy:3074
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog002_b1a80905:
 
     # extend " ...Among them, there was even baseless speculation that they were selling illegal contraband."
-    extend " ...Among them, there was even baseless speculation that they were selling illegal contraband."
+    extend " ...Entre eles, havia até mesmo especulações sem fundamento de que eles vendiam contrabando ilegal."
 
 # game/watanagashi/watanagashi_vm.rpy:3075
 translate brazilian_portuguese vm_wata_ep_02_0x_n01_dialog002_9802aa75:
 
     # n "...Did Ooishi mean to say that Rika-chan is also suspected in relation to such things?!"
-    n "...Did Ooishi mean to say that Rika-chan is also suspected in relation to such things?!"
+    n "...Então, Ooishi quer dizer que Rika-chan também é suspeita em relação a tais coisas?!"
 
 # game/watanagashi/watanagashi_vm.rpy:3086
 translate brazilian_portuguese vm_wata_tips_01_00_n01_dialog001_2414b225:
@@ -6246,7 +6246,7 @@ translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_7db3139d:
     # voice "voice/ps3/s20/11/440700174.ogg"
     # a_oishi "\"Anything pointing out the Sonozaki family's connections to violent organizations would be a major contender.{nw}"
     voice "voice/ps3/s20/11/440700174.ogg"
-    a_oishi "\"Anything pointing out the Sonozaki family's connections to violent organizations would be a major contender.{nw}"
+    a_oishi "\"Um forte candidato seria qualquer coisa apontando conexões da família Sonozaki com organizações violentas.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3336
 translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_921da676:
@@ -6254,7 +6254,7 @@ translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_921da676:
     # voice sustain
     # extend " Like a pile of Tokarevs, or a secret poppy production facility."
     voice sustain
-    extend " Like a pile of Tokarevs, or a secret poppy production facility."
+    extend " Como uma pilha de Tokarevs ou uma fábrica secreta de produção de ópio."
 
 # game/watanagashi/watanagashi_vm.rpy:3338
 translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_e0fc4a65:
@@ -6262,7 +6262,7 @@ translate brazilian_portuguese vm_wata_tips_22_00_n01_dialog001_e0fc4a65:
     # voice "voice/ps3/s20/11/440700175.ogg"
     # extend " The secret Sonozaki family fortune would also be pretty difficult to discard.\""
     voice "voice/ps3/s20/11/440700175.ogg"
-    extend " The secret Sonozaki family fortune would also be pretty difficult to discard.\""
+    extend " Seria difícil desconsiderar até mesmo ser a fortuna secreta da família Sonozaki.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3350
 translate brazilian_portuguese vm_wata_tips_22_0x_n01_dialog001_9dc7f34f:
@@ -6270,7 +6270,7 @@ translate brazilian_portuguese vm_wata_tips_22_0x_n01_dialog001_9dc7f34f:
     # voice "voice/ps3/s20/11/440700174.ogg"
     # a_oishi "\"Anything pointing out the Sonozaki family's connections to the black market would be a major contender. Like guns or contraband."
     voice "voice/ps3/s20/11/440700174.ogg"
-    a_oishi "\"Anything pointing out the Sonozaki family's connections to the black market would be a major contender. Like guns or contraband."
+    a_oishi "\"Um forte candidato seria qualquer coisa apontando conexões da família Sonozaki com o mercado negro. Como armas ou contrabando."
 
 # game/watanagashi/watanagashi_vm.rpy:3352
 translate brazilian_portuguese vm_wata_tips_22_0x_n01_dialog001_e0fc4a65:
@@ -6278,7 +6278,7 @@ translate brazilian_portuguese vm_wata_tips_22_0x_n01_dialog001_e0fc4a65:
     # voice "voice/ps3/s20/11/440700175.ogg"
     # extend " The secret Sonozaki family fortune would also be pretty difficult to discard.\""
     voice "voice/ps3/s20/11/440700175.ogg"
-    extend " The secret Sonozaki family fortune would also be pretty difficult to discard.\""
+    extend " Seria difícil desconsiderar até mesmo ser a fortuna secreta da família Sonozaki.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3364
 translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_2dfc4ad5:
@@ -6286,7 +6286,7 @@ translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_2dfc4ad5:
     # voice "voice/ps3/s20/11/440700188.ogg"
     # a_oishi "\"This always happens, but incidents are a lot like locking your keys in the car.{nw}"
     voice "voice/ps3/s20/11/440700188.ogg"
-    a_oishi "\"This always happens, but incidents are a lot like locking your keys in the car.{nw}"
+    a_oishi "\"Isso sempre acontece, mas os incidentes são muito parecidos com carros trancados.{nw}"
 
 # game/watanagashi/watanagashi_vm.rpy:3366
 translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_acc61af1:
@@ -6294,7 +6294,7 @@ translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_acc61af1:
     # voice sustain
     # extend " The keys you need to unlock the door are always locked inside."
     voice sustain
-    extend " The keys you need to unlock the door are always locked inside."
+    extend " As chaves que você precisa para abrir a porta estão sempre do lado de dentro."
 
 # game/watanagashi/watanagashi_vm.rpy:3368
 translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_3ad7bcef:
@@ -6302,7 +6302,7 @@ translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog001_3ad7bcef:
     # voice "voice/ps3/s20/11/440700189.ogg"
     # extend " For cars, you call the JAF and they'll pry open your door."
     voice "voice/ps3/s20/11/440700189.ogg"
-    extend " For cars, you call the JAF and they'll pry open your door."
+    extend " Para os carros, você chama o JAF, e eles vão arrombar a porta. (*) Japan Automobile Federation."
 
 # game/watanagashi/watanagashi_vm.rpy:3375
 translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog002_6fb13f69:
@@ -6310,7 +6310,7 @@ translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog002_6fb13f69:
     # voice "voice/ps3/s20/11/440700183.ogg"
     # a_oishi "In the coming days, we'll hand off Takano's murder to the Gifu Police, and give the missing persons case of the disappearance of the mayor and the others to the community division.\""
     voice "voice/ps3/s20/11/440700183.ogg"
-    a_oishi "In the coming days, we'll hand off Takano's murder to the Gifu Police, and give the missing persons case of the disappearance of the mayor and the others to the community division.\""
+    a_oishi "Nos próximos dias, vamos entregar o caso do assassinato de Takano à polícia de Gifu, e dar o caso das pessoas desaparecidas—do chefe da vila e os outros—à divisão comunitária.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3377
 translate brazilian_portuguese vm_wata_tips_24_00_n01_dialog002_2dc4098d:
@@ -6324,7 +6324,7 @@ translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog001_f607030a:
     # voice "voice/ps3/s20/11/440700188.ogg"
     # a_oishi "\"This always happens, but incidents are a lot like locking your keys in the car. The keys you need to unlock the door are always locked inside."
     voice "voice/ps3/s20/11/440700188.ogg"
-    a_oishi "\"This always happens, but incidents are a lot like locking your keys in the car. The keys you need to unlock the door are always locked inside."
+    a_oishi "\"Isso sempre acontece, mas os incidentes são muito parecidos com carros trancados. As chaves que você precisa para abrir a porta estão sempre do lado de dentro."
 
 # game/watanagashi/watanagashi_vm.rpy:3390
 translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog001_5415058d:
@@ -6332,7 +6332,7 @@ translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog001_5415058d:
     # voice "voice/ps3/s20/11/440700189.ogg"
     # extend " For cars, you call the repairman and they'll pry open your door."
     voice "voice/ps3/s20/11/440700189.ogg"
-    extend " For cars, you call the repairman and they'll pry open your door."
+    extend " Para os carros, você chama um mecânico e ele vai abrir a porta."
 
 # game/watanagashi/watanagashi_vm.rpy:3397
 translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog002_776efb21:
@@ -6340,7 +6340,7 @@ translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog002_776efb21:
     # voice "voice/ps3/s20/11/440700183.ogg"
     # a_oishi "In the coming days, we'll hand off Takano's murder to the neighbouring prefecture, and give the missing persons case of the disappearance of the mayor and the others to the community division.\""
     voice "voice/ps3/s20/11/440700183.ogg"
-    a_oishi "In the coming days, we'll hand off Takano's murder to the neighbouring prefecture, and give the missing persons case of the disappearance of the mayor and the others to the community division.\""
+    a_oishi "próximos dias, vamos entregar o caso do assassinato de Takano à polícia de Gifu, e dar o caso das pessoas desaparecidas—do chefe da vila e os outros—à divisão comunitária.\""
 
 # game/watanagashi/watanagashi_vm.rpy:3399
 translate brazilian_portuguese vm_wata_tips_24_0x_n01_dialog002_2dc4098d:
