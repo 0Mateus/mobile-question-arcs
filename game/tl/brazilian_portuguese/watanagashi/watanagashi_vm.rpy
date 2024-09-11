@@ -4990,7 +4990,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_a381d810:
     # voice "voice/ps3/s02/03/130300361_1.ogg"
     # a_mion "\"At the time... Onigafuchi Village had already lost its impenetrability."
     voice "voice/ps3/s02/03/130300361_1.ogg"
-    a_mion "\"At the time... Onigafuchi Village had already lost its impenetrability."
+    a_mion "\"Nessa época... a vila de Onigafuchi já não era mais impenetrável."
 
 # game/watanagashi/watanagashi_vm.rpy:2671
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_9582e1ef:
@@ -4998,7 +4998,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_9582e1ef:
     # voice "voice/ps2/03/130300363.ogg"
     # extend " ...The villagers, once worshipped as transcendents, were now on the receiving end of inhuman treatment..."
     voice "voice/ps2/03/130300363.ogg"
-    extend " ...The villagers, once worshipped as transcendents, were now on the receiving end of inhuman treatment..."
+    extend " ...Os moradores, uma vez adorados como sen'nin, estavam agora sendo tratados desumanamente..."
 
 # game/watanagashi/watanagashi_vm.rpy:2673
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_6ce1c601:
@@ -5006,7 +5006,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog001_6ce1c601:
     # voice "voice/ps2/03/130300364.ogg"
     # a_mion "The sacred Onigafuchi Village had been groundlessly labeled an isolated village of those afflicted with incurable diseases, a mere shadow of its former self... and stood on the precipice of an era of hardship.\""
     voice "voice/ps2/03/130300364.ogg"
-    a_mion "The sacred Onigafuchi Village had been groundlessly labeled an isolated village of those afflicted with incurable diseases, a mere shadow of its former self... and stood on the precipice of an era of hardship.\""
+    a_mion "A sagrada vila de Onigafuchi tinha sido infundadamente marcada como uma aldeia isolada, de pessoas atingidas por doenças incuráveis, uma mera sombra do seu passado.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2680
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_8d2ff06c:
@@ -5014,7 +5014,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_8d2ff06c:
     # voice "voice/ps2/03/130300365.ogg"
     # a_mion "\"......It even caused trials."
     voice "voice/ps2/03/130300365.ogg"
-    a_mion "\"......It even caused trials."
+    a_mion "\"......Isso até mesmo provocou julgamentos."
 
 # game/watanagashi/watanagashi_vm.rpy:2682
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_a8ad0791:
@@ -5022,7 +5022,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_a8ad0791:
     # voice "voice/ps2/03/130300366.ogg"
     # extend " ...They would appeal that where one came from wasn't an important enough reason to divorce."
     voice "voice/ps2/03/130300366.ogg"
-    extend " ...They would appeal that where one came from wasn't an important enough reason to divorce."
+    extend " ...Eles apelavam para o fato de que o local de onde vinham não era um motivo importante o suficiente para um divórcio."
 
 # game/watanagashi/watanagashi_vm.rpy:2684
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_373f38b4:
@@ -5030,7 +5030,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_373f38b4:
     # voice "voice/ps2/03/130300367.ogg"
     # extend " ...They would, however, lose their case."
     voice "voice/ps2/03/130300367.ogg"
-    extend " ...They would, however, lose their case."
+    extend " ...Mas mesmo assim, eles perderiam o caso."
 
 # game/watanagashi/watanagashi_vm.rpy:2686
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_d63a2681:
@@ -5038,7 +5038,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog002_d63a2681:
     # voice "voice/ps2/03/130300368.ogg"
     # extend " ...Lying about one's birthplace apparently constitutes a heavy act of misrepresentation in marriage...\""
     voice "voice/ps2/03/130300368.ogg"
-    extend " ...Lying about one's birthplace apparently constitutes a heavy act of misrepresentation in marriage...\""
+    extend " ...Mentir sobre o local de nascimento aparentemente constitui em um ato grave de fraude no casamento...\""
 
 # game/watanagashi/watanagashi_vm.rpy:2693
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog003_d6890e09:
@@ -5046,7 +5046,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog003_d6890e09:
     # voice "voice/ps2/03/130300372.ogg"
     # a_mion "\"......During the Pacific War, despite the slogans that all the country was acting as one... those from Hinamizawa continued to suffer all manner of discrimination."
     voice "voice/ps2/03/130300372.ogg"
-    a_mion "\"......During the Pacific War, despite the slogans that all the country was acting as one... those from Hinamizawa continued to suffer all manner of discrimination."
+    a_mion "\"......Durante a Guerra do Pacífico, a despeito dos slogans de que todo o país estava agindo como um... as pessoas de Hinamizawa continuavam a sofrer todo o tipo de discriminação."
 
 # game/watanagashi/watanagashi_vm.rpy:2695
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog003_2b937a44:
@@ -5054,7 +5054,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog003_2b937a44:
     # voice "voice/ps3/s02/03/130300361_6.ogg"
     # extend " ...There were too many ways to count."
     voice "voice/ps3/s02/03/130300361_6.ogg"
-    extend " ...There were too many ways to count."
+    extend " ...Havia muitas maneiras de contar."
 
 # game/watanagashi/watanagashi_vm.rpy:2702
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog004_db29fef6:
@@ -5062,7 +5062,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog004_db29fef6:
     # voice "voice/ps2/03/130300381.ogg"
     # a_mion "\"Sohei said that he managed food warehouses in Harbin after being dispatched to the Chinese mainland. When it was time to pull out, he conspired with his superiors and comrades and stole a great deal of the army's canned goods."
     voice "voice/ps2/03/130300381.ogg"
-    a_mion "\"Sohei said that he managed food warehouses in Harbin after being dispatched to the Chinese mainland. When it was time to pull out, he conspired with his superiors and comrades and stole a great deal of the army's canned goods."
+    a_mion "\"Sohei disse que havia depósitos de alimentos em Harbin, depois de ter sido enviado para o China continental. Quando chegou a hora de ir embora, ele conspirou com seus superiores e companheiros e roubou uma grande quantidade de produtos enlatados do exército."
 
 # game/watanagashi/watanagashi_vm.rpy:2709
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog005_8b1f157a:
@@ -5070,7 +5070,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog005_8b1f157a:
     # voice "voice/ps3/s02/03/130300388.ogg"
     # a_mion "\"...However... around 1955, the wind started blowing in the other direction again..."
     voice "voice/ps3/s02/03/130300388.ogg"
-    a_mion "\"...However... around 1955, the wind started blowing in the other direction again..."
+    a_mion "\"...Entretanto... por volta de Showa 30 (1955), o vento começou novamente a soprar em outra direção..."
 
 # game/watanagashi/watanagashi_vm.rpy:2711
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog005_6d1c9a95:
@@ -5078,13 +5078,13 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog005_6d1c9a95:
     # voice "voice/ps3/s02/03/130300389.ogg"
     # extend " ...because of the 'Canned Flesh Incident.'\""
     voice "voice/ps3/s02/03/130300389.ogg"
-    extend " ...because of the 'Canned Flesh Incident.'\""
+    extend " ...por causa do 'Incidente da carne humana enlatada.'\""
 
 # game/watanagashi/watanagashi_vm.rpy:2713
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog005_99f4533a:
 
     # n "Canned flesh......"
-    n "Canned flesh......"
+    n "Carne humana enlatada......"
 
 # game/watanagashi/watanagashi_vm.rpy:2719
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog006_70ed93b4:
@@ -5092,7 +5092,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog006_70ed93b4:
     # voice "voice/ps3/s02/03/130300390.ogg"
     # a_mion "\"Someone naming himself as my grandfather Sohei Sonozaki's superior confessed..."
     voice "voice/ps3/s02/03/130300390.ogg"
-    a_mion "\"Someone naming himself as my grandfather Sohei Sonozaki's superior confessed..."
+    a_mion "\"Alguém identificando-se como o superior do meu avô Sonozaki Sohei confessou..."
 
 # game/watanagashi/watanagashi_vm.rpy:2721
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog006_85654eff:
@@ -5100,7 +5100,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog006_85654eff:
     # voice "voice/ps3/s02/03/130300391.ogg"
     # extend " that those canned goods had been human flesh.\""
     voice "voice/ps3/s02/03/130300391.ogg"
-    extend " that those canned goods had been human flesh.\""
+    extend " que aqueles produtos enlatados eram carne humana.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2723
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog006_2dc4098d:
@@ -5114,7 +5114,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog007_b7ee3a28:
     # voice "voice/ps3/s02/03/130300392.ogg"
     # a_mion "\"The unit Sohei was in did way kinder research than that."
     voice "voice/ps3/s02/03/130300392.ogg"
-    a_mion "\"The unit Sohei was in did way kinder research than that."
+    a_mion "\"A unidade na qual Sohei estava era mais gentil que aquela."
 
 # game/watanagashi/watanagashi_vm.rpy:2731
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog007_9f985cce:
@@ -5122,7 +5122,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog007_9f985cce:
     # voice "voice/ps3/s02/03/130300393.ogg"
     # extend " ...They were researching concrete methods for reducing the difficulty of delivering food on the battlefield.\""
     voice "voice/ps3/s02/03/130300393.ogg"
-    extend " ...They were researching concrete methods for reducing the difficulty of delivering food on the battlefield.\""
+    extend " ...Eles estavam pesquisando métodos concretos para reduzir a dificuldade de entrega de alimentos no campo de batalha.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2738
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_957ba20e:
@@ -5130,7 +5130,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_957ba20e:
     # voice "voice/ps3/s02/03/130300395.ogg"
     # a_mion "\"...That's right."
     voice "voice/ps3/s02/03/130300395.ogg"
-    a_mion "\"...That's right."
+    a_mion "\"...Isso mesmo."
 
 # game/watanagashi/watanagashi_vm.rpy:2740
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_a8939d50:
@@ -5138,7 +5138,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_a8939d50:
     # voice "voice/ps3/s02/03/130300396.ogg"
     # extend " ...They were researching ways to handle using humans as food."
     voice "voice/ps3/s02/03/130300396.ogg"
-    extend " ...They were researching ways to handle using humans as food."
+    extend " ...Eles estavam pesquisando maneiras de usar humanos como alimento."
 
 # game/watanagashi/watanagashi_vm.rpy:2742
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_d122e8e3:
@@ -5146,7 +5146,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_d122e8e3:
     # voice "voice/ps3/s02/03/130300397.ogg"
     # extend " ...Fighting onwards, sometimes eating the flesh of enemies and sometimes that of allies, became the ultimate service paid to their country."
     voice "voice/ps3/s02/03/130300397.ogg"
-    extend " ...Fighting onwards, sometimes eating the flesh of enemies and sometimes that of allies, became the ultimate service paid to their country."
+    extend " ...Lutando sempre à frente, às vezes comendo a carne de inimigos e, às vezes, a de aliados, tornou-se o último pagamento do seu país."
 
 # game/watanagashi/watanagashi_vm.rpy:2744
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_f657fa7f:
@@ -5154,7 +5154,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_f657fa7f:
     # voice "voice/ps3/s02/03/130300398.ogg"
     # nvl_extend "...They were deathly serious about this doctrine."
     voice "voice/ps3/s02/03/130300398.ogg"
-    nvl_extend "...They were deathly serious about this doctrine."
+    nvl_extend "...Eles estavam muito sérios sobre esta ideia."
 
 # game/watanagashi/watanagashi_vm.rpy:2746
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_f1a4d863:
@@ -5162,7 +5162,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_f1a4d863:
     # voice "voice/ps3/s02/03/130300399.ogg"
     # extend " ...It really is a riot."
     voice "voice/ps3/s02/03/130300399.ogg"
-    extend " ...It really is a riot."
+    extend " ...É uma história patética."
 
 # game/watanagashi/watanagashi_vm.rpy:2748
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_48d52a29:
@@ -5170,7 +5170,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_48d52a29:
     # voice "voice/ps3/s02/03/130300400.ogg"
     # nvl_extend "My grandfather was despised as someone who ate human flesh, and yet they had gone above and beyond that."
     voice "voice/ps3/s02/03/130300400.ogg"
-    nvl_extend "My grandfather was despised as someone who ate human flesh, and yet they had gone above and beyond that."
+    nvl_extend "Meu avô era desprezado como alguém que comia carne humana, mas eles realmente foram muito além."
 
 # game/watanagashi/watanagashi_vm.rpy:2750
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_9f86d601:
@@ -5178,7 +5178,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_9f86d601:
     # voice "voice/ps3/s02/03/130300401.ogg"
     # extend " Apparently he always thought about it, too."
     voice "voice/ps3/s02/03/130300401.ogg"
-    extend " Apparently he always thought about it, too."
+    extend " Aparentemente, ele também pensou isso."
 
 # game/watanagashi/watanagashi_vm.rpy:2752
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_73c803b6:
@@ -5186,7 +5186,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_73c803b6:
     # voice "voice/ps3/s02/03/130300402.ogg"
     # nvl_extend "Even if he was a vulgar, man-eating demon, they were far more ugly demons than he."
     voice "voice/ps3/s02/03/130300402.ogg"
-    nvl_extend "Even if he was a vulgar, man-eating demon, they were far more ugly demons than he."
+    nvl_extend "Mesmo que ele fosse um demônio vulgar, devorador de gente, haviam demônios muito mais horrendos do que ele."
 
 # game/watanagashi/watanagashi_vm.rpy:2754
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_d3b03411:
@@ -5194,7 +5194,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog008_d3b03411:
     # voice "voice/ps3/s02/03/130300403.ogg"
     # extend " So no matter how much he was scorned, he wouldn't put up with it.\""
     voice "voice/ps3/s02/03/130300403.ogg"
-    extend " So no matter how much he was scorned, he wouldn't put up with it.\""
+    extend " Portanto, não importa o quanto ele fosse desprezado, ele não iria suportar isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2767
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_aef79ad0:
@@ -5202,7 +5202,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_aef79ad0:
     # voice "voice/ps3/s02/03/130300406.ogg"
     # a_mion "\"...I don't know if it's true."
     voice "voice/ps3/s02/03/130300406.ogg"
-    a_mion "\"...I don't know if it's true."
+    a_mion "\"...Eu não sei se é verdade."
 
 # game/watanagashi/watanagashi_vm.rpy:2769
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_1a11913c:
@@ -5210,7 +5210,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_1a11913c:
     # voice "voice/ps3/s02/03/130300407.ogg"
     # extend " Sohei denied it was human flesh up until the day he died."
     voice "voice/ps3/s02/03/130300407.ogg"
-    extend " Sohei denied it was human flesh up until the day he died."
+    extend " Sohei negou que fosse carne humana até o fim de sua vida."
 
 # game/watanagashi/watanagashi_vm.rpy:2771
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_f257a74b:
@@ -5218,7 +5218,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_f257a74b:
     # voice "voice/ps3/s02/03/130300408.ogg"
     # a_mion "However, those who begrudged Hinamizawa's sudden revival called him a savage for making a fortune from selling human flesh... and the villagers began to be scorned again."
     voice "voice/ps3/s02/03/130300408.ogg"
-    a_mion "However, those who begrudged Hinamizawa's sudden revival called him a savage for making a fortune from selling human flesh... and the villagers began to be scorned again."
+    a_mion "No entanto, aqueles que invejavam Hinamizawa chamaram-no de selvagem, por fazer fortuna com a venda de carne humana... e os moradores da vila começaram novamente a sofrer preconceito."
 
 # game/watanagashi/watanagashi_vm.rpy:2773
 translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_30d7ae9d:
@@ -5226,7 +5226,7 @@ translate brazilian_portuguese vm_wata_012_02_00_n01_dialog011_30d7ae9d:
     # voice "voice/ps3/s02/03/130300409.ogg"
     # nvl_extend "...They returned to a time where children would be jeered at and have rocks thrown at them.\""
     voice "voice/ps3/s02/03/130300409.ogg"
-    nvl_extend "...They returned to a time where children would be jeered at and have rocks thrown at them.\""
+    nvl_extend "...Eles voltaram aos tempos quando as crianças eram zombadas e tinham pedras jogadas nelas.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2785
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_a381d810:
@@ -5234,7 +5234,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_a381d810:
     # voice "voice/ps3/s02/03/130300361_1.ogg"
     # a_mion "\"At the time... Onigafuchi Village had already lost its impenetrability."
     voice "voice/ps3/s02/03/130300361_1.ogg"
-    a_mion "\"At the time... Onigafuchi Village had already lost its impenetrability."
+    a_mion "\"Nessa época... a vila de Onigafuchi já não era mais impenetrável."
 
 # game/watanagashi/watanagashi_vm.rpy:2787
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_e9188286:
@@ -5242,7 +5242,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_e9188286:
     # voice "voice/ps3/s02/03/130300361_2.ogg"
     # extend " ...The villagers, once worshipped as transcendents, were now looked down upon as freaks..."
     voice "voice/ps3/s02/03/130300361_2.ogg"
-    extend " ...The villagers, once worshipped as transcendents, were now looked down upon as freaks..."
+    extend " ...Os moradores, uma vez adorados como sen'nin, estavam agora sendo tratados desumanamente..."
 
 # game/watanagashi/watanagashi_vm.rpy:2789
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_be5a3388:
@@ -5250,7 +5250,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_be5a3388:
     # voice "voice/ps3/s02/03/130300361_3.ogg"
     # a_mion "Far from the truth, the sacred Onigafuchi Village had been groundlessly labelled..."
     voice "voice/ps3/s02/03/130300361_3.ogg"
-    a_mion "Far from the truth, the sacred Onigafuchi Village had been groundlessly labelled..."
+    a_mion "Longe de ser verdade, a vila de Onigafuchi havia sido rotulada de forma infudada..."
 
 # game/watanagashi/watanagashi_vm.rpy:2791
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_8ff7c6d5:
@@ -5258,7 +5258,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog001_8ff7c6d5:
     # voice "voice/ps3/s02/03/130300361_4.ogg"
     # extend " and stood on the precipice of an era of hardship.\""
     voice "voice/ps3/s02/03/130300361_4.ogg"
-    extend " and stood on the precipice of an era of hardship.\""
+    extend " e estava à beira de uma época de dificuldades.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2800
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog003_1f86cdb2:
@@ -5266,7 +5266,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog003_1f86cdb2:
     # voice "voice/ps3/s02/03/130300361_5.ogg"
     # a_mion "\"...During the Pacific War, despite the slogans that all the country was acting as one... those from Hinamizawa continued to suffer all manner of discrimination."
     voice "voice/ps3/s02/03/130300361_5.ogg"
-    a_mion "\"...During the Pacific War, despite the slogans that all the country was acting as one... those from Hinamizawa continued to suffer all manner of discrimination."
+    a_mion "\"...Durante a Guerra do Pacífico, a despeito dos slogans de que todo o país estava agindo como um... as pessoas de Hinamizawa continuavam a sofrer todo o tipo de discriminação."
 
 # game/watanagashi/watanagashi_vm.rpy:2802
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog003_2b937a44:
@@ -5274,7 +5274,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog003_2b937a44:
     # voice "voice/ps3/s02/03/130300361_6.ogg"
     # extend " ...There were too many ways to count."
     voice "voice/ps3/s02/03/130300361_6.ogg"
-    extend " ...There were too many ways to count."
+    extend " ...Havia muitas maneiras de contar."
 
 # game/watanagashi/watanagashi_vm.rpy:2809
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog004_be4ff9f9:
@@ -5282,7 +5282,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog004_be4ff9f9:
     # voice "voice/ps3/s02/03/130300361_8.ogg"
     # a_mion "\"Sohei said that he managed food warehouses in Harbin after being dispatched to the Chinese mainland. When it was time to pull out, he conspired with his superiors and comrades and stole a great deal of the army's canned goods."
     voice "voice/ps3/s02/03/130300361_8.ogg"
-    a_mion "\"Sohei said that he managed food warehouses in Harbin after being dispatched to the Chinese mainland. When it was time to pull out, he conspired with his superiors and comrades and stole a great deal of the army's canned goods."
+    a_mion "\"Sohei disse que havia depósitos de alimentos em Harbin, depois de ter sido enviado para a China continental. Quando chegou a hora de ir embora, ele conspirou com seus superiores e companheiros e roubou uma grande quantidade de produtos enlatados do exército."
 
 # game/watanagashi/watanagashi_vm.rpy:2816
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog005_8b1f157a:
@@ -5290,7 +5290,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog005_8b1f157a:
     # voice "voice/ps3/s02/03/130300388.ogg"
     # a_mion "\"...However... around 1955, the wind started blowing in the other direction again..."
     voice "voice/ps3/s02/03/130300388.ogg"
-    a_mion "\"...However... around 1955, the wind started blowing in the other direction again..."
+    a_mion "\"...Entretanto... por volta de Showa 30 (1955), o vento começou novamente a soprar em outra direção..."
 
 # game/watanagashi/watanagashi_vm.rpy:2818
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog005_6d1c9a95:
@@ -5298,13 +5298,13 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog005_6d1c9a95:
     # voice "voice/ps3/s02/03/130300389.ogg"
     # extend " ...because of the 'Canned Flesh Incident.'\""
     voice "voice/ps3/s02/03/130300389.ogg"
-    extend " ...because of the 'Canned Flesh Incident.'\""
+    extend " ...por causa do 'Incidente da carne humana enlatada.'\""
 
 # game/watanagashi/watanagashi_vm.rpy:2820
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog005_99f4533a:
 
     # n "Canned flesh......"
-    n "Canned flesh......"
+    n "Carne humana enlatada......"
 
 # game/watanagashi/watanagashi_vm.rpy:2826
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog006_70ed93b4:
@@ -5312,7 +5312,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog006_70ed93b4:
     # voice "voice/ps3/s02/03/130300390.ogg"
     # a_mion "\"Someone naming himself as my grandfather Sohei Sonozaki's superior confessed..."
     voice "voice/ps3/s02/03/130300390.ogg"
-    a_mion "\"Someone naming himself as my grandfather Sohei Sonozaki's superior confessed..."
+    a_mion "\"Alguém identificando-se como o superior do meu avô Sonozaki Sohei confessou..."
 
 # game/watanagashi/watanagashi_vm.rpy:2828
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog006_85654eff:
@@ -5320,7 +5320,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog006_85654eff:
     # voice "voice/ps3/s02/03/130300391.ogg"
     # extend " that those canned goods had been human flesh.\""
     voice "voice/ps3/s02/03/130300391.ogg"
-    extend " that those canned goods had been human flesh.\""
+    extend " que aqueles produtos enlatados eram carne humana.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2835
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog007_bfcd76c4:
@@ -5328,7 +5328,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog007_bfcd76c4:
     # voice "voice/ps3/s02/03/130300392.ogg"
     # a_mion "\"The research undertaken by the unit Sohei was more realistic and less harsh than that."
     voice "voice/ps3/s02/03/130300392.ogg"
-    a_mion "\"The research undertaken by the unit Sohei was more realistic and less harsh than that."
+    a_mion "\"A pesquisa da unidade na qual Sohei estava era bem mais realista e menos cruel que aquilo."
 
 # game/watanagashi/watanagashi_vm.rpy:2837
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog007_9f985cce:
@@ -5336,7 +5336,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog007_9f985cce:
     # voice "voice/ps3/s02/03/130300393.ogg"
     # extend " ...They were researching concrete methods for reducing the difficulty of delivering food on the battlefield.\""
     voice "voice/ps3/s02/03/130300393.ogg"
-    extend " ...They were researching concrete methods for reducing the difficulty of delivering food on the battlefield.\""
+    extend " ...Eles estavam pesquisando métodos concretos para reduzir a dificuldade de entrega de alimentos no campo de batalha.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2844
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_957ba20e:
@@ -5344,7 +5344,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_957ba20e:
     # voice "voice/ps3/s02/03/130300395.ogg"
     # a_mion "\"...That's right."
     voice "voice/ps3/s02/03/130300395.ogg"
-    a_mion "\"...That's right."
+    a_mion "\"...Isso mesmo."
 
 # game/watanagashi/watanagashi_vm.rpy:2846
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_39b9ec55:
@@ -5352,7 +5352,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_39b9ec55:
     # voice "voice/ps3/s02/03/130300396.ogg"
     # extend " ...They were researching ways to handle using 'ingredients' not ordinarily eaten as food."
     voice "voice/ps3/s02/03/130300396.ogg"
-    extend " ...They were researching ways to handle using 'ingredients' not ordinarily eaten as food."
+    extend " ...Eles estavam pesquisando maneiras de usar 'ingredientes' que não são normalmente comidos, como comida."
 
 # game/watanagashi/watanagashi_vm.rpy:2848
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_0d8c4143:
@@ -5360,7 +5360,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_0d8c4143:
     # voice "voice/ps3/s02/03/130300397.ogg"
     # extend " ...Fighting onwards, sometimes eating from the most undesirable food-sources, became the ultimate service paid to their country."
     voice "voice/ps3/s02/03/130300397.ogg"
-    extend " ...Fighting onwards, sometimes eating from the most undesirable food-sources, became the ultimate service paid to their country."
+    extend " ...Lutando sempre à frente, às vezes tendo que comer as coisas mais indesejáveis do mundo, tornou-se o último pagamento do seu país."
 
 # game/watanagashi/watanagashi_vm.rpy:2850
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_f657fa7f:
@@ -5368,7 +5368,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_f657fa7f:
     # voice "voice/ps3/s02/03/130300398.ogg"
     # nvl_extend "...They were deathly serious about this doctrine."
     voice "voice/ps3/s02/03/130300398.ogg"
-    nvl_extend "...They were deathly serious about this doctrine."
+    nvl_extend "...Eles estavam muito sérios sobre esta ideia."
 
 # game/watanagashi/watanagashi_vm.rpy:2852
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_f1a4d863:
@@ -5376,7 +5376,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_f1a4d863:
     # voice "voice/ps3/s02/03/130300399.ogg"
     # extend " ...It really is a riot."
     voice "voice/ps3/s02/03/130300399.ogg"
-    extend " ...It really is a riot."
+    extend " ...É uma história patética."
 
 # game/watanagashi/watanagashi_vm.rpy:2854
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_48d52a29:
@@ -5384,7 +5384,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_48d52a29:
     # voice "voice/ps3/s02/03/130300400.ogg"
     # nvl_extend "My grandfather was despised as someone who ate human flesh, and yet they had gone above and beyond that."
     voice "voice/ps3/s02/03/130300400.ogg"
-    nvl_extend "My grandfather was despised as someone who ate human flesh, and yet they had gone above and beyond that."
+    nvl_extend "Meu avô era desprezado como alguém que comia carne humana, mas eles realmente foram muito além."
 
 # game/watanagashi/watanagashi_vm.rpy:2856
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_9f86d601:
@@ -5392,7 +5392,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_9f86d601:
     # voice "voice/ps3/s02/03/130300401.ogg"
     # extend " Apparently he always thought about it, too."
     voice "voice/ps3/s02/03/130300401.ogg"
-    extend " Apparently he always thought about it, too."
+    extend " Aparentemente, ele também pensou isso."
 
 # game/watanagashi/watanagashi_vm.rpy:2858
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_fc8a75da:
@@ -5400,7 +5400,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_fc8a75da:
     # voice "voice/ps3/s02/03/130300402.ogg"
     # nvl_extend "No matter what the rumors of him were, they were far uglier demons than he."
     voice "voice/ps3/s02/03/130300402.ogg"
-    nvl_extend "No matter what the rumors of him were, they were far uglier demons than he."
+    nvl_extend "Não importa quais fossem os rumores sobre ele, eles eram demônios muito piores que ele."
 
 # game/watanagashi/watanagashi_vm.rpy:2860
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_d3b03411:
@@ -5408,7 +5408,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog008_d3b03411:
     # voice "voice/ps3/s02/03/130300403.ogg"
     # extend " So no matter how much he was scorned, he wouldn't put up with it.\""
     voice "voice/ps3/s02/03/130300403.ogg"
-    extend " So no matter how much he was scorned, he wouldn't put up with it.\""
+    extend " Portanto, não importa o quanto ele fosse desprezado, ele não iria suportar isso.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2873
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_aef79ad0:
@@ -5416,7 +5416,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_aef79ad0:
     # voice "voice/ps3/s02/03/130300406.ogg"
     # a_mion "\"...I don't know if it's true."
     voice "voice/ps3/s02/03/130300406.ogg"
-    a_mion "\"...I don't know if it's true."
+    a_mion "\"...Eu não sei se é verdade."
 
 # game/watanagashi/watanagashi_vm.rpy:2875
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_1a11913c:
@@ -5424,7 +5424,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_1a11913c:
     # voice "voice/ps3/s02/03/130300407.ogg"
     # extend " Sohei denied it was human flesh up until the day he died."
     voice "voice/ps3/s02/03/130300407.ogg"
-    extend " Sohei denied it was human flesh up until the day he died."
+    extend " Sohei negou que fosse carne humana até o fim de sua vida."
 
 # game/watanagashi/watanagashi_vm.rpy:2877
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_f257a74b:
@@ -5432,7 +5432,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_f257a74b:
     # voice "voice/ps3/s02/03/130300408.ogg"
     # a_mion "However, those who begrudged Hinamizawa's sudden revival called him a savage for making a fortune from selling human flesh... and the villagers began to be scorned again."
     voice "voice/ps3/s02/03/130300408.ogg"
-    a_mion "However, those who begrudged Hinamizawa's sudden revival called him a savage for making a fortune from selling human flesh... and the villagers began to be scorned again."
+    a_mion "No entanto, aqueles que invejavam Hinamizawa chamaram-no de selvagem, por fazer fortuna com a venda de carne humana... e os moradores da vila começaram novamente a sofrer preconceito."
 
 # game/watanagashi/watanagashi_vm.rpy:2879
 translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_30d7ae9d:
@@ -5440,7 +5440,7 @@ translate brazilian_portuguese vm_wata_012_02_0x_n01_dialog011_30d7ae9d:
     # voice "voice/ps3/s02/03/130300409.ogg"
     # nvl_extend "...They returned to a time where children would be jeered at and have rocks thrown at them.\""
     voice "voice/ps3/s02/03/130300409.ogg"
-    nvl_extend "...They returned to a time where children would be jeered at and have rocks thrown at them.\""
+    nvl_extend "...Eles voltaram aos tempos quando as crianças eram zombadas e tinham pedras jogadas nelas.\""
 
 # game/watanagashi/watanagashi_vm.rpy:2891
 translate brazilian_portuguese vm_wata_012_03_00_n01_dialog001_1db2a752:
