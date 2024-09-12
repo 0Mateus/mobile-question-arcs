@@ -6354,7 +6354,7 @@ translate brazilian_portuguese vm_omake_02_00_n01_dialog001_01af083a:
     # voice "voice/ps3/s20/04/440400179.ogg"
     # a_satoko "\"An honest opinion... was the story this time not an answer chapter?"
     voice "voice/ps3/s20/04/440400179.ogg"
-    a_satoko "\"An honest opinion... was the story this time not an answer chapter?"
+    a_satoko "\"Uma opinião honesta... a história desta vez não foi um capítulo-resposta?"
 
 # game/watanagashi/watanagashi_vm.rpy:3414
 translate brazilian_portuguese vm_omake_02_00_n01_dialog002_9575ee22:
@@ -6362,7 +6362,7 @@ translate brazilian_portuguese vm_omake_02_00_n01_dialog002_9575ee22:
     # voice "voice/ps3/s20/09/440900118.ogg"
     # extend " ...Both this time and last time."
     voice "voice/ps3/s20/09/440900118.ogg"
-    extend " ...Both this time and last time."
+    extend " ...Tanto desta vez quanto da última."
 
 # game/watanagashi/watanagashi_vm.rpy:3423
 translate brazilian_portuguese vm_omake_02_0x_n01_dialog001_f35f1e0a:
@@ -6370,7 +6370,7 @@ translate brazilian_portuguese vm_omake_02_0x_n01_dialog001_f35f1e0a:
     # voice "voice/ps3/s20/04/440400179.ogg"
     # a_satoko "\"What is there to say?... weren't all of the mysteries solved in this chapter?"
     voice "voice/ps3/s20/04/440400179.ogg"
-    a_satoko "\"What is there to say?... weren't all of the mysteries solved in this chapter?"
+    a_satoko "\"O que há para dizer?... todos os mistérios não foram resolvidos nesse capítulo?"
 
 # game/watanagashi/watanagashi_vm.rpy:3430
 translate brazilian_portuguese vm_omake_02_0x_n01_dialog002_d1c3c494:
@@ -6378,5 +6378,5 @@ translate brazilian_portuguese vm_omake_02_0x_n01_dialog002_d1c3c494:
     # voice "voice/ps3/s20/09/440900118.ogg"
     # extend " ...Last time in Onikakushi and Taraimawashi. And now in Watanagashi."
     voice "voice/ps3/s20/09/440900118.ogg"
-    extend " ...Last time in Onikakushi and Taraimawashi. And now in Watanagashi."
+    extend " ...Da última vez em Onikakushi e Taraimawashi. E agora em Watanagashi."
 
