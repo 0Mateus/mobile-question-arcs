@@ -1232,7 +1232,7 @@ translate brazilian_portuguese onik_013_ca3f6a28:
     # nvl clear
     # n "...Hey, Keiichi Maebara."
     nvl clear
-    n "...Ei, Keiichi Maebara."
+    n "...Ei, Maebara Keiichi."
 
 # game/onikakushi/onik_013.rpy:359
 translate brazilian_portuguese onik_013_25e19939:

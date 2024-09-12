@@ -204,7 +204,7 @@ translate brazilian_portuguese onik_tips_01_617f0476:
     # voice "voice/ps3/s20/03/440300002.ogg"
     # a_mion "\"So that means you were born in April, Kei-chan?\""
     voice "voice/ps3/s20/03/440300002.ogg"
-    a_mion "\"Assim, isso significa que você nasceu em Abril, Kei-chan?\""
+    a_mion "\"Assim, isso significa que você nasceu em abril, Kei-chan?\""
 
 # game/onikakushi/onikakushi_tips.rpy:78
 translate brazilian_portuguese onik_tips_01_4b79f3ef:
