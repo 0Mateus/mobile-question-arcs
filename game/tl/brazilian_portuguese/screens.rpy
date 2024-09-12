@@ -64,6 +64,8 @@
     new "Repórter"
     old "Doctor"
     new "Médico"
+    old "Man"
+    new "Homem"
 
     # game/screens.rpy:875
     old "Use"
