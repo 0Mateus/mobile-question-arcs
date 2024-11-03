@@ -5446,7 +5446,7 @@ translate brazilian_portuguese wata_002_8ec67676:
     # voice "voice/ps3/s19/00/992600018.ogg"
     # extend " See~...{/cps} Isn't it great~{font=DejaVuSans.ttf}☆{/font}\""
     voice "voice/ps3/s19/00/992600018.ogg"
-    extend " Veja~...{/cps} Não é bom~{font=DejaVuSans.ttf}☆{/font}\""
+    extend " {cps=*0.5}Veja~...{/cps} Não é bom~{font=DejaVuSans.ttf}☆{/font}\""
 
 # game/watanagashi/wata_002.rpy:1842
 translate brazilian_portuguese wata_002_2dc4098d_49:
