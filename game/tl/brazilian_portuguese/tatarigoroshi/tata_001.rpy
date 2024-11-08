@@ -4,7 +4,7 @@
 translate brazilian_portuguese tatarigoroshi_prologue_5a1e17e2:
 
     # n "...It was a very humid day."
-    n "...It was a very humid day."
+    n "...Era um dia muito úmido."
 
 # game/tatarigoroshi/tata_001.rpy:87
 translate brazilian_portuguese tatarigoroshi_prologue_3d137193:
@@ -12,13 +12,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_3d137193:
     # nvl clear
     # n "Not even a slight breeze was blowing... It had been an unpleasant summer—one that wasn't only hot, but swelteringly so."
     nvl clear
-    n "Not even a slight breeze was blowing... It had been an unpleasant summer—one that wasn't only hot, but swelteringly so."
+    n "Não soprava sequer uma brisa... era um verão desagradável, quente e com alta umidade."
 
 # game/tatarigoroshi/tata_001.rpy:90
 translate brazilian_portuguese tatarigoroshi_prologue_dc443ef2:
 
     # n "There were various articles of clothing hung out to dry in the messy apartment windows, but the lack of wind evoked an impression far removed from coolness—in fact, it only felt more oppressive."
-    n "There were various articles of clothing hung out to dry in the messy apartment windows, but the lack of wind evoked an impression far removed from coolness—in fact, it only felt more oppressive."
+    n "As casas exibiam várias peças de roupas estendidas em suas janelas, o que denotava ainda mais a falta de frescor, vendo que não havia nenhum vento para mover as roupas. Isso fazia o clima parecer ainda mais opressivo."
 
 # game/tatarigoroshi/tata_001.rpy:91
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88:
@@ -30,7 +30,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88:
 translate brazilian_portuguese tatarigoroshi_prologue_640ad39e:
 
     # n "There were crooked houses and apartment buildings lining the narrow, twisting road."
-    n "There were crooked houses and apartment buildings lining the narrow, twisting road."
+    n "A estrada em curva era delineada por casas e construções em ruínas."
 
 # game/tatarigoroshi/tata_001.rpy:95
 translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d:
@@ -42,7 +42,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d:
 translate brazilian_portuguese tatarigoroshi_prologue_5ee50e75:
 
     # n "In addition, there were planters and flowerpots whose contents were beginning to wilt, as well as bicycles and motorcycles on the sides of the road, making it even more cramped, more oppressive, and all the more sweltering."
-    n "In addition, there were planters and flowerpots whose contents were beginning to wilt, as well as bicycles and motorcycles on the sides of the road, making it even more cramped, more oppressive, and all the more sweltering."
+    n "Além disso, haviam vasos de flores e plantas, cujos conteúdos estavam começando a apodrecer, bem como bicicletas, motos e carros trafegando, fazendo a estrada ainda mais estreita, opressiva e entulhada de coisas."
 
 # game/tatarigoroshi/tata_001.rpy:97
 translate brazilian_portuguese tatarigoroshi_prologue_113efdd6:
@@ -50,13 +50,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_113efdd6:
     # nvl clear
     # n "Nobody who was in this place at this time was visiting it voluntarily."
     nvl clear
-    n "Nobody who was in this place at this time was visiting it voluntarily."
+    n "Ninguém visitaria por livre vontade um lugar assim num período como este."
 
 # game/tatarigoroshi/tata_001.rpy:100
 translate brazilian_portuguese tatarigoroshi_prologue_d1c706f5:
 
     # n "...But in spite of what everyone might expect, a single motorcycle came rolling in..."
-    n "...But in spite of what everyone might expect, a single motorcycle came rolling in..."
+    n "...Mas, independente do que se poderia esperar, uma motocicleta veio chegando..."
 
 # game/tatarigoroshi/tata_001.rpy:101
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_1:
@@ -68,7 +68,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_1:
 translate brazilian_portuguese tatarigoroshi_prologue_1d88db31:
 
     # n "The lone motorcycle, which couldn't be called 'neat' even as flattery, pulled up to a two-story apartment complex and stopped there."
-    n "The lone motorcycle, which couldn't be called 'neat' even as flattery, pulled up to a two-story apartment complex and stopped there."
+    n "A motocicleta parou em frente à uma casa de dois pisos, que dificilmente poderia ser chamada de 'organizada'."
 
 # game/tatarigoroshi/tata_001.rpy:105
 translate brazilian_portuguese tatarigoroshi_prologue_4d7ac80f:
@@ -76,13 +76,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_4d7ac80f:
     # nvl clear
     # n "A man, fairly old and wrinkled, stepped off."
     nvl clear
-    n "A man, fairly old and wrinkled, stepped off."
+    n "Um homem velho, com muitas rugas em seu rosto, desceu da motocicleta."
 
 # game/tatarigoroshi/tata_001.rpy:108
 translate brazilian_portuguese tatarigoroshi_prologue_4eb7d7b3:
 
     # n "...When the housewife hanging out the laundry noticed him, she called out."
-    n "...When the housewife hanging out the laundry noticed him, she called out."
+    n "...Quando a dona de casa, que estendia a roupa, o percebeu, ela o chamou."
 
 # game/tatarigoroshi/tata_001.rpy:109
 translate brazilian_portuguese tatarigoroshi_prologue_cd1d5e83:
@@ -90,25 +90,25 @@ translate brazilian_portuguese tatarigoroshi_prologue_cd1d5e83:
     # nvl clear
     # n "\"Well, heeello there!"
     nvl clear
-    n "\"Well, heeello there!"
+    n "\"Ei, olááá!"
 
 # game/tatarigoroshi/tata_001.rpy:112
 translate brazilian_portuguese tatarigoroshi_prologue_10471a8f:
 
     # extend " It's quite hot today again, isn't it?\""
-    extend " It's quite hot today again, isn't it?\""
+    extend " Está quente demais hoje, não é mesmo?\""
 
 # game/tatarigoroshi/tata_001.rpy:113
 translate brazilian_portuguese tatarigoroshi_prologue_2fd251a6:
 
     # n "\"Hoo, you've got that right!"
-    n "\"Hoo, you've got that right!"
+    n "\"Sim, que calor!"
 
 # game/tatarigoroshi/tata_001.rpy:114
 translate brazilian_portuguese tatarigoroshi_prologue_6c12dda0:
 
     # extend " I feel like I'm gonna boil out here."
-    extend " I feel like I'm gonna boil out here."
+    extend " Eu me sinto como se estivesse sendo cozinhado."
 
 # game/tatarigoroshi/tata_001.rpy:115
 translate brazilian_portuguese tatarigoroshi_prologue_5712c913:
@@ -122,31 +122,31 @@ translate brazilian_portuguese tatarigoroshi_prologue_84e505ea:
     # nvl clear
     # n "\"Oh, right, Landlord,"
     nvl clear
-    n "\"Oh, right, Landlord,"
+    n "\"Oh, certo, Senhor Proprietário,"
 
 # game/tatarigoroshi/tata_001.rpy:119
 translate brazilian_portuguese tatarigoroshi_prologue_1c2d7b78:
 
     # extend " I didn't think that would be the first thing you said.\""
-    extend " I didn't think that would be the first thing you said.\""
+    extend " eu acho que temos outro assunto para conversar.\""
 
 # game/tatarigoroshi/tata_001.rpy:120
 translate brazilian_portuguese tatarigoroshi_prologue_83cab168:
 
     # n "\"Ahhh, sorry, sorry~!"
-    n "\"Ahhh, sorry, sorry~!"
+    n "\"Ahhh, me desculpe, me desculpe~!"
 
 # game/tatarigoroshi/tata_001.rpy:121
 translate brazilian_portuguese tatarigoroshi_prologue_5acd41e8:
 
     # extend " The fluorescent lights, right?"
-    extend " The fluorescent lights, right?"
+    extend " As luzes fluorescentes, certo?"
 
 # game/tatarigoroshi/tata_001.rpy:122
 translate brazilian_portuguese tatarigoroshi_prologue_c2ab043d:
 
     # extend " I completely forgot!"
-    extend " I completely forgot!"
+    extend " Eu tinha esquecido completamente!"
 
 # game/tatarigoroshi/tata_001.rpy:123
 translate brazilian_portuguese tatarigoroshi_prologue_42c909b4:
@@ -158,37 +158,37 @@ translate brazilian_portuguese tatarigoroshi_prologue_42c909b4:
 translate brazilian_portuguese tatarigoroshi_prologue_b3e5a333:
 
     # n "\"No, not that. Don't you smell it?"
-    n "\"No, not that. Don't you smell it?"
+    n "\"Não, não é isso. Você não está sentindo o cheiro?"
 
 # game/tatarigoroshi/tata_001.rpy:125
 translate brazilian_portuguese tatarigoroshi_prologue_6c0fdb3e:
 
     # extend " There's a teeeerrible smell about."
-    extend " There's a teeeerrible smell about."
+    extend " Tem um fedor horrível por aqui."
 
 # game/tatarigoroshi/tata_001.rpy:126
 translate brazilian_portuguese tatarigoroshi_prologue_46e72409:
 
     # extend " I've been smelling it since this morning!\""
-    extend " I've been smelling it since this morning!\""
+    extend " Está cheirando desde esta manhã!\""
 
 # game/tatarigoroshi/tata_001.rpy:127
 translate brazilian_portuguese tatarigoroshi_prologue_18b20d50:
 
     # n "\".........Wait, what's this?"
-    n "\".........Wait, what's this?"
+    n "\".........Espere, o que é isso?"
 
 # game/tatarigoroshi/tata_001.rpy:128
 translate brazilian_portuguese tatarigoroshi_prologue_d5301685:
 
     # extend " It reeks!"
-    extend " It reeks!"
+    extend " Que fedor!"
 
 # game/tatarigoroshi/tata_001.rpy:129
 translate brazilian_portuguese tatarigoroshi_prologue_c68d430e:
 
     # extend " Did the sewers get backed up again?\""
-    extend " Did the sewers get backed up again?\""
+    extend " Será que a cloaca do esgoto entupiu de novo?\""
 
 # game/tatarigoroshi/tata_001.rpy:130
 translate brazilian_portuguese tatarigoroshi_prologue_68416aa9:
@@ -196,13 +196,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_68416aa9:
     # nvl clear
     # n "\"Do something about it, Landlord!"
     nvl clear
-    n "\"Do something about it, Landlord!"
+    n "\"Faça alguma coisa, Senhor Proprietário!"
 
 # game/tatarigoroshi/tata_001.rpy:133
 translate brazilian_portuguese tatarigoroshi_prologue_a2c48e5e:
 
     # extend " I've had to keep my nose plugged all day long!\""
-    extend " I've had to keep my nose plugged all day long!\""
+    extend " Eu tive de manter meu nariz tampado durante todo o dia!\""
 
 # game/tatarigoroshi/tata_001.rpy:134
 translate brazilian_portuguese tatarigoroshi_prologue_8b0187a8:
@@ -214,7 +214,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_8b0187a8:
 translate brazilian_portuguese tatarigoroshi_prologue_2ea4c94e:
 
     # extend " You'd still look plenty lovely plugging your nose, my dear! Eh-heh-heh!\""
-    extend " You'd still look plenty lovely plugging your nose, my dear! Eh-heh-heh!\""
+    extend " Mas seu rosto ainda assim continua bonito, não é mesmo! Eh-heh-heh!\""
 
 # game/tatarigoroshi/tata_001.rpy:136
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_2:
@@ -226,7 +226,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_2:
 translate brazilian_portuguese tatarigoroshi_prologue_e8b6c812:
 
     # n "There was an unhygienic drainage channel running behind the apartment."
-    n "There was an unhygienic drainage channel running behind the apartment."
+    n "Um canal sujo de esgoto corria atrás do prédio."
 
 # game/tatarigoroshi/tata_001.rpy:140
 translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_1:
@@ -238,7 +238,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_1:
 translate brazilian_portuguese tatarigoroshi_prologue_bb86d06c:
 
     # n "The lattice from which it flowed was stuffed with branches and fallen leaves, and when filth got caught up in them, it created an awful stench in the summertime."
-    n "The lattice from which it flowed was stuffed with branches and fallen leaves, and when filth got caught up in them, it created an awful stench in the summertime."
+    n "A grade está obstruída com galhos e folhas mortas, que se juntam ali e emitem um cheiro bem ruim no verão."
 
 # game/tatarigoroshi/tata_001.rpy:142
 translate brazilian_portuguese tatarigoroshi_prologue_2f70a78f:
@@ -246,31 +246,31 @@ translate brazilian_portuguese tatarigoroshi_prologue_2f70a78f:
     # nvl clear
     # n "\"Could you tell the municipal office about it?"
     nvl clear
-    n "\"Could you tell the municipal office about it?"
+    n "\"Você não poderia falar com a administração municipal a respeito?"
 
 # game/tatarigoroshi/tata_001.rpy:145
 translate brazilian_portuguese tatarigoroshi_prologue_96dcd483:
 
     # extend " The drain will end up buried at this rate!\""
-    extend " The drain will end up buried at this rate!\""
+    extend " Desse jeito, o dreno vai acabar completamente enterrado!\""
 
 # game/tatarigoroshi/tata_001.rpy:146
 translate brazilian_portuguese tatarigoroshi_prologue_ef1d156c:
 
     # n "\"Well, yikes!"
-    n "\"Well, yikes!"
+    n "\"Bem, vamos lá!"
 
 # game/tatarigoroshi/tata_001.rpy:147
 translate brazilian_portuguese tatarigoroshi_prologue_0f8a3620:
 
     # extend " It's completely blocked."
-    extend " It's completely blocked."
+    extend " Está completamente travado."
 
 # game/tatarigoroshi/tata_001.rpy:148
 translate brazilian_portuguese tatarigoroshi_prologue_5476981e:
 
     # extend " Eh, it'll start back up if you poke it with a stick.\""
-    extend " Eh, it'll start back up if you poke it with a stick.\""
+    extend " Hm, se você cutucar nisso o cheiro vai ficar ainda pior.\""
 
 # game/tatarigoroshi/tata_001.rpy:149
 translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_2:
@@ -282,13 +282,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_2:
 translate brazilian_portuguese tatarigoroshi_prologue_fe8d9c9a:
 
     # n "The man crossed the fence over the drainage channel and picked up a filthy drying pole sitting nearby."
-    n "The man crossed the fence over the drainage channel and picked up a filthy drying pole sitting nearby."
+    n "O Proprietário cruzou a cerca sobre o canal de drenagem e pegou uma estaca de varal, largada por ali."
 
 # game/tatarigoroshi/tata_001.rpy:151
 translate brazilian_portuguese tatarigoroshi_prologue_8df6bf1f:
 
     # n "He must have planned to stick it into the drain and clear it out."
-    n "He must have planned to stick it into the drain and clear it out."
+    n "Ele devia estar planejando enfiá-la no dreno para limpá-lo."
 
 # game/tatarigoroshi/tata_001.rpy:152
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_3:
@@ -300,31 +300,31 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_3:
 translate brazilian_portuguese tatarigoroshi_prologue_f571665a:
 
     # n "\"Ah, wait, Landlord, stop that!"
-    n "\"Ah, wait, Landlord, stop that!"
+    n "\"Ah, espere, Senhor Proprietário, pare com isso!"
 
 # game/tatarigoroshi/tata_001.rpy:156
 translate brazilian_portuguese tatarigoroshi_prologue_b2486710:
 
     # extend " If you mix it all strange, if you do that...!"
-    extend " If you mix it all strange, if you do that...!"
+    extend " Se você mexer muito nisso...!"
 
 # game/tatarigoroshi/tata_001.rpy:157
 translate brazilian_portuguese tatarigoroshi_prologue_2fbb9e45:
 
     # extend " It will smell terrible!\""
-    extend " It will smell terrible!\""
+    extend " O fedor vai ser insuportável!\""
 
 # game/tatarigoroshi/tata_001.rpy:158
 translate brazilian_portuguese tatarigoroshi_prologue_cdb8304d:
 
     # n "\"Eh-heh-heh, it smells if it's clogged, and smells if it's mixed!"
-    n "\"Eh-heh-heh, it smells if it's clogged, and smells if it's mixed!"
+    n "\"Eh-heh-heh, fede quando está entupido e fede quando é mexido!"
 
 # game/tatarigoroshi/tata_001.rpy:159
 translate brazilian_portuguese tatarigoroshi_prologue_f01207b7:
 
     # extend " Which should I choose?"
-    extend " Which should I choose?"
+    extend " O que eu deveria fazer?"
 
 # game/tatarigoroshi/tata_001.rpy:160
 translate brazilian_portuguese tatarigoroshi_prologue_f39902fc:
@@ -336,13 +336,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_f39902fc:
 translate brazilian_portuguese tatarigoroshi_prologue_6bb5537c:
 
     # n "He shoved the drying pole into the filth in the lattice."
-    n "He shoved the drying pole into the filth in the lattice."
+    n "Ele cravou a estaca na sujeira mais próxima da grade."
 
 # game/tatarigoroshi/tata_001.rpy:162
 translate brazilian_portuguese tatarigoroshi_prologue_d3a957a9:
 
     # n "......Of course, it did nothing to help the accumulation of waste."
-    n "......Of course, it did nothing to help the accumulation of waste."
+    n "......Naturalmente, foi uma tentativa inútil de mover a pilha de sujeira."
 
 # game/tatarigoroshi/tata_001.rpy:163
 translate brazilian_portuguese tatarigoroshi_prologue_a83b5ded:
@@ -356,25 +356,25 @@ translate brazilian_portuguese tatarigoroshi_prologue_a83b5ded:
 translate brazilian_portuguese tatarigoroshi_prologue_9fbdd1c7:
 
     # extend " It's a dead cat."
-    extend " It's a dead cat."
+    extend " É um gato morto."
 
 # game/tatarigoroshi/tata_001.rpy:167
 translate brazilian_portuguese tatarigoroshi_prologue_6423eb79:
 
     # extend " This is the health center's job!\""
-    extend " This is the health center's job!\""
+    extend " O departamento de saúde pública devia tomar conta disso!\""
 
 # game/tatarigoroshi/tata_001.rpy:168
 translate brazilian_portuguese tatarigoroshi_prologue_c1879f7a:
 
     # n "\"Cats and dogs smell awful when they die."
-    n "\"Cats and dogs smell awful when they die."
+    n "\"Cães e gatos mortos emitem um cheiro bem ruim."
 
 # game/tatarigoroshi/tata_001.rpy:169
 translate brazilian_portuguese tatarigoroshi_prologue_cf4c7be3:
 
     # extend " ...A bamboo pole's not going to do much good.\""
-    extend " ...A bamboo pole's not going to do much good.\""
+    extend " ...Eu acho que uma vara de bambu não vai adiantar muito.\""
 
 # game/tatarigoroshi/tata_001.rpy:170
 translate brazilian_portuguese tatarigoroshi_prologue_1838d601:
@@ -382,25 +382,25 @@ translate brazilian_portuguese tatarigoroshi_prologue_1838d601:
     # nvl clear
     # n "\"Garbage bags, old clothes—they throw all kinds of stuff in there."
     nvl clear
-    n "\"Garbage bags, old clothes—they throw all kinds of stuff in there."
+    n "\"Sacolas de lixo, roupas velhas, eles jogam todo tipo de porcaria aqui."
 
 # game/tatarigoroshi/tata_001.rpy:173
 translate brazilian_portuguese tatarigoroshi_prologue_06bc8340:
 
     # extend " And is that a duck I see?"
-    extend " And is that a duck I see?"
+    extend " E aqui temos um penico em forma de pato?"
 
 # game/tatarigoroshi/tata_001.rpy:174
 translate brazilian_portuguese tatarigoroshi_prologue_f839064f:
 
     # extend " ...Well, of course it stinks."
-    extend " ...Well, of course it stinks."
+    extend " ...Bem, naturalmente isso fede."
 
 # game/tatarigoroshi/tata_001.rpy:175
 translate brazilian_portuguese tatarigoroshi_prologue_4bcaeb21:
 
     # extend " The nerve of some people!\""
-    extend " The nerve of some people!\""
+    extend " As pessoas que jogam essas coisas deviam sentir vergonha!\""
 
 # game/tatarigoroshi/tata_001.rpy:176
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_4:
@@ -412,7 +412,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_4:
 translate brazilian_portuguese tatarigoroshi_prologue_d479a7a5:
 
     # n "The drainage channel was already unsanitary—what was a little more garbage at this point?"
-    n "The drainage channel was already unsanitary—what was a little more garbage at this point?"
+    n "Não faz nenhuma diferença adicionar mais lixo à um canal de esgoto sujo como este?"
 
 # game/tatarigoroshi/tata_001.rpy:180
 translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_3:
@@ -424,7 +424,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_3:
 translate brazilian_portuguese tatarigoroshi_prologue_5dd05782:
 
     # n "...The stream of such imprudent people was never-ending, and now this channel had turned into a garbage dump."
-    n "...The stream of such imprudent people was never-ending, and now this channel had turned into a garbage dump."
+    n "...Há muitas pessoas irresponsáveis que pensam desse jeito, e elas acabam transformando o canal de esgoto num lixão nesse processo."
 
 # game/tatarigoroshi/tata_001.rpy:182
 translate brazilian_portuguese tatarigoroshi_prologue_b33abd74:
@@ -432,7 +432,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_b33abd74:
     # nvl clear
     # n "When he poked the pile of old clothes floating in the sewage, a black cloud of smoke floated out in the water."
     nvl clear
-    n "When he poked the pile of old clothes floating in the sewage, a black cloud of smoke floated out in the water."
+    n "Quando ele tocou a pilha de roupas velhas, que estava flutuando sobre as águas imundas, uma fumaça negra se levantou dela."
 
 # game/tatarigoroshi/tata_001.rpy:185
 translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_4:
@@ -444,7 +444,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_2dc4098d_4:
 translate brazilian_portuguese tatarigoroshi_prologue_8ca4d8b0:
 
     # n "The two of them grimaced at the terribly bizarre and repulsive sight."
-    n "The two of them grimaced at the terribly bizarre and repulsive sight."
+    n "Os dois franziram o rosto diante da visão bizarra e repulsiva."
 
 # game/tatarigoroshi/tata_001.rpy:187
 translate brazilian_portuguese tatarigoroshi_prologue_c7d9ba31:
@@ -452,25 +452,25 @@ translate brazilian_portuguese tatarigoroshi_prologue_c7d9ba31:
     # nvl clear
     # n "\"Gah... We've got maggots, eh?"
     nvl clear
-    n "\"Gah... We've got maggots, eh?"
+    n "\"Gah... Está cheio de fungos, eh?"
 
 # game/tatarigoroshi/tata_001.rpy:190
 translate brazilian_portuguese tatarigoroshi_prologue_5105b4dc:
 
     # extend " Someone must've thrown kitchen waste in...\""
-    extend " Someone must've thrown kitchen waste in...\""
+    extend " Alguém deve ter jogado restos de comida...\""
 
 # game/tatarigoroshi/tata_001.rpy:191
 translate brazilian_portuguese tatarigoroshi_prologue_39e9530b:
 
     # n "\"...Wha...... Landlord."
-    n "\"...Wha...... Landlord."
+    n "\"...Ah...... Senhor Proprietário."
 
 # game/tatarigoroshi/tata_001.rpy:192
 translate brazilian_portuguese tatarigoroshi_prologue_bb8c7302:
 
     # extend " ...What's that?\""
-    extend " ...What's that?\""
+    extend " ...O que foi?\""
 
 # game/tatarigoroshi/tata_001.rpy:193
 translate brazilian_portuguese tatarigoroshi_prologue_e0c3266b:
@@ -478,13 +478,13 @@ translate brazilian_portuguese tatarigoroshi_prologue_e0c3266b:
     # nvl clear
     # n "\"What? Just more garbage......\""
     nvl clear
-    n "\"What? Just more garbage......\""
+    n "\"O quê? Apenas mais lixo......\""
 
 # game/tatarigoroshi/tata_001.rpy:196
 translate brazilian_portuguese tatarigoroshi_prologue_41d6be1b:
 
     # n "\"......La...Landlord, that's... that's!!\""
-    n "\"......La...Landlord, that's... that's!!\""
+    n "\"......Se...Senhor Proprietário, isso é... isso é!!\""
 
 # game/tatarigoroshi/tata_001.rpy:198
 translate brazilian_portuguese tatarigoroshi_prologue_8368be20:
@@ -502,37 +502,37 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_5:
 translate brazilian_portuguese tatarigoroshi_prologue_220ca831:
 
     # n "\"Oh, hello!"
-    n "\"Oh, hello!"
+    n "\"Oh, oi!"
 
 # game/tatarigoroshi/tata_001.rpy:222
 translate brazilian_portuguese tatarigoroshi_prologue_be41b6ac:
 
     # extend " Good work today.\""
-    extend " Good work today.\""
+    extend " Bom trabalho.\""
 
 # game/tatarigoroshi/tata_001.rpy:223
 translate brazilian_portuguese tatarigoroshi_prologue_e0ad9214:
 
     # n "\"Ack, what a terrible stench!"
-    n "\"Ack, what a terrible stench!"
+    n "\"Ack, que fedor horrível!"
 
 # game/tatarigoroshi/tata_001.rpy:224
 translate brazilian_portuguese tatarigoroshi_prologue_f19f58af:
 
     # extend " Hey!"
-    extend " Hey!"
+    extend " Ei!"
 
 # game/tatarigoroshi/tata_001.rpy:225
 translate brazilian_portuguese tatarigoroshi_prologue_34dd8bcb:
 
     # extend " Someone cover this thing with a tarp!"
-    extend " Someone cover this thing with a tarp!"
+    extend " Bruce, ordene a todos para cercarem esta área, incluindo o canal de esgoto!"
 
 # game/tatarigoroshi/tata_001.rpy:226
 translate brazilian_portuguese tatarigoroshi_prologue_875f3c35:
 
     # extend " From the second floor of the houses it's in full view!\""
-    extend " From the second floor of the houses it's in full view!\""
+    extend " Chequem por completo o segundo piso da casa!\""
 
 # game/tatarigoroshi/tata_001.rpy:227
 translate brazilian_portuguese tatarigoroshi_prologue_cdbf56c6:
@@ -540,49 +540,49 @@ translate brazilian_portuguese tatarigoroshi_prologue_cdbf56c6:
     # nvl clear
     # n "\"Identity of the deceased, unknown."
     nvl clear
-    n "\"Identity of the deceased, unknown."
+    n "\"Identidade do cadáver, desconhecida."
 
 # game/tatarigoroshi/tata_001.rpy:230
 translate brazilian_portuguese tatarigoroshi_prologue_a6c8688d:
 
     # extend " Sex, female."
-    extend " Sex, female."
+    extend " Sexo, feminino."
 
 # game/tatarigoroshi/tata_001.rpy:231
 translate brazilian_portuguese tatarigoroshi_prologue_417e72f3:
 
     # extend " Age, estimated to be late 20s or early 30s."
-    extend " Age, estimated to be late 20s or early 30s."
+    extend " Idade, estimada entre o final dos 20 ou começo dos 30."
 
 # game/tatarigoroshi/tata_001.rpy:232
 translate brazilian_portuguese tatarigoroshi_prologue_13f04c86:
 
     # extend " Time of death, about two or three days ago."
-    extend " Time of death, about two or three days ago."
+    extend " Tempo decorrido desde a morte, aproximadamente dois ou três dias."
 
 # game/tatarigoroshi/tata_001.rpy:233
 translate brazilian_portuguese tatarigoroshi_prologue_f6ec9e0b:
 
     # extend " She was probably abandoned after death.\""
-    extend " She was probably abandoned after death.\""
+    extend " Provavelmente a jogaram depois da morte.\""
 
 # game/tatarigoroshi/tata_001.rpy:234
 translate brazilian_portuguese tatarigoroshi_prologue_9716d37b:
 
     # n "\"Naked, too?"
-    n "\"Naked, too?"
+    n "\"Estava nua?"
 
 # game/tatarigoroshi/tata_001.rpy:235
 translate brazilian_portuguese tatarigoroshi_prologue_07f67787:
 
     # extend " Figuring out who she is will be rough."
-    extend " Figuring out who she is will be rough."
+    extend " Pode ser difícil identificá-la."
 
 # game/tatarigoroshi/tata_001.rpy:236
 translate brazilian_portuguese tatarigoroshi_prologue_8390830a:
 
     # extend " Contact the community division and ask if anyone's gone missing.\""
-    extend " Contact the community division and ask if anyone's gone missing.\""
+    extend " Cheque se a divisão comunitária tem registro de alguma pessoa desaparecida.\""
 
 # game/tatarigoroshi/tata_001.rpy:237
 translate brazilian_portuguese tatarigoroshi_prologue_0e8ac8aa:
@@ -590,37 +590,37 @@ translate brazilian_portuguese tatarigoroshi_prologue_0e8ac8aa:
     # nvl clear
     # n "\"They probably weighed her down, so she'd sink."
     nvl clear
-    n "\"They probably weighed her down, so she'd sink."
+    n "\"Provavelmente eles a largaram no canal com um peso, então ela afundou."
 
 # game/tatarigoroshi/tata_001.rpy:240
 translate brazilian_portuguese tatarigoroshi_prologue_7a986ff9:
 
     # extend " Then the weights came off and she floated to the top."
-    extend " Then the weights came off and she floated to the top."
+    extend " Depois, o peso se soltou e ela flutuou para cima."
 
 # game/tatarigoroshi/tata_001.rpy:241
 translate brazilian_portuguese tatarigoroshi_prologue_704ba8cc:
 
     # nvl_extend "...But why in a drainage sewer, of all things?"
-    nvl_extend "...But why in a drainage sewer, of all things?"
+    nvl_extend "...Mas por que num canal de esgoto, de todos os lugares?"
 
 # game/tatarigoroshi/tata_001.rpy:242
 translate brazilian_portuguese tatarigoroshi_prologue_7b379e13:
 
     # extend " Would've been better under an overpass or in the mountains, you know?\""
-    extend " Would've been better under an overpass or in the mountains, you know?\""
+    extend " Não teria sido melhor do lado de uma rodovia ou nas montanhas?\""
 
 # game/tatarigoroshi/tata_001.rpy:243
 translate brazilian_portuguese tatarigoroshi_prologue_e722a12c:
 
     # n "\"And it would've been outside our jurisdiction, right?"
-    n "\"And it would've been outside our jurisdiction, right?"
+    n "\"E assim estaria fora de nossa jurisdição, certo?"
 
 # game/tatarigoroshi/tata_001.rpy:244
 translate brazilian_portuguese tatarigoroshi_prologue_f540d10a:
 
     # extend " But it looks like they never wanted to hide the corpse at all.\""
-    extend " But it looks like they never wanted to hide the corpse at all.\""
+    extend " Mas parece que eles não estavam pensando em ocultar o corpo.\""
 
 # game/tatarigoroshi/tata_001.rpy:245
 translate brazilian_portuguese tatarigoroshi_prologue_65c0b3df:
@@ -628,7 +628,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_65c0b3df:
     # nvl clear
     # n "\"Did they do it so she would be found? As a warning, or something?\""
     nvl clear
-    n "\"Did they do it so she would be found? As a warning, or something?\""
+    n "\"Eles queriam que fosse encontrado? Como um aviso, talvez?\""
 
 # game/tatarigoroshi/tata_001.rpy:248
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_6:
@@ -640,37 +640,37 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_6:
 translate brazilian_portuguese tatarigoroshi_prologue_cbdede36:
 
     # n "\"This slice in her stomach definitely wasn't from a fish eating her."
-    n "\"This slice in her stomach definitely wasn't from a fish eating her."
+    n "\"O estômago dela está rasgado aberto, e eu não acho que foram os peixes que fizeram isso."
 
 # game/tatarigoroshi/tata_001.rpy:252
 translate brazilian_portuguese tatarigoroshi_prologue_c3567ef7:
 
     # extend " She was cut open and her insides were dragged out."
-    extend " She was cut open and her insides were dragged out."
+    extend " Alguém cortou sua barriga e arrancou as tripas para fora."
 
 # game/tatarigoroshi/tata_001.rpy:253
 translate brazilian_portuguese tatarigoroshi_prologue_b5211353:
 
     # extend " They really made a show out of killing her."
-    extend " They really made a show out of killing her."
+    extend " Eles realmente a torturaram."
 
 # game/tatarigoroshi/tata_001.rpy:254
 translate brazilian_portuguese tatarigoroshi_prologue_84988495:
 
     # nvl_extend "Doesn't the Chinese mafia do these sort of traditional punishments?"
-    nvl_extend "Doesn't the Chinese mafia do these sort of traditional punishments?"
+    nvl_extend "A máfia chinesa não executa esse tipo de punição?"
 
 # game/tatarigoroshi/tata_001.rpy:255
 translate brazilian_portuguese tatarigoroshi_prologue_84721052:
 
     # extend " Ask Shige-san in Section 4 if he's had any trouble with yakuza.\""
-    extend " Ask Shige-san in Section 4 if he's had any trouble with yakuza.\""
+    extend " Peça a Shige-san, da seção 4, se ele sabe de qualquer problema envolvendo gangues.\""
 
 # game/tatarigoroshi/tata_001.rpy:256
 translate brazilian_portuguese tatarigoroshi_prologue_c313c19d:
 
     # n "\"On it, sir!\""
-    n "\"On it, sir!\""
+    n "\"Entendido!\""
 
 # game/tatarigoroshi/tata_001.rpy:257
 translate brazilian_portuguese tatarigoroshi_prologue_c13df13d:
@@ -678,19 +678,19 @@ translate brazilian_portuguese tatarigoroshi_prologue_c13df13d:
     # nvl clear
     # n "\"Still... what a terrible way to go."
     nvl clear
-    n "\"Still... what a terrible way to go."
+    n "\"Ainda assim... que forma horrível de se morrer."
 
 # game/tatarigoroshi/tata_001.rpy:260
 translate brazilian_portuguese tatarigoroshi_prologue_bd3590b1:
 
     # extend " Hey, don't her innards poking out like that look sort of like the salad soba you can get in Kyoto?"
-    extend " Hey, don't her innards poking out like that look sort of like the salad soba you can get in Kyoto?"
+    extend " Ei, não parece que as entranhas dela estão saindo para fora como a salada de macarrão que você consegue em Kyoto?"
 
 # game/tatarigoroshi/tata_001.rpy:261
 translate brazilian_portuguese tatarigoroshi_prologue_ad77d35e:
 
     # extend " Maybe if you stuck chopsticks in, noodles would pop out. See?\""
-    extend " Maybe if you stuck chopsticks in, noodles would pop out. See?\""
+    extend " Talvez se você espetar os hashi nela, os fios de macarrão vão saltar. Não é mesmo?\""
 
 # game/tatarigoroshi/tata_001.rpy:263
 translate brazilian_portuguese tatarigoroshi_prologue_f9c616b8:
@@ -702,7 +702,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_f9c616b8:
 translate brazilian_portuguese tatarigoroshi_prologue_966125ae:
 
     # extend " P-Please, give me a break...\""
-    extend " P-Please, give me a break...\""
+    extend " P-Por favor, me dê um tempo...\""
 
 # game/tatarigoroshi/tata_001.rpy:265
 translate brazilian_portuguese tatarigoroshi_prologue_eb1a7c8e:
@@ -716,31 +716,31 @@ translate brazilian_portuguese tatarigoroshi_prologue_eb1a7c8e:
 translate brazilian_portuguese tatarigoroshi_prologue_c024a173:
 
     # extend " Her intestines were pulled out, and her ears and nose cut off."
-    extend " Her intestines were pulled out, and her ears and nose cut off."
+    extend " Suas tripas foram puxadas para fora, e seus ouvidos e nariz foram decepados."
 
 # game/tatarigoroshi/tata_001.rpy:269
 translate brazilian_portuguese tatarigoroshi_prologue_845fdb55:
 
     # extend " That's definitely not how I want to go."
-    extend " That's definitely not how I want to go."
+    extend " Esse, definitivamente, não é o jeito como eu gostaria de morrer."
 
 # game/tatarigoroshi/tata_001.rpy:270
 translate brazilian_portuguese tatarigoroshi_prologue_a919b586:
 
     # extend " Her fingers are in a bad state, too."
-    extend " Her fingers are in a bad state, too."
+    extend " Seus dedos também estão em mau estado."
 
 # game/tatarigoroshi/tata_001.rpy:271
 translate brazilian_portuguese tatarigoroshi_prologue_8901fea0:
 
     # extend " There are long nails stuck in all of them, on both hands."
-    extend " There are long nails stuck in all of them, on both hands."
+    extend " Tem pregos enormes enfiados em suas unhas, nas duas mãos."
 
 # game/tatarigoroshi/tata_001.rpy:272
 translate brazilian_portuguese tatarigoroshi_prologue_884e24de:
 
     # nvl_extend "What kind of torture was this, anyway?\""
-    nvl_extend "What kind of torture was this, anyway?\""
+    nvl_extend "Que tipo de tortura é essa, afinal de contas?\""
 
 # game/tatarigoroshi/tata_001.rpy:273
 translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_7:
@@ -752,7 +752,7 @@ translate brazilian_portuguese tatarigoroshi_prologue_76b2fe88_7:
 translate brazilian_portuguese tata_001_3683b2d9:
 
     # n "The most relaxing time during the school day? Lunch, for sure."
-    n "The most relaxing time during the school day? Lunch, for sure."
+    n "Qual a hora mais relaxante do dia durante a escola? A hora do almoço, com certeza."
 
 # game/tatarigoroshi/tata_001.rpy:305
 translate brazilian_portuguese tata_001_2dc4098d:
@@ -764,7 +764,7 @@ translate brazilian_portuguese tata_001_2dc4098d:
 translate brazilian_portuguese tata_001_6ea92dd1:
 
     # n "Everyone brought their desks side-by-side like always, and we all ate together."
-    n "Everyone brought their desks side-by-side like always, and we all ate together."
+    n "Nós juntamos nossas classes, como sempre, e comemos juntos."
 
 # game/tatarigoroshi/tata_001.rpy:307
 translate brazilian_portuguese tata_001_76b2fe88:
@@ -778,7 +778,7 @@ translate brazilian_portuguese tata_001_39fa6716:
     # voice "voice/ps3/s19/04/500400117.ogg"
     # a_satoko "\"Oh, my!"
     voice "voice/ps3/s19/04/500400117.ogg"
-    a_satoko "\"Oh, my!"
+    a_satoko "\"Veja só!"
 
 # game/tatarigoroshi/tata_001.rpy:312
 translate brazilian_portuguese tata_001_544f8809:
@@ -786,7 +786,7 @@ translate brazilian_portuguese tata_001_544f8809:
     # voice "voice/ps3/s19/04/500400118.ogg"
     # extend " Mion-san, if I may say, your lunch looks quite appetizing today!\""
     voice "voice/ps3/s19/04/500400118.ogg"
-    extend " Mion-san, if I may say, your lunch looks quite appetizing today!\""
+    extend " Mion-san, hoje seu obentou está com uma aparência maravilhosa!\""
 
 # game/tatarigoroshi/tata_001.rpy:314
 translate brazilian_portuguese tata_001_6c3c3804:
@@ -794,25 +794,25 @@ translate brazilian_portuguese tata_001_6c3c3804:
     # voice "voice/ps3/s19/05/500500074.ogg"
     # a_rika "\"......There are so many different things—it's wonderful.\""
     voice "voice/ps3/s19/05/500500074.ogg"
-    a_rika "\"......There are so many different things—it's wonderful.\""
+    a_rika "\"......Tem muitos acompanhamentos e parece esplêndido ~nano desu.\""
 
 # game/tatarigoroshi/tata_001.rpy:316
 translate brazilian_portuguese tata_001_b5515645:
 
     # n "Satoko and Rika-chan looked at Mion's lunch, shouting gladly."
-    n "Satoko and Rika-chan looked at Mion's lunch, shouting gladly."
+    n "Satoko e Rika-chan olhavam para o obentou de Mion, dando palavras de elogio."
 
 # game/tatarigoroshi/tata_001.rpy:317
 translate brazilian_portuguese tata_001_6befd865:
 
     # extend " ......Let's have a look."
-    extend " ......Let's have a look."
+    extend " ......Vamos ver o que temos aqui."
 
 # game/tatarigoroshi/tata_001.rpy:318
 translate brazilian_portuguese tata_001_e33065a7:
 
     # extend " Whoa!"
-    extend " Whoa!"
+    extend " Uau!"
 
 # game/tatarigoroshi/tata_001.rpy:319
 translate brazilian_portuguese tata_001_6c792a18:
@@ -822,7 +822,7 @@ translate brazilian_portuguese tata_001_6c792a18:
     # a_mion "\"I just packed in some leftovers from last night."
     nvl clear
     voice "voice/ps3/s19/03/500300224.ogg"
-    a_mion "\"I just packed in some leftovers from last night."
+    a_mion "\"Eu apenas usei algumas sobras da noite passada."
 
 # game/tatarigoroshi/tata_001.rpy:323
 translate brazilian_portuguese tata_001_52d0416d:
@@ -830,7 +830,7 @@ translate brazilian_portuguese tata_001_52d0416d:
     # voice "voice/ps3/s19/03/500300225.ogg"
     # extend " All the elders were having a drinking party at my house yesterday."
     voice "voice/ps3/s19/03/500300225.ogg"
-    extend " All the elders were having a drinking party at my house yesterday."
+    extend " O chefe da vila e outras pessoas participaram de uma festa com bebidas na minha casa, na noite passada."
 
 # game/tatarigoroshi/tata_001.rpy:325
 translate brazilian_portuguese tata_001_74d20c8f:
@@ -838,7 +838,7 @@ translate brazilian_portuguese tata_001_74d20c8f:
     # voice "voice/ps3/s19/03/500300226.ogg"
     # extend " I managed to nab some of what they didn't eat.\""
     voice "voice/ps3/s19/03/500300226.ogg"
-    extend " I managed to nab some of what they didn't eat.\""
+    extend " Assim, eu guardei o que sobrou.\""
 
 # game/tatarigoroshi/tata_001.rpy:327
 translate brazilian_portuguese tata_001_20dcdd8c:
@@ -846,7 +846,7 @@ translate brazilian_portuguese tata_001_20dcdd8c:
     # voice "voice/ps3/s19/02/500200349.ogg"
     # a_rena "\"Ahahahaha! So that's why they all look like snacks you could have with sake.\""
     voice "voice/ps3/s19/02/500200349.ogg"
-    a_rena "\"Ahahahaha! So that's why they all look like snacks you could have with sake.\""
+    a_rena "\"Ahahahaha! Isso explica por que a maior parte dos acompanhamentos parecem com petiscos para acompanhar bebidas alcoólicas.\""
 
 # game/tatarigoroshi/tata_001.rpy:329
 translate brazilian_portuguese tata_001_ab2a00ab:
@@ -864,7 +864,7 @@ translate brazilian_portuguese tata_001_65086456:
     # voice "voice/ps3/s19/01/hr_kei22910.ogg"
     # extend " ...They're but leftovers—mere scraps of food—but when arranged in a bento box so cleanly, they look impressive!"
     voice "voice/ps3/s19/01/hr_kei22910.ogg"
-    extend " ...They're but leftovers—mere scraps of food—but when arranged in a bento box so cleanly, they look impressive!"
+    extend " ...Mesmo que sejam sobras, parecem esplêndidos quando você os organiza tão bem dentro de uma caixa de obentou!"
 
 # game/tatarigoroshi/tata_001.rpy:335
 translate brazilian_portuguese tata_001_cbc6f95f:
@@ -872,7 +872,7 @@ translate brazilian_portuguese tata_001_cbc6f95f:
     # voice "voice/ps3/s19/01/hr_kei22920.ogg"
     # extend " It looks like part of a full-course meal at a high-class restaurant!\""
     voice "voice/ps3/s19/01/hr_kei22920.ogg"
-    extend " It looks like part of a full-course meal at a high-class restaurant!\""
+    extend " Parece como um obentou chique, de um restaurante de luxo!\""
 
 # game/tatarigoroshi/tata_001.rpy:337
 translate brazilian_portuguese tata_001_198ecd23:
@@ -880,7 +880,7 @@ translate brazilian_portuguese tata_001_198ecd23:
     # voice "voice/ps3/s19/03/500300227.ogg"
     # a_mion "\"People seem to decide if they like things mainly based on their first impression."
     voice "voice/ps3/s19/03/500300227.ogg"
-    a_mion "\"People seem to decide if they like things mainly based on their first impression."
+    a_mion "\"As pessoas parecem decidir se gostam das coisas principalmente através da primeira impressão."
 
 # game/tatarigoroshi/tata_001.rpy:339
 translate brazilian_portuguese tata_001_60020325:
@@ -888,7 +888,7 @@ translate brazilian_portuguese tata_001_60020325:
     # voice "voice/ps3/s19/03/500300228.ogg"
     # extend " So I thought maybe the taste of a bento would be proportional to how pretty it was when you opened it!\""
     voice "voice/ps3/s19/03/500300228.ogg"
-    extend " So I thought maybe the taste of a bento would be proportional to how pretty it was when you opened it!\""
+    extend " Por isso, eu penso que talvez o sabor de um obentou seja proporcional ao quão bonita é a aparência dele quando você o abre!\""
 
 # game/tatarigoroshi/tata_001.rpy:341
 translate brazilian_portuguese tata_001_ff9ba6b1:
@@ -898,7 +898,7 @@ translate brazilian_portuguese tata_001_ff9ba6b1:
     # a_satoko "\"You may seem unrefined, Mion-san, but you are positively splendid at arranging food like this.\""
     nvl clear
     voice "voice/ps3/s19/04/500400119.ogg"
-    a_satoko "\"You may seem unrefined, Mion-san, but you are positively splendid at arranging food like this.\""
+    a_satoko "\"Mion-san pode ser uma garota pouco refinada, mas certamente é esplêndida em organizar as coisas.\""
 
 # game/tatarigoroshi/tata_001.rpy:345
 translate brazilian_portuguese tata_001_fb484d65:
@@ -906,7 +906,7 @@ translate brazilian_portuguese tata_001_fb484d65:
     # voice "voice/ps3/s19/02/500200350.ogg"
     # a_rena "\"Her room is nice and tidy, too."
     voice "voice/ps3/s19/02/500200350.ogg"
-    a_rena "\"Her room is nice and tidy, too."
+    a_rena "\"O quarto dela também está sempre limpo e arrumado."
 
 # game/tatarigoroshi/tata_001.rpy:347
 translate brazilian_portuguese tata_001_8e273ebf:
@@ -914,7 +914,7 @@ translate brazilian_portuguese tata_001_8e273ebf:
     # voice "voice/ps3/s19/02/500200351.ogg"
     # extend " Mii-chan is a lot more organized and polite than everyone thinks!\""
     voice "voice/ps3/s19/02/500200351.ogg"
-    extend " Mii-chan is a lot more organized and polite than everyone thinks!\""
+    extend " Mii-chan é muito mais organizada e polida do que todos pensam!\""
 
 # game/tatarigoroshi/tata_001.rpy:349
 translate brazilian_portuguese tata_001_bc649ad9:
@@ -922,13 +922,13 @@ translate brazilian_portuguese tata_001_bc649ad9:
     # nvl clear
     # n "{i}...It's all the same once it's in your stomach!{/i}"
     nvl clear
-    n "{i}...It's all the same once it's in your stomach!{/i}"
+    n "{i}...É tudo igual quando a comida chega ao estômago!{/i}"
 
 # game/tatarigoroshi/tata_001.rpy:352
 translate brazilian_portuguese tata_001_c6941a91:
 
     # n "I'd have thought Mion would say something like that—but to think she had this kind of taste!"
-    n "I'd have thought Mion would say something like that—but to think she had this kind of taste!"
+    n "Eu tinha pensado que Mion diria algo assim, eu não imaginava que ela tinha um senso estético como este!"
 
 # game/tatarigoroshi/tata_001.rpy:353
 translate brazilian_portuguese tata_001_e2ba42b6:
@@ -940,7 +940,7 @@ translate brazilian_portuguese tata_001_e2ba42b6:
 translate brazilian_portuguese tata_001_8c6c6835:
 
     # extend " You can't judge a book by its cover."
-    extend " You can't judge a book by its cover."
+    extend " Não se pode julgar um livro pela capa."
 
 # game/tatarigoroshi/tata_001.rpy:355
 translate brazilian_portuguese tata_001_2dc4098d_1:
@@ -952,19 +952,19 @@ translate brazilian_portuguese tata_001_2dc4098d_1:
 translate brazilian_portuguese tata_001_ea82e88a:
 
     # n "Mion was careful in everything she did."
-    n "Mion was careful in everything she did."
+    n "Mion era cuidadosa em tudo o que ela fazia."
 
 # game/tatarigoroshi/tata_001.rpy:357
 translate brazilian_portuguese tata_001_7904b301:
 
     # n "...She never misstepped, faltered, or messed up."
-    n "...She never misstepped, faltered, or messed up."
+    n "...Ela nunca errou um passo, falhou, ou bagunçou algo."
 
 # game/tatarigoroshi/tata_001.rpy:358
 translate brazilian_portuguese tata_001_5b248492:
 
     # extend " I see—she is our club president, after all!"
-    extend " I see—she is our club president, after all!"
+    extend " Certo, ela é a presidente do nosso clube, no fim das contas!"
 
 # game/tatarigoroshi/tata_001.rpy:359
 translate brazilian_portuguese tata_001_6b354c0e:
@@ -974,7 +974,7 @@ translate brazilian_portuguese tata_001_6b354c0e:
     # a_rika "\"......Yours is nothing to scoff at either, Rena."
     nvl clear
     voice "voice/ps3/s19/05/500500075.ogg"
-    a_rika "\"......Yours is nothing to scoff at either, Rena."
+    a_rika "\"......O seu obentou também não está mal, Rena."
 
 # game/tatarigoroshi/tata_001.rpy:363
 translate brazilian_portuguese tata_001_39b122d1:
@@ -982,7 +982,7 @@ translate brazilian_portuguese tata_001_39b122d1:
     # voice "voice/ps3/s19/05/500500076.ogg"
     # extend " Your crab kamaboko flower is very pretty.\""
     voice "voice/ps3/s19/05/500500076.ogg"
-    extend " Your crab kamaboko flower is very pretty.\""
+    extend " Sua flor de kamaboko em forma de caranguejo é muito bonita.\""
 
 # game/tatarigoroshi/tata_001.rpy:365
 translate brazilian_portuguese tata_001_e39cd24d:
@@ -990,7 +990,7 @@ translate brazilian_portuguese tata_001_e39cd24d:
     # voice "voice/ps3/s19/01/hr_kei22930.ogg"
     # a_keiichi "\"You know, Rena, your lunch always has, like, an art to it."
     voice "voice/ps3/s19/01/hr_kei22930.ogg"
-    a_keiichi "\"You know, Rena, your lunch always has, like, an art to it."
+    a_keiichi "\"O obentou de Rena sempre parece ter um toque artístico."
 
 # game/tatarigoroshi/tata_001.rpy:367
 translate brazilian_portuguese tata_001_958dc5e1:
@@ -998,7 +998,7 @@ translate brazilian_portuguese tata_001_958dc5e1:
     # voice "voice/ps3/s19/01/hr_kei22940.ogg"
     # extend " Like it has rabbit-shaped apple slices and carrot flowers and stuff.\""
     voice "voice/ps3/s19/01/hr_kei22940.ogg"
-    extend " Like it has rabbit-shaped apple slices and carrot flowers and stuff.\""
+    extend " Você fez um coelho com um pedaço de maçã e uma pétala de flor com um pedaço de cenoura.\""
 
 # game/tatarigoroshi/tata_001.rpy:369
 translate brazilian_portuguese tata_001_2dc4098d_2:
@@ -1010,25 +1010,25 @@ translate brazilian_portuguese tata_001_2dc4098d_2:
 translate brazilian_portuguese tata_001_902c8827:
 
     # n "Rena's bento wasn't all about taste..."
-    n "Rena's bento wasn't all about taste..."
+    n "O obentou de Rena não era apenas delicioso..."
 
 # game/tatarigoroshi/tata_001.rpy:371
 translate brazilian_portuguese tata_001_d56fef9c:
 
     # extend " It was like, hmm."
-    extend " It was like, hmm."
+    extend " Era mais como... hmm."
 
 # game/tatarigoroshi/tata_001.rpy:372
 translate brazilian_portuguese tata_001_92a063eb:
 
     # extend " Like she always puts her heart into it, or something."
-    extend " Like she always puts her heart into it, or something."
+    extend " Como se ela colocasse seu coração nele."
 
 # game/tatarigoroshi/tata_001.rpy:373
 translate brazilian_portuguese tata_001_11fae70c:
 
     # extend " It wasn't just good—it made your insides all nice and warm."
-    extend " It wasn't just good—it made your insides all nice and warm."
+    extend " Não só era gostoso, como também aquecia meu coração."
 
 # game/tatarigoroshi/tata_001.rpy:374
 translate brazilian_portuguese tata_001_5f08f315:
@@ -1046,7 +1046,7 @@ translate brazilian_portuguese tata_001_ce864f6d:
     # voice "voice/ps3/s19/02/500200353.ogg"
     # extend " Thanks."
     voice "voice/ps3/s19/02/500200353.ogg"
-    extend " Thanks."
+    extend " Obrigada."
 
 # game/tatarigoroshi/tata_001.rpy:380
 translate brazilian_portuguese tata_001_f7ddc673:
@@ -1054,7 +1054,7 @@ translate brazilian_portuguese tata_001_f7ddc673:
     # voice "voice/ps3/s19/02/500200354.ogg"
     # extend " It's not quite as good as Mii-chan's, but I wanted to make it really kyute, hau~!\""
     voice "voice/ps3/s19/02/500200354.ogg"
-    extend " It's not quite as good as Mii-chan's, but I wanted to make it really kyute, hau~!\""
+    extend " Não é tão bom quando o de Mii-chan, mas eu penso que parece mEiGU, hau~!\""
 
 # game/tatarigoroshi/tata_001.rpy:382
 translate brazilian_portuguese tata_001_3176c637:
@@ -1062,7 +1062,7 @@ translate brazilian_portuguese tata_001_3176c637:
     # voice "voice/ps3/s19/03/500300229.ogg"
     # a_mion "\"Cooking isn't about skill—it's about love."
     voice "voice/ps3/s19/03/500300229.ogg"
-    a_mion "\"Cooking isn't about skill—it's about love."
+    a_mion "\"Preparar a comida não é apenas sobre técnica, mas especialmente sobre amor."
 
 # game/tatarigoroshi/tata_001.rpy:384
 translate brazilian_portuguese tata_001_3473b6e1:
@@ -1070,31 +1070,31 @@ translate brazilian_portuguese tata_001_3473b6e1:
     # voice "voice/ps3/s19/03/500300230.ogg"
     # extend " In that sense, I don't even come up to your feet!\""
     voice "voice/ps3/s19/03/500300230.ogg"
-    extend " In that sense, I don't even come up to your feet!\""
+    extend " Nesse ponto, eu não sou tão boa quanto ela, absolutamente!\""
 
 # game/tatarigoroshi/tata_001.rpy:386
 translate brazilian_portuguese tata_001_ef783093:
 
     # n "Love, huh?"
-    n "Love, huh?"
+    n "Amor, hein?"
 
 # game/tatarigoroshi/tata_001.rpy:387
 translate brazilian_portuguese tata_001_be677d85:
 
     # extend " ...Yeah."
-    extend " ...Yeah."
+    extend " ...Sim."
 
 # game/tatarigoroshi/tata_001.rpy:388
 translate brazilian_portuguese tata_001_acd87161:
 
     # extend " Just from looking at her bento, I could definitely feel that Rena put her heart and soul into making it."
-    extend " Just from looking at her bento, I could definitely feel that Rena put her heart and soul into making it."
+    extend " Eu posso sentir os esforços de Rena em preparar este obentou para nós, apenas olhando para ele."
 
 # game/tatarigoroshi/tata_001.rpy:389
 translate brazilian_portuguese tata_001_c47020a2:
 
     # extend " That's what her bento was like!"
-    extend " That's what her bento was like!"
+    extend " É desse jeito que o obentou dela é!"
 
 # game/tatarigoroshi/tata_001.rpy:390
 translate brazilian_portuguese tata_001_e031d35b:
@@ -1104,7 +1104,7 @@ translate brazilian_portuguese tata_001_e031d35b:
     # a_satoko "\"The taste isn't all that counts for a bento—how it looks also matters."
     nvl clear
     voice "voice/ps3/s19/04/500400120.ogg"
-    a_satoko "\"The taste isn't all that counts for a bento—how it looks also matters."
+    a_satoko "\"Um obentou não se resume ao seu gosto. A aparência e os sentimentos também contam."
 
 # game/tatarigoroshi/tata_001.rpy:394
 translate brazilian_portuguese tata_001_08247d9e:
@@ -1112,7 +1112,7 @@ translate brazilian_portuguese tata_001_08247d9e:
     # voice "voice/ps3/s19/04/500400121.ogg"
     # extend " I suppose we must learn from this too!\""
     voice "voice/ps3/s19/04/500400121.ogg"
-    extend " I suppose we must learn from this too!\""
+    extend " Eu acho que devemos aprender bem isso!\""
 
 # game/tatarigoroshi/tata_001.rpy:396
 translate brazilian_portuguese tata_001_ec516ac1:
@@ -1120,7 +1120,7 @@ translate brazilian_portuguese tata_001_ec516ac1:
     # voice "voice/ps3/s19/01/hr_kei22950.ogg"
     # a_keiichi "\"Huh."
     voice "voice/ps3/s19/01/hr_kei22950.ogg"
-    a_keiichi "\"Huh."
+    a_keiichi "\"Hum."
 
 # game/tatarigoroshi/tata_001.rpy:398
 translate brazilian_portuguese tata_001_432d6407:
@@ -1128,7 +1128,7 @@ translate brazilian_portuguese tata_001_432d6407:
     # voice "voice/ps3/s19/01/hr_kei22960.ogg"
     # extend " So, let's see Satoko and Rika-chan's up-and-coming bento!"
     voice "voice/ps3/s19/01/hr_kei22960.ogg"
-    extend " So, let's see Satoko and Rika-chan's up-and-coming bento!"
+    extend " Então, vamos ver como estão os obentou de Rika e de Satoko, que ainda tem muito a aprender!"
 
 # game/tatarigoroshi/tata_001.rpy:400
 translate brazilian_portuguese tata_001_5091a463:
@@ -1136,7 +1136,7 @@ translate brazilian_portuguese tata_001_5091a463:
     # voice "voice/ps3/s19/01/hr_kei22970.ogg"
     # extend " Whoa...?!\""
     voice "voice/ps3/s19/01/hr_kei22970.ogg"
-    extend " Whoa...?!\""
+    extend " Hã...?!\""
 
 # game/tatarigoroshi/tata_001.rpy:402
 translate brazilian_portuguese tata_001_c25e15f7:
@@ -1162,19 +1162,19 @@ translate brazilian_portuguese tata_001_2e31209b:
     # voice "voice/ps3/s19/04/500400123.ogg"
     # extend " Yesterday our neighbors shared some meat with us, so we ended up grilling it for our bento!\""
     voice "voice/ps3/s19/04/500400123.ogg"
-    extend " Yesterday our neighbors shared some meat with us, so we ended up grilling it for our bento!\""
+    extend " Ontem, os nossos vizinhos dividiram um pouco de carne com a gente, então nós acabamos grelhando ela para os nossos obentou!\""
 
 # game/tatarigoroshi/tata_001.rpy:410
 translate brazilian_portuguese tata_001_dc23738e:
 
     # n "These ones, too... They had such an impact!!"
-    n "These ones, too... They had such an impact!!"
+    n "Parece tão... esplêndido!!"
 
 # game/tatarigoroshi/tata_001.rpy:411
 translate brazilian_portuguese tata_001_111b8eb0:
 
     # n "They were bursting at the seams with grilled meat!"
-    n "They were bursting at the seams with grilled meat!"
+    n "Estavam explodindo de carne grelhada pelas bordas!"
 
 # game/tatarigoroshi/tata_001.rpy:412
 translate brazilian_portuguese tata_001_2dc4098d_3:
@@ -1186,7 +1186,7 @@ translate brazilian_portuguese tata_001_2dc4098d_3:
 translate brazilian_portuguese tata_001_35e4525d:
 
     # n "At a glance, it was too impactful for a girl's bento, but when you thought about eating with all your friends, it brought more than enough color to the table!!"
-    n "At a glance, it was too impactful for a girl's bento, but when you thought about eating with all your friends, it brought more than enough color to the table!!"
+    n "Podia parecer uma refeição muito pesada para uma garota, mas desde que todos estávamos compartilhando, isso combinava perfeitamente com as cores sobre a mesa!!"
 
 # game/tatarigoroshi/tata_001.rpy:414
 translate brazilian_portuguese tata_001_1ddaa840:
@@ -1196,7 +1196,7 @@ translate brazilian_portuguese tata_001_1ddaa840:
     # a_mion "\"Wow."
     nvl clear
     voice "voice/ps3/s19/03/500300231.ogg"
-    a_mion "\"Wow."
+    a_mion "\"Uau."
 
 # game/tatarigoroshi/tata_001.rpy:418
 translate brazilian_portuguese tata_001_2cd0e2de:
@@ -1204,7 +1204,7 @@ translate brazilian_portuguese tata_001_2cd0e2de:
     # voice "voice/ps3/s19/03/500300232.ogg"
     # extend " ...At first, it looks like the kind of crude bento that a jock would eat, but there are so many different things in here."
     voice "voice/ps3/s19/03/500300232.ogg"
-    extend " ...At first, it looks like the kind of crude bento that a jock would eat, but there are so many different things in here."
+    extend " ...À primeira vista parece um obentou feito para um atleta, mas ele realmente tem vários acompanhamentos."
 
 # game/tatarigoroshi/tata_001.rpy:420
 translate brazilian_portuguese tata_001_9d3ea6b4:
@@ -1212,7 +1212,7 @@ translate brazilian_portuguese tata_001_9d3ea6b4:
     # voice "voice/ps3/s19/03/500300233.ogg"
     # extend " Like boiled spinach in soy sauce, and stewed hijiki.\""
     voice "voice/ps3/s19/03/500300233.ogg"
-    extend " Like boiled spinach in soy sauce, and stewed hijiki.\""
+    extend " Como espinafre cozido em molho de soja, e ensopado de hijiki.\""
 
 # game/tatarigoroshi/tata_001.rpy:422
 translate brazilian_portuguese tata_001_dc2ea9e9:
@@ -1220,7 +1220,7 @@ translate brazilian_portuguese tata_001_dc2ea9e9:
     # voice "voice/ps3/s19/02/500200355.ogg"
     # a_rena "\"Rika-chan, you're really good at this kind of unaffected cooking, huh?"
     voice "voice/ps3/s19/02/500200355.ogg"
-    a_rena "\"Rika-chan, you're really good at this kind of unaffected cooking, huh?"
+    a_rena "\"Rika-chan, você realmente é boa em preparar este tipo de comida simples, não é mesmo?"
 
 # game/tatarigoroshi/tata_001.rpy:424
 translate brazilian_portuguese tata_001_37156de8:
@@ -1228,7 +1228,7 @@ translate brazilian_portuguese tata_001_37156de8:
     # voice "voice/ps3/s19/02/500200356.ogg"
     # extend " ...Yep, I think Rika-chan will make a great wife when she grows up!\""
     voice "voice/ps3/s19/02/500200356.ogg"
-    extend " ...Yep, I think Rika-chan will make a great wife when she grows up!\""
+    extend " ...Sim, eu acho que Rika-chan vai ser uma grande esposa quando ela crescer!\""
 
 # game/tatarigoroshi/tata_001.rpy:426
 translate brazilian_portuguese tata_001_4a94ca69:
@@ -1236,7 +1236,7 @@ translate brazilian_portuguese tata_001_4a94ca69:
     # voice "voice/ps3/s19/05/500500078.ogg"
     # a_rika "\"......I have a tight hold on my future husband.\""
     voice "voice/ps3/s19/05/500500078.ogg"
-    a_rika "\"......I have a tight hold on my future husband.\""
+    a_rika "\"......Eu tenho um porão apertado esperando meu futuro marido ~nano desu.\""
 
 # game/tatarigoroshi/tata_001.rpy:428
 translate brazilian_portuguese tata_001_399b80e6:
@@ -1244,19 +1244,19 @@ translate brazilian_portuguese tata_001_399b80e6:
     # nvl clear
     # n "...A husband for Rika-chan, huh?"
     nvl clear
-    n "...A husband for Rika-chan, huh?"
+    n "...O marido de Rika-chan, hein?"
 
 # game/tatarigoroshi/tata_001.rpy:431
 translate brazilian_portuguese tata_001_666b42ee:
 
     # n "......At first, that sounded appealing......"
-    n "......At first, that sounded appealing......"
+    n "......A princípio, isso soa como sorte grande......"
 
 # game/tatarigoroshi/tata_001.rpy:432
 translate brazilian_portuguese tata_001_41546238:
 
     # extend " It did—but I felt like a married life with her would be anything but normal."
-    extend " It did—but I felt like a married life with her would be anything but normal."
+    extend " Sim, mas talvez a vida de casado com ela fosse bem comum."
 
 # game/tatarigoroshi/tata_001.rpy:433
 translate brazilian_portuguese tata_001_76b2fe88_1:
@@ -1268,13 +1268,13 @@ translate brazilian_portuguese tata_001_76b2fe88_1:
 translate brazilian_portuguese tata_001_d1b78377:
 
     # n "But really, everyone was amazing."
-    n "But really, everyone was amazing."
+    n "De qualquer jeito, todas são incríveis."
 
 # game/tatarigoroshi/tata_001.rpy:437
 translate brazilian_portuguese tata_001_09295b2f:
 
     # n "They were all so young, and yet they're all capable of cooking for themselves."
-    n "They were all so young, and yet they're all capable of cooking for themselves."
+    n "Elas são tão jovens ainda, mas podem preparar sua própria comida."
 
 # game/tatarigoroshi/tata_001.rpy:438
 translate brazilian_portuguese tata_001_2dc4098d_4:
@@ -1286,13 +1286,13 @@ translate brazilian_portuguese tata_001_2dc4098d_4:
 translate brazilian_portuguese tata_001_6d6847f0:
 
     # n "I would sort of cook whenever I went camping with my family... but making lunch every day was a level I definitely couldn't reach."
-    n "I would sort of cook whenever I went camping with my family... but making lunch every day was a level I definitely couldn't reach."
+    n "Eu faço algo como cozinhar quando eu vou acampar com minha família...  mas eu estou longe de ser capaz de cozinhar todos os dias como elas."
 
 # game/tatarigoroshi/tata_001.rpy:440
 translate brazilian_portuguese tata_001_963ec50f:
 
     # n "I could only really cook in my spare time."
-    n "I could only really cook in my spare time."
+    n "Eu apenas podia cozinhar ocasionalmente, em meu tempo livre."
 
 # game/tatarigoroshi/tata_001.rpy:441
 translate brazilian_portuguese tata_001_2dc4098d_5:
@@ -1304,13 +1304,13 @@ translate brazilian_portuguese tata_001_2dc4098d_5:
 translate brazilian_portuguese tata_001_4ed9189d:
 
     # n "When I thought about it like that, it really made everyone stand out more."
-    n "When I thought about it like that, it really made everyone stand out more."
+    n "Pensando nisso, eu realmente tenho admiração por elas."
 
 # game/tatarigoroshi/tata_001.rpy:443
 translate brazilian_portuguese tata_001_f08b509f:
 
     # n "Frankly, I respected them."
-    n "Frankly, I respected them."
+    n "Francamente, eu as respeito."
 
 # game/tatarigoroshi/tata_001.rpy:444
 translate brazilian_portuguese tata_001_10fa08df:
@@ -1330,7 +1330,7 @@ translate brazilian_portuguese tata_001_e16f9a57:
 translate brazilian_portuguese tata_001_6a725aa8:
 
     # n "...I feel like maybe this doesn't only apply to other people...?"
-    n "...I feel like maybe this doesn't only apply to other people...?"
+    n "...Será que eu não estou esquecendo de mais alguém...?"
 
 # game/tatarigoroshi/tata_001.rpy:449
 translate brazilian_portuguese tata_001_2dc4098d_6:
@@ -1342,7 +1342,7 @@ translate brazilian_portuguese tata_001_2dc4098d_6:
 translate brazilian_portuguese tata_001_53e55d51:
 
     # n "...Come to think of it,{w=1.0} this morning,{w=0.8} when I was eating breakfast half-asleep...{w=0.7} I think my mom was saying something really impor...tant......{w=1.0}{nw}"
-    n "...Come to think of it,{w=1.0} this morning,{w=0.8} when I was eating breakfast half-asleep...{w=0.7} I think my mom was saying something really impor...tant......{w=1.0}{nw}"
+    n "...Pensando bem,{w=1.0} esta manhã,{w=0.8} quando eu estava tomando o café-da-manhã, ainda meio dormindo...{w=0.7} eu acho que a minha mãe estava dizendo alguma coisa realmente impor...tante......{w=1.0}{nw}"
 
 # game/tatarigoroshi/tata_001.rpy:451
 translate brazilian_portuguese tata_001_e5f9c647:
@@ -1380,7 +1380,7 @@ translate brazilian_portuguese tata_001_3e91f690:
     # nvl clear
     # n "With a hysteric groan, I suddenly stood up, startling everyone at once."
     nvl clear
-    n "With a hysteric groan, I suddenly stood up, startling everyone at once."
+    n "Eu subitamente me levantei, com um grito histérico, e assustei todo mundo."
 
 # game/tatarigoroshi/tata_001.rpy:463
 translate brazilian_portuguese tata_001_76b2fe88_2:
@@ -1394,7 +1394,7 @@ translate brazilian_portuguese tata_001_d9d0a426:
     # voice "voice/ps3/s19/02/500200357.ogg"
     # a_rena "\"...W-W-What's wrong? Wrong?!\""
     voice "voice/ps3/s19/02/500200357.ogg"
-    a_rena "\"...W-W-What's wrong? Wrong?!\""
+    a_rena "\"...O-O que foi? O quê?!\""
 
 # game/tatarigoroshi/tata_001.rpy:469
 translate brazilian_portuguese tata_001_b2366056:
@@ -1402,7 +1402,7 @@ translate brazilian_portuguese tata_001_b2366056:
     # voice "voice/ps3/s19/04/500400124.ogg"
     # a_satoko "\"*cough* *cough*!!"
     voice "voice/ps3/s19/04/500400124.ogg"
-    a_satoko "\"*cough* *cough*!!"
+    a_satoko "\"*cof* *cof*!!"
 
 # game/tatarigoroshi/tata_001.rpy:471
 translate brazilian_portuguese tata_001_a3aa5dbd:
@@ -1410,7 +1410,7 @@ translate brazilian_portuguese tata_001_a3aa5dbd:
     # voice "voice/ps3/s19/04/500400125.ogg"
     # extend " You'll make us choke if you shout like that so suddenly, you know!!\""
     voice "voice/ps3/s19/04/500400125.ogg"
-    extend " You'll make us choke if you shout like that so suddenly, you know!!\""
+    extend " Você fez com que eu me engasgasse gritando assim ~wa!!\""
 
 # game/tatarigoroshi/tata_001.rpy:474
 translate brazilian_portuguese tata_001_966512b0:
@@ -1418,19 +1418,19 @@ translate brazilian_portuguese tata_001_966512b0:
     # voice "voice/ps3/s19/05/500500079.ogg"
     # a_rika "\"......There's rice coming out of your nose, Satoko.\""
     voice "voice/ps3/s19/05/500500079.ogg"
-    a_rika "\"......There's rice coming out of your nose, Satoko.\""
+    a_rika "\"......Tem arroz saindo de seu nariz, Satoko.\""
 
 # game/tatarigoroshi/tata_001.rpy:476
 translate brazilian_portuguese tata_001_1768a335:
 
     # n "...I'd forgotten."
-    n "...I'd forgotten."
+    n "...Eu tinha esquecido."
 
 # game/tatarigoroshi/tata_001.rpy:477
 translate brazilian_portuguese tata_001_73ae79a4:
 
     # n "...All this stuff about cooking for yourself... It applied to me, too...!"
-    n "...All this stuff about cooking for yourself... It applied to me, too...!"
+    n "...Toda essa coisa de cozinhar por si mesmo... também se aplicava a mim...!"
 
 # game/tatarigoroshi/tata_001.rpy:478
 translate brazilian_portuguese tata_001_76b2fe88_3:
@@ -1452,7 +1452,7 @@ translate brazilian_portuguese tata_001_33ff17c8:
     # voice "voice/ps3/s19/00/502700004.ogg"
     # extend " Your mom and dad need to go to Tokyo again for business.\""
     voice "voice/ps3/s19/00/502700004.ogg"
-    extend " Your mom and dad need to go to Tokyo again for business.\""
+    extend " Seu pai e eu temos de ir à Tóquio de novo a negócios.\""
 
 # game/tatarigoroshi/tata_001.rpy:492
 translate brazilian_portuguese tata_001_5a010a67:
@@ -1470,7 +1470,7 @@ translate brazilian_portuguese tata_001_5bff9b59:
     # voice "voice/ps3/s19/01/hr_kei23000.ogg"
     # extend " ...Yeah...?"
     voice "voice/ps3/s19/01/hr_kei23000.ogg"
-    extend " ...Yeah...?"
+    extend " ...Sim...?"
 
 # game/tatarigoroshi/tata_001.rpy:498
 translate brazilian_portuguese tata_001_1b92c636:
@@ -1478,7 +1478,7 @@ translate brazilian_portuguese tata_001_1b92c636:
     # voice "voice/ps3/s19/01/hr_kei23010.ogg"
     # extend " *yaaaawn*~......{w=1.0} Sleepy......\""
     voice "voice/ps3/s19/01/hr_kei23010.ogg"
-    extend " *yaaaawn*~......{w=1.0} Sleepy......\""
+    extend " *fuaaaaa*~......{w=1.0} Dormindo......\""
 
 # game/tatarigoroshi/tata_001.rpy:500
 translate brazilian_portuguese tata_001_f4d33321:
@@ -1486,7 +1486,7 @@ translate brazilian_portuguese tata_001_f4d33321:
     # voice "voice/ps3/s19/00/502700005.ogg"
     # a_mom "\"Your dad's mentor fell ill right before an event he was taking part in."
     voice "voice/ps3/s19/00/502700005.ogg"
-    a_mom "\"Your dad's mentor fell ill right before an event he was taking part in."
+    a_mom "\"O mestre do seu pai ficou doente antes do evento que ele mesmo estava organizando."
 
 # game/tatarigoroshi/tata_001.rpy:502
 translate brazilian_portuguese tata_001_fe6d075a:
@@ -1494,7 +1494,7 @@ translate brazilian_portuguese tata_001_fe6d075a:
     # voice "voice/ps3/s19/00/502700006.ogg"
     # extend " It's a very important event, and they need someone to fill in.\""
     voice "voice/ps3/s19/00/502700006.ogg"
-    extend " It's a very important event, and they need someone to fill in.\""
+    extend " É um evento muito importante, e alguém tem de fazer com que seja feito.\""
 
 # game/tatarigoroshi/tata_001.rpy:504
 translate brazilian_portuguese tata_001_2dc4098d_7:
@@ -1506,13 +1506,13 @@ translate brazilian_portuguese tata_001_2dc4098d_7:
 translate brazilian_portuguese tata_001_4f02269d:
 
     # n "...Well, Dad does what he has to do for his job."
-    n "...Well, Dad does what he has to do for his job."
+    n "...Bem, papai faz o que é preciso para o seu trabalho."
 
 # game/tatarigoroshi/tata_001.rpy:506
 translate brazilian_portuguese tata_001_dd41f363:
 
     # extend " ...*chew* *chew*..."
-    extend " ...*chew* *chew*..."
+    extend " ...*murmura* *murmura*..."
 
 # game/tatarigoroshi/tata_001.rpy:507
 translate brazilian_portuguese tata_001_850aed8d:
@@ -1522,7 +1522,7 @@ translate brazilian_portuguese tata_001_850aed8d:
     # a_mom "\"So your dad and I, you see,"
     nvl clear
     voice "voice/ps3/s19/00/502700007.ogg"
-    a_mom "\"So your dad and I, you see,"
+    a_mom "\"Por isso, seu pai e eu,"
 
 # game/tatarigoroshi/tata_001.rpy:511
 translate brazilian_portuguese tata_001_255e1c12:
@@ -1530,7 +1530,7 @@ translate brazilian_portuguese tata_001_255e1c12:
     # voice "voice/ps3/s19/00/502700008.ogg"
     # extend " we need to go to Tokyo as fast as we can to help with the event."
     voice "voice/ps3/s19/00/502700008.ogg"
-    extend " we need to go to Tokyo as fast as we can to help with the event."
+    extend " precisamos ir à Tóquio o mais rápido possível para cuidar desse evento."
 
 # game/tatarigoroshi/tata_001.rpy:513
 translate brazilian_portuguese tata_001_de5b8545:
@@ -1538,7 +1538,7 @@ translate brazilian_portuguese tata_001_de5b8545:
     # voice "voice/ps3/s19/00/502700009.ogg"
     # extend " We might have to stay there for a few days depending on what happens.\""
     voice "voice/ps3/s19/00/502700009.ogg"
-    extend " We might have to stay there for a few days depending on what happens.\""
+    extend " Talvez tenhamos de passar alguns dias lá.\""
 
 # game/tatarigoroshi/tata_001.rpy:515
 translate brazilian_portuguese tata_001_2dc4098d_8:
@@ -1550,13 +1550,13 @@ translate brazilian_portuguese tata_001_2dc4098d_8:
 translate brazilian_portuguese tata_001_823b4ff9:
 
     # n "...That sounds annoying..."
-    n "...That sounds annoying..."
+    n "...Parece que é algo grande..."
 
 # game/tatarigoroshi/tata_001.rpy:517
 translate brazilian_portuguese tata_001_bae5bd26:
 
     # extend " *yaaawn*..."
-    extend " *yaaawn*..."
+    extend " *fuaaaa*..."
 
 # game/tatarigoroshi/tata_001.rpy:518
 translate brazilian_portuguese tata_001_a6cb1460:
@@ -1566,7 +1566,7 @@ translate brazilian_portuguese tata_001_a6cb1460:
     # a_mom "\"While we're gone, we won't be here, so you'll need to make your own meals yourself..."
     nvl clear
     voice "voice/ps3/s19/00/502700010.ogg"
-    a_mom "\"While we're gone, we won't be here, so you'll need to make your own meals yourself..."
+    a_mom "\"Enquanto estivermos fora, você vai ter que preparar sua própria comida..."
 
 # game/tatarigoroshi/tata_001.rpy:522
 translate brazilian_portuguese tata_001_bf068f6b:
@@ -1574,7 +1574,7 @@ translate brazilian_portuguese tata_001_bf068f6b:
     # voice "voice/ps3/s19/00/502700011.ogg"
     # extend " Are you okay with that, Keiichi?\""
     voice "voice/ps3/s19/00/502700011.ogg"
-    extend " Are you okay with that, Keiichi?\""
+    extend " Keiichi, tudo bem para você?\""
 
 # game/tatarigoroshi/tata_001.rpy:524
 translate brazilian_portuguese tata_001_edb91e1e:
@@ -1582,7 +1582,7 @@ translate brazilian_portuguese tata_001_edb91e1e:
     # voice "voice/ps3/s19/01/hr_kei23020.ogg"
     # a_keiichi "\"......I'll be fine."
     voice "voice/ps3/s19/01/hr_kei23020.ogg"
-    a_keiichi "\"......I'll be fine."
+    a_keiichi "\"......Tudo bem, tudo bem."
 
 # game/tatarigoroshi/tata_001.rpy:526
 translate brazilian_portuguese tata_001_87980287:
@@ -1590,7 +1590,7 @@ translate brazilian_portuguese tata_001_87980287:
     # voice "voice/ps3/s19/01/hr_kei23030.ogg"
     # extend " ...Humans can do anything when they're desperate...\""
     voice "voice/ps3/s19/01/hr_kei23030.ogg"
-    extend " ...Humans can do anything when they're desperate...\""
+    extend " ...As pessoas podem fazer qualquer coisa quando estão desesperadas...\""
 
 # game/tatarigoroshi/tata_001.rpy:528
 translate brazilian_portuguese tata_001_9c6285dd:
@@ -1600,7 +1600,7 @@ translate brazilian_portuguese tata_001_9c6285dd:
     # a_mom "\"Is that so?"
     nvl clear
     voice "voice/ps3/s19/00/502700012.ogg"
-    a_mom "\"Is that so?"
+    a_mom "\"Realmente?"
 
 # game/tatarigoroshi/tata_001.rpy:532
 translate brazilian_portuguese tata_001_252ecde8:
@@ -1608,7 +1608,7 @@ translate brazilian_portuguese tata_001_252ecde8:
     # voice "voice/ps3/s19/00/502700013.ogg"
     # extend " That's a relief."
     voice "voice/ps3/s19/00/502700013.ogg"
-    extend " That's a relief."
+    extend " É um alívio ouvir isso."
 
 # game/tatarigoroshi/tata_001.rpy:534
 translate brazilian_portuguese tata_001_5beefb47:
@@ -1616,7 +1616,7 @@ translate brazilian_portuguese tata_001_5beefb47:
     # voice "voice/ps3/s19/00/502700014.ogg"
     # extend " You can at least cook rice, right?"
     voice "voice/ps3/s19/00/502700014.ogg"
-    extend " You can at least cook rice, right?"
+    extend " Você pode ao menos cozinhar arroz, certo?"
 
 # game/tatarigoroshi/tata_001.rpy:536
 translate brazilian_portuguese tata_001_1942d059:
@@ -1624,7 +1624,7 @@ translate brazilian_portuguese tata_001_1942d059:
     # voice "voice/ps3/s19/00/502700015.ogg"
     # extend " And you can make miso soup as well."
     voice "voice/ps3/s19/00/502700015.ogg"
-    extend " And you can make miso soup as well."
+    extend " E você também pode fazer sopa de missô."
 
 # game/tatarigoroshi/tata_001.rpy:538
 translate brazilian_portuguese tata_001_3248a1d6:
@@ -1632,7 +1632,7 @@ translate brazilian_portuguese tata_001_3248a1d6:
     # voice "voice/ps3/s19/00/502700016.ogg"
     # extend " Then you just buy some side dishes and you'll have a meal.\""
     voice "voice/ps3/s19/00/502700016.ogg"
-    extend " Then you just buy some side dishes and you'll have a meal.\""
+    extend " Compre alguns acompanhamentos, e você já vai ter uma refeição.\""
 
 # game/tatarigoroshi/tata_001.rpy:540
 translate brazilian_portuguese tata_001_2dc4098d_9:
@@ -1644,49 +1644,49 @@ translate brazilian_portuguese tata_001_2dc4098d_9:
 translate brazilian_portuguese tata_001_0dfd1a3e:
 
     # n "A meal?"
-    n "A meal?"
+    n "Uma refeição?"
 
 # game/tatarigoroshi/tata_001.rpy:542
 translate brazilian_portuguese tata_001_e4870791:
 
     # n "...Yeah."
-    n "...Yeah."
+    n "...Sim."
 
 # game/tatarigoroshi/tata_001.rpy:543
 translate brazilian_portuguese tata_001_39bee0e3:
 
     # extend " I can cook rice with my camping kit."
-    extend " I can cook rice with my camping kit."
+    extend " Eu posso cozinhar arroz com a panela do kit de acampamento."
 
 # game/tatarigoroshi/tata_001.rpy:544
 translate brazilian_portuguese tata_001_8d0f2c83:
 
     # extend " ...Never used a rice cooker before..."
-    extend " ...Never used a rice cooker before..."
+    extend " ...Já que eu nunca usei uma panela elétrica de arroz antes..."
 
 # game/tatarigoroshi/tata_001.rpy:545
 translate brazilian_portuguese tata_001_a774a94b:
 
     # extend " *chew* *chew*..."
-    extend " *chew* *chew*..."
+    extend " *murmura* *murmura*..."
 
 # game/tatarigoroshi/tata_001.rpy:546
 translate brazilian_portuguese tata_001_59b5694c:
 
     # nvl_extend "...I've only ever made instant miso soup that you make in a pot of boiling water, too..."
-    nvl_extend "...I've only ever made instant miso soup that you make in a pot of boiling water, too..."
+    nvl_extend "...Eu já fiz sopa de missô jogando água quente no preparado instantâneo..."
 
 # game/tatarigoroshi/tata_001.rpy:547
 translate brazilian_portuguese tata_001_590820ed:
 
     # extend " Well, I'll think of something..."
-    extend " Well, I'll think of something..."
+    extend " Bem, eu vou pensar em algo..."
 
 # game/tatarigoroshi/tata_001.rpy:548
 translate brazilian_portuguese tata_001_6e4b39f0:
 
     # extend " *chew* *chew* *chew*......"
-    extend " *chew* *chew* *chew*......"
+    extend " *murmura* *murmura* *murmura*......"
 
 # game/tatarigoroshi/tata_001.rpy:549
 translate brazilian_portuguese tata_001_77dc413c:
@@ -1696,7 +1696,7 @@ translate brazilian_portuguese tata_001_77dc413c:
     # a_mom "\"If you can cook for yourself, then you don't need much money, do you?"
     nvl clear
     voice "voice/ps3/s19/00/502700017.ogg"
-    a_mom "\"If you can cook for yourself, then you don't need much money, do you?"
+    a_mom "\"Já que você vai cozinhar, eu vou deixar pouco dinheiro, certo?"
 
 # game/tatarigoroshi/tata_001.rpy:553
 translate brazilian_portuguese tata_001_4dd47e48:
@@ -1704,7 +1704,7 @@ translate brazilian_portuguese tata_001_4dd47e48:
     # voice "voice/ps3/s19/00/502700018.ogg"
     # extend " No eating out—it's too expensive."
     voice "voice/ps3/s19/00/502700018.ogg"
-    extend " No eating out—it's too expensive."
+    extend " Não coma fora—é muito caro."
 
 # game/tatarigoroshi/tata_001.rpy:555
 translate brazilian_portuguese tata_001_3233ca80:
@@ -1712,7 +1712,7 @@ translate brazilian_portuguese tata_001_3233ca80:
     # voice "voice/ps3/s19/00/502700019.ogg"
     # extend " You're at the age where you should learn about cooking and personal finances now, after all.\""
     voice "voice/ps3/s19/00/502700019.ogg"
-    extend " You're at the age where you should learn about cooking and personal finances now, after all.\""
+    extend " Você já tem idade para aprender a cozinhar e a valorizar o dinheiro.\""
 
 # game/tatarigoroshi/tata_001.rpy:557
 translate brazilian_portuguese tata_001_2dc4098d_10:
@@ -1724,19 +1724,19 @@ translate brazilian_portuguese tata_001_2dc4098d_10:
 translate brazilian_portuguese tata_001_8527699d:
 
     # n "...Yep, yep..."
-    n "...Yep, yep..."
+    n "...Sim, sim..."
 
 # game/tatarigoroshi/tata_001.rpy:559
 translate brazilian_portuguese tata_001_ebc8fbae:
 
     # extend " I'll get by,{w=1.0}{nw}"
-    extend " I'll get by,{w=1.0}{nw}"
+    extend " Eu posso fazer isso,{w=1.0}{nw}"
 
 # game/tatarigoroshi/tata_001.rpy:560
 translate brazilian_portuguese tata_001_10e80e58:
 
     # extend " I'll get by..."
-    extend " I'll get by..."
+    extend " eu posso fazer isso..."
 
 # game/tatarigoroshi/tata_001.rpy:561
 translate brazilian_portuguese tata_001_76b2fe88_4:
@@ -1750,7 +1750,7 @@ translate brazilian_portuguese tata_001_cf53adc6:
     # voice "voice/ps3/s19/01/hr_kei23040.ogg"
     # a_keiichi "\"No I wooooon't!!\"{nw}"
     voice "voice/ps3/s19/01/hr_kei23040.ogg"
-    a_keiichi "\"No I wooooon't!!\"{nw}"
+    a_keiichi "\"Eu nããããão posso!!\"{nw}"
 
 # game/tatarigoroshi/tata_001.rpy:568
 translate brazilian_portuguese tata_001_6431aa67_1:
@@ -1778,13 +1778,13 @@ translate brazilian_portuguese tata_001_22d02234:
     # nvl clear
     # n "What was I thinking... I was half-asleep and I made such crazy empty promises!?"
     nvl clear
-    n "What was I thinking... I was half-asleep and I made such crazy empty promises!?"
+    n "Onde eu estava com a cabeça... Eu estava meio dormindo e fiz essas promessas vazias e loucas!?"
 
 # game/tatarigoroshi/tata_001.rpy:580
 translate brazilian_portuguese tata_001_a0d90281:
 
     # n "Just like manga characters always do at times like these, I bent over backwards and scratched furiously at my head!{w=1.0} Scritch scratch!!"
-    n "Just like manga characters always do at times like these, I bent over backwards and scratched furiously at my head!{w=1.0} Scritch scratch!!"
+    n "Como se eu fosse um personagem de um mangá, eu curvei meu corpo para trás e cocei minha cabeça com força, em frustração!{w=1.0} Scritch scratch!!"
 
 # game/tatarigoroshi/tata_001.rpy:581
 translate brazilian_portuguese tata_001_76b2fe88_5:
@@ -1806,7 +1806,7 @@ translate brazilian_portuguese tata_001_26d3a0d0:
     # voice "voice/ps3/s19/02/500200359.ogg"
     # extend " Keiichi-kun, your parents sure have it rough."
     voice "voice/ps3/s19/02/500200359.ogg"
-    extend " Keiichi-kun, your parents sure have it rough."
+    extend " Keiichi-kun, parece que seus pais têm uma vida bem ocupada."
 
 # game/tatarigoroshi/tata_001.rpy:589
 translate brazilian_portuguese tata_001_5891bdc4:
@@ -1814,7 +1814,7 @@ translate brazilian_portuguese tata_001_5891bdc4:
     # voice "voice/ps3/s19/02/500200360.ogg"
     # nvl_extend "Anyway, you need to keep things in order while they're gone!\""
     voice "voice/ps3/s19/02/500200360.ogg"
-    nvl_extend "Anyway, you need to keep things in order while they're gone!\""
+    nvl_extend "Keiichi-kun, aguente firme enquanto eles estão fora!\""
 
 # game/tatarigoroshi/tata_001.rpy:591
 translate brazilian_portuguese tata_001_68a6a64c:
@@ -1822,7 +1822,7 @@ translate brazilian_portuguese tata_001_68a6a64c:
     # voice "voice/ps3/s19/01/hr_kei23050.ogg"
     # a_keiichi "\"A-Anyway, food! Food!!"
     voice "voice/ps3/s19/01/hr_kei23050.ogg"
-    a_keiichi "\"A-Anyway, food! Food!!"
+    a_keiichi "\"E-Eu preciso de comida! Comida!!"
 
 # game/tatarigoroshi/tata_001.rpy:593
 translate brazilian_portuguese tata_001_d6778b39:
@@ -1830,7 +1830,7 @@ translate brazilian_portuguese tata_001_d6778b39:
     # voice "voice/ps3/s19/01/hr_kei23060.ogg"
     # extend " My parents aren't here! I have to make it all myself, you know!!"
     voice "voice/ps3/s19/01/hr_kei23060.ogg"
-    extend " My parents aren't here! I have to make it all myself, you know!!"
+    extend " Meus pais não estão aqui! Eu tenho de fazer tudo por mim mesmo, sabe!!"
 
 # game/tatarigoroshi/tata_001.rpy:595
 translate brazilian_portuguese tata_001_425c57fd:
@@ -1838,7 +1838,7 @@ translate brazilian_portuguese tata_001_425c57fd:
     # voice "voice/ps3/s19/01/hr_kei23070.ogg"
     # extend " This is a huge emergencyyyy!!\""
     voice "voice/ps3/s19/01/hr_kei23070.ogg"
-    extend " This is a huge emergencyyyy!!\""
+    extend " Isto é uma grande emergênciaaaaaaa!!\""
 
 # game/tatarigoroshi/tata_001.rpy:597
 translate brazilian_portuguese tata_001_76b2fe88_6:
@@ -1852,7 +1852,7 @@ translate brazilian_portuguese tata_001_b1cd6a27:
     # voice "voice/ps3/s19/04/500400126.ogg"
     # a_satoko "\"Should you not simply give up and cook for yourself?"
     voice "voice/ps3/s19/04/500400126.ogg"
-    a_satoko "\"Should you not simply give up and cook for yourself?"
+    a_satoko "\"Não é mais simples parar de resistir e cozinhar por conta própria?"
 
 # game/tatarigoroshi/tata_001.rpy:604
 translate brazilian_portuguese tata_001_6ee3f447:
@@ -1860,7 +1860,7 @@ translate brazilian_portuguese tata_001_6ee3f447:
     # voice "voice/ps3/s19/04/500400127.ogg"
     # extend " Keiichi-san, did you not make a fabulous curry dish for the curry party previously?\""
     voice "voice/ps3/s19/04/500400127.ogg"
-    extend " Keiichi-san, did you not make a fabulous curry dish for the curry party previously?\""
+    extend " Keiichi-san, você não fez um prato de curry incrível para a festa de curry anteriormente?\""
 
 # game/tatarigoroshi/tata_001.rpy:606
 translate brazilian_portuguese tata_001_bbdaa1e8:
@@ -1868,7 +1868,7 @@ translate brazilian_portuguese tata_001_bbdaa1e8:
     # voice "voice/ps3/s19/01/hr_kei23080.ogg"
     # a_keiichi "\"Uh... Listen here."
     voice "voice/ps3/s19/01/hr_kei23080.ogg"
-    a_keiichi "\"Uh... Listen here."
+    a_keiichi "\"Uh... Escutem."
 
 # game/tatarigoroshi/tata_001.rpy:608
 translate brazilian_portuguese tata_001_f5610539:
@@ -1876,7 +1876,7 @@ translate brazilian_portuguese tata_001_f5610539:
     # voice "voice/ps3/s19/01/hr_kei23090.ogg"
     # extend " My mom taught me how to cook that curry when we camped, and it's the best I can do...!"
     voice "voice/ps3/s19/01/hr_kei23090.ogg"
-    extend " My mom taught me how to cook that curry when we camped, and it's the best I can do...!"
+    extend " Minha mãe me ensinou a cozinhar aquele curry quando fomos acampar, e isso é a única coisa que eu sei fazer...!"
 
 # game/tatarigoroshi/tata_001.rpy:610
 translate brazilian_portuguese tata_001_9a5ec66d:
@@ -1884,7 +1884,7 @@ translate brazilian_portuguese tata_001_9a5ec66d:
     # voice "voice/ps3/s19/01/hr_kei23100.ogg"
     # nvl_extend "I can't eat curry three meals a day!!"
     voice "voice/ps3/s19/01/hr_kei23100.ogg"
-    nvl_extend "I can't eat curry three meals a day!!"
+    nvl_extend "Eu não posso comer curry nas três refeições do dia!!"
 
 # game/tatarigoroshi/tata_001.rpy:612
 translate brazilian_portuguese tata_001_7066b2b2:
@@ -1892,7 +1892,7 @@ translate brazilian_portuguese tata_001_7066b2b2:
     # voice "voice/ps3/s19/01/hr_kei23110.ogg"
     # extend " I mean, it's just junk food in the first place!!"
     voice "voice/ps3/s19/01/hr_kei23110.ogg"
-    extend " I mean, it's just junk food in the first place!!"
+    extend " Eu quero dizer, isso é apenas junk food para começar!!"
 
 # game/tatarigoroshi/tata_001.rpy:614
 translate brazilian_portuguese tata_001_ce5a2781:
@@ -1900,7 +1900,7 @@ translate brazilian_portuguese tata_001_ce5a2781:
     # voice "voice/ps3/s19/01/hr_kei23120.ogg"
     # extend " There's no nutritional balance whatsoever, and it's just completely—{w=1.5} mgh!\""
     voice "voice/ps3/s19/01/hr_kei23120.ogg"
-    extend " There's no nutritional balance whatsoever, and it's just completely—{w=1.5} mgh!\""
+    extend " Não tem nenhum equilíbrio nutricional, e é apenas completamente—{w=1.5} mgh!\""
 
 # game/tatarigoroshi/tata_001.rpy:616
 translate brazilian_portuguese tata_001_76b2fe88_7:
@@ -1914,7 +1914,7 @@ translate brazilian_portuguese tata_001_ef8809fc:
     # voice "voice/ps3/s19/03/500300234.ogg"
     # a_mion "\"S-Stupid, ssssshhhhhh!!\""
     voice "voice/ps3/s19/03/500300234.ogg"
-    a_mion "\"S-Stupid, ssssshhhhhh!!\""
+    a_mion "\"I-Idiota, ssssshhhhhh!!\""
 
 # game/tatarigoroshi/tata_001.rpy:624
 translate brazilian_portuguese tata_001_2dc4098d_11:
@@ -1926,7 +1926,7 @@ translate brazilian_portuguese tata_001_2dc4098d_11:
 translate brazilian_portuguese tata_001_f0a7538f:
 
     # n "Mion and Satoko put their hands over my mouth!"
-    n "Mion and Satoko put their hands over my mouth!"
+    n "Mion e Satoko taparam a minha boca com as suas mãos!"
 
 # game/tatarigoroshi/tata_001.rpy:626
 translate brazilian_portuguese tata_001_76b2fe88_8:
@@ -1938,7 +1938,7 @@ translate brazilian_portuguese tata_001_76b2fe88_8:
 translate brazilian_portuguese tata_001_635288c3:
 
     # n "A moment later, the door rattled open... and Chie-sensei, a known curry maniac, suddenly poked her head in."
-    n "A moment later, the door rattled open... and Chie-sensei, a known curry maniac, suddenly poked her head in."
+    n "Um momento depois, a porta tremulou e se abriu... e Chie-sensei, uma conhecida maníaca por curry, subitamente colocou sua cabeça para dentro."
 
 # game/tatarigoroshi/tata_001.rpy:638
 translate brazilian_portuguese tata_001_83c49ffb:
@@ -1948,7 +1948,7 @@ translate brazilian_portuguese tata_001_83c49ffb:
     # a_chie "{b}\"...Did I just hear somebody badmouthing curry?\"{/b}"
     nvl clear
     voice "voice/ps3/s19/22/501400057.ogg"
-    a_chie "{b}\"...Did I just hear somebody badmouthing curry?\"{/b}"
+    a_chie "{b}\"...Eu acabei de ouvir alguém falando mal de curry?\"{/b}"
 
 # game/tatarigoroshi/tata_001.rpy:642
 translate brazilian_portuguese tata_001_76b2fe88_9:
@@ -1962,19 +1962,19 @@ translate brazilian_portuguese tata_001_fbb27872:
     # voice "voice/ps3/s19/05/500500080.ogg"
     # a_club "\"\"\"N-N-N-No, we didn't say anything!\"\"\""
     voice "voice/ps3/s19/05/500500080.ogg"
-    a_club "\"\"\"N-N-N-No, we didn't say anything!\"\"\""
+    a_club "\"\"\"N-N-N-Não, nós não dissemos nada!\"\"\""
 
 # game/tatarigoroshi/tata_001.rpy:653
 translate brazilian_portuguese tata_001_c3a7b163:
 
     # n "Everyone's faces went totally white and they all shook their heads in denial."
-    n "Everyone's faces went totally white and they all shook their heads in denial."
+    n "Todas ficaram com o rosto pálido e sacudiram as cabeças negando."
 
 # game/tatarigoroshi/tata_001.rpy:654
 translate brazilian_portuguese tata_001_b9da1911:
 
     # n "Her eyes rolled over the classroom—her glare wasn't just a teacher's ordinary stare...!"
-    n "Her eyes rolled over the classroom—her glare wasn't just a teacher's ordinary stare...!"
+    n "Os olhos dela vasculharam a sala de aula—seu olhar não era apenas o de uma simples professora...!"
 
 # game/tatarigoroshi/tata_001.rpy:655
 translate brazilian_portuguese tata_001_07ca6666:
