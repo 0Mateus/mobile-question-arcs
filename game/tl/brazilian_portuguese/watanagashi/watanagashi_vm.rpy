@@ -1338,7 +1338,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog001_02a040b8:
     # voice "voice/ps3/s19/00/otae50001.ogg"
     # a_otaku "\"I heard they're planning on selling Angel Mort figures."
     voice "voice/ps3/s19/00/otae50001.ogg"
-    a_otaku "\"Eu ouvi que eles estão planejando vender <i>figures</i> do Angel Mort."
+    a_otaku "\"Eu ouvi que eles estão planejando vender {i}figures{/i} do Angel Mort."
 
 # game/watanagashi/watanagashi_vm.rpy:730
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_2f72551b:
@@ -1384,7 +1384,7 @@ translate brazilian_portuguese vm_wata_005_00_n01_dialog001_1ed214ca:
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_d2916efd:
 
     # extend " Then I'll put it on mine life-size figure I did buy off of [[redacted] for several hundred thousand~{font=DejaVuSans.ttf}☆{/font}"
-    extend " Depois, colocarei na minha <i>figure</i> em tamanho real que comprei da [censurado] por várias centenas de milhares de ienes~{font=DejaVuSans.ttf}☆{/font}"
+    extend " Depois, colocarei na minha {i}figure{/i} em tamanho real que comprei da [censurado] por várias centenas de milhares de ienes~{font=DejaVuSans.ttf}☆{/font}"
 
 # game/watanagashi/watanagashi_vm.rpy:740
 translate brazilian_portuguese vm_wata_005_00_n01_dialog001_e6d2531d:
@@ -1636,7 +1636,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_02a040b8:
     # voice "voice/ps3/s19/00/otae50001.ogg"
     # a_otaku "\"I heard they're planning on selling Angel Mort figures."
     voice "voice/ps3/s19/00/otae50001.ogg"
-    a_otaku "\"Eu ouvi que eles estão planejando vender <i>figures</i> do Angel Mort."
+    a_otaku "\"Eu ouvi que eles estão planejando vender {i}figures{/i} do Angel Mort."
 
 # game/watanagashi/watanagashi_vm.rpy:884
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_cf047223:
@@ -1652,7 +1652,7 @@ translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_7b0ac5f9:
     # voice "voice/ps3/s19/00/otaf50001.ogg"
     # a_otaku "\"Speaking of which, that major figure maker decided to bring out the line!"
     voice "voice/ps3/s19/00/otaf50001.ogg"
-    a_otaku "\"Falando disso, os maiores fabricantes de <i>figures</i> decidiram trazer a linha a público!"
+    a_otaku "\"Falando disso, os maiores fabricantes de {i}figures{/i} decidiram trazer a linha a público!"
 
 # game/watanagashi/watanagashi_vm.rpy:888
 translate brazilian_portuguese vm_wata_005_0x_n01_dialog001_e99d8efa:
