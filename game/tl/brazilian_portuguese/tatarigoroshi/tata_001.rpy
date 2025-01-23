@@ -1984,7 +1984,7 @@ translate brazilian_portuguese tata_001_07ca6666:
     # a_chie "\".........Is that so?"
     nvl clear
     voice "voice/ps3/s19/22/501400058.ogg"
-    a_chie "\".........Is that so?"
+    a_chie "\".........É isso mesmo?"
 
 # game/tatarigoroshi/tata_001.rpy:659
 translate brazilian_portuguese tata_001_39a23c1b:
@@ -1992,13 +1992,13 @@ translate brazilian_portuguese tata_001_39a23c1b:
     # voice "voice/ps3/s19/22/501400059.ogg"
     # extend " ...Must have been the wind...\""
     voice "voice/ps3/s19/22/501400059.ogg"
-    extend " ...Must have been the wind...\""
+    extend " ...Deve ter sido o vento...\""
 
 # game/tatarigoroshi/tata_001.rpy:662
 translate brazilian_portuguese tata_001_1d12d254:
 
     # n "Chie-sensei gave one more look around the classroom,{nw}"
-    n "Chie-sensei gave one more look around the classroom,{nw}"
+    n "Chie-sensei deu mais uma olhada em volta da sala de aula,{nw}"
 
 # game/tatarigoroshi/tata_001.rpy:665
 translate brazilian_portuguese tata_001_c75f64f7:
