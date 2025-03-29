@@ -1974,7 +1974,7 @@ translate brazilian_portuguese onik_009_9dc330c0:
     # voice "voice/ps3/s19/03/500300716.ogg"
     # a_mion "\"Too bad, you guys! I'm ending this now!!!"
     voice "voice/ps3/s19/03/500300716.ogg"
-    a_mion "\"Muito mau para vocês! Vou terminar isso agora!!!"
+    a_mion "\"Muito ruim para vocês! Vou terminar isso agora!!!"
 
 # game/onikakushi/onik_009.rpy:647
 translate brazilian_portuguese onik_009_7a693df5:
@@ -2548,7 +2548,7 @@ translate brazilian_portuguese onik_009_26604024:
     # voice "voice/ps3/s19/05/500500294.ogg"
     # a_rika "\"...Now, Keiichi. ...Can you beat me?\""
     voice "voice/ps3/s19/05/500500294.ogg"
-    a_rika "\"...Agora, Keiichi. ...Você pode me bater?\""
+    a_rika "\"...Agora, Keiichi. ...Você pode me vencer?\""
 
 # game/onikakushi/onik_009.rpy:838
 translate brazilian_portuguese onik_009_cc693377:
